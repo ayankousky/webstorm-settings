@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="docker" type="Docker file" />
+      <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="4" type="YAML" />
       <mapping ext="3" type="YAML" />
