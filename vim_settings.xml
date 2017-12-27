@@ -13,11 +13,11 @@
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/ng2auth/src/app/app.component.ts" timestamp="1514361365635">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1514366175528">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="6" />
-        <mark key="." line="110" column="6" />
-        <mark key="^" line="110" column="6" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1514407166318">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -45,16 +45,41 @@
       <jump line="38" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/ng2auth/src/app/app.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/ng2auth/src/app/app.component.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/ng2auth/src/app/app.component.ts" />
+      <jump line="93" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFZpZGVvU2hhcmluZ3NUYWJsZUJhY2t1cCAgICAgIDogJHtmaWxlKC4vc2VydmVybGVzcy9DbG91ZEZvcm1hdGlvbi9SZXNvdXJjZXMvZHluYW1vZGIvYmFja3Vwcy92aWRlb19zaGFyaW5ncy55bWwpOlZpZGVvU2hhcmluZ3NUYWJsZUJhY2t1cH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFZpZGVvU2hhcmluZ3NUYWJsZUJhY2t1cCAgICAgIDogJHtmaWxlKC4vc2VydmVybGVzcy9DbG91ZEZvcm1hdGlvbi9SZXNvdXJjZXMvZHluYW1vZGIvYmFja3Vwcy92aWRlb19zaGFyaW5ncy55bWwpOlZpZGVvU2hhcmluZ3NUYWJsZUJhY2t1cH0K</text>
+        <text encoding="base64">ICAgICAgLy8gKioqKioqIEVORCBSZXRyaWV2ZSBpbmRleC5qc29uICoqKioqKioKICAgICAgbGV0IGluZGV4SlNPTlByb3BzID0gYXdhaXQgKFZpZGVvLmdldEluZGV4SlNPTkZpZWxkcyh2aWRlb1Mza2V5KSk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gKioqKioqIEVORCBSZXRyaWV2ZSBpbmRleC5qc29uICoqKioqKioKICAgICAgbGV0IGluZGV4SlNPTlByb3BzID0gYXdhaXQgKFZpZGVvLmdldEluZGV4SlNPTkZpZWxkcyh2aWRlb1Mza2V5KSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgbGV0IHZpZGVvUzNrZXkgPSByZWNvcmQuZHluYW1vZGIuTmV3SW1hZ2UuczNrZXkuUyArIHJlY29yZC5keW5hbW9kYi5OZXdJbWFnZS5pZC5TICsgJy5mdnAnOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5kZXhKU09OUHJvcHMpCiAgfSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIEVTc2VydmljZS5wdXRSZWNvcmQoaW50ZXJuYWxTZWFyY2hUeXBlLCByZWNvcmQsIGlzUmVjb3JkRXhpc3QsIGluZGV4SlNPTlByb3BzKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgbGV0IGlzUmVjb3JkRXhpc3QgPSBhd2FpdGZhc2Rmc2RrZihFU3NlcnZpY2UucmVjb3JkRXhpc3RzKGludGVybmFsU2VhcmNoVHlwZSwgcmVjb3JkKSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFZpZGVvU2hhcmluZ3NUYWJsZUJhY2t1cCAgICAgIDogJHtmaWxlKC4vc2VydmVybGVzcy9DbG91ZEZvcm1hdGlvbi9SZXNvdXJjZXMvZHluYW1vZGIvYmFja3Vwcy92aWRlb19zaGFyaW5ncy55bWwpOlZpZGVvU2hhcmluZ3NUYWJsZUJhY2t1cH0K</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
