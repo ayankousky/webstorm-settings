@@ -6,6 +6,13 @@
       <file name="/Dummy.txt" timestamp="1514357335991">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/prod/main_vulcanvision.yml" timestamp="1514443784829">
+        <mark key="'" line="85" column="12" />
+        <mark key="[" line="88" column="32" />
+        <mark key="]" line="88" column="9" />
+        <mark key="^" line="88" column="9" />
+        <mark key="." line="88" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1514357409774">
         <mark key="'" line="374" column="4" />
         <mark key="." line="341" column="65" />
@@ -13,11 +20,17 @@
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/ng2auth/src/app/app.component.ts" timestamp="1514361365635">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1514407166318">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1514413238489">
+        <mark key="'" line="67" column="2" />
+        <mark key="]" line="45" column="3" />
+        <mark key="^" line="45" column="3" />
+        <mark key="." line="45" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1514411864871">
+        <mark key="'" line="643" column="0" />
+        <mark key="[" line="625" column="2" />
+        <mark key="]" line="625" column="2" />
+        <mark key="." line="625" column="2" />
       </file>
     </filemarks>
     <jumps>
@@ -46,59 +59,106 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/ng2auth/src/app/app.component.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/ng2auth/src/app/app.component.ts" />
       <jump line="93" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
-      <jump line="69" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
-      <jump line="64" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
-      <jump line="53" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
       <jump line="41" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="642" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
+      <jump line="679" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
+      <jump line="620" column="8" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
+      <jump line="625" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
+      <jump line="606" column="10" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
+      <jump line="643" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
+      <jump line="110" column="1" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
+      <jump line="80" column="22" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="108" column="33" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="74" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="84" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="91" column="11" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="102" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="104" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="67" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="89" column="12" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/prod/main_vulcanvision.yml" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaG9zdDogNTQuOTMuMjA4LjU2Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>isRec</text>
+      </register>
+      <register name="/" type="4">
+        <text>retur</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFZpZGVvU2hhcmluZ3NUYWJsZUJhY2t1cCAgICAgIDogJHtmaWxlKC4vc2VydmVybGVzcy9DbG91ZEZvcm1hdGlvbi9SZXNvdXJjZXMvZHluYW1vZGIvYmFja3Vwcy92aWRlb19zaGFyaW5ncy55bWwpOlZpZGVvU2hhcmluZ3NUYWJsZUJhY2t1cH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gKioqKioqIEVORCBSZXRyaWV2ZSBpbmRleC5qc29uICoqKioqKioKICAgICAgbGV0IGluZGV4SlNPTlByb3BzID0gYXdhaXQgKFZpZGVvLmdldEluZGV4SlNPTkZpZWxkcyh2aWRlb1Mza2V5KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgaG9zdDogNTQuOTMuMjA4LjU2Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gKioqKioqIEVORCBSZXRyaWV2ZSBpbmRleC5qc29uICoqKioqKioKICAgICAgbGV0IGluZGV4SlNPTlByb3BzID0gYXdhaXQgKFZpZGVvLmdldEluZGV4SlNPTkZpZWxkcyh2aWRlb1Mza2V5KSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHZpZGVvUzNrZXkgPSByZWNvcmQuZHluYW1vZGIuTmV3SW1hZ2UuczNrZXkuUyArIHJlY29yZC5keW5hbW9kYi5OZXdJbWFnZS5pZC5TICsgJy5mdnAnOwo=</text>
+      <register name="2" type="4">
+        <text>:
+    mysql:
+      user: vulcanvision_cloud_prod
+      password: aPh2s7D4v2Zcjvwh
+      host: 5</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5kZXhKU09OUHJvcHMpCiAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgcHV0UmVjb3JkKGludGVybmFsU2VhcmNoVHlwZSwgcmVjb3JkLCBpc1JlY29yZEV4aXN0LCBpbmRleEpTT05Qcm9wcyk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="4" type="4">
+        <text encoding="base64">ewogIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGV2ZW50KSk7CgogIGNvbnN0IEVTc2VydmljZSA9IHJlcXVpcmUoJy4uL3NlcnZpY2VzJykuRVNzZXJ2aWNlCiAgICAsIGVzRW50aXR5VHlwZSA9ICdzZWFyY2hfdmlkZW8nCiAgICAsIGludGVybmFsU2VhcmNoVHlwZSA9ICdpbnRlcm5hbFZpZGVvJwoKICAvLyBtYWtlIHN1cmUgc28gaW5kZXggaXMgY3JlYXRlZAogIGlmICghIGF3YWl0KEVTc2VydmljZS5pbmRleEV4aXN0cyhlc0VudGl0eVR5cGUpKSl7CiAgICBhd2FpdChFU3NlcnZpY2UuY3JlYXRlSW5kZXgoZXNFbnRpdHlUeXBlKSk7CiAgfQoKICBhd2FpdCAoRVNzZXJ2aWNlLnB1dE1hcHBpbmcoZXNFbnRpdHlUeXBlKSk7CiAgYXdhaXQgKEVTc2VydmljZS5wdXRNYXBwaW5nKGludGVybmFsU2VhcmNoVHlwZSkpOwoKICAvLyAjMQogIC8vIHJlc29sdmUgYXMgZWFjaCBzdWNjZXNzZnVsIGNhbGxiYWNrIGNvbWVzIGluCiAgbGV0IHJlY29yZHMgPSBldmVudC5SZWNvcmRzLm1hcChyZWNvcmQ9PnsKICAgIGlmIChyZWNvcmQuZXZlbnROYW1lID09ICdSRU1PVkUnKSB7CiAgICAgIHJldHVybiByZWNvcmQ7CiAgICB9IGVsc2UgewogICAgICBsZXQgaXNSZWNvcmRFeGlzdCA9IGF3YWl0KEVTc2VydmljZS5yZWNvcmRFeGlzdHMoZXNFbnRpdHlUeXBlLCByZWNvcmQpKTsKICAgICAgcmV0dXJuIEVTc2VydmljZS5wdXRSZWNvcmQoZXNFbnRpdHlUeXBlLCByZWNvcmQsIGlzUmVjb3JkRXhpc3QpOwogICAgfQogIH0pOwoKICAvLyBsb2cgYSBwcm9taXNlIGFycmF5IG9mIGFsbCByZWNvcmRzCiAgbGV0IHB1dFJlc3VsdCA9IGF3YWl0KHJlY29yZHMpOwogIGNvbnNvbGUubG9nKCdwdXQgcmVjb3JkcyByZXN1bHQgIzEnKTsKICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShwdXRSZXN1bHQpKTsKCiAgLy8gIzIKICAvLyByZXNvbHZlIGFzIGVhY2ggc3VjY2Vzc2Z1bCBjYWxsYmFjayBjb21lcyBpbgogIGxldCByZWNvcmRzMiA9IGV2ZW50LlJlY29yZHMubWFwKHJlY29yZD0+ewogICAgaWYgKHJlY29yZC5ldmVudE5hbWUgPT0gJ1JFTU9WRScpIHsKICAgICAgcmV0dXJuIHJlY29yZDsKICAgIH0gZWxzZSB7CiAgICAgIC8vICoqKioqKiBSZXRyaWV2ZSBpbmRleC5qc29uICoqKioqKioKICAgICAgLy8gbGV0IHMza2V5ID0gcmVjb3JkLmR5bmFtb2RiLk5ld0ltYWdlLnMza2V5LlMgKyByZWNvcmQuZHluYW1vZGIuTmV3SW1hZ2UuaWQuUyArICcuZnZwJzsKICAgICAgLy8gY29uc29sZS5sb2coJ3Mza2V5JykKICAgICAgLy8gY29uc29sZS5sb2coczNrZXkpCiAgICAgIC8vIGxldCBpbmRleEpTT047CiAgICAgIC8vIHRyeSB7CiAgICAgIC8vICAgaW5kZXhKU09OID0gYXdhaXQoVmlkZW8ucmV0cmlldmVJbmRleChzM2tleSkpOwogICAgICAvLyAgIGlmICghaW5kZXhKU09OKSB7CiAgICAgIC8vICAgICByZXR1cm4gY29udGV4dC5zdWNjZWVkKHt9KTsKICAgICAgLy8gICB9CiAgICAgIC8vICAgY29uc29sZS5sb2coJ2luZGV4SlNPTicpCiAgICAgIC8vICAgY29uc29sZS5sb2coaW5kZXhKU09OKQogICAgICAvLyB9IGNhdGNoIChlKXsKICAgICAgLy8gICBjb25zb2xlLmxvZygnZXJyb3Igb2NjdXJlZCcpOwogICAgICAvLyAgIGNvbnNvbGUubG9nKGUpOwogICAgICAvLyAgIHJldHVybiBjb250ZXh0LnN1Y2NlZWQoe30pOwogICAgICAvLyB9CiAgICAgIC8vIGNvbnNvbGUubG9nKCdTVE9SRSBqc29uJykKICAgICAgLy8gYXdhaXQgKFZpZGVvLnN0b3JlSW5kZXhKU09OKHMza2V5LCBpbmRleEpTT04pKTsKICAgICAgLy8gKioqKioqIEVORCBSZXRyaWV2ZSBpbmRleC5qc29uICoqKioqKioKICAgICAgbGV0IHZpZGVvUzNrZXkgPSByZWNvcmQuZHluYW1vZGIuTmV3SW1hZ2UuczNrZXkuUyArIHJlY29yZC5keW5hbW9kYi5OZXdJbWFnZS5pZC5TICsgJy5mdnAnOwogICAgICBsZXQgaW5kZXhKU09OUHJvcHMgPSBhd2FpdCAoVmlkZW8uZ2V0SW5kZXhKU09ORmllbGRzKHZpZGVvUzNrZXkpKTsKICAgICAgY29uc29sZS5sb2coJ2luZGV4SlNPTlByb3BzJykKICAgICAgY29uc29sZS5sb2coaW5kZXhKU09OUHJvcHMpCiAgICAgIGxldCBpc1JlY29yZEV4aXN0ID0gYXdhaXQoRVNzZXJ2aWNlLnJlY29yZEV4aXN0cyhpbnRlcm5hbFNlYXJjaFR5cGUsIHJlY29yZCkpOwogICAgICByZXR1cm4gRVNzZXJ2aWNlLnB1dFJlY29yZChpbnRlcm5hbFNlYXJjaFR5cGUsIHJlY29yZCwgaXNSZWNvcmRFeGlzdCwgaW5kZXhKU09OUHJvcHMpOwogICAgfQogIH0pOwoKICAvLyBsb2cgYSBwcm9taXNlIGFycmF5IG9mIGFsbCByZWNvcmRzCiAgbGV0IHB1dFJlc3VsdDIgPSBhd2FpdChyZWNvcmRzMik7CiAgY29uc29sZS5sb2coJ3B1dCByZWNvcmRzIHJlc3VsdCAjMicpOwogIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHB1dFJlc3VsdDIpKTsKCgogIGNvbnRleHQuc3VjY2VlZCh7fSk7IC8vIHNlbmQgc3VjY2VzcyB0byBtYXJrIGVudHJpZXMgYW5kIGhhbmRsZWQKfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIEVTc2VydmljZS5wdXRSZWNvcmQoaW50ZXJuYWxTZWFyY2hUeXBlLCByZWNvcmQsIGlzUmVjb3JkRXhpc3QsIGluZGV4SlNPTlByb3BzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGlkIDoge1M6J19faWQnfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGlzUmVjb3JkRXhpc3QgPSBhd2FpdGZhc2Rmc2RrZihFU3NlcnZpY2UucmVjb3JkRXhpc3RzKGludGVybmFsU2VhcmNoVHlwZSwgcmVjb3JkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgZGVsZXRlIHZpZGVvLmNEYXRlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFZpZGVvU2hhcmluZ3NUYWJsZUJhY2t1cCAgICAgIDogJHtmaWxlKC4vc2VydmVybGVzcy9DbG91ZEZvcm1hdGlvbi9SZXNvdXJjZXMvZHluYW1vZGIvYmFja3Vwcy92aWRlb19zaGFyaW5ncy55bWwpOlZpZGVvU2hhcmluZ3NUYWJsZUJhY2t1cH0K</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLy8gKioqKioqIEVORCBSZXRyaWV2ZSBpbmRleC5qc29uICoqKioqKioKICAgICAgbGV0IGluZGV4SlNPTlByb3BzID0gYXdhaXQgKFZpZGVvLmdldEluZGV4SlNPTkZpZWxkcyh2aWRlb1Mza2V5KSk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgbGV0IHZpZGVvUzNrZXkgPSByZWNvcmQuZHluYW1vZGIuTmV3SW1hZ2UuczNrZXkuUyArIHJlY29yZC5keW5hbW9kYi5OZXdJbWFnZS5pZC5TICsgJy5mdnAnOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>q!</text>
-      </register>
-      <register name="-" type="4">
-        <text />
+        <text>help</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>retur</last-search>
+      <last-offset />
+      <last-pattern>retur</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>retur</entry>
+      </history-search>
       <history-cmd>
         <entry>q!</entry>
+        <entry>help</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="false" />
     </editor>
