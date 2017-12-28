@@ -6,16 +6,6 @@
       <file name="/Dummy.txt" timestamp="1514357335991">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/prod/main_vulcanvision.yml" timestamp="1514443784829">
-        <mark key="'" line="85" column="12" />
-        <mark key="[" line="88" column="32" />
-        <mark key="]" line="88" column="9" />
-        <mark key="^" line="88" column="9" />
-        <mark key="." line="88" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" timestamp="1514484865315">
-        <mark key="'" line="109" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1514357409774">
         <mark key="'" line="374" column="4" />
         <mark key="." line="341" column="65" />
@@ -29,18 +19,49 @@
         <mark key="^" line="45" column="3" />
         <mark key="." line="45" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/ii.js" timestamp="1514490683374">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/merchant.js" timestamp="1514492051972">
+        <mark key="[" line="39" column="59" />
+        <mark key="]" line="39" column="66" />
+        <mark key="." line="39" column="66" />
+        <mark key="^" line="39" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" timestamp="1514491952988">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="91" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1514491062830">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="48" column="4" />
+        <mark key="]" line="48" column="4" />
+        <mark key="^" line="48" column="5" />
+        <mark key="." line="48" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/package.json" timestamp="1514490053460" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/prod/main_vulcanvision.yml" timestamp="1514443784829">
+        <mark key="'" line="85" column="12" />
+        <mark key="[" line="88" column="32" />
+        <mark key="]" line="88" column="9" />
+        <mark key="^" line="88" column="9" />
+        <mark key="." line="88" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" timestamp="1514492478366">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="59" column="16" />
+        <mark key="]" line="59" column="12" />
+        <mark key="." line="59" column="12" />
+        <mark key="^" line="59" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1514411864871">
         <mark key="'" line="643" column="0" />
         <mark key="[" line="625" column="2" />
         <mark key="]" line="625" column="2" />
         <mark key="." line="625" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/ii.js" timestamp="1514488785660">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="14" column="48" />
-        <mark key="]" line="14" column="53" />
-        <mark key="." line="14" column="53" />
-        <mark key="^" line="14" column="53" />
       </file>
     </filemarks>
     <jumps>
@@ -106,55 +127,62 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/ii.js" />
       <jump line="11" column="34" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/ii.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/ii.js" />
+      <jump line="43" column="71" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" />
+      <jump line="18" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" />
+      <jump line="1" column="17" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" />
+      <jump line="7" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" />
+      <jump line="14" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/ii.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/ii.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdvcmtib29rLlNoZWV0cy5QbGFuMVtgRDIxYF0udiApCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>D21</text>
+        <text>requ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bGV0IHhsID0geGxzeC5wYXJzZShyZXF1ZXN0LmdldCgnaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL3VjP2F1dGh1c2VyPTAmaWQ9MXMxUFdYdy1zSHkzNzNYSWtIRXFESkNMVHo2cWNuamFKJmV4cG9ydD1kb3dubG9hZCcpKQo=</text>
+        <text encoding="base64">ICByZXR1cm4gYXdhaXQgTW9kZWwuZmluZE9uZUFuZFVwZGF0ZSh7X2lkOiBvZmZlci5faWR9LCBvZmZlciwge3Vwc2VydDp0cnVlLCAnbmV3JzogdHJ1ZX0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdvcmtib29rLlNoZWV0cy5QbGFuMVtgRDIxYF0udiApCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lcmNoYW50c1hMU1gpCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">JwovLyBjb25zdCByZWFkbGluZSA9IHJlcXVpcmUoJ3JlYWRsaW5lJykKLy8gICAsIHpsaWIgPSByZXF1aXJlKCd6bGliJykKLy8gICAsIHJlcXVlc3QgPSByZXF1aXJlKCdyZXF1ZXN0JykKLy8gICAsIGZzID0gcmVxdWlyZSgnZnMnKQovLyAgICwgeGxzeCA9IHJlcXVpcmUoJ3hsc3gnKQovLyBsZXQgbGluZVJlYWRlciA9IHJlYWRsaW5lLmNyZWF0ZUludGVyZmFjZSh7Ci8vICAgLy9pbnB1dDogcmVxdWVzdC5nZXQoJ2h0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9maWxlL2QvMXMxUFdYdy1zSHkzNzNYSWtIRXFESkNMVHo2cWNuamFKL3ZpZXcnKQovLyAgIGlucHV0OiByZXF1ZXN0LmdldCgnaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL3VjP2F1dGh1c2VyPTAmaWQ9MXMxUFdYdy1zSHkzNzNYSWtIRXFESkNMVHo2cWNuamFKJmV4cG9ydD1kb3dubG9hZCcpCi8vICAgLy8gaW5wdXQ6IGZzLmNyZWF0ZVJlYWRTdHJlYW0oZmlsZVBhdGgyKS5waXBlKHpsaWIuY3JlYXRlR3VuemlwKCkpCi8vIH0pOwovLyBsZXQgeGwgPSB4bHN4LnBhcnNlKGxpbmVSZWFkZXIpCi8vIGNvbnNvbGUubG9nKHhsKQovLyBsZXQgd3MgPSBmcy5jcmVhdGVXcml0ZVN0cmVhbSgnLi9kYXRhJykKLy8gbGluZVJlYWRlci5vbignbGluZScsIGFzeW5jIGxpbmU9PnsKLy8KLy8gICB3cy53cml0ZShsaW5lKQovLyAgIC8vY29uc29sZS5sb2cobGluZSk7Ci8vIH0pOw==</text>
+        <text encoding="base64">bGV0IHVybCA9ICdodHRwczovL2RyaXZlLmdvb2dsZS5jb20vdWM/YXV0aHVzZXI9MCZpZD0xczFQV1h3LXNIeTM3M1hJa0hFcURKQ0xUejZxY25qYUomZXhwb3J0PWRvd25sb2FkJwogICwgbWVyY2hhbnROYW1lID0gCmNvbnNvbGUubG9nKG1lcmNoYW50TmFtZSkKKGFzeW5jIGZ1bmN0aW9uKCl7CgogIAoKfSkoKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">bGV0IHVybCA9ICdodHRwczovL2RyaXZlLmdvb2dsZS5jb20vdWM/YXV0aHVzZXI9MCZpZD0xczFQV1h3LXNIeTM3M1hJa0hFcURKQ0xUejZxY25qYUomZXhwb3J0PWRvd25sb2FkJwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">Zm9yIChsZXQgaT0yOyBpPDEwMDAwOyBpKyspewogICAgaWYgKHdvcmtib29rLlNoZWV0cy5QbGFuMVtgRCR7aX1gXS52ID09PSBtZXJjaGFudE5hbWUpewogICAgICBjb25zb2xlLmxvZyh3b3JrYm9vay5TaGVldHMuUGxhbjFbYEQke2l9YF0udikKICAgICAgY29uc29sZS5sb2cod29ya2Jvb2suU2hlZXRzLlBsYW4xW2BCJHtpfWBdLnYgLSAwKQogICAgICBicmVhazsKICAgIH0KICB9</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmNvbnN0IHJlcXVlc3QgPSByZXF1aXJlKCdyZXF1ZXN0JykKdmFyIGZzID0gcmVxdWlyZSgnZnMnKSwgdGVtcGZpbGUgPSByZXF1aXJlKCd0ZW1wZmlsZScpOwp2YXIgWExTWCA9IHJlcXVpcmUoJ3hsc3gnKTsKZnVuY3Rpb24gcHJvY2Vzc19SUyhzdHJlYW0vKjpSZWFkU3RyZWFtKi8sIGNiLyo6KHdiOldvcmtib29rKT0+dm9pZCovKS8qOnZvaWQqL3sKICB2YXIgZm5hbWUgPSB0ZW1wZmlsZSgnLnNoZWV0anMnKTsKICBjb25zb2xlLmxvZyhmbmFtZSk7CiAgdmFyIG9zdHJlYW0gPSBmcy5jcmVhdGVXcml0ZVN0cmVhbShmbmFtZSk7CiAgc3RyZWFtLnBpcGUob3N0cmVhbSk7CiAgb3N0cmVhbS5vbignZmluaXNoJywgZnVuY3Rpb24oKSB7CiAgICB2YXIgd29ya2Jvb2sgPSBYTFNYLnJlYWRGaWxlKGZuYW1lKTsKICAgIGZzLnVubGlua1N5bmMoZm5hbWUpOwoKICAgIC8qIERPIFNPTUVUSElORyBXSVRIIHdvcmtib29rIElOIFRIRSBDQUxMQkFDSyAqLwogICAgY2Iod29ya2Jvb2spOwogIH0pOwp9CnByb2Nlc3NfUlMocmVxdWVzdC5nZXQoJ2h0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS91Yz9hdXRodXNlcj0wJmlkPTFzMVBXWHctc0h5MzczWElrSEVxREpDTFR6NnFjbmphSiZleHBvcnQ9ZG93bmxvYWQnKSwgZnVuY3Rpb24od29ya2Jvb2spewogY29uc29sZS5sb2cod29ya2Jvb2spCn0p</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB2YXIgd29ya2Jvb2sgPSBYTFNYLnJlYWQoZGF0YSwge3R5cGU6J2J1ZmZlcid9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gbGV0IHhsID0geGxzeC5wYXJzZShyZXF1ZXN0LmdldCgnaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL3VjP2F1dGh1c2VyPTAmaWQ9MXMxUFdYdy1zSHkzNzNYSWtIRXFESkNMVHo2cWNuamFKJmV4cG9ydD1kb3dubG9hZCcpKQo=</text>
+        <text encoding="base64">ICBsZXQgZGF0YSA9IGF3YWl0IHJlcXVlc3QodXJsLCB7ZW5jb2Rpbmc6IG51bGx9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgd3MgPSBmcy5jcmVhdGVXcml0ZVN0cmVhbSgnLi9kYXRhJykK</text>
+        <text encoding="base64">dmFyIFhMU1ggPSByZXF1aXJlKCd4bHN4JyksIHJlcXVlc3QgPSByZXF1aXJlKCdyZXF1ZXN0LXByb21pc2UnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsaW5lUmVhZGVyLnBpcGUoZnMuY3JlYXRlV3JpdGVTdHJlYW0oJy4vZGF0YScpKQo=</text>
+        <text encoding="base64">bGV0IGdldE1lcmNoYW50c1hMU1ggPSBmdW5jdGlvbihYTFNYdXJsKXsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGluZVJlYWRlci5waXBlKGZzLmNyZWF0ZVdyaXRlU3RyZWFtKCcuL2RhdGEnKSkK</text>
+        <text encoding="base64">ICAvKiBkYXRhIGlzIGEgbm9kZSBCdWZmZXIgdGhhdCBjYW4gYmUgcGFzc2VkIHRvIFhMU1gucmVhZCAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>D21</last-search>
+      <last-search>requ</last-search>
       <last-offset />
-      <last-pattern>D21</last-pattern>
+      <last-pattern>requ</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -163,6 +191,7 @@
         <entry>retur</entry>
         <entry>xl</entry>
         <entry>D21</entry>
+        <entry>requ</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -171,6 +200,7 @@
         <entry encoding="base64">JzwsJz4xOQ==</entry>
         <entry>1</entry>
         <entry>19</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -188,6 +218,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
