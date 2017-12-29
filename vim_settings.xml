@@ -10,18 +10,24 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app-routing.module.ts" timestamp="1514510100411">
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="18" />
-        <mark key="^" line="11" column="18" />
-        <mark key="." line="11" column="18" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app-routing.module.ts" timestamp="1514533680921">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="27" column="51" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.module.ts" timestamp="1514510765846">
-        <mark key="'" line="27" column="13" />
-        <mark key="[" line="27" column="14" />
-        <mark key="]" line="27" column="14" />
-        <mark key="." line="27" column="14" />
-        <mark key="^" line="27" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.module.ts" timestamp="1514533651951">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="33" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.html" timestamp="1514533710474">
+        <mark key="'" line="10" column="85" />
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/ii.js" timestamp="1514490683374">
         <mark key="[" line="9" column="0" />
@@ -48,6 +54,13 @@
         <mark key="." line="79" column="0" />
         <mark key="^" line="79" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.ts" timestamp="1514531540623">
+        <mark key="'" line="5" column="12" />
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="45" />
+        <mark key="." line="17" column="45" />
+        <mark key="^" line="17" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/prod/main_vulcanvision.yml" timestamp="1514443784829">
         <mark key="'" line="85" column="12" />
         <mark key="[" line="88" column="32" />
@@ -62,7 +75,7 @@
         <mark key="." line="5" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/offers.js" timestamp="1514499186490" />
-      <file name="/Dummy.txt" timestamp="1514511042028">
+      <file name="/Dummy.txt" timestamp="1514533844237">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1514499888781">
@@ -77,6 +90,12 @@
         <mark key="^" line="36" column="28" />
         <mark key="." line="36" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.ts" timestamp="1514533836550">
+        <mark key="[" line="0" column="50" />
+        <mark key="]" line="1" column="51" />
+        <mark key="^" line="1" column="51" />
+        <mark key="." line="1" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1514507025459">
         <mark key="[" line="48" column="4" />
         <mark key="]" line="48" column="4" />
@@ -89,6 +108,12 @@
         <mark key="]" line="130" column="12" />
         <mark key="^" line="130" column="12" />
         <mark key="." line="130" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.component.ts" timestamp="1514531755422">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/index.js" timestamp="1514499505386">
         <mark key="[" line="20" column="27" />
@@ -199,55 +224,62 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/auth/auth.service.ts" />
       <jump line="18" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.module.ts" />
       <jump line="26" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.module.ts" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.module.ts" />
+      <jump line="5" column="12" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.ts" />
+      <jump line="5" column="7" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.html" />
+      <jump line="11" column="34" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.html" />
+      <jump line="8" column="70" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.html" />
+      <jump line="9" column="18" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.html" />
+      <jump line="10" column="85" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEF1dGhDb21wb25lbnQsCg==</text>
+        <text encoding="base64">ICBleHBvcnRzOiBbUm91dGVyTW9kdWxlXSwK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>AppMo</text>
+        <text>f.subm</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cm91dGVyLmdldCgnLycsIGFzeW5jIGZ1bmN0aW9uIChyZXEsIHJlcykgewogIGxldCBPZmZlciAgICAgICAgPSBEQi5tb2RlbCgnb2ZmZXJzJykKICAgICwgTWVyY2hhbnQgICAgID0gREIubW9kZWwoJ21lcmNoYW50cycpCiAgICAsIENsaWNrU3RhdCAgICA9IERCLm1vZGVsKCdjbGlja19zdGF0cycpCiAgICAsIHN0cmluZ0RvbWFpbiA9IHJlcS5xdWVyeS5kb21haW4KICAgICwgaXBBZGRyZXNzICAgID0gcmVxLnF1ZXJ5LmlwCiAgICAsIHN1YmlkICAgICAgICA9IHJlcS5xdWVyeS5zdWJpZCB8fCAnTm90IHNwZWNpZmllZCcKCiAgbGV0IGNvdW50cnlDb2RlID0gYXdhaXQgZ2VvLmdldENvdW50cnlDb2RlKGlwQWRkcmVzcyk7CiAgaWYgKCFjb3VudHJ5Q29kZSl7CiAgICBnbG9iYWwuS0FMQUQubG9nZ2VyLndhcm4oYEluY29ycmVjdCBpcDogJHtpcEFkZHJlc3N9YCk7CiAgICByZXMuc3RhdHVzKDQwNCkuc2VuZCgnSW5jb3JyZWN0IGlwJyk7CiAgICByZXR1cm4gcmVzLmVuZCgpOwogIH0KCiAgbGV0IG9mZmVyID0gYXdhaXQgT2ZmZXIuZ2V0UmFuZG9tRm9yVXNlcihzdHJpbmdEb21haW4sIGNvdW50cnlDb2RlKTsKICBpZiAoIW9mZmVyKXsKICAgIC8vIGxvZyBlcnJvciBldmVyeXdoZXJlCiAgICBzZXJ2aWNlcy5hbmFseXRpY3Muc2VuZEV4Y2VwdGlvbih7CiAgICAgIGV4Y2VwdGlvbkRlc2NyaXB0aW9uICA6ICdPZmZlciBub3QgZm91bmQnLAogICAgICBleGNlcHRpb25Jc0ZhdGFsICAgICAgOiAxLAogICAgICBmYWlsZWREb21haW5zICAgICAgICAgOiBgJHtzdHJpbmdEb21haW59OiR7Y291bnRyeUNvZGUgfHwgJ25vIGNvdW50cnkgY29kZSd9YCwKICAgICAgZmFpbGVkRG9tYWluSGl0cyAgICAgIDogMQogICAgfSk7CiAgICBsZXQgZXJyb3JNZXNzYWdlID0gYE9mZmVyIG5vdCBmb3VuZCBmb3I6ICR7c3RyaW5nRG9tYWlufToke2NvdW50cnlDb2RlIHx8ICdubyBjb3VudHJ5IGNvZGUnfWA7CiAgICBnbG9iYWwuS0FMQUQubG9nZ2VyLndhcm4oZXJyb3JNZXNzYWdlKTsKICAgIHJlcy5zdGF0dXMoNDA0KS5zZW5kKCk7CiAgICByZXR1cm4gcmVzLmVuZCgpOwogIH0KCiAgbGV0IG1lcmNoYW50ID0gYXdhaXQgTWVyY2hhbnQuZ2V0QnlJZChvZmZlci5uZXR3b3JrSWQgKyAnOicgKyBvZmZlci5tZXJjaGFudElkKTsKICBsZXQgY3BjID0gbWVyY2hhbnQgPyBtZXJjaGFudC5jcGMgOiAwOwogIC8vIHNlbmQgZGF0YSB0byBnb29nbGUgYW5hbHl0aWNzCiAgc2VydmljZXMuYW5hbHl0aWNzLnNlbmRFdmVudCh7CiAgICBldmVudENhdGVnb3J5ICAgICA6ICdSZWRpcmVjdCcsCiAgICBldmVudEFjdGlvbiAgICAgICA6ICdDbGljaycsCiAgICBldmVudExhYmVsICAgICAgICA6IHN0cmluZ0RvbWFpbiwKICAgIGV2ZW50VmFsdWUgICAgICAgIDogMSwKICAgIHVzZXJJUCAgICAgICAgICAgIDogaXBBZGRyZXNzLAogICAgbmV0d29yayAgICAgICAgICAgOiBvZmZlci5uZXR3b3JrSWQsCiAgICBtZXJjaGFudCAgICAgICAgICA6IG9mZmVyLnN0b3JlX3VybCwKICAgIHN1YmlkICAgICAgICAgICAgIDogc3ViaWQsCiAgICBjcGNIaXQgICAgICAgICAgICA6IGNwYywKICAgIG1lcmNoYW50SGl0ICAgICAgIDogMSwKICAgIG5ldHdvcmtIaXQgICAgICAgIDogMSwKICAgIHN1YmlkSGl0ICAgICAgICAgIDogMSwKICB9KTsKCiAgLy8gYWRkIHJlcXVpcmVkIHBhcmFtZXRlcnMgYW5kIHJlZGlyZWN0CiAgbGV0IHJlZGlyZWN0VXJsID0gYCR7b2ZmZXIudXJsfSYke3Byb2Nlc3MuZW52Lnpvb21BZGRpdGluYWxRdWVyeVBhcmFtZXRlcn0mc3ViaWQ9JHtzdWJpZH1gOwogIHJlcy5yZWRpcmVjdCgzMDIsIHJlZGlyZWN0VXJsKTsKICBnbG9iYWwuS0FMQUQubG9nZ2VyLmluZm8oYFJlZGlyZWN0IHRvOiAke3JlZGlyZWN0VXJsfWApCiAgLy8gc2VuZCBkYXRhIHRvIGRhdGFiYXNlCiAgYXdhaXQgQ2xpY2tTdGF0LmFkZE9uZSh7CiAgICBtZXJjaGFudCAgICAgIDogb2ZmZXIuc3RvcmVfdXJsLAogICAgbmV0d29yayAgICAgICA6IG9mZmVyLm5ldHdvcmtJZCwKICAgIHJlcURvbWFpbiAgICAgOiBzdHJpbmdEb21haW4sCiAgICB1c2VySVAgICAgICAgIDogaXBBZGRyZXNzLAogICAgc3ViaWQgICAgICAgICA6IHN1YmlkLAogICAgcmVkaXJlY3RVcmwgICA6IHJlZGlyZWN0VXJsLAogICAgY3BjICAgICAgICAgICA6IGNwYywKICB9KTsKCiAgcmV0dXJuIHJlcy5lbmQoKTsKfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEF1dGhDb21wb25lbnQsCg==</text>
+        <text encoding="base64">ICBleHBvcnRzOiBbUm91dGVyTW9kdWxlXSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXV0aENvbXBvbmVudCB9IGZyb20gJy4vYXV0aC9hdXRoL2F1dGguY29tcG9uZW50JzsK</text>
+        <text encoding="base64">ICBpbXBvcnRzOiBbUm91dGVyTW9kdWxlLmZvclJvb3Qocm91dGVzKV0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBib290c3RyYXA6IFtBcHBDb21wb25lbnRdCg==</text>
+        <text encoding="base64">QE5nTW9kdWxlKHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEF1dGhDb21wb25lbnQsCg==</text>
+        <text encoding="base64">ICAgIC8vSHR0cENsaWVudE1vZHVsZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXV0aENvbXBvbmVudCB9IGZyb20gJy4vYXV0aC9hdXRoL2F1dGguY29tcG9uZW50JzsK</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBib290c3RyYXA6IFtBcHBDb21wb25lbnRdCg==</text>
+        <text encoding="base64">ICAgIFBhc3N3b3JkOiB0ZXN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEF1dGhDb21wb25lbnQK</text>
+        <text encoding="base64">ICAgIFVzZXJuYW1lOiB0ZXN0PGJyIC8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXV0aENvbXBvbmVudCB9IGZyb20gJy4vYXV0aC9hdXRoLmNvbXBvbmVudCc7Cg==</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1pbmZvIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXV0aENvbXBvbmVudCB9IGZyb20gJy4vYXV0aC9hdXRoL2F1dGguY29tcG9uZW50JzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgQXV0aGVudGljYXRpb25TZXJ2aWNlIH0gZnJvbSAnLi4vX3NlcnZpY2VzL2luZGV4JzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>AppMo</last-search>
+      <last-search>f.subm</last-search>
       <last-offset />
-      <last-pattern>AppMo</last-pattern>
+      <last-pattern>f.subm</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -266,6 +298,11 @@
         <entry>stringi</entry>
         <entry>Obse</entry>
         <entry>AppMo</entry>
+        <entry>AppR</entry>
+        <entry>Auth</entry>
+        <entry>passwor</entry>
+        <entry>passwo</entry>
+        <entry>f.subm</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -280,6 +317,8 @@
         <entry>8</entry>
         <entry>23</entry>
         <entry>4</entry>
+        <entry>29</entry>
+        <entry>33</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
