@@ -3,12 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/merchant.js" timestamp="1514500931447">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/test/merchants.html" timestamp="1514575666160">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="69" column="18" />
+        <mark key="]" line="69" column="18" />
+        <mark key="." line="69" column="18" />
+        <mark key="^" line="69" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/merchant.js" timestamp="1514576012984">
         <mark key="'" line="25" column="17" />
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="16" />
-        <mark key="." line="31" column="16" />
-        <mark key="^" line="31" column="16" />
+        <mark key="[" line="30" column="37" />
+        <mark key="]" line="30" column="48" />
+        <mark key="." line="30" column="37" />
+        <mark key="^" line="30" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app-routing.module.ts" timestamp="1514533680921">
         <mark key="[" line="22" column="0" />
@@ -40,19 +47,19 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/package.json" timestamp="1514497552179">
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="23" column="22" />
-        <mark key="^" line="23" column="22" />
-        <mark key="." line="23" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/google_analytics.js" timestamp="1514534776349">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1514506376681">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1514575865508">
         <mark key="a" line="68" column="22" />
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="79" column="21" />
+        <mark key="'" line="78" column="40" />
+        <mark key="[" line="82" column="25" />
+        <mark key="]" line="82" column="34" />
+        <mark key="^" line="82" column="34" />
+        <mark key="." line="82" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.ts" timestamp="1514531540623">
         <mark key="'" line="5" column="12" />
@@ -231,55 +238,57 @@
       <jump line="8" column="70" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.html" />
       <jump line="9" column="18" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.html" />
       <jump line="10" column="85" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.html" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/test/merchants.html" />
+      <jump line="80" column="40" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBleHBvcnRzOiBbUm91dGVyTW9kdWxlXSwK</text>
+      <register name="&quot;" type="4">
+        <text>.skip(skip)</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>.skip(skip)</text>
       </register>
       <register name="/" type="4">
-        <text>f.subm</text>
+        <text>kalad</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cm91dGVyLmdldCgnLycsIGFzeW5jIGZ1bmN0aW9uIChyZXEsIHJlcykgewogIGxldCBPZmZlciAgICAgICAgPSBEQi5tb2RlbCgnb2ZmZXJzJykKICAgICwgTWVyY2hhbnQgICAgID0gREIubW9kZWwoJ21lcmNoYW50cycpCiAgICAsIENsaWNrU3RhdCAgICA9IERCLm1vZGVsKCdjbGlja19zdGF0cycpCiAgICAsIHN0cmluZ0RvbWFpbiA9IHJlcS5xdWVyeS5kb21haW4KICAgICwgaXBBZGRyZXNzICAgID0gcmVxLnF1ZXJ5LmlwCiAgICAsIHN1YmlkICAgICAgICA9IHJlcS5xdWVyeS5zdWJpZCB8fCAnTm90IHNwZWNpZmllZCcKCiAgbGV0IGNvdW50cnlDb2RlID0gYXdhaXQgZ2VvLmdldENvdW50cnlDb2RlKGlwQWRkcmVzcyk7CiAgaWYgKCFjb3VudHJ5Q29kZSl7CiAgICBnbG9iYWwuS0FMQUQubG9nZ2VyLndhcm4oYEluY29ycmVjdCBpcDogJHtpcEFkZHJlc3N9YCk7CiAgICByZXMuc3RhdHVzKDQwNCkuc2VuZCgnSW5jb3JyZWN0IGlwJyk7CiAgICByZXR1cm4gcmVzLmVuZCgpOwogIH0KCiAgbGV0IG9mZmVyID0gYXdhaXQgT2ZmZXIuZ2V0UmFuZG9tRm9yVXNlcihzdHJpbmdEb21haW4sIGNvdW50cnlDb2RlKTsKICBpZiAoIW9mZmVyKXsKICAgIC8vIGxvZyBlcnJvciBldmVyeXdoZXJlCiAgICBzZXJ2aWNlcy5hbmFseXRpY3Muc2VuZEV4Y2VwdGlvbih7CiAgICAgIGV4Y2VwdGlvbkRlc2NyaXB0aW9uICA6ICdPZmZlciBub3QgZm91bmQnLAogICAgICBleGNlcHRpb25Jc0ZhdGFsICAgICAgOiAxLAogICAgICBmYWlsZWREb21haW5zICAgICAgICAgOiBgJHtzdHJpbmdEb21haW59OiR7Y291bnRyeUNvZGUgfHwgJ25vIGNvdW50cnkgY29kZSd9YCwKICAgICAgZmFpbGVkRG9tYWluSGl0cyAgICAgIDogMQogICAgfSk7CiAgICBsZXQgZXJyb3JNZXNzYWdlID0gYE9mZmVyIG5vdCBmb3VuZCBmb3I6ICR7c3RyaW5nRG9tYWlufToke2NvdW50cnlDb2RlIHx8ICdubyBjb3VudHJ5IGNvZGUnfWA7CiAgICBnbG9iYWwuS0FMQUQubG9nZ2VyLndhcm4oZXJyb3JNZXNzYWdlKTsKICAgIHJlcy5zdGF0dXMoNDA0KS5zZW5kKCk7CiAgICByZXR1cm4gcmVzLmVuZCgpOwogIH0KCiAgbGV0IG1lcmNoYW50ID0gYXdhaXQgTWVyY2hhbnQuZ2V0QnlJZChvZmZlci5uZXR3b3JrSWQgKyAnOicgKyBvZmZlci5tZXJjaGFudElkKTsKICBsZXQgY3BjID0gbWVyY2hhbnQgPyBtZXJjaGFudC5jcGMgOiAwOwogIC8vIHNlbmQgZGF0YSB0byBnb29nbGUgYW5hbHl0aWNzCiAgc2VydmljZXMuYW5hbHl0aWNzLnNlbmRFdmVudCh7CiAgICBldmVudENhdGVnb3J5ICAgICA6ICdSZWRpcmVjdCcsCiAgICBldmVudEFjdGlvbiAgICAgICA6ICdDbGljaycsCiAgICBldmVudExhYmVsICAgICAgICA6IHN0cmluZ0RvbWFpbiwKICAgIGV2ZW50VmFsdWUgICAgICAgIDogMSwKICAgIHVzZXJJUCAgICAgICAgICAgIDogaXBBZGRyZXNzLAogICAgbmV0d29yayAgICAgICAgICAgOiBvZmZlci5uZXR3b3JrSWQsCiAgICBtZXJjaGFudCAgICAgICAgICA6IG9mZmVyLnN0b3JlX3VybCwKICAgIHN1YmlkICAgICAgICAgICAgIDogc3ViaWQsCiAgICBjcGNIaXQgICAgICAgICAgICA6IGNwYywKICAgIG1lcmNoYW50SGl0ICAgICAgIDogMSwKICAgIG5ldHdvcmtIaXQgICAgICAgIDogMSwKICAgIHN1YmlkSGl0ICAgICAgICAgIDogMSwKICB9KTsKCiAgLy8gYWRkIHJlcXVpcmVkIHBhcmFtZXRlcnMgYW5kIHJlZGlyZWN0CiAgbGV0IHJlZGlyZWN0VXJsID0gYCR7b2ZmZXIudXJsfSYke3Byb2Nlc3MuZW52Lnpvb21BZGRpdGluYWxRdWVyeVBhcmFtZXRlcn0mc3ViaWQ9JHtzdWJpZH1gOwogIHJlcy5yZWRpcmVjdCgzMDIsIHJlZGlyZWN0VXJsKTsKICBnbG9iYWwuS0FMQUQubG9nZ2VyLmluZm8oYFJlZGlyZWN0IHRvOiAke3JlZGlyZWN0VXJsfWApCiAgLy8gc2VuZCBkYXRhIHRvIGRhdGFiYXNlCiAgYXdhaXQgQ2xpY2tTdGF0LmFkZE9uZSh7CiAgICBtZXJjaGFudCAgICAgIDogb2ZmZXIuc3RvcmVfdXJsLAogICAgbmV0d29yayAgICAgICA6IG9mZmVyLm5ldHdvcmtJZCwKICAgIHJlcURvbWFpbiAgICAgOiBzdHJpbmdEb21haW4sCiAgICB1c2VySVAgICAgICAgIDogaXBBZGRyZXNzLAogICAgc3ViaWQgICAgICAgICA6IHN1YmlkLAogICAgcmVkaXJlY3RVcmwgICA6IHJlZGlyZWN0VXJsLAogICAgY3BjICAgICAgICAgICA6IGNwYywKICB9KTsKCiAgcmV0dXJuIHJlcy5lbmQoKTsKfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBleHBvcnRzOiBbUm91dGVyTW9kdWxlXSwK</text>
+        <text encoding="base64">IGNvbnNvbGUubG9nKGNvdW50UGVyUGFnZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnRzOiBbUm91dGVyTW9kdWxlLmZvclJvb3Qocm91dGVzKV0sCg==</text>
+        <text encoding="base64">IGNvbnNvbGUubG9nKHN0YXJ0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QE5nTW9kdWxlKHsK</text>
+        <text encoding="base64">ICBleHBvcnRzOiBbUm91dGVyTW9kdWxlXSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vSHR0cENsaWVudE1vZHVsZSwK</text>
+        <text encoding="base64">ICBpbXBvcnRzOiBbUm91dGVyTW9kdWxlLmZvclJvb3Qocm91dGVzKV0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">QE5nTW9kdWxlKHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFBhc3N3b3JkOiB0ZXN0Cg==</text>
+        <text encoding="base64">ICAgIC8vSHR0cENsaWVudE1vZHVsZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFVzZXJuYW1lOiB0ZXN0PGJyIC8+Cg==</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1pbmZvIj4K</text>
+        <text encoding="base64">ICAgIFBhc3N3b3JkOiB0ZXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXV0aGVudGljYXRpb25TZXJ2aWNlIH0gZnJvbSAnLi4vX3NlcnZpY2VzL2luZGV4JzsK</text>
+        <text encoding="base64">ICAgIFVzZXJuYW1lOiB0ZXN0PGJyIC8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>f.subm</last-search>
+      <last-search>kalad</last-search>
       <last-offset />
-      <last-pattern>f.subm</last-pattern>
+      <last-pattern>kalad</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -303,6 +312,7 @@
         <entry>passwor</entry>
         <entry>passwo</entry>
         <entry>f.subm</entry>
+        <entry>kalad</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
