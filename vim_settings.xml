@@ -16,12 +16,6 @@
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1514413238489">
-        <mark key="'" line="67" column="2" />
-        <mark key="]" line="45" column="3" />
-        <mark key="^" line="45" column="3" />
-        <mark key="." line="45" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/ii.js" timestamp="1514490683374">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -61,6 +55,9 @@
         <mark key="." line="5" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/offers.js" timestamp="1514499186490" />
+      <file name="/Dummy.txt" timestamp="1514507238517">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1514499888781">
         <mark key="[" line="45" column="7" />
         <mark key="]" line="45" column="7" />
@@ -73,18 +70,18 @@
         <mark key="^" line="36" column="28" />
         <mark key="." line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1514497653943">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1514507025459">
         <mark key="[" line="48" column="4" />
         <mark key="]" line="48" column="4" />
         <mark key="^" line="48" column="5" />
         <mark key="." line="48" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" timestamp="1514497889742">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" timestamp="1514508160573">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="126" column="32" />
-        <mark key="]" line="126" column="39" />
-        <mark key="^" line="126" column="39" />
-        <mark key="." line="126" column="39" />
+        <mark key="[" line="130" column="2" />
+        <mark key="]" line="130" column="12" />
+        <mark key="^" line="130" column="12" />
+        <mark key="." line="130" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/index.js" timestamp="1514499505386">
         <mark key="[" line="20" column="27" />
@@ -189,11 +186,11 @@
       <jump line="9" column="8" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/auth/auth.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtZXJjaGFudHMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>global.KALAD.logger.info</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>global.KALAD.logger.info</text>
       </register>
       <register name="/" type="4">
         <text>this.is</text>
