@@ -96,12 +96,12 @@
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/auth/auth.service.ts" timestamp="1514506113594">
-        <mark key="'" line="9" column="8" />
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="13" />
-        <mark key="." line="9" column="13" />
-        <mark key="^" line="9" column="13" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/auth/auth.service.ts" timestamp="1514508605609">
+        <mark key="'" line="10" column="8" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="3" column="55" />
+        <mark key="." line="3" column="55" />
+        <mark key="^" line="3" column="55" />
       </file>
     </filemarks>
     <jumps>
@@ -226,7 +226,7 @@
         <text encoding="base64">ICAgIGNwYyAgICAgICAgICAgICAgIDogCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>23</text>
       </register>
     </registers>
     <search>
@@ -256,7 +256,9 @@
         <entry>e</entry>
         <entry>14</entry>
         <entry>50</entry>
+        <entry>8</entry>
         <entry>w</entry>
+        <entry>23</entry>
       </history-cmd>
       <history-expr />
       <history-input />
