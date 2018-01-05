@@ -19,17 +19,17 @@
         <mark key="^" line="30" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app-routing.module.ts" timestamp="1514533680921">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="27" column="51" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="34" column="51" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.module.ts" timestamp="1514533651951">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="33" column="21" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="42" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/ng2auth/src/app/app.component.ts" timestamp="1514361365635">
         <mark key="'" line="1" column="0" />
@@ -39,6 +39,13 @@
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1515114707537">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="75" column="24" />
+        <mark key="]" line="76" column="35" />
+        <mark key="^" line="76" column="35" />
+        <mark key="." line="76" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/ii.js" timestamp="1514490683374">
         <mark key="[" line="9" column="0" />
@@ -99,6 +106,10 @@
       <file name="/Dummy.txt" timestamp="1514533844237">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1515110981730">
+        <mark key="'" line="405" column="0" />
+        <mark key="." line="341" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1514499888781">
         <mark key="[" line="45" column="7" />
         <mark key="]" line="45" column="7" />
@@ -116,6 +127,13 @@
         <mark key="]" line="1" column="51" />
         <mark key="^" line="1" column="51" />
         <mark key="." line="1" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" timestamp="1515114381751">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="142" column="47" />
+        <mark key="]" line="143" column="38" />
+        <mark key="^" line="143" column="38" />
+        <mark key="." line="143" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1514507025459">
         <mark key="[" line="48" column="4" />
@@ -158,22 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="391" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
-      <jump line="393" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
-      <jump line="347" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
-      <jump line="384" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
-      <jump line="387" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
-      <jump line="337" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
-      <jump line="374" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
-      <jump line="16" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/ng2auth/src/app/app.component.ts" />
-      <jump line="38" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/ng2auth/src/app/app.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/ng2auth/src/app/app.component.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/ng2auth/src/app/app.component.ts" />
-      <jump line="93" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
-      <jump line="642" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
-      <jump line="679" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
-      <jump line="620" column="8" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
       <jump line="625" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
       <jump line="606" column="10" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
       <jump line="643" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
@@ -185,7 +187,6 @@
       <jump line="53" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
       <jump line="108" column="33" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
       <jump line="69" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
-      <jump line="74" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
       <jump line="84" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
       <jump line="91" column="11" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
       <jump line="102" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
@@ -258,61 +259,97 @@
       <jump line="49" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" />
       <jump line="68" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" />
       <jump line="48" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" />
+      <jump line="337" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
+      <jump line="405" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
+      <jump line="160" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
+      <jump line="161" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
+      <jump line="158" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
+      <jump line="156" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
+      <jump line="131" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
+      <jump line="125" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
+      <jump line="123" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
+      <jump line="74" column="11" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="119" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="107" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="111" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="115" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="117" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="116" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="110" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">IGlzUmVjb3JkRXhpc3Q=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IGlzUmVjb3JkRXhpc3Q=</text>
       </register>
       <register name="/" type="4">
-        <text>getHo</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cm91dGVyLmdldCgnLycsIGFzeW5jIGZ1bmN0aW9uIChyZXEsIHJlcykgewogIGxldCBPZmZlciAgICAgICAgPSBEQi5tb2RlbCgnb2ZmZXJzJykKICAgICwgTWVyY2hhbnQgICAgID0gREIubW9kZWwoJ21lcmNoYW50cycpCiAgICAsIENsaWNrU3RhdCAgICA9IERCLm1vZGVsKCdjbGlja19zdGF0cycpCiAgICAsIHN0cmluZ0RvbWFpbiA9IHJlcS5xdWVyeS5kb21haW4KICAgICwgaXBBZGRyZXNzICAgID0gcmVxLnF1ZXJ5LmlwCiAgICAsIHN1YmlkICAgICAgICA9IHJlcS5xdWVyeS5zdWJpZCB8fCAnTm90IHNwZWNpZmllZCcKCiAgbGV0IGNvdW50cnlDb2RlID0gYXdhaXQgZ2VvLmdldENvdW50cnlDb2RlKGlwQWRkcmVzcyk7CiAgaWYgKCFjb3VudHJ5Q29kZSl7CiAgICBnbG9iYWwuS0FMQUQubG9nZ2VyLndhcm4oYEluY29ycmVjdCBpcDogJHtpcEFkZHJlc3N9YCk7CiAgICByZXMuc3RhdHVzKDQwNCkuc2VuZCgnSW5jb3JyZWN0IGlwJyk7CiAgICByZXR1cm4gcmVzLmVuZCgpOwogIH0KCiAgbGV0IG9mZmVyID0gYXdhaXQgT2ZmZXIuZ2V0UmFuZG9tRm9yVXNlcihzdHJpbmdEb21haW4sIGNvdW50cnlDb2RlKTsKICBpZiAoIW9mZmVyKXsKICAgIC8vIGxvZyBlcnJvciBldmVyeXdoZXJlCiAgICBzZXJ2aWNlcy5hbmFseXRpY3Muc2VuZEV4Y2VwdGlvbih7CiAgICAgIGV4Y2VwdGlvbkRlc2NyaXB0aW9uICA6ICdPZmZlciBub3QgZm91bmQnLAogICAgICBleGNlcHRpb25Jc0ZhdGFsICAgICAgOiAxLAogICAgICBmYWlsZWREb21haW5zICAgICAgICAgOiBgJHtzdHJpbmdEb21haW59OiR7Y291bnRyeUNvZGUgfHwgJ25vIGNvdW50cnkgY29kZSd9YCwKICAgICAgZmFpbGVkRG9tYWluSGl0cyAgICAgIDogMQogICAgfSk7CiAgICBsZXQgZXJyb3JNZXNzYWdlID0gYE9mZmVyIG5vdCBmb3VuZCBmb3I6ICR7c3RyaW5nRG9tYWlufToke2NvdW50cnlDb2RlIHx8ICdubyBjb3VudHJ5IGNvZGUnfWA7CiAgICBnbG9iYWwuS0FMQUQubG9nZ2VyLndhcm4oZXJyb3JNZXNzYWdlKTsKICAgIHJlcy5zdGF0dXMoNDA0KS5zZW5kKCk7CiAgICByZXR1cm4gcmVzLmVuZCgpOwogIH0KCiAgbGV0IG1lcmNoYW50ID0gYXdhaXQgTWVyY2hhbnQuZ2V0QnlJZChvZmZlci5uZXR3b3JrSWQgKyAnOicgKyBvZmZlci5tZXJjaGFudElkKTsKICBsZXQgY3BjID0gbWVyY2hhbnQgPyBtZXJjaGFudC5jcGMgOiAwOwogIC8vIHNlbmQgZGF0YSB0byBnb29nbGUgYW5hbHl0aWNzCiAgc2VydmljZXMuYW5hbHl0aWNzLnNlbmRFdmVudCh7CiAgICBldmVudENhdGVnb3J5ICAgICA6ICdSZWRpcmVjdCcsCiAgICBldmVudEFjdGlvbiAgICAgICA6ICdDbGljaycsCiAgICBldmVudExhYmVsICAgICAgICA6IHN0cmluZ0RvbWFpbiwKICAgIGV2ZW50VmFsdWUgICAgICAgIDogMSwKICAgIHVzZXJJUCAgICAgICAgICAgIDogaXBBZGRyZXNzLAogICAgbmV0d29yayAgICAgICAgICAgOiBvZmZlci5uZXR3b3JrSWQsCiAgICBtZXJjaGFudCAgICAgICAgICA6IG9mZmVyLnN0b3JlX3VybCwKICAgIHN1YmlkICAgICAgICAgICAgIDogc3ViaWQsCiAgICBjcGNIaXQgICAgICAgICAgICA6IGNwYywKICAgIG1lcmNoYW50SGl0ICAgICAgIDogMSwKICAgIG5ldHdvcmtIaXQgICAgICAgIDogMSwKICAgIHN1YmlkSGl0ICAgICAgICAgIDogMSwKICB9KTsKCiAgLy8gYWRkIHJlcXVpcmVkIHBhcmFtZXRlcnMgYW5kIHJlZGlyZWN0CiAgbGV0IHJlZGlyZWN0VXJsID0gYCR7b2ZmZXIudXJsfSYke3Byb2Nlc3MuZW52Lnpvb21BZGRpdGluYWxRdWVyeVBhcmFtZXRlcn0mc3ViaWQ9JHtzdWJpZH1gOwogIHJlcy5yZWRpcmVjdCgzMDIsIHJlZGlyZWN0VXJsKTsKICBnbG9iYWwuS0FMQUQubG9nZ2VyLmluZm8oYFJlZGlyZWN0IHRvOiAke3JlZGlyZWN0VXJsfWApCiAgLy8gc2VuZCBkYXRhIHRvIGRhdGFiYXNlCiAgYXdhaXQgQ2xpY2tTdGF0LmFkZE9uZSh7CiAgICBtZXJjaGFudCAgICAgIDogb2ZmZXIuc3RvcmVfdXJsLAogICAgbmV0d29yayAgICAgICA6IG9mZmVyLm5ldHdvcmtJZCwKICAgIHJlcURvbWFpbiAgICAgOiBzdHJpbmdEb21haW4sCiAgICB1c2VySVAgICAgICAgIDogaXBBZGRyZXNzLAogICAgc3ViaWQgICAgICAgICA6IHN1YmlkLAogICAgcmVkaXJlY3RVcmwgICA6IHJlZGlyZWN0VXJsLAogICAgY3BjICAgICAgICAgICA6IGNwYywKICB9KTsKCiAgcmV0dXJuIHJlcy5lbmQoKTsKfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICBib2R5OiBib2R5LAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gb2ZmZXI7Cg==</text>
+      <register name="2" type="4">
+        <text>let body = await(esEntity.getBody(JSON.parse(JSON.stringify(record)), additionalProps)); // clone object
+      if (!body) {
+        return null;
+      }
+      // create or update
+      let result
+        , params = {
+        index: esEntity.indexName,
+        id: body.id,
+        body: body,
+        type: esEntity.indexType
+      };
+      if (exists) {
+        params.body = {
+          doc: body
+        };
+        result = this.es.update(params);
+      } else {
+        params.body = body;
+        result = this.es.create(params);
+      }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IGNvbnNvbGUubG9nKG1lcmNoYW50cy50b3RhbENvdW50KQo=</text>
+        <text encoding="base64">ICByZXR1cm4gb2ZmZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IGNvbnNvbGUubG9nKCdtZXJjaGFudHMudG90YWxDb3VudCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtZXJjaGFudCk7Cg==</text>
+        <text encoding="base64">IGNvbnNvbGUubG9nKG1lcmNoYW50cy50b3RhbENvdW50KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IGNvbnNvbGUubG9nKGNvdW50UGVyUGFnZSkK</text>
+        <text encoding="base64">IGNvbnNvbGUubG9nKCdtZXJjaGFudHMudG90YWxDb3VudCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IGNvbnNvbGUubG9nKHN0YXJ0KTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtZXJjaGFudCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBleHBvcnRzOiBbUm91dGVyTW9kdWxlXSwK</text>
+        <text encoding="base64">IGNvbnNvbGUubG9nKGNvdW50UGVyUGFnZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getHo</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern>getHo</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>D21</entry>
         <entry>requ</entry>
         <entry>subidH</entry>
         <entry>isA</entry>
@@ -332,6 +369,7 @@
         <entry>net</entry>
         <entry>10000</entry>
         <entry>getHo</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
