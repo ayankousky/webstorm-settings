@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1515142077724">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1515145378034">
         <mark key="'" line="455" column="11" />
-        <mark key="[" line="455" column="0" />
-        <mark key="]" line="455" column="0" />
-        <mark key="." line="455" column="0" />
-        <mark key="^" line="451" column="32" />
+        <mark key="[" line="433" column="19" />
+        <mark key="]" line="433" column="27" />
+        <mark key="." line="433" column="27" />
+        <mark key="^" line="433" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1515140646686">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1515143121314">
         <mark key="[" line="1" column="40" />
         <mark key="]" line="1" column="40" />
         <mark key="." line="1" column="40" />
@@ -152,7 +152,7 @@
         <mark key="^" line="57" column="5" />
         <mark key="." line="57" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1515138706401">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1515142620256">
         <mark key="[" line="1092" column="7" />
         <mark key="]" line="1092" column="7" />
         <mark key="." line="1092" column="7" />
@@ -165,12 +165,12 @@
         <mark key="^" line="13" column="34" />
         <mark key="." line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/auth/auth.service.ts" timestamp="1515139206996">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/auth/auth.service.ts" timestamp="1515145338646">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="27" column="48" />
-        <mark key="]" line="27" column="51" />
-        <mark key="." line="27" column="51" />
-        <mark key="^" line="27" column="51" />
+        <mark key="]" line="27" column="50" />
+        <mark key="." line="27" column="50" />
+        <mark key="^" line="27" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1515117046723">
         <mark key="'" line="644" column="0" />
@@ -283,11 +283,11 @@
       <jump line="490" column="11" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyB2dnMuZm9yRWFjaChhc3luYyB2aWRlbz0+ewo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;VulcanVision-Videos-prod&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>length</text>
+        <text>&quot;VulcanVision-Videos-prod&quot;</text>
       </register>
       <register name="/" type="4">
         <text>98</text>
