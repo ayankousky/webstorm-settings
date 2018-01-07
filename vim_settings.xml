@@ -10,20 +10,12 @@
         <mark key="." line="433" column="27" />
         <mark key="^" line="433" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1515314226257">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1515314338859">
         <mark key="'" line="97" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="95" column="1" />
-        <mark key="." line="95" column="1" />
+        <mark key="[" line="97" column="16" />
+        <mark key="]" line="97" column="16" />
+        <mark key="." line="97" column="16" />
         <mark key="^" line="95" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/test/merchants.html" timestamp="1514576497065">
-        <mark key="'" line="3" column="0" />
-        <mark key="i" line="82" column="33" />
-        <mark key="[" line="70" column="22" />
-        <mark key="]" line="70" column="29" />
-        <mark key="." line="70" column="29" />
-        <mark key="^" line="70" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/merchant.js" timestamp="1514576892434">
         <mark key="'" line="32" column="34" />
@@ -116,6 +108,12 @@
         <mark key="'" line="405" column="0" />
         <mark key="." line="341" column="65" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1514499888781">
+        <mark key="[" line="45" column="7" />
+        <mark key="]" line="45" column="7" />
+        <mark key="^" line="45" column="7" />
+        <mark key="." line="45" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/merchant.js" timestamp="1514576736785">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -133,6 +131,12 @@
         <mark key="]" line="17" column="34" />
         <mark key="." line="17" column="34" />
         <mark key="^" line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.component.html" timestamp="1515357211082">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" timestamp="1515114756210">
         <mark key="'" line="123" column="0" />
@@ -154,11 +158,23 @@
         <mark key="^" line="57" column="5" />
         <mark key="." line="57" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.component.ts" timestamp="1514531755422">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1515142620256">
         <mark key="[" line="1092" column="7" />
         <mark key="]" line="1092" column="7" />
         <mark key="." line="1092" column="7" />
         <mark key="^" line="1092" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/index.js" timestamp="1514499505386">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="27" />
+        <mark key="^" line="20" column="27" />
+        <mark key="." line="20" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/auth/auth.guard.ts" timestamp="1514509277290">
         <mark key="'" line="0" column="0" />
@@ -286,10 +302,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>table-responsive&quot;</text>
+        <text>style=&quot;padding: 10px 50px;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>table-responsive&quot;</text>
+        <text>style=&quot;padding: 10px 50px;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>98</text>
