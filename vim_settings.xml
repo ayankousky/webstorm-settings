@@ -219,12 +219,12 @@
         <mark key="." line="47" column="36" />
         <mark key="^" line="47" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1515453224041">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1515481902150">
         <mark key="'" line="30" column="30" />
-        <mark key="[" line="674" column="41" />
-        <mark key="]" line="674" column="41" />
-        <mark key="." line="674" column="41" />
-        <mark key="^" line="674" column="41" />
+        <mark key="[" line="705" column="67" />
+        <mark key="]" line="705" column="67" />
+        <mark key="." line="705" column="67" />
+        <mark key="^" line="705" column="67" />
       </file>
     </filemarks>
     <jumps>
@@ -331,10 +331,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
