@@ -82,6 +82,12 @@
         <mark key="." line="70" column="89" />
         <mark key="^" line="70" column="89" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/tmp/split_video/index.js" timestamp="1515538848687">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="7" column="40" />
+        <mark key="^" line="7" column="40" />
+        <mark key="." line="7" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.ts" timestamp="1514531540623">
         <mark key="'" line="5" column="12" />
         <mark key="[" line="17" column="35" />
@@ -330,11 +336,11 @@
       <jump line="30" column="30" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>path/to/input1.avi')</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG1pbnV0ZQ==</text>
+        <text>path/to/input1.avi')</text>
       </register>
       <register name="/" type="4">
         <text>li</text>
