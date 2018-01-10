@@ -141,12 +141,11 @@
         <mark key="]" line="23" column="6" />
         <mark key="." line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/tmp/split_video/ffmpeg_run.sh" timestamp="1515621125087">
-        <mark key="'" line="10" column="25" />
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-        <mark key="^" line="5" column="39" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/tmp/split_video/ffmpeg_run.sh" timestamp="1515624100218">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" timestamp="1515139129037">
         <mark key="[" line="17" column="31" />
@@ -338,16 +337,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>crop=1280:720:0:0,</text>
+        <text>iw</text>
       </register>
       <register name="-" type="4">
-        <text>crop=1280:720:0:0,</text>
+        <text>iw</text>
       </register>
       <register name="/" type="4">
         <text>36</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">b25EeW5hbW9kYlZpZGVvOgogICAgaGFuZGxlcjogbGliL2NvbnRyb2xsZXJzL2V2ZW50Lm9uRHluYW1vZGJWaWRlbwogICAgd2FybXVwOiB0cnVlCiAgICB0aW1lb3V0OiAzMAogICAgZXZlbnRzOgogICAgICAtIHN0cmVhbToKICAgICAgICAgIHR5cGU6IGR5bmFtb2RiCiAgICAgICAgICBhcm46CiAgICAgICAgICAgIEZuOjpHZXRBdHQ6CiAgICAgICAgICAgICAgLSB2aWRlb3NUYWJsZQogICAgICAgICAgICAgIC0gU3RyZWFtQXJuCiAgICAgICAgICBiYXRjaFNpemU6IDEK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgIC1pICIvVXNlcnMvYWxleC9EZXNrdG9wLzIubXA0IiBcCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIC1tYXAgMCBrZWsubXA0ZGQK</text>
