@@ -141,11 +141,12 @@
         <mark key="]" line="23" column="6" />
         <mark key="." line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/tmp/split_video/ffmpeg_run.sh" timestamp="1515619385807">
-        <mark key="[" line="5" column="43" />
-        <mark key="]" line="5" column="43" />
-        <mark key="." line="5" column="43" />
-        <mark key="^" line="5" column="43" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/tmp/split_video/ffmpeg_run.sh" timestamp="1515621125087">
+        <mark key="'" line="10" column="25" />
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="5" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" timestamp="1515139129037">
         <mark key="[" line="17" column="31" />
@@ -234,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="71" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" />
       <jump line="18" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" />
       <jump line="1" column="17" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" />
       <jump line="7" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" />
@@ -334,16 +334,17 @@
       <jump line="122" column="26" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
       <jump line="672" column="29" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
       <jump line="30" column="30" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
+      <jump line="10" column="25" filename="$USER_HOME$/Documents/Projects/VulcanVision/tmp/split_video/ffmpeg_run.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>100</text>
+        <text>crop=1280:720:0:0,</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>crop=1280:720:0:0,</text>
       </register>
       <register name="/" type="4">
-        <text>li</text>
+        <text>36</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">b25EeW5hbW9kYlZpZGVvOgogICAgaGFuZGxlcjogbGliL2NvbnRyb2xsZXJzL2V2ZW50Lm9uRHluYW1vZGJWaWRlbwogICAgd2FybXVwOiB0cnVlCiAgICB0aW1lb3V0OiAzMAogICAgZXZlbnRzOgogICAgICAtIHN0cmVhbToKICAgICAgICAgIHR5cGU6IGR5bmFtb2RiCiAgICAgICAgICBhcm46CiAgICAgICAgICAgIEZuOjpHZXRBdHQ6CiAgICAgICAgICAgICAgLSB2aWRlb3NUYWJsZQogICAgICAgICAgICAgIC0gU3RyZWFtQXJuCiAgICAgICAgICBiYXRjaFNpemU6IDEK</text>
@@ -380,15 +381,14 @@
       </register>
     </registers>
     <search>
-      <last-search>li</last-search>
+      <last-search>36</last-search>
       <last-offset />
-      <last-pattern>li</last-pattern>
+      <last-pattern>36</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>val</entry>
         <entry>value</entry>
         <entry>stringi</entry>
         <entry>Obse</entry>
@@ -408,6 +408,7 @@
         <entry>Home</entry>
         <entry>authent</entry>
         <entry>li</entry>
+        <entry>36</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
