@@ -43,11 +43,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="42" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/README.md" timestamp="1515628360060">
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="1" />
-        <mark key="^" line="38" column="1" />
-        <mark key="." line="38" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/README.md" timestamp="1515629372855">
+        <mark key="'" line="15" column="118" />
+        <mark key="[" line="98" column="19" />
+        <mark key="]" line="98" column="26" />
+        <mark key="^" line="98" column="26" />
+        <mark key="." line="98" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1515482708174">
         <mark key="'" line="121" column="26" />
@@ -198,11 +199,11 @@
         <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" timestamp="1514578441976">
-        <mark key="'" line="63" column="17" />
-        <mark key="[" line="57" column="6" />
-        <mark key="]" line="57" column="5" />
-        <mark key="^" line="57" column="5" />
-        <mark key="." line="57" column="5" />
+        <mark key="'" line="59" column="17" />
+        <mark key="[" line="54" column="6" />
+        <mark key="]" line="54" column="5" />
+        <mark key="^" line="54" column="5" />
+        <mark key="." line="54" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.component.ts" timestamp="1515364711445">
         <mark key="[" line="11" column="46" />
@@ -246,7 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" />
       <jump line="1" column="17" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" />
       <jump line="7" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" />
       <jump line="14" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" />
@@ -346,13 +346,14 @@
       <jump line="672" column="29" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
       <jump line="30" column="30" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
       <jump line="10" column="25" filename="$USER_HOME$/Documents/Projects/VulcanVision/tmp/split_video/ffmpeg_run.sh" />
+      <jump line="15" column="118" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>iw</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>iw</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>36</text>
