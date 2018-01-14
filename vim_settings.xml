@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1515949302743">
-        <mark key="'" line="436" column="29" />
-        <mark key="[" line="507" column="14" />
-        <mark key="]" line="507" column="29" />
-        <mark key="." line="507" column="29" />
-        <mark key="^" line="507" column="29" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1515951577517">
+        <mark key="'" line="498" column="13" />
+        <mark key="[" line="512" column="18" />
+        <mark key="]" line="512" column="32" />
+        <mark key="^" line="512" column="32" />
+        <mark key="." line="512" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/templates/download_video.pug" timestamp="1515795404673" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1515314338859">
@@ -347,63 +347,66 @@
       <jump line="487" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="20" column="28" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="15" column="28" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
-      <jump line="498" column="70" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="436" column="29" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="498" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>object</text>
+        <text>STRING_VALUE</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>STRING_VALUE</text>
       </register>
       <register name="/" type="4">
-        <text>getObj</text>
+        <text>object</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIC1pICIvVXNlcnMvYWxleC9EZXNrdG9wLzIubXA0IiBcCg==</text>
+        <text encoding="base64">ICBsZXQgaW5pdGlhbE9iamVjdCA9IGF3YWl0IHMzLmhlYWRPYmplY3Qoe0J1Y2tldDogczNCdWNrZXROYW1lLCBLZXk6IGluaXRpYWxPYmplY3RLZXl9KS5wcm9taXNlKCkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bGV0IGR5bmFtb2RiID0gbmV3IEFXUy5EeW5hbW9EQigpCiAgICAsIHMzID0gbmV3IEFXUy5TMygpCiAgICAsIHBhcmFtcyAgID0gewogICAgICAgIFRhYmxlTmFtZTogdGFibGVOYW1lCiAgICAgIH07CiAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAvLyBsZXQgdGFibGVOYW1lID0gIlZ1bGNhblZpc2lvbi1WaWRlb3MtcHJvZCI7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">JzxNZXRhZGF0YUtleT4nOiAnU1RSSU5HX1ZBTFVFJywKICAgICAgLyogJzxNZXRhZGF0YUtleT4nOiAuLi4gKi8=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIC1tYXAgMCBrZWsubXA0ZGQK</text>
+        <text encoding="base64">ICAgIC8vIENvbnRlbnRUeXBlOiAnYmluYXJ5L29jdGV0LXN0cmVhbScsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENvbnRlbnRUeXBlOiAnYXBwbGljYXRpb24vemlwJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENvbnRlbnRUeXBlOiAnU1RSSU5HX1ZBTFVFJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMub25EeW5hbW9kYlZpZGVvID0gYXN5bmMoZnVuY3Rpb24oZXZlbnQsIGNvbnRleHQsIGNhbGxiYWNrKXsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhdGNoU2l6ZTogMQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhvYmplY3QpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtIFN0cmVhbUFybgo=</text>
+      <register name="8" type="4">
+        <text>, function(err, res){
+    if (err) console.log(err.stack)
+  })</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtIHZpZGVvc1RhYmxlCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">bGV0IGR5bmFtb2RiID0gbmV3IEFXUy5EeW5hbW9EQigpCiAgICAsIHMzID0gbmV3IEFXUy5TMygpCiAgICAsIHBhcmFtcyAgID0gewogICAgICAgIFRhYmxlTmFtZTogdGFibGVOYW1lCiAgICAgIH07CiAg</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>499,502s/object/initialObject/g</text>
       </register>
     </registers>
     <search>
-      <last-search>getObj</last-search>
+      <last-search>object</last-search>
       <last-offset />
-      <last-pattern>getObj</last-pattern>
+      <last-pattern>object</last-pattern>
+      <last-replace>initialObject</last-replace>
+      <last-substitute>object</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Obse</entry>
         <entry>AppMo</entry>
         <entry>AppR</entry>
         <entry>Auth</entry>
@@ -423,6 +426,7 @@
         <entry>36</entry>
         <entry>15</entry>
         <entry>getObj</entry>
+        <entry>object</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -441,6 +445,7 @@
         <entry>33</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>499,502s/object/initialObject/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
