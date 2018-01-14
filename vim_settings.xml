@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1515951577517">
-        <mark key="'" line="498" column="13" />
-        <mark key="[" line="512" column="18" />
-        <mark key="]" line="512" column="32" />
-        <mark key="^" line="512" column="32" />
-        <mark key="." line="512" column="32" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1515953429124">
+        <mark key="'" line="497" column="13" />
+        <mark key="[" line="493" column="0" />
+        <mark key="]" line="493" column="0" />
+        <mark key="^" line="493" column="21" />
+        <mark key="." line="493" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/templates/download_video.pug" timestamp="1515795404673" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1515314338859">
@@ -351,11 +351,11 @@
       <jump line="498" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>STRING_VALUE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>STRING_VALUE</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>object</text>
@@ -364,33 +364,34 @@
         <text encoding="base64">ICBsZXQgaW5pdGlhbE9iamVjdCA9IGF3YWl0IHMzLmhlYWRPYmplY3Qoe0J1Y2tldDogczNCdWNrZXROYW1lLCBLZXk6IGluaXRpYWxPYmplY3RLZXl9KS5wcm9taXNlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">JzxNZXRhZGF0YUtleT4nOiAnU1RSSU5HX1ZBTFVFJywKICAgICAgLyogJzxNZXRhZGF0YUtleT4nOiAuLi4gKi8=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIENvbnRlbnRUeXBlOiAnYmluYXJ5L29jdGV0LXN0cmVhbScsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIENvbnRlbnRUeXBlOiAnYXBwbGljYXRpb24vemlwJywK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIENvbnRlbnRUeXBlOiAnU1RSSU5HX1ZBTFVFJwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhvYmplY3QpOwo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>, function(err, res){
-    if (err) console.log(err.stack)
-  })</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8gfSwK</text>
+      </register>
+      <register name="5" type="4">
+        <text>// Metadata: {
+    //   'Content-Type': 'application/zip',
+    //   ContentType: 'binary/octet-stream',
+    /</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvLyBsZXQgaW5pdGlhbE9iamVjdCA9IGF3YWl0IHMzLmdldE9iamVjdCh7QnVja2V0OiBzM0J1Y2tldE5hbWUsIEtleTogb2JqZWN0S2V5fSkucHJvbWlzZSgpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bGV0IGR5bmFtb2RiID0gbmV3IEFXUy5EeW5hbW9EQigpCiAgICAsIHMzID0gbmV3IEFXUy5TMygpCiAgICAsIHBhcmFtcyAgID0gewogICAgICAgIFRhYmxlTmFtZTogdGFibGVOYW1lCiAgICAgIH07CiAg</text>
+        <text encoding="base64">JzxNZXRhZGF0YUtleT4nOiAnU1RSSU5HX1ZBTFVFJywKICAgICAgLyogJzxNZXRhZGF0YUtleT4nOiAuLi4gKi8=</text>
       </register>
       <register name=":" type="4">
         <text>499,502s/object/initialObject/g</text>
