@@ -88,6 +88,10 @@
         <mark key="." line="70" column="89" />
         <mark key="^" line="70" column="89" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1516001983311">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.ts" timestamp="1514531540623">
         <mark key="'" line="5" column="12" />
         <mark key="[" line="17" column="35" />
@@ -121,8 +125,14 @@
         <mark key="^" line="15" column="16" />
         <mark key="." line="15" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515948461422">
+      <file name="/Dummy.txt" timestamp="1516002037143">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1516003140046">
+        <mark key="[" line="27" column="126" />
+        <mark key="]" line="27" column="126" />
+        <mark key="^" line="27" column="132" />
+        <mark key="." line="27" column="126" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1515482565017">
         <mark key="'" line="357" column="0" />
@@ -198,12 +208,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" timestamp="1514578441976">
-        <mark key="'" line="59" column="17" />
-        <mark key="[" line="54" column="6" />
-        <mark key="]" line="54" column="5" />
-        <mark key="^" line="54" column="5" />
-        <mark key="." line="54" column="5" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" timestamp="1516004649749">
+        <mark key="'" line="15" column="69" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="52" column="45" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.component.ts" timestamp="1515364711445">
         <mark key="[" line="11" column="46" />
@@ -247,7 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.module.ts" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.module.ts" />
       <jump line="5" column="12" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.ts" />
       <jump line="5" column="7" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.html" />
@@ -347,66 +356,63 @@
       <jump line="15" column="28" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="436" column="29" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="498" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="15" column="69" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>object</text>
+        <text>removeOffersFunc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQgaW5pdGlhbE9iamVjdCA9IGF3YWl0IHMzLmhlYWRPYmplY3Qoe0J1Y2tldDogczNCdWNrZXROYW1lLCBLZXk6IGluaXRpYWxPYmplY3RLZXl9KS5wcm9taXNlKCkK</text>
+        <text encoding="base64">ICBsZXQgT2ZmZXIgICAgICAgID0gREIubW9kZWwoJ29mZmVycycpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKG4gPiA1MDAwKSByZXR1cm4gbGluZVJlYWRlci5jbG9zZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8gfSwK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>// Metadata: {
-    //   'Content-Type': 'application/zip',
-    //   ContentType: 'binary/octet-stream',
-    /</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsaW5lUmVhZGVyLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBsZXQgaW5pdGlhbE9iamVjdCA9IGF3YWl0IHMzLmdldE9iamVjdCh7QnVja2V0OiBzM0J1Y2tldE5hbWUsIEtleTogb2JqZWN0S2V5fSkucHJvbWlzZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbiA+NTAwMCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKG4gPiA1MDAwKXsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coT2JqZWN0LmtleXMoZGVsZXRlUmVzdWx0KSkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JzxNZXRhZGF0YUtleT4nOiAnU1RSSU5HX1ZBTFVFJywKICAgICAgLyogJzxNZXRhZGF0YUtleT4nOiAuLi4gKi8=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2RlbGV0ZVJlc3VsdCcpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>499,502s/object/initialObject/g</text>
+        <text>%s/removeOffersFunc/Offer/g</text>
       </register>
     </registers>
     <search>
-      <last-search>object</last-search>
+      <last-search>removeOffersFunc</last-search>
       <last-offset />
-      <last-pattern>object</last-pattern>
-      <last-replace>initialObject</last-replace>
-      <last-substitute>object</last-substitute>
+      <last-pattern>removeOffersFunc</last-pattern>
+      <last-replace>Offer</last-replace>
+      <last-substitute>removeOffersFunc</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>AppMo</entry>
         <entry>AppR</entry>
         <entry>Auth</entry>
         <entry>passwor</entry>
@@ -426,6 +432,7 @@
         <entry>15</entry>
         <entry>getObj</entry>
         <entry>object</entry>
+        <entry>removeOffersFunc</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -445,6 +452,7 @@
         <entry>wq</entry>
         <entry>w</entry>
         <entry>499,502s/object/initialObject/g</entry>
+        <entry>%s/removeOffersFunc/Offer/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
