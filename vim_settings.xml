@@ -70,6 +70,13 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" timestamp="1516056181980">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="244" />
+        <mark key="." line="10" column="244" />
+        <mark key="^" line="10" column="244" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/google_analytics.js" timestamp="1514534776349">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="10" />
@@ -140,6 +147,12 @@
         <mark key="]" line="383" column="25" />
         <mark key="^" line="383" column="25" />
         <mark key="." line="383" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/facebook_share.html" timestamp="1516057657777">
+        <mark key="'" line="16" column="54" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1514499888781">
         <mark key="[" line="45" column="7" />
@@ -257,22 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.module.ts" />
-      <jump line="5" column="12" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.ts" />
-      <jump line="5" column="7" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.html" />
-      <jump line="11" column="34" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.html" />
-      <jump line="8" column="70" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.html" />
-      <jump line="9" column="18" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.html" />
-      <jump line="10" column="85" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/login/login.component.html" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/test/merchants.html" />
-      <jump line="80" column="40" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" />
-      <jump line="32" column="34" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/merchant.js" />
-      <jump line="26" column="32" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" />
-      <jump line="7" column="26" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" />
-      <jump line="8" column="44" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" />
-      <jump line="11" column="37" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" />
-      <jump line="12" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" />
-      <jump line="49" column="20" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" />
       <jump line="79" column="22" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" />
       <jump line="125" column="18" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" />
       <jump line="78" column="18" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" />
@@ -357,55 +354,71 @@
       <jump line="436" column="29" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="498" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="15" column="69" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" />
+      <jump line="44" column="54" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
+      <jump line="10" column="244" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/facebook_share.html" />
+      <jump line="15" column="54" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/facebook_share.html" />
+      <jump line="16" column="54" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/facebook_share.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8IS0tPG1ldGEgcHJvcGVydHk9Im9nOnZpZGVvIiAgICAgICAgICAgICAgY29udGVudD0iaHR0cHM6Ly9wbGF5ci52aW1lby5jb20vdmlkZW8vOTg4OTE2MzI/cG9ydHJhaXQ9MCIgLz4tLT4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>src=&quot;javascript:alert&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>removeOffersFunc</text>
+        <text>https</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsZXQgT2ZmZXIgICAgICAgID0gREIubW9kZWwoJ29mZmVycycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8IS0tPG1ldGEgcHJvcGVydHk9Im9nOnZpZGVvIiAgICAgICAgICAgICAgY29udGVudD0iaHR0cHM6Ly9wbGF5ci52aW1lby5jb20vdmlkZW8vOTg4OTE2MzI/cG9ydHJhaXQ9MCIgLz4tLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG4gPiA1MDAwKSByZXR1cm4gbGluZVJlYWRlci5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICA8IS0tPG1ldGEgcHJvcGVydHk9Im9nOnZpZGVvIiAgICAgICAgICAgICAgY29udGVudD0iaHR0cHM6Ly9wbGF5ci52aW1lby5jb20vdmlkZW8vOTg4OTE2MzI/cG9ydHJhaXQ9MCIgLz4tLT4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZXIudmltZW8uY29tL3ZpZGVvLzk4ODkxNjMyP3BvcnRyYWl0PTAiIC8+LS0+CiAgPCEtLTxtZXRhIHByb3BlcnR5PSJvZzp2aWRlbzpzZWN1cmVfdXJsIiAgIGNvbnRlbnQ9Imh0dHBzOi8vcGxheWU=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgIDxzb3VyY2Ugc3JjPSJodHRwczovL3BsYXllci52aW1lby5jb20vdmlkZW8vOTg4OTE2MzI/cG9ydHJhaXQ9MCIgdHlwZT0idmlkZW8vbXA0Ij4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lUmVhZGVyLmNsb3NlKCk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PCEtLTxkaXY+IFRoaXMgaXMgYSB0aXRsZTwvZGl2Pi0tPgogIDwhLS08ZGl2PiBUaGlzIGlzIGEgZGVzY3JpcHRpb248L2Rpdj4tLT4KICA8IS0tPGltZyBzcmM9Imh0dHBzOi8vbWVkaWEtZXhwMi5saWNkbi5jb20vbWVkaWEvcC83LzAwNS8wN2IvMTRiLzJmNjY4ZGEucG5nIj4tLT4KICA8IS0tPHZpZGVvIHdpZHRoPSIzMjAiIGhlaWdodD0iMjQwIiBjb250cm9scz4tLT4KICAgIDwhLS08c291cmNlIHNyYz0iaHR0cHM6Ly9zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS92dWxjYW52aXNpb24tYXBpLWRldi90ZXN0X3NoYXJpbmcvZmFjZWJvb2svY29uc29sZV9vdXRwdXQubXA0IiB0eXBlPSJ2aWRlby9tcDQiPi0tPgogICAgPCEtLVlvdXIgYnJvd3NlciBkb2VzIG5vdCBzdXBwb3J0IHRoZSB2aWRlbyB0YWcuLS0+CiAgPCEtLTwvdmlkZW8+LS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbiA+NTAwMCcpCg==</text>
+        <text encoding="base64">ICA8IS0tPG1ldGEgcHJvcGVydHk9Im9nOnNpdGVfbmFtZSIgICAgICAgICAgY29udGVudD0iRXhhbXBsZSI+LS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG4gPiA1MDAwKXsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coT2JqZWN0LmtleXMoZGVsZXRlUmVzdWx0KSkK</text>
+        <text encoding="base64">ICAgICAgaWYgKG4gPiA1MDAwKSByZXR1cm4gbGluZVJlYWRlci5jbG9zZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2RlbGV0ZVJlc3VsdCcpCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/removeOffersFunc/Offer/g</text>
       </register>
     </registers>
     <search>
-      <last-search>removeOffersFunc</last-search>
+      <last-search>https</last-search>
       <last-offset />
-      <last-pattern>removeOffersFunc</last-pattern>
+      <last-pattern>https</last-pattern>
       <last-replace>Offer</last-replace>
       <last-substitute>removeOffersFunc</last-substitute>
       <last-dir>1</last-dir>
@@ -413,7 +426,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AppR</entry>
         <entry>Auth</entry>
         <entry>passwor</entry>
         <entry>passwo</entry>
@@ -433,6 +445,7 @@
         <entry>getObj</entry>
         <entry>object</entry>
         <entry>removeOffersFunc</entry>
+        <entry>https</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
