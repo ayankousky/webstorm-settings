@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1516142267556">
-        <mark key="'" line="525" column="3" />
-        <mark key="[" line="526" column="38" />
-        <mark key="]" line="527" column="1" />
-        <mark key="." line="527" column="1" />
-        <mark key="^" line="527" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1516145098817">
+        <mark key="'" line="538" column="3" />
+        <mark key="[" line="540" column="16" />
+        <mark key="]" line="540" column="37" />
+        <mark key="." line="540" column="37" />
+        <mark key="^" line="540" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/templates/download_video.pug" timestamp="1515795404673" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1515314338859">
@@ -56,6 +56,11 @@
         <mark key="]" line="98" column="26" />
         <mark key="^" line="98" column="26" />
         <mark key="." line="98" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/package.json" timestamp="1516145035977">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1515482708174">
         <mark key="'" line="119" column="26" />
@@ -382,10 +387,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${s3key}</text>
+        <text>ending date and time in Unix time format and UTC</text>
       </register>
       <register name="-" type="4">
-        <text>${s3key}</text>
+        <text>ending date and time in Unix time format and UTC</text>
       </register>
       <register name="/" type="4">
         <text>expi</text>
@@ -394,31 +399,31 @@
         <text encoding="base64">Ly8gY29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi4vY29uZmlncy9tYWluLmpzb24nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICwgY29uZmlnID0gCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnU2lnbmVkOj8nKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8IS0tPG1ldGEgcHJvcGVydHk9Im9nOnZpZGVvIiAgICAgICAgICAgICAgY29udGVudD0iaHR0cHM6Ly9wbGF5ci52aW1lby5jb20vdmlkZW8vOTg4OTE2MzI/cG9ydHJhaXQ9MCIgLz4tLT4K</text>
+        <text encoding="base64">ICAgICJhd3Mtc2RrIjogIjIuNS4xIiwK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICwgY29uZmlnID0gCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICA8IS0tPG1ldGEgcHJvcGVydHk9Im9nOnZpZGVvIiAgICAgICAgICAgICAgY29udGVudD0iaHR0cHM6Ly9wbGF5ci52aW1lby5jb20vdmlkZW8vOTg4OTE2MzI/cG9ydHJhaXQ9MCIgLz4tLT4K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZXIudmltZW8uY29tL3ZpZGVvLzk4ODkxNjMyP3BvcnRyYWl0PTAiIC8+LS0+CiAgPCEtLTxtZXRhIHByb3BlcnR5PSJvZzp2aWRlbzpzZWN1cmVfdXJsIiAgIGNvbnRlbnQ9Imh0dHBzOi8vcGxheWU=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzb3VyY2Ugc3JjPSJodHRwczovL3BsYXllci52aW1lby5jb20vdmlkZW8vOTg4OTE2MzI/cG9ydHJhaXQ9MCIgdHlwZT0idmlkZW8vbXA0Ij4K</text>
+        <text encoding="base64">ICA8IS0tPG1ldGEgcHJvcGVydHk9Im9nOnZpZGVvIiAgICAgICAgICAgICAgY29udGVudD0iaHR0cHM6Ly9wbGF5ci52aW1lby5jb20vdmlkZW8vOTg4OTE2MzI/cG9ydHJhaXQ9MCIgLz4tLT4K</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">PCEtLTxkaXY+IFRoaXMgaXMgYSB0aXRsZTwvZGl2Pi0tPgogIDwhLS08ZGl2PiBUaGlzIGlzIGEgZGVzY3JpcHRpb248L2Rpdj4tLT4KICA8IS0tPGltZyBzcmM9Imh0dHBzOi8vbWVkaWEtZXhwMi5saWNkbi5jb20vbWVkaWEvcC83LzAwNS8wN2IvMTRiLzJmNjY4ZGEucG5nIj4tLT4KICA8IS0tPHZpZGVvIHdpZHRoPSIzMjAiIGhlaWdodD0iMjQwIiBjb250cm9scz4tLT4KICAgIDwhLS08c291cmNlIHNyYz0iaHR0cHM6Ly9zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS92dWxjYW52aXNpb24tYXBpLWRldi90ZXN0X3NoYXJpbmcvZmFjZWJvb2svY29uc29sZV9vdXRwdXQubXA0IiB0eXBlPSJ2aWRlby9tcDQiPi0tPgogICAgPCEtLVlvdXIgYnJvd3NlciBkb2VzIG5vdCBzdXBwb3J0IHRoZSB2aWRlbyB0YWcuLS0+CiAgPCEtLTwvdmlkZW8+LS0+Cg==</text>
+        <text encoding="base64">ZXIudmltZW8uY29tL3ZpZGVvLzk4ODkxNjMyP3BvcnRyYWl0PTAiIC8+LS0+CiAgPCEtLTxtZXRhIHByb3BlcnR5PSJvZzp2aWRlbzpzZWN1cmVfdXJsIiAgIGNvbnRlbnQ9Imh0dHBzOi8vcGxheWU=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8IS0tPG1ldGEgcHJvcGVydHk9Im9nOnNpdGVfbmFtZSIgICAgICAgICAgY29udGVudD0iRXhhbXBsZSI+LS0+Cg==</text>
+        <text encoding="base64">ICAgIDxzb3VyY2Ugc3JjPSJodHRwczovL3BsYXllci52aW1lby5jb20vdmlkZW8vOTg4OTE2MzI/cG9ydHJhaXQ9MCIgdHlwZT0idmlkZW8vbXA0Ij4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">PCEtLTxkaXY+IFRoaXMgaXMgYSB0aXRsZTwvZGl2Pi0tPgogIDwhLS08ZGl2PiBUaGlzIGlzIGEgZGVzY3JpcHRpb248L2Rpdj4tLT4KICA8IS0tPGltZyBzcmM9Imh0dHBzOi8vbWVkaWEtZXhwMi5saWNkbi5jb20vbWVkaWEvcC83LzAwNS8wN2IvMTRiLzJmNjY4ZGEucG5nIj4tLT4KICA8IS0tPHZpZGVvIHdpZHRoPSIzMjAiIGhlaWdodD0iMjQwIiBjb250cm9scz4tLT4KICAgIDwhLS08c291cmNlIHNyYz0iaHR0cHM6Ly9zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS92dWxjYW52aXNpb24tYXBpLWRldi90ZXN0X3NoYXJpbmcvZmFjZWJvb2svY29uc29sZV9vdXRwdXQubXA0IiB0eXBlPSJ2aWRlby9tcDQiPi0tPgogICAgPCEtLVlvdXIgYnJvd3NlciBkb2VzIG5vdCBzdXBwb3J0IHRoZSB2aWRlbyB0YWcuLS0+CiAgPCEtLTwvdmlkZW8+LS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG4gPiA1MDAwKSByZXR1cm4gbGluZVJlYWRlci5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICA8IS0tPG1ldGEgcHJvcGVydHk9Im9nOnNpdGVfbmFtZSIgICAgICAgICAgY29udGVudD0iRXhhbXBsZSI+LS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/removeOffersFunc/Offer/g</text>
