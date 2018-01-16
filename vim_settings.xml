@@ -3,10 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1515963823867">
-        <mark key="[" line="0" column="56" />
-        <mark key="]" line="0" column="57" />
-        <mark key="." line="0" column="57" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1516141073055">
+        <mark key="'" line="525" column="3" />
+        <mark key="[" line="526" column="38" />
+        <mark key="]" line="527" column="1" />
+        <mark key="." line="527" column="1" />
+        <mark key="^" line="527" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/templates/download_video.pug" timestamp="1515795404673" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1515314338859">
@@ -70,7 +72,7 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/s3.js" timestamp="1516139901404">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/s3.js" timestamp="1516140819658">
         <mark key="[" line="153" column="98" />
         <mark key="]" line="153" column="101" />
         <mark key="." line="153" column="101" />
@@ -138,7 +140,7 @@
         <mark key="^" line="15" column="16" />
         <mark key="." line="15" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516002037143">
+      <file name="/Dummy.txt" timestamp="1516140847629">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1516003140046">
@@ -177,11 +179,6 @@
         <mark key="]" line="42" column="41" />
         <mark key="^" line="42" column="41" />
         <mark key="." line="42" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/index.html" timestamp="1515377272816">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="6" />
-        <mark key="." line="23" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/tmp/split_video/ffmpeg_run.sh" timestamp="1515624101929">
         <mark key="[" line="7" column="18" />
@@ -276,16 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="22" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" />
-      <jump line="125" column="18" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" />
-      <jump line="78" column="18" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" />
-      <jump line="95" column="22" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" />
-      <jump line="10" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" />
-      <jump line="63" column="17" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" />
-      <jump line="65" column="1" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" />
-      <jump line="49" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" />
-      <jump line="48" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" />
       <jump line="337" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="405" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="160" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
@@ -376,55 +363,65 @@
       <jump line="13" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/facebook_share.html" />
       <jump line="15" column="54" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/facebook_share.html" />
       <jump line="16" column="54" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/facebook_share.html" />
+      <jump line="493" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="496" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="500" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="511" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="515" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="516" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="488" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="521" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="2" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="525" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHByaXZhdGVLZXk=</text>
+        <text>${s3key}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHByaXZhdGVLZXk=</text>
+        <text>${s3key}</text>
       </register>
       <register name="/" type="4">
-        <text>https</text>
+        <text>expi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQgT2ZmZXIgICAgICAgID0gREIubW9kZWwoJ29mZmVycycpCg==</text>
+        <text encoding="base64">Ly8gY29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi4vY29uZmlncy9tYWluLmpzb24nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8IS0tPG1ldGEgcHJvcGVydHk9Im9nOnZpZGVvIiAgICAgICAgICAgICAgY29udGVudD0iaHR0cHM6Ly9wbGF5ci52aW1lby5jb20vdmlkZW8vOTg4OTE2MzI/cG9ydHJhaXQ9MCIgLz4tLT4K</text>
+        <text encoding="base64">ICAgICwgY29uZmlnID0gCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICA8IS0tPG1ldGEgcHJvcGVydHk9Im9nOnZpZGVvIiAgICAgICAgICAgICAgY29udGVudD0iaHR0cHM6Ly9wbGF5ci52aW1lby5jb20vdmlkZW8vOTg4OTE2MzI/cG9ydHJhaXQ9MCIgLz4tLT4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICA8IS0tPG1ldGEgcHJvcGVydHk9Im9nOnZpZGVvIiAgICAgICAgICAgICAgY29udGVudD0iaHR0cHM6Ly9wbGF5ci52aW1lby5jb20vdmlkZW8vOTg4OTE2MzI/cG9ydHJhaXQ9MCIgLz4tLT4K</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ZXIudmltZW8uY29tL3ZpZGVvLzk4ODkxNjMyP3BvcnRyYWl0PTAiIC8+LS0+CiAgPCEtLTxtZXRhIHByb3BlcnR5PSJvZzp2aWRlbzpzZWN1cmVfdXJsIiAgIGNvbnRlbnQ9Imh0dHBzOi8vcGxheWU=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIDxzb3VyY2Ugc3JjPSJodHRwczovL3BsYXllci52aW1lby5jb20vdmlkZW8vOTg4OTE2MzI/cG9ydHJhaXQ9MCIgdHlwZT0idmlkZW8vbXA0Ij4K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PCEtLTxkaXY+IFRoaXMgaXMgYSB0aXRsZTwvZGl2Pi0tPgogIDwhLS08ZGl2PiBUaGlzIGlzIGEgZGVzY3JpcHRpb248L2Rpdj4tLT4KICA8IS0tPGltZyBzcmM9Imh0dHBzOi8vbWVkaWEtZXhwMi5saWNkbi5jb20vbWVkaWEvcC83LzAwNS8wN2IvMTRiLzJmNjY4ZGEucG5nIj4tLT4KICA8IS0tPHZpZGVvIHdpZHRoPSIzMjAiIGhlaWdodD0iMjQwIiBjb250cm9scz4tLT4KICAgIDwhLS08c291cmNlIHNyYz0iaHR0cHM6Ly9zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS92dWxjYW52aXNpb24tYXBpLWRldi90ZXN0X3NoYXJpbmcvZmFjZWJvb2svY29uc29sZV9vdXRwdXQubXA0IiB0eXBlPSJ2aWRlby9tcDQiPi0tPgogICAgPCEtLVlvdXIgYnJvd3NlciBkb2VzIG5vdCBzdXBwb3J0IHRoZSB2aWRlbyB0YWcuLS0+CiAgPCEtLTwvdmlkZW8+LS0+Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICA8IS0tPG1ldGEgcHJvcGVydHk9Im9nOnNpdGVfbmFtZSIgICAgICAgICAgY29udGVudD0iRXhhbXBsZSI+LS0+Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG4gPiA1MDAwKSByZXR1cm4gbGluZVJlYWRlci5jbG9zZSgpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKG4gPiA1MDAwKSByZXR1cm4gbGluZVJlYWRlci5jbG9zZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/removeOffersFunc/Offer/g</text>
       </register>
     </registers>
     <search>
-      <last-search>https</last-search>
+      <last-search>expi</last-search>
       <last-offset />
-      <last-pattern>https</last-pattern>
+      <last-pattern>expi</last-pattern>
       <last-replace>Offer</last-replace>
       <last-substitute>removeOffersFunc</last-substitute>
       <last-dir>1</last-dir>
@@ -432,8 +429,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Auth</entry>
-        <entry>passwor</entry>
         <entry>passwo</entry>
         <entry>f.subm</entry>
         <entry>kalad</entry>
@@ -452,6 +447,8 @@
         <entry>object</entry>
         <entry>removeOffersFunc</entry>
         <entry>https</entry>
+        <entry>config =</entry>
+        <entry>expi</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
