@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1516146346574">
-        <mark key="'" line="542" column="3" />
-        <mark key="[" line="523" column="18" />
-        <mark key="]" line="523" column="54" />
-        <mark key="." line="523" column="54" />
-        <mark key="^" line="523" column="54" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1516146758480">
+        <mark key="'" line="534" column="3" />
+        <mark key="[" line="533" column="14" />
+        <mark key="]" line="533" column="19" />
+        <mark key="^" line="533" column="19" />
+        <mark key="." line="533" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/templates/download_video.pug" timestamp="1515795404673" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1515314338859">
@@ -57,10 +57,10 @@
         <mark key="^" line="98" column="26" />
         <mark key="." line="98" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/package.json" timestamp="1516145035977">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/package.json" timestamp="1516147127246">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1515482708174">
         <mark key="'" line="119" column="26" />
@@ -83,11 +83,12 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="71" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/s3.js" timestamp="1516140819658">
-        <mark key="[" line="153" column="98" />
-        <mark key="]" line="153" column="101" />
-        <mark key="." line="153" column="101" />
-        <mark key="^" line="153" column="101" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/s3.js" timestamp="1516146968912">
+        <mark key="'" line="154" column="17" />
+        <mark key="[" line="144" column="70" />
+        <mark key="]" line="144" column="70" />
+        <mark key="^" line="145" column="5" />
+        <mark key="." line="144" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" timestamp="1516056181980">
         <mark key="'" line="11" column="0" />
@@ -284,7 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="405" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="160" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
       <jump line="161" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
@@ -384,13 +384,14 @@
       <jump line="521" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="2" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="525" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="162" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/s3.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>new Date()/1000 - 0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJhd3MtY2xvdWRmcm9udC1zaWduIjogIl4yLjIuMCIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>new Date()/1000 - 0</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>expi</text>
@@ -398,54 +399,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyh0aW1lc3RhbXApCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>let policy = {
-    &quot;Statement&quot;: [
-      {
-        &quot;Resource&quot;: url,
-        &quot;Condition&quot;: {
-          &quot;DateLessThan&quot;: {
-            &quot;AWS:EpochTime&quot;: timestamp
-          }
-        }
-      }
-    ]
-  }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJhd3MtY2xvdWRmcm9udC1zaWduIjogIl4yLjIuMCIsCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-    &quot;Statement&quot;:[
-      {
-        &quot;Resource&quot;: url,
-        &quot;Condition&quot;:{
-          &quot;DateLessThan&quot;:{
-            &quot;AWS:EpochTime&quot;:timestamp
-          }
-        }
-      }
-    ]
-  }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnU2lnbmVkOj8nKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ly8gbGV0IGNmID0gcmVxdWlyZSgnYXdzLWNsb3VkZnJvbnQtc2lnbicpOwogIC8vIGxldCBvcHRpb25zID0gewogIC8vICAga2V5cGFpcklkOiBjb25maWcuczMuQ0ROLmtleXBhaXJJZCwKICAvLyAgIHByaXZhdGVLZXlTdHJpbmc6IGNvbmZpZy5zMy5DRE4ua2V5cGFpciwKICAgIC8vIHByaXZhdGVLZXlQYXRoOiBgJHtfX2Rpcm5hbWV9L3BrLSR7Y29uZmlnLnMzLkNETi5rZXlwYWlySWR9LnBlbWAKICAvLyB9OwogIC8vIGxldCBzaWduZWRVcmwgPSBjZi5nZXRTaWduZWRVcmwoYGh0dHBzOi8vJHtjb25maWcuczMuQ0ROLmRvbWFpbn0vJHtzM2tleX1gLCBvcHRpb25zKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJhd3Mtc2RrIjogIjIuNS4xIiwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICwgY29uZmlnID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8IS0tPG1ldGEgcHJvcGVydHk9Im9nOnZpZGVvIiAgICAgICAgICAgICAgY29udGVudD0iaHR0cHM6Ly9wbGF5ci52aW1lby5jb20vdmlkZW8vOTg4OTE2MzI/cG9ydHJhaXQ9MCIgLz4tLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICA8IS0tPG1ldGEgcHJvcGVydHk9Im9nOnZpZGVvIiAgICAgICAgICAgICAgY29udGVudD0iaHR0cHM6Ly9wbGF5ci52aW1lby5jb20vdmlkZW8vOTg4OTE2MzI/cG9ydHJhaXQ9MCIgLz4tLT4K</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgdHJ5ewogIGxldCBhID0gbmV3IEFXUy5DbG91ZEZyb250LlNpZ25lcihjb25maWcuczMuQ0ROLmtleXBhaXJJZCxjb25maWcuczMuQ0ROLmtleXBhaXIpOwogIGNvbnNvbGUubG9nKCdTaWduZWQ6PycpCiAgY29uc29sZS5sb2coYS5nZXRTaWduZWRVcmwoe3VybDogYGh0dHBzOi8vJHtjb25maWcuczMuQ0ROLmRvbWFpbn0vJHtzM2tleX1gLCBleHBpcmVzOiBuZXcgRGF0ZSgpIC0gMCArIDEwMDAwMDAwfSkpCgogIH0gY2F0Y2goZSl7CiAgICBjb25zb2xlLmxvZygnZXJyb3I6PycpCiAgICBjb25zb2xlLmxvZyhlKQogIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZXIudmltZW8uY29tL3ZpZGVvLzk4ODkxNjMyP3BvcnRyYWl0PTAiIC8+LS0+CiAgPCEtLTxtZXRhIHByb3BlcnR5PSJvZzp2aWRlbzpzZWN1cmVfdXJsIiAgIGNvbnRlbnQ9Imh0dHBzOi8vcGxheWU=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwb2xpY3kuU3RhdGVtZW50WzBdLkNvbmRpdGlvbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzb3VyY2Ugc3JjPSJodHRwczovL3BsYXllci52aW1lby5jb20vdmlkZW8vOTg4OTE2MzI/cG9ydHJhaXQ9MCIgdHlwZT0idmlkZW8vbXA0Ij4K</text>
+        <text encoding="base64">ICAgICAgLy8gIkNvbmRpdGlvbiI6IHsiRGF0ZUxlc3NUaGFuIjogeyJBV1M6RXBvY2hUaW1lIjogMTYxNjE0NTUxMH19Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/removeOffersFunc/Offer/g</text>
