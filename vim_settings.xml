@@ -4,11 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1516146758480">
-        <mark key="'" line="534" column="3" />
-        <mark key="[" line="533" column="14" />
-        <mark key="]" line="533" column="19" />
-        <mark key="^" line="533" column="19" />
-        <mark key="." line="533" column="19" />
+        <mark key="'" line="605" column="3" />
+        <mark key="[" line="604" column="14" />
+        <mark key="]" line="604" column="19" />
+        <mark key="^" line="604" column="19" />
+        <mark key="." line="604" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.component.css" timestamp="1515372378259">
         <mark key="[" line="2" column="0" />
@@ -72,7 +72,8 @@
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" timestamp="1515138344293">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" timestamp="1516641408626">
+        <mark key="'" line="91" column="0" />
         <mark key="[" line="65" column="12" />
         <mark key="]" line="65" column="89" />
         <mark key="." line="65" column="89" />
@@ -96,6 +97,12 @@
         <mark key="]" line="68" column="15" />
         <mark key="." line="68" column="15" />
         <mark key="^" line="68" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1516643578577">
+        <mark key="[" line="99" column="82" />
+        <mark key="]" line="99" column="82" />
+        <mark key="^" line="99" column="81" />
+        <mark key="." line="99" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/nginx/conf.prod.nginx" timestamp="1515628546770">
         <mark key="[" line="7" column="0" />
@@ -206,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
       <jump line="131" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
       <jump line="125" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
       <jump line="123" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
@@ -306,13 +312,14 @@
       <jump line="68" column="15" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/offers.js" />
       <jump line="83" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/offers.js" />
       <jump line="67" column="15" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/offers.js" />
+      <jump line="91" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>example</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>getHost(domain)</text>
@@ -321,31 +328,31 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyh0aW1lc3RhbXApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsOiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsOiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC1GIHRvPVlPVUBZT1VSX0RPTUFJTl9OQU1FIFwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmcy5yZWFkRmlsZVN5bmMoX19kaXJuYW1lICsgJy8uLi9tb2NrL3ZpZGVvcy9zaGFyZWRfdmlkZW8uZnZwJykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhfX2Rpcm5hbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGZzLnJlYWRGaWxlU3luYygnLi9tb2NrL3ZpZGVvcy9zaGFyZWRfdmlkZW8uZnZwJykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNraXBDb3VudCkK</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBmcyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJhd3MtY2xvdWRmcm9udC1zaWduIjogIl4yLjIuMCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>68,85s/getHost(domain)/domainHost</text>
