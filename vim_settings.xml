@@ -98,10 +98,11 @@
         <mark key="." line="68" column="15" />
         <mark key="^" line="68" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1516653569418">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1516655324017">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="261" column="27" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/nginx/conf.prod.nginx" timestamp="1515628546770">
         <mark key="[" line="7" column="0" />
@@ -109,7 +110,7 @@
         <mark key="^" line="15" column="16" />
         <mark key="." line="15" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516651379526">
+      <file name="/Dummy.txt" timestamp="1516655325747">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1516003140046">
@@ -323,10 +324,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaXJzdFZpZGVvKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>302</text>
       </register>
       <register name="/" type="4">
         <text>164</text>
@@ -335,16 +336,16 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyh0aW1lc3RhbXApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaXJzdFZpZGVvKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgLCByZXR1cm5lZFZpZGVvCgogICAgICAgICAgLy8gbGV0IGdldFJlZGlyZWN0UmVzdWx0ID0gYXdhaXQoY2hhaQogICAgICAgICAgLy8gICAucmVxdWVzdChtb2Nrcy5nZXRTZXJ2ZXJVcmwoKSkKICAgICAgICAgIC8vICAgLmdldChgL3ZpZGVvcy8ke2ZpcnN0VmlkZW8uaWR9L2Rvd25sb2FkP21ldGFkYXRhPXRydWVgKQogICAgICAgICAgLy8gICAuc2V0KCdBdXRob3JpemF0aW9uJywgbWFpblVzZXJUb2tlbikKICAgICAgICAgIC8vICAgLnNlbmQoKSk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -353,13 +354,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBzM0hlbHBlciA9IHJlcXVpcmUoJy4uLy4uLy4uL2xpYi9oZWxwZXJzL2F3cycpLnMzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJlZGlyZWN0cygwKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAvLyBkb3dubG9hZCB2aWRlbwogICAgICAgICAgLy8gcmVxT3B0aW9ucyA9IHsKICAgICAgICAgIC8vICAgdXJpOiBjbG91ZEZyb250VXJsLAogICAgICAgICAgLy8gICBmb2xsb3dSZWRpcmVjdDogZmFsc2UsCiAgICAgICAgICAvLyAgIHJlc29sdmVXaXRoRnVsbFJlc3BvbnNlOiBmYWxzZSwKICAgICAgICAgIC8vICAganNvbjogdHJ1ZSwKICAgICAgICAgIC8vICAgZW5jb2Rpbmc6IG51bGwsCiAgICAgICAgICAvLyB9OwogICAgICAgICAgLy8gdHJ5IHsKICAgICAgICAgIC8vICAgcmVzdWx0ID0gYXdhaXQocnAocmVxT3B0aW9ucykpOwogICAgICAgICAgLy8gfSBjYXRjaCAoZSkgewogICAgICAgICAgLy8gICByZXN1bHQgPSBlOwogICAgICAgICAgLy8gfQogICAgICAgICAgLy8KICAgICAgICAgIC8vIGlmIChyZXN1bHQuc3RhdHVzQ29kZSA9PT0gMzA3KSB7IC8vYW1hem9uIG1ha2VzIGludGVybmFsIHJlZGlyZWN0IGl0IG9jY3VycyB1bnByZWRpY3RhYmx5CiAgICAgICAgICAvLyAgIGNvbnNvbGUubG9nKCczMDcgcmVkaXJlY3Qgb24gInNpZ25lZCB1cmwiIGRvd25sb2FkJykKICAgICAgICAgIC8vIH0gZWxzZSB7CiAgICAgICAgICAvLyAgIHJldHVybmVkVmlkZW8gPSBuZXcgU3RyaW5nKHJlc3VsdCk7CiAgICAgICAgICAvLyAgIHJldHVybmVkVmlkZW8uc2hvdWxkLmJlLmVxKGZpcnN0VmlkZW9CdWZmZXJTdHJpbmcpOwogICAgICAgICAgLy8gfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJlZGlyZWN0cygwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGdldFJlZGlyZWN0UmVzdWx0LnJlc3BvbnNlLmhlYWRlcnMubG9jYXRpb24uc2hvdWxkLmJlLm5vdC51bmRlZmluZWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>68,85s/getHost(domain)/domainHost</text>
