@@ -46,7 +46,7 @@
         <mark key="^" line="7" column="49" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/s3.js" timestamp="1516146968912">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/s3.js" timestamp="1516647310596">
         <mark key="'" line="154" column="17" />
         <mark key="[" line="144" column="70" />
         <mark key="]" line="144" column="70" />
@@ -98,11 +98,11 @@
         <mark key="." line="68" column="15" />
         <mark key="^" line="68" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1516643578577">
-        <mark key="[" line="99" column="82" />
-        <mark key="]" line="99" column="82" />
-        <mark key="^" line="99" column="81" />
-        <mark key="." line="99" column="82" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1516647626505">
+        <mark key="[" line="138" column="30" />
+        <mark key="]" line="138" column="33" />
+        <mark key="." line="138" column="33" />
+        <mark key="^" line="138" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/nginx/conf.prod.nginx" timestamp="1515628546770">
         <mark key="[" line="7" column="0" />
@@ -213,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
       <jump line="125" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
       <jump line="123" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
       <jump line="74" column="11" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
@@ -313,55 +312,56 @@
       <jump line="83" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/offers.js" />
       <jump line="67" column="15" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/offers.js" />
       <jump line="91" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" />
+      <jump line="0" column="3930" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>getHost(domain)</text>
+        <text>164</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyh0aW1lc3RhbXApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmdldCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsOiAK</text>
+        <text encoding="base64">ICAsIHJwID0gcmVxdWlyZSgncmVxdWVzdC1wcm9taXNlLW5hdGl2ZScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">LCByZXF1aXJlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmcy5yZWFkRmlsZVN5bmMoX19kaXJuYW1lICsgJy8uLi9tb2NrL3ZpZGVvcy9zaGFyZWRfdmlkZW8uZnZwJykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdCgpLm5vdC50by5iZS51bmRlZmluZWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhfX2Rpcm5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsOiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGZzLnJlYWRGaWxlU3luYygnLi9tb2NrL3ZpZGVvcy9zaGFyZWRfdmlkZW8uZnZwJykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsOiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBmcyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmcy5yZWFkRmlsZVN5bmMoX19kaXJuYW1lICsgJy8uLi9tb2NrL3ZpZGVvcy9zaGFyZWRfdmlkZW8uZnZwJykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhfX2Rpcm5hbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>68,85s/getHost(domain)/domainHost</text>
       </register>
     </registers>
     <search>
-      <last-search>getHost(domain)</last-search>
+      <last-search>164</last-search>
       <last-offset />
-      <last-pattern>getHost(domain)</last-pattern>
+      <last-pattern>164</last-pattern>
       <last-replace>domainHost</last-replace>
       <last-substitute>getHost(domain)</last-substitute>
       <last-dir>1</last-dir>
@@ -369,7 +369,6 @@
     </search>
     <history>
       <history-search>
-        <entry>f.subm</entry>
         <entry>kalad</entry>
         <entry>net</entry>
         <entry>10000</entry>
@@ -389,6 +388,7 @@
         <entry>config =</entry>
         <entry>expi</entry>
         <entry>getHost(domain)</entry>
+        <entry>164</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
