@@ -98,11 +98,11 @@
         <mark key="." line="68" column="15" />
         <mark key="^" line="68" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1516656717203">
-        <mark key="[" line="234" column="0" />
-        <mark key="]" line="234" column="0" />
-        <mark key="^" line="235" column="28" />
-        <mark key="." line="234" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1516660365387">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="^" line="377" column="78" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/nginx/conf.prod.nginx" timestamp="1515628546770">
         <mark key="[" line="7" column="0" />
@@ -327,7 +327,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.headers</text>
+        <text>firstVideoSize</text>
       </register>
       <register name="/" type="4">
         <text>164</text>
@@ -339,28 +339,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5yZXNwb25zZS5oZWFkZXJzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaXJzdFZpZGVvKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgLCByZXR1cm5lZFZpZGVvCgogICAgICAgICAgLy8gbGV0IGdldFJlZGlyZWN0UmVzdWx0ID0gYXdhaXQoY2hhaQogICAgICAgICAgLy8gICAucmVxdWVzdChtb2Nrcy5nZXRTZXJ2ZXJVcmwoKSkKICAgICAgICAgIC8vICAgLmdldChgL3ZpZGVvcy8ke2ZpcnN0VmlkZW8uaWR9L2Rvd25sb2FkP21ldGFkYXRhPXRydWVgKQogICAgICAgICAgLy8gICAuc2V0KCdBdXRob3JpemF0aW9uJywgbWFpblVzZXJUb2tlbikKICAgICAgICAgIC8vICAgLnNlbmQoKSk7Cgo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIGV4cGVjdChyZXN1bHQuYm9keS52aWRlby5pc1VwbG9hZGVkKS50by5iZS50cnVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcmV0dXJuZWRWaWRlby5zaG91bGQuYmUuZXEoc2Vjb25kVmlkZW9CdWZmZXJTdHJpbmcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcmV0dXJuZWRWaWRlbyA9IG5ldyBTdHJpbmcocmVzdWx0KTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8qKlRvRG8qKjogY29tcGFyZSBmaWxlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>68,85s/getHost(domain)/domainHost</text>
