@@ -98,7 +98,7 @@
         <mark key="." line="68" column="15" />
         <mark key="^" line="68" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1516647626505">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1516650339293">
         <mark key="[" line="138" column="30" />
         <mark key="]" line="138" column="33" />
         <mark key="." line="138" column="33" />
@@ -110,7 +110,7 @@
         <mark key="^" line="15" column="16" />
         <mark key="." line="15" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516397232434">
+      <file name="/Dummy.txt" timestamp="1516650403761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1516003140046">
@@ -179,6 +179,12 @@
         <mark key="]" line="48" column="4" />
         <mark key="^" line="48" column="5" />
         <mark key="." line="48" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/sharedVideo.js" timestamp="1516650541457">
+        <mark key="[" line="89" column="6" />
+        <mark key="]" line="89" column="12" />
+        <mark key="^" line="89" column="12" />
+        <mark key="." line="89" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/logger/index.js" timestamp="1516396638118">
         <mark key="[" line="11" column="14" />
@@ -316,10 +322,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">czNrZXkgPSA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">czNrZXkgPSA=</text>
       </register>
       <register name="/" type="4">
         <text>164</text>
@@ -328,31 +334,31 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyh0aW1lc3RhbXApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmdldCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAsIHJwID0gcmVxdWlyZSgncmVxdWVzdC1wcm9taXNlLW5hdGl2ZScpCg==</text>
+        <text encoding="base64">ICAgICAgczNrZXkgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LCByZXF1aXJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmdldCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdCgpLm5vdC50by5iZS51bmRlZmluZWQ7Cg==</text>
+        <text encoding="base64">ICAsIHJwID0gcmVxdWlyZSgncmVxdWVzdC1wcm9taXNlLW5hdGl2ZScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsOiAK</text>
+        <text encoding="base64">LCByZXF1aXJlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsOiAK</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdCgpLm5vdC50by5iZS51bmRlZmluZWQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsOiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmcy5yZWFkRmlsZVN5bmMoX19kaXJuYW1lICsgJy8uLi9tb2NrL3ZpZGVvcy9zaGFyZWRfdmlkZW8uZnZwJykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsOiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhfX2Rpcm5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name=":" type="4">
         <text>68,85s/getHost(domain)/domainHost</text>
