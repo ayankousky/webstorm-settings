@@ -98,11 +98,11 @@
         <mark key="." line="68" column="15" />
         <mark key="^" line="68" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1516655324017">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="261" column="27" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1516656012741">
+        <mark key="[" line="260" column="41" />
+        <mark key="]" line="260" column="40" />
+        <mark key="^" line="260" column="40" />
+        <mark key="." line="260" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/nginx/conf.prod.nginx" timestamp="1515628546770">
         <mark key="[" line="7" column="0" />
@@ -110,7 +110,7 @@
         <mark key="^" line="15" column="16" />
         <mark key="." line="15" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516655325747">
+      <file name="/Dummy.txt" timestamp="1516655998785">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1516003140046">
@@ -323,11 +323,11 @@
       <jump line="101" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/sharedVideo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaXJzdFZpZGVvKQo=</text>
+      <register name="&quot;" type="4">
+        <text>.headers</text>
       </register>
       <register name="-" type="4">
-        <text>302</text>
+        <text>.headers</text>
       </register>
       <register name="/" type="4">
         <text>164</text>
