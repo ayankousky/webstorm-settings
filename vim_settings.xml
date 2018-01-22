@@ -98,11 +98,10 @@
         <mark key="." line="68" column="15" />
         <mark key="^" line="68" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1516652573042">
-        <mark key="[" line="139" column="42" />
-        <mark key="]" line="140" column="24" />
-        <mark key="." line="140" column="24" />
-        <mark key="^" line="140" column="24" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1516653569418">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/nginx/conf.prod.nginx" timestamp="1515628546770">
         <mark key="[" line="7" column="0" />
@@ -323,8 +322,8 @@
       <jump line="101" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/sharedVideo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>body</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>body</text>
@@ -336,38 +335,31 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyh0aW1lc3RhbXApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHMzb2JqKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmdldChgL3ZpZGVvcy9zZWFyY2g/c2VhcmNoVHlwZT1pbnRlcm5hbCZjbG91ZElkPSR7Zmlyc3RWaWRlby5pZH0mb3JkZXJbMF1bY29sdW1uXT0wJm9yZGVyWzBdW2Rpcl09ZGVzYyZzdGFydD0wJmxlbmd0aD0xMCZjb2x1bW5zWzBdW2RhdGFdPWlkYCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBzM29iaiA9IGF3YWl0KHJwLmdldChzM0hlbHBlci5nZXRTaWduZWRVcmwoYGNoYW5uZWxzLzgvdmlkZW9zLyR7Zmlyc3RWaWRlby5pZH0vJHtmaXJzdFZpZGVvLmlkfS5mdnAuaW5kZXguanNvbmApKSkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBzM0hlbHBlciA9IHJlcXVpcmUoJy4uLy4uLy4uL2xpYi9oZWxwZXJzL2F3cycpLnMzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJcGFyYW1zID0gcGFyYW1zIHx8IHt9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnJlZGlyZWN0cygwKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>;
-			if (params.thumbnail) {
-				s3key = video.s3key + video.id + '_thumb.png';
-			} else if (params.indexjson){
-        s3key = video.s3key + `${video.id}.fvp.index.json`;
-      } else {
-				s3key = video.s3key + video.id + '.fvp';
-			}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnJlZGlyZWN0cygwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>68,85s/getHost(domain)/domainHost</text>
