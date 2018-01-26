@@ -51,11 +51,11 @@
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1516665036184">
         <mark key="'" line="605" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/zip_files/router/index.js" timestamp="1516954170604">
-        <mark key="[" line="42" column="66" />
-        <mark key="]" line="42" column="67" />
+      <file name="$USER_HOME$/Documents/Projects/zip_files/router/index.js" timestamp="1516954791805">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
         <mark key="^" line="40" column="28" />
-        <mark key="." line="42" column="67" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/package.json" timestamp="1516147127246">
         <mark key="[" line="25" column="0" />
@@ -213,7 +213,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAljb25zb2xlLmxvZyh2aWRlby5zM2tleSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMuZmlsZXMpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -225,31 +225,31 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyh0aW1lc3RhbXApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAljb25zb2xlLmxvZyh2aWRlby5zM2tleSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMuZmlsZXMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygndmlkZW8uczNrZXknKQo=</text>
+        <text encoding="base64">ICAgIAljb25zb2xlLmxvZyh2aWRlby5zM2tleSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHMzKQo=</text>
+        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygndmlkZW8uczNrZXknKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRpclBhcmFtcykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHMzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaXJQYXJhbXMnKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRpclBhcmFtcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBrCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaXJQYXJhbXMnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhd2FpdCAobmV3IEFXUy5TMygpLmxpc3RPYmplY3RzKGRpclBhcmFtcykucHJvbWlzZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>68,85s/getHost(domain)/domainHost</text>
