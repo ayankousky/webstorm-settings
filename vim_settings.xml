@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/README.md" timestamp="1515629372855">
+        <mark key="'" line="15" column="118" />
+        <mark key="[" line="98" column="19" />
+        <mark key="]" line="98" column="26" />
+        <mark key="^" line="98" column="26" />
+        <mark key="." line="98" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/s3.js" timestamp="1516665927544">
         <mark key="'" line="154" column="17" />
         <mark key="[" line="72" column="0" />
@@ -35,6 +42,12 @@
         <mark key="^" line="67" column="4" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/dynamodb.js" timestamp="1517138175003">
+        <mark key="[" line="35" column="30" />
+        <mark key="]" line="35" column="30" />
+        <mark key="^" line="35" column="30" />
+        <mark key="." line="35" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1516663458829">
         <mark key="[" line="835" column="19" />
         <mark key="]" line="836" column="20" />
@@ -55,31 +68,63 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1517134449035">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="88" column="23" />
+        <mark key="]" line="88" column="25" />
+        <mark key="." line="88" column="25" />
+        <mark key="^" line="88" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" timestamp="1516056181980">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="244" />
+        <mark key="." line="10" column="244" />
+        <mark key="^" line="10" column="244" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/internal.js" timestamp="1516827984678" />
       <file name="$USER_HOME$/Documents/Projects/riseio/tour-cms/server/controllers/api.js" timestamp="1517060145319" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" timestamp="1516641408626">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="65" column="12" />
+        <mark key="]" line="65" column="89" />
+        <mark key="." line="65" column="89" />
+        <mark key="^" line="65" column="89" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/offers.js" timestamp="1516397408462">
+        <mark key="'" line="67" column="15" />
+        <mark key="[" line="68" column="15" />
+        <mark key="]" line="68" column="15" />
+        <mark key="." line="68" column="15" />
+        <mark key="^" line="68" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1516662075387">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="377" column="78" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516954163032">
+      <file name="/Dummy.txt" timestamp="1517137979381">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/BaseType.js" timestamp="1517138092646" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/streamVideo.js" timestamp="1516651968793" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/BaseType.js" timestamp="1516666534864">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" timestamp="1516827954921" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" timestamp="1517134416264" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" timestamp="1516004649749">
+        <mark key="'" line="15" column="69" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="52" column="45" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1516663768278" />
     </filemarks>
     <jumps>
-      <jump line="74" column="11" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
-      <jump line="107" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
-      <jump line="111" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
-      <jump line="115" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
       <jump line="117" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
       <jump line="116" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
       <jump line="110" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
@@ -176,10 +221,14 @@
       <jump line="0" column="3930" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/index.js" />
       <jump line="76" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/sharedVideo.js" />
       <jump line="101" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/sharedVideo.js" />
+      <jump line="52" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="106" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMuZmlsZXMpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
