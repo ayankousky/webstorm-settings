@@ -156,14 +156,19 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1517153619949">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1517160200536">
         <mark key="'" line="106" column="0" />
-        <mark key="[" line="44" column="6" />
-        <mark key="]" line="44" column="18" />
-        <mark key="." line="44" column="18" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
         <mark key="^" line="44" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/internal.js" timestamp="1516827984678" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/internal.js" timestamp="1517160150150">
+        <mark key="[" line="110" column="36" />
+        <mark key="]" line="110" column="36" />
+        <mark key="." line="110" column="36" />
+        <mark key="^" line="110" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/riseio/tour-cms/server/controllers/api.js" timestamp="1517060145319" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/google_analytics.js" timestamp="1514534776349">
         <mark key="[" line="4" column="9" />
@@ -236,11 +241,11 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1517153801886">
-        <mark key="[" line="818" column="58" />
-        <mark key="]" line="818" column="58" />
-        <mark key="^" line="818" column="54" />
-        <mark key="." line="818" column="58" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1517160082701">
+        <mark key="[" line="845" column="56" />
+        <mark key="]" line="845" column="68" />
+        <mark key="^" line="845" column="68" />
+        <mark key="." line="845" column="68" />
       </file>
     </filemarks>
     <jumps>
@@ -346,11 +351,11 @@
       <jump line="1122" column="32" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>S</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>record</text>
       </register>
       <register name="/" type="4">
         <text>ondyn</text>
@@ -359,32 +364,32 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyh0aW1lc3RhbXApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBzM2tleSA9IHJlY29yZC5keW5hbW9kYi5OZXdJbWFnZS5zM2tleS5TICsgcmVjb3JkLmR5bmFtb2RiLk5ld0ltYWdlLmlkLlMgKyAnLmZ2cCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text>record.dynamodb.NewImage
-record.dynamodb.NewImage</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmlkZW9zLm1hcCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">bGV0IHJlY29yZHMgPSBldmVudC5SZWNvcmRzLm1hcChyZWNvcmQ9PnsKICAgICAgICBpZiAocmVjb3JkLmV2ZW50TmFtZSA9PSAnUkVNT1ZFJykgewogICAgICAgICAgcmV0dXJuIHJlY29yZDsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgbGV0IGlzUmVjb3JkRXhpc3QgPSBhd2FpdChFU3NlcnZpY2UucmVjb3JkRXhpc3RzKGVzRW50aXR5VHlwZSwgcmVjb3JkKSk7CiAgICAgICAgICByZXR1cm4gRVNzZXJ2aWNlLnB1dFJlY29yZChlc0VudGl0eVR5cGUsIHJlY29yZCwgaXNSZWNvcmRFeGlzdCk7CiAgICAgICAgfQogICAgICB9KTs=</text>
+        <text encoding="base64">CiAgLy8gIzIKICAvLyByZXNvbHZlIGFzIGVhY2ggc3VjY2Vzc2Z1bCBjYWxsYmFjayBjb21lcyBpbgogIGxldCByZWNvcmRzMiA9IGV2ZW50LlJlY29yZHMubWFwKHJlY29yZD0+ewogICAgaWYgKHJlY29yZC5ldmVudE5hbWUgPT0gJ1JFTU9WRScpIHsKICAgICAgYXdhaXQgKEVTc2VydmljZS5kZWxldGVSZWNvcmQoaW50ZXJuYWxTZWFyY2hUeXBlLCByZWNvcmQuZHluYW1vZGIuS2V5cy5pZC5TKSk7CiAgICAgIHJldHVybiByZWNvcmQ7CiAgICB9IGVsc2UgewogICAgICAvLyAqKioqKiogUmV0cmlldmUgaW5kZXguanNvbiAqKioqKioqCiAgICAgIGxldCBzM2tleSA9IHJlY29yZC5keW5hbW9kYi5OZXdJbWFnZS5zM2tleS5TICsgcmVjb3JkLmR5bmFtb2RiLk5ld0ltYWdlLmlkLlMgKyAnLmZ2cCc7CiAgICAgIGNvbnNvbGUubG9nKCdzM2tleScpCiAgICAgIGNvbnNvbGUubG9nKHMza2V5KQogICAgICBsZXQgaXNJbmRleEpTT05leGlzdD0gYXdhaXQgKFZpZGVvLmdldEluZGV4SlNPTkZpZWxkcyhzM2tleSkpOwogICAgICBpZiAoIWlzSW5kZXhKU09OZXhpc3QpewogICAgICAgIGxldCBpbmRleEpTT047CiAgICAgICAgdHJ5IHsKICAgICAgICAgIGluZGV4SlNPTiA9IGF3YWl0KFZpZGVvLnJldHJpZXZlSW5kZXgoczNrZXkpKTsKICAgICAgICAgIGlmIChpbmRleEpTT04pIHsKICAgICAgICAgICAgY29uc29sZS5sb2coJ1NUT1JFIGpzb24nKQogICAgICAgICAgICBhd2FpdChWaWRlby5zdG9yZUluZGV4SlNPTihzM2tleSwgaW5kZXhKU09OKSk7CiAgICAgICAgICB9CiAgICAgICAgICBjb25zb2xlLmxvZygnaW5kZXhKU09OJykKICAgICAgICAgIGNvbnNvbGUubG9nKGluZGV4SlNPTikKICAgICAgICB9IGNhdGNoIChlKXsKICAgICAgICAgIGNvbnNvbGUubG9nKCdlcnJvciBvY2N1cnJlZCcpOwogICAgICAgICAgY29uc29sZS5sb2coZSk7CiAgICAgICAgfQogICAgICB9IGVsc2UgewogICAgICAgIGNvbnNvbGUubG9nKCdpc0luZGV4SlNPTmV4aXN0ID0gdHJ1ZTonKQogICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGlzSW5kZXhKU09OZXhpc3QpKQogICAgICB9CiAgICAgIC8vICoqKioqKiBFTkQgUmV0cmlldmUgaW5kZXguanNvbiAqKioqKioqCiAgICAgIGxldCBpbmRleEpTT05Qcm9wcyA9IGF3YWl0IChWaWRlby5nZXRJbmRleEpTT05GaWVsZHMoczNrZXkpKTsKICAgICAgY29uc29sZS5sb2coJ2luZGV4SlNPTlByb3BzJykKICAgICAgY29uc29sZS5sb2coaW5kZXhKU09OUHJvcHMpCiAgICAgIGxldCBpc1JlY29yZEV4aXN0ID0gYXdhaXQoRVNzZXJ2aWNlLnJlY29yZEV4aXN0cyhpbnRlcm5hbFNlYXJjaFR5cGUsIHJlY29yZCkpOwogICAgICByZXR1cm4gRVNzZXJ2aWNlLnB1dFJlY29yZChpbnRlcm5hbFNlYXJjaFR5cGUsIHJlY29yZCwgaXNSZWNvcmRFeGlzdCwgaW5kZXhKU09OUHJvcHMpOwogICAgfQogIH0pOwoKICAvLyBsb2cgYSBwcm9taXNlIGFycmF5IG9mIGFsbCByZWNvcmRzCiAgbGV0IHB1dFJlc3VsdDIgPSBhd2FpdChyZWNvcmRzMik7CiAgY29uc29sZS5sb2coJ3B1dCByZWNvcmRzIHJlc3VsdCAjMicpOwogIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHB1dFJlc3VsdDIpKTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaXNSZWNvcmRFeGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBzM2tleSA9IHJlY29yZC5keW5hbW9kYi5OZXdJbWFnZS5zM2tleS5TICsgcmVjb3JkLmR5bmFtb2RiLk5ld0ltYWdlLmlkLlMgKyAnLmZ2cCc7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="8" type="8">
+        <text>record.dynamodb.NewImage
+record.dynamodb.NewImage</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgdmlkZW9zLm1hcCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>68,85s/getHost(domain)/domainHost</text>
