@@ -156,12 +156,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1517160200536">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1517160854360">
         <mark key="'" line="106" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="44" column="18" />
+        <mark key="[" line="41" column="14" />
+        <mark key="]" line="41" column="21" />
+        <mark key="." line="41" column="21" />
+        <mark key="^" line="41" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/internal.js" timestamp="1517160150150">
         <mark key="[" line="110" column="36" />
@@ -194,7 +194,7 @@
         <mark key="^" line="377" column="78" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517147772118">
+      <file name="/Dummy.txt" timestamp="1517160814242">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/BaseType.js" timestamp="1517138092646" />
@@ -204,7 +204,7 @@
         <mark key="^" line="27" column="132" />
         <mark key="." line="27" column="126" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/index.js" timestamp="1517150406282" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/index.js" timestamp="1517160844143" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/streamVideo.js" timestamp="1516651968793" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/BaseType.js" timestamp="1516666534864">
         <mark key="[" line="70" column="0" />
@@ -351,11 +351,11 @@
       <jump line="1122" column="32" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>handleDBEvents</text>
       </register>
       <register name="-" type="4">
-        <text>record</text>
+        <text>handleDBEvents</text>
       </register>
       <register name="/" type="4">
         <text>ondyn</text>
