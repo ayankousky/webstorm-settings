@@ -218,10 +218,10 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" timestamp="1517185140191">
-        <mark key="[" line="148" column="23" />
-        <mark key="]" line="149" column="18" />
-        <mark key="." line="149" column="18" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" timestamp="1517185753676">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
         <mark key="^" line="149" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/logger/index.js" timestamp="1516396638118">
@@ -353,8 +353,8 @@
       <jump line="818" column="26" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnRXJyb3Igb24gZXMgZGVsZXRlOicpCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -366,31 +366,31 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyh0aW1lc3RhbXApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnRXJyb3Igb24gZXMgZGVsZXRlOicpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29udmVydCBkbmFtb2RiIHJlY29yZCB0byBlcyByZWNvcmQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gbGV0IG9iaiA9IHRoaXMuZHluYW1vZGJUb0VTKHJlY29yZCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLy8gY29udmVydCBkbmFtb2RiIHJlY29yZCB0byBlcyByZWNvcmQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRVNzZXJ2aWNlLnJlbW92ZQo=</text>
+        <text encoding="base64">ICAgICAgLy8gbGV0IG9iaiA9IHRoaXMuZHluYW1vZGJUb0VTKHJlY29yZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>68,85s/getHost(domain)/domainHost</text>
