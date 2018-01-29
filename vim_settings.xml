@@ -45,7 +45,7 @@
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1517160872042">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1517183643081">
         <mark key="'" line="360" column="0" />
         <mark key="[" line="37" column="56" />
         <mark key="]" line="37" column="53" />
@@ -157,18 +157,18 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1517162309373">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1517183646990">
         <mark key="'" line="106" column="0" />
         <mark key="[" line="43" column="39" />
         <mark key="]" line="43" column="40" />
         <mark key="." line="43" column="40" />
         <mark key="^" line="43" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/internal.js" timestamp="1517165055165">
-        <mark key="[" line="142" column="37" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
-        <mark key="^" line="146" column="39" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/internal.js" timestamp="1517183551169">
+        <mark key="[" line="94" column="32" />
+        <mark key="]" line="94" column="38" />
+        <mark key="." line="94" column="38" />
+        <mark key="^" line="94" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/riseio/tour-cms/server/controllers/api.js" timestamp="1517060145319" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/google_analytics.js" timestamp="1514534776349">
@@ -357,7 +357,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>record.dynamodb.Keys.id.S</text>
+        <text>ocabj</text>
       </register>
       <register name="/" type="4">
         <text>ondyn</text>
@@ -369,28 +369,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRVNzZXJ2aWNlLnJlbW92ZQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly8gbWFrZSBzdXJlIHNvIGluZGV4IGlzIGNyZWF0ZWQKICAgICAgaWYgKCEgYXdhaXQoRVNzZXJ2aWNlLmluZGV4RXhpc3RzKGVzRW50aXR5VHlwZSkpKXsKICAgICAgICBhd2FpdChFU3NlcnZpY2UuY3JlYXRlSW5kZXgoZXNFbnRpdHlUeXBlKSk7CiAgICAgIH0K</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcHV0UmVzdWx0MSA9IAo=</text>
+        <text encoding="base64">ICAgICAgLy8gY29udmVydCBkbmFtb2RiIHJlY29yZCB0byBlcyByZWNvcmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gIzEK</text>
+        <text encoding="base64">ICAgICAgLy8gbGV0IG9iaiA9IHRoaXMuZHluYW1vZGJUb0VTKHJlY29yZCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRVNzZXJ2aWNlLnJlbW92ZQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgbGV0IHJlY29yZHMxID0gCiAgICAgIC8vICMyCiAgICAgIGxldCByZWNvcmRzMiA9IGV2ZW50cy5tYXAoZXZlbnQgPT4gewogICAgICAgIGlmIChldmVudC5ldmVudE5hbWUgPT09ICdSRU1PVkUnKSB7CiAgICAgICAgICBhd2FpdCAoRVNzZXJ2aWNlLmRlbGV0ZVJlY29yZChpbnRlcm5hbFNlYXJjaFR5cGUsIGV2ZW50LmZpZWxkcy5pZCkpOwogICAgICAgICAgcmV0dXJuIGV2ZW50OwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBsZXQgaXNSZWNvcmRFeGlzdCA9IGF3YWl0KEVTc2VydmljZS5yZWNvcmRFeGlzdHMoaW50ZXJuYWxTZWFyY2hUeXBlLCBldmVudC5maWVsZHMuaWQpKTsKICAgICAgICAgIHJldHVybiBFU3NlcnZpY2UucHV0UmVjb3JkKGludGVybmFsU2VhcmNoVHlwZSwgZXZlbnQuZmllbGRzLCBpc1JlY29yZEV4aXN0KTsKICAgICAgICB9CiAgICAgIH0pOwoKICAgICAgLy8gbG9nIGEgcHJvbWlzZSBhcnJheSBvZiBhbGwgcmVjb3JkcwogICAgICBsZXQgcHV0UmVzdWx0MiA9IGF3YWl0KHJlY29yZHMyKTsKICAgICAgY29uc29sZS5sb2coJ3B1dCByZWNvcmRzIHJlc3VsdCAjMicpOwogICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShwdXRSZXN1bHQyKSk7Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>68,85s/getHost(domain)/domainHost</text>
