@@ -139,8 +139,12 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1517151893020">
-        <mark key="'" line="587" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1517593972611">
+        <mark key="'" line="567" column="5" />
+        <mark key="[" line="420" column="2" />
+        <mark key="]" line="420" column="3" />
+        <mark key="^" line="420" column="3" />
+        <mark key="." line="420" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.component.css" timestamp="1515372378259">
         <mark key="[" line="2" column="0" />
@@ -305,7 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" />
       <jump line="96" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" />
       <jump line="121" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" />
       <jump line="97" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" />
@@ -405,6 +408,7 @@
       <jump line="37" column="15" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" />
       <jump line="7" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" />
       <jump line="0" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" />
+      <jump line="567" column="5" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
