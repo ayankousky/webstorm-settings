@@ -29,6 +29,12 @@
         <mark key="^" line="7" column="49" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/s3.js" timestamp="1516665927544">
+        <mark key="'" line="154" column="17" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/network.js" timestamp="1514497707084">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="5" />
@@ -196,11 +202,12 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/tmp/leha/index.js" timestamp="1517594250666">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="27" />
-        <mark key="^" line="5" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/tmp/leha/index.js" timestamp="1517598317158">
+        <mark key="j" line="6" column="33" />
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="16" column="38" />
+        <mark key="^" line="16" column="38" />
+        <mark key="." line="16" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" timestamp="1517530156452">
         <mark key="'" line="7" column="6" />
@@ -264,6 +271,12 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/tmp/leha/index.html" timestamp="1517597517519">
+        <mark key="'" line="25" column="3" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" timestamp="1517185753676">
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="0" />
@@ -309,7 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" />
       <jump line="121" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" />
       <jump line="97" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.component.html" />
@@ -409,6 +421,7 @@
       <jump line="7" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" />
       <jump line="0" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" />
       <jump line="567" column="5" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="25" column="3" filename="$USER_HOME$/Documents/Projects/tmp/leha/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -424,50 +437,34 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyh0aW1lc3RhbXApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGV0IHJlc3VsdCA9IGF3YWl0IGZ1bigpOwo=</text>
+        <text encoding="base64">Cn0pKCk7Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0hlbGxvIHdvcmxkIScpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2VsbG8gd29ybGQhJykK</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhPYmplY3Qua2V5cyhyZXN1bHQpKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>Hello world!')
-console.log('Hello world!')
-console.log('Hello world!')
-console.log('Hello world!')
-console.log('Hello world!')
-console.log('Hello world!')
-console.log('Hello world!')
-console.log('Hello world!')
-console.log('Hello world!')
-console.log('H</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvbnNvbGUubG9nKHN1bSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2VsbG8gd29ybGQhJykK</text>
+      <register name="8" type="4">
+        <text encoding="base64">bGV0IG51bUFycmF5ID0gWzEsIDIsJzIzJywzXTsKLy8gbGV0IG51bUFycmF5ID0gWydBbGV4JywnICcsJ1lhbmtvdXNreSddOwoKICBsZXQgc3VtID0gbnVtQXJyYXkucmVkdWNlKChyZXN1bHQsbmV4dCkgPT4gewogICAgcmV0dXJuIHJlc3VsdCArIChuZXh0IC0gMCk7CiAgfSk7CgogIC8vIGxldCBzdW0gPSAwOwogIC8vIG51bUFycmF5LmZvckVhY2gobnVtID0+IHN1bSArPSBudW0pCiAgYw==</text>
       </register>
-      <register name="9" type="4">
-        <text>Zello world!')
-console.log('Zello world!')
-console.log('Zello world!')
-console.log('Zello world!')
-console.log('Zello world!')
-console.log('Zello world!')
-console.log('Zello world!')
-console.log('Zello world!')
-console.log('Zello world!')
-console.log('Zello world!')
-console.log('Z</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQgKyBuZXh0OwogIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/ayankousky/950372854860.dkr.ecr.eu-west-2.amazonaws.com/g</text>
