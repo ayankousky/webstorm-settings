@@ -16,11 +16,11 @@
         <mark key="^" line="98" column="26" />
         <mark key="." line="98" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" timestamp="1517593626214">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="18" column="35" />
-        <mark key="." line="18" column="35" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" timestamp="1517771386783">
+        <mark key="'" line="11" column="9" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
         <mark key="^" line="18" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/ii.js" timestamp="1514490683374">
@@ -210,12 +210,12 @@
         <mark key="^" line="24" column="9" />
         <mark key="." line="24" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" timestamp="1517530156452">
-        <mark key="'" line="7" column="6" />
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="47" column="24" />
-        <mark key="." line="0" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" timestamp="1517771438951">
+        <mark key="'" line="6" column="4" />
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="65" />
+        <mark key="^" line="6" column="65" />
+        <mark key="." line="6" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/package.json" timestamp="1514497552179">
         <mark key="[" line="21" column="30" />
@@ -323,8 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" />
-      <jump line="97" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.component.html" />
       <jump line="23" column="52" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/auth/auth.service.ts" />
       <jump line="8" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.component.html" />
@@ -416,74 +414,74 @@
       <jump line="1122" column="32" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="780" column="15" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
       <jump line="818" column="26" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
-      <jump line="15" column="15" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" />
       <jump line="27" column="15" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" />
       <jump line="37" column="15" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" />
-      <jump line="7" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" />
       <jump line="0" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" />
       <jump line="567" column="5" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="25" column="3" filename="$USER_HOME$/Documents/Projects/tmp/leha/index.html" />
+      <jump line="15" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" />
+      <jump line="6" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" />
+      <jump line="7" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" />
+      <jump line="11" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgOTUwMzcyODU0ODYwLmRrci5lY3IuZXUtd2VzdC0yLmFtYXpvbmF3cy5jb20va2FsYWRfc2VydmVyCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>%s</text>
+        <text>ima</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyh0aW1lc3RhbXApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cn0pKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgOTUwMzcyODU0ODYwLmRrci5lY3IuZXUtd2VzdC0yLmFtYXpvbmF3cy5jb20va2FsYWRfc2VydmVyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cn0pKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhPYmplY3Qua2V5cyhyZXN1bHQpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLwo=</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhPYmplY3Qua2V5cyhyZXN1bHQpKQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAvLwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICBvbnNvbGUubG9nKHN1bSkK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">bGV0IG51bUFycmF5ID0gWzEsIDIsJzIzJywzXTsKLy8gbGV0IG51bUFycmF5ID0gWydBbGV4JywnICcsJ1lhbmtvdXNreSddOwoKICBsZXQgc3VtID0gbnVtQXJyYXkucmVkdWNlKChyZXN1bHQsbmV4dCkgPT4gewogICAgcmV0dXJuIHJlc3VsdCArIChuZXh0IC0gMCk7CiAgfSk7CgogIC8vIGxldCBzdW0gPSAwOwogIC8vIG51bUFycmF5LmZvckVhY2gobnVtID0+IHN1bSArPSBudW0pCiAgYw==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQgKyBuZXh0OwogIH0pOwo=</text>
-      </register>
       <register name=":" type="4">
-        <text>%s/ayankousky/950372854860.dkr.ecr.eu-west-2.amazonaws.com/g</text>
+        <text>%s/eu-west/us-west/g</text>
       </register>
     </registers>
     <search>
-      <last-search>%s</last-search>
+      <last-search>ima</last-search>
       <last-offset />
-      <last-pattern>%s</last-pattern>
-      <last-replace>950372854860.dkr.ecr.eu-west-2.amazonaws.com</last-replace>
-      <last-substitute>ayankousky</last-substitute>
+      <last-pattern>ima</last-pattern>
+      <last-replace>us-west</last-replace>
+      <last-substitute>eu-west</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwpXD4=</entry>
-        <entry>98</entry>
         <entry>home</entry>
         <entry>Home</entry>
         <entry>authent</entry>
@@ -502,9 +500,10 @@
         <entry>524</entry>
         <entry>ayankousky</entry>
         <entry>%s</entry>
+        <entry>eu-west</entry>
+        <entry>ima</entry>
       </history-search>
       <history-cmd>
-        <entry>help</entry>
         <entry>2</entry>
         <entry encoding="base64">JzwsJz4xOQ==</entry>
         <entry>1</entry>
@@ -524,6 +523,7 @@
         <entry>68,85s/getHost(domain)/domainHost</entry>
         <entry>%e/ayankousky/keks/g</entry>
         <entry>%s/ayankousky/950372854860.dkr.ecr.eu-west-2.amazonaws.com/g</entry>
+        <entry>%s/eu-west/us-west/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
