@@ -182,12 +182,12 @@
         <mark key="." line="43" column="40" />
         <mark key="^" line="43" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/comprigo.js" timestamp="1517867441700">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/comprigo.js" timestamp="1517871132468">
         <mark key="'" line="15" column="21" />
-        <mark key="[" line="57" column="47" />
-        <mark key="]" line="57" column="60" />
-        <mark key="." line="57" column="60" />
-        <mark key="^" line="57" column="60" />
+        <mark key="[" line="55" column="90" />
+        <mark key="]" line="54" column="81" />
+        <mark key="^" line="54" column="81" />
+        <mark key="." line="54" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" timestamp="1516056181980">
         <mark key="'" line="11" column="0" />
@@ -263,14 +263,14 @@
         <mark key="^" line="377" column="78" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517867304367">
+      <file name="/Dummy.txt" timestamp="1517870985573">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1517865892525">
-        <mark key="[" line="22" column="35" />
-        <mark key="]" line="23" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1517869983256">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
         <mark key="^" line="23" column="27" />
-        <mark key="." line="23" column="27" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/BaseType.js" timestamp="1516666534864">
         <mark key="[" line="70" column="0" />
@@ -306,12 +306,12 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" timestamp="1517866823318">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" timestamp="1517869439117">
         <mark key="'" line="126" column="7" />
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="117" column="25" />
-        <mark key="^" line="117" column="25" />
-        <mark key="." line="117" column="25" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="^" line="107" column="5" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/index.js" timestamp="1514499505386">
         <mark key="[" line="20" column="27" />
@@ -436,54 +436,53 @@
       <jump line="15" column="21" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/comprigo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IG5ldHdvcms=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxldCBkZWxldGVSZXN1bHQgPSBhd2FpdCBPZmZlci5yZW1vdmUoe3VwZGF0ZWRBdDogJ2FzZGYnfSk7IC8vcmVtb3ZlIG9ic29sZXRlIG9mZmVycwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5ldHdvcms=</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>ima</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aW1lc3RhbXApCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZG9tYWluc0Fyci5kb21haW5zLmxlbmd0aCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGxldCBkZWxldGVSZXN1bHQgPSBhd2FpdCBPZmZlci5yZW1vdmUoe3VwZGF0ZWRBdDogJ2FzZGYnfSk7IC8vcmVtb3ZlIG9ic29sZXRlIG9mZmVycwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KQo=</text>
+      <register name="2" type="4">
+        <text>nsole.log('Total merchants: ', + merchantsCounter)
+    console.log('Total merchants: ', + merchantsCounter)
+    console.log('Total merchants: ', + merchantsCounter)
+    console.log('Total merchants: ', + merchantsCounter)
+    console.log('Total merchants: ', + merchantsCounter)
+    console.log('Total merchants: ', + merchantsCounter)
+    con</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KQo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdUb3RhbCBtZXJjaGFudHM6ICcsICtPYmplY3Qua2V5cyhtZXJjaGFudHNDb3VudGVyKS5sZW5ndGgpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICBzdG9yZV9uYW1l</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>addMerchantFunc({
-          merchantId: `${network._id}:${domain}`,//'7',
-          store_name: domain,//'Submarino',
-          store_url : getHost(domain),//'submarino.com.br',
-          networkId : network._id,//'zoom',
-          region    : path.region,//'BR'
-          // cpc       : await getMerchantCPCFromXLSX(data.offer.store_name, merchantsXLSX)
-        });</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsKICAgICAgICA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coT2JqZWN0LmtleXMoSlNPTi5wYXJzZShyZXN1bHQpKSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvdmlkZXIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHlwZW9mKHJlc3VsdCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtZXJjaGFudHNDb3VudGVyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRBZGRNZXJjaGFudEZ1bmMoe30pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygna2VrZWtlJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdUb3RhbCBtZXJjaGFudHM6ICcsICsgbWVyY2hhbnRzQ291bnRlcikK</text>
       </register>
       <register name=":" type="4">
         <text>%s/eu-west/us-west/g</text>
@@ -567,6 +566,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
