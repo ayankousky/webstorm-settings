@@ -182,12 +182,11 @@
         <mark key="." line="43" column="40" />
         <mark key="^" line="43" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/comprigo.js" timestamp="1517872521654">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/comprigo.js" timestamp="1517876293833">
         <mark key="'" line="15" column="21" />
-        <mark key="[" line="48" column="9" />
-        <mark key="]" line="48" column="9" />
-        <mark key="^" line="48" column="9" />
-        <mark key="." line="48" column="9" />
+        <mark key="]" line="51" column="4" />
+        <mark key="^" line="51" column="4" />
+        <mark key="." line="51" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" timestamp="1516056181980">
         <mark key="'" line="11" column="0" />
@@ -202,8 +201,11 @@
         <mark key="." line="94" column="38" />
         <mark key="^" line="94" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1517865225936">
-        <mark key="[" line="14" column="39" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1517877018747">
+        <mark key="[" line="24" column="34" />
+        <mark key="]" line="24" column="39" />
+        <mark key="." line="24" column="39" />
+        <mark key="^" line="24" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/google_analytics.js" timestamp="1514534776349">
         <mark key="[" line="4" column="9" />
@@ -437,53 +439,49 @@
       <jump line="15" column="21" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/comprigo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICwgY29tcHJpZ29OZXQgPSAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text>comprigoNet</text>
       </register>
       <register name="/" type="4">
         <text>ima</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZG9tYWluc0Fyci5kb21haW5zLmxlbmd0aCkK</text>
+        <text encoding="base64">ICBsZXQgbmV0d29ya3MgPSBhd2FpdCBOZXR3b3JrLmZpbmRPbmUoe19pZDogJ3pvb20nfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXdPZmZlcnNDb3VudGVyKQo=</text>
+        <text encoding="base64">ICAgICwgY29tcHJpZ29OZXQgPSAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ05ldyBvZmZlcnMgY291bnQ6ICcsICtuZXdPZmZlcnNDb3VudGVyKQo=</text>
+        <text encoding="base64">ICBsZXQgem9vbU5ldCAgICAgPSBkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGxldCBkZWxldGVSZXN1bHQgPSBhd2FpdCBPZmZlci5yZW1vdmUoe3VwZGF0ZWRBdDogeyRsdGU6IHN0YXJ0RGF0ZSAtIDEwMDAwMDAwMCB9fSk7IC8vcmVtb3ZlIG9ic29sZXRlIG9mZmVycwo=</text>
+        <text encoding="base64">ICAvLyBsZXQgbmV0d29ya3MgPSBhd2FpdCBOZXR3b3JrLmZpbmQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBkZWxldGVSZXN1bHQgPSBhd2FpdCBPZmZlci5yZW1vdmUoe3VwZGF0ZWRBdDogJ2FzZGYnfSk7IC8vcmVtb3ZlIG9ic29sZXRlIG9mZmVycwo=</text>
+        <text encoding="base64">ICBzY2hlZHVsZXIuc2NoZWR1bGVKb2IocnVsZSwgZnVuY3Rpb24oKXsK</text>
       </register>
-      <register name="5" type="4">
-        <text>nsole.log('Total merchants: ', + merchantsCounter)
-    console.log('Total merchants: ', + merchantsCounter)
-    console.log('Total merchants: ', + merchantsCounter)
-    console.log('Total merchants: ', + merchantsCounter)
-    console.log('Total merchants: ', + merchantsCounter)
-    console.log('Total merchants: ', + merchantsCounter)
-    con</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG5ldHdvcmtzLmZvckVhY2gobmV0d29yaz0+Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdUb3RhbCBtZXJjaGFudHM6ICcsICtPYmplY3Qua2V5cyhtZXJjaGFudHNDb3VudGVyKS5sZW5ndGgpCg==</text>
+      <register name="6" type="4">
+        <text>{
+      
+    });</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsKICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvdmlkZXIpCg==</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygiUnVuIG9mZmVycyB1cGRhdGVzIG9uIHN0YXJ0OiAiICsgbmV3IERhdGUoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/eu-west/us-west/g</text>
