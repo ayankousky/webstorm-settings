@@ -23,6 +23,13 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="18" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/test/dev_tests.js" timestamp="1517877773072">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+      </file>
+      <file name="/app.js" timestamp="1517878289011" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/ii.js" timestamp="1514490683374">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -182,11 +189,12 @@
         <mark key="." line="43" column="40" />
         <mark key="^" line="43" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/comprigo.js" timestamp="1517876293833">
-        <mark key="'" line="15" column="21" />
-        <mark key="]" line="51" column="4" />
-        <mark key="^" line="51" column="4" />
-        <mark key="." line="51" column="4" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/comprigo.js" timestamp="1517877925367">
+        <mark key="'" line="9" column="21" />
+        <mark key="[" line="69" column="63" />
+        <mark key="]" line="69" column="63" />
+        <mark key="^" line="69" column="63" />
+        <mark key="." line="69" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" timestamp="1516056181980">
         <mark key="'" line="11" column="0" />
@@ -201,11 +209,11 @@
         <mark key="." line="94" column="38" />
         <mark key="^" line="94" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1517877018747">
-        <mark key="[" line="24" column="34" />
-        <mark key="]" line="24" column="39" />
-        <mark key="." line="24" column="39" />
-        <mark key="^" line="24" column="39" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1517878352730">
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="28" />
+        <mark key="." line="33" column="28" />
+        <mark key="^" line="22" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/google_analytics.js" timestamp="1514534776349">
         <mark key="[" line="4" column="9" />
@@ -268,11 +276,11 @@
       <file name="/Dummy.txt" timestamp="1517872733093">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1517872469695">
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="30" column="9" />
-        <mark key="^" line="30" column="9" />
-        <mark key="." line="30" column="9" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1517877944772">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="29" column="9" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/BaseType.js" timestamp="1516666534864">
         <mark key="[" line="70" column="0" />
@@ -309,12 +317,12 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" timestamp="1517869439117">
-        <mark key="'" line="126" column="7" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="107" column="5" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" timestamp="1517877831627">
+        <mark key="'" line="122" column="7" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="103" column="5" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/index.js" timestamp="1514499505386">
         <mark key="[" line="20" column="27" />
@@ -440,10 +448,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICwgY29tcHJpZ29OZXQgPSAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ldHdvcmsudHlwZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>comprigoNet</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>ima</text>
@@ -452,36 +460,36 @@
         <text encoding="base64">ICBsZXQgbmV0d29ya3MgPSBhd2FpdCBOZXR3b3JrLmZpbmRPbmUoe19pZDogJ3pvb20nfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICwgY29tcHJpZ29OZXQgPSAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ldHdvcmsudHlwZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgem9vbU5ldCAgICAgPSBkCg==</text>
+        <text encoding="base64">ICAsIHBhcnNlciA9IHJlcXVpcmUoJ3htbDJqc29uJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBsZXQgbmV0d29ya3MgPSBhd2FpdCBOZXR3b3JrLmZpbmQoKTsK</text>
+        <text encoding="base64">ICAsIHJlYWRsaW5lID0gcmVxdWlyZSgncmVhZGxpbmUnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzY2hlZHVsZXIuc2NoZWR1bGVKb2IocnVsZSwgZnVuY3Rpb24oKXsK</text>
+        <text encoding="base64">ICAsIHNpemVvZiA9IHJlcXVpcmUoJ29iamVjdC1zaXplb2YnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzLmZvckVhY2gobmV0d29yaz0+Cg==</text>
+        <text encoding="base64">ICAsIHJlcXVlc3QgPSByZXF1aXJlKCdyZXF1ZXN0JykK</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-      
-    });</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAsIHpsaWIgPSByZXF1aXJlKCd6bGliJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKG4gPiAxCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvLwo=</text>
+      <register name="8" type="4">
+        <text>00){
+        return lineReader.close();
+      }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygiUnVuIG9mZmVycyB1cGRhdGVzIG9uIHN0YXJ0OiAiICsgbmV3IERhdGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/eu-west/us-west/g</text>
