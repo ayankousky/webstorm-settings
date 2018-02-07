@@ -16,6 +16,12 @@
         <mark key="^" line="98" column="26" />
         <mark key="." line="98" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/mail/index.js" timestamp="1517974521870">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="10" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" timestamp="1517968131412">
         <mark key="'" line="11" column="9" />
         <mark key="[" line="13" column="87" />
@@ -150,6 +156,12 @@
         <mark key="^" line="1081" column="46" />
         <mark key="." line="1081" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/index.js" timestamp="1517973878451">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1517594350271">
         <mark key="'" line="567" column="5" />
         <mark key="[" line="420" column="2" />
@@ -207,11 +219,11 @@
         <mark key="." line="94" column="38" />
         <mark key="^" line="94" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1517966320971">
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="34" />
-        <mark key="." line="15" column="34" />
-        <mark key="^" line="15" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1517974236437">
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="19" column="52" />
+        <mark key="." line="19" column="52" />
+        <mark key="^" line="19" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/google_analytics.js" timestamp="1514534776349">
         <mark key="[" line="4" column="9" />
@@ -444,11 +456,11 @@
       <jump line="68" column="47" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/offers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyAqKipUb0RvKioqOiBoYXJkY29kZWQK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>ima</text>
@@ -456,38 +468,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICBsZXQgbmV0d29ya3MgPSBhd2FpdCBOZXR3b3JrLmZpbmRPbmUoe19pZDogJ3pvb20nfSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAvLyAqKipUb0RvKioqOiBoYXJkY29kZWQK</text>
+      <register name="1" type="4">
+        <text>new AWS.CognitoIdentityCredentials({
+    IdentityPoolId: 'us-east-1-foo-bar'
+  })</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEFwcEVycm9ycy5VbmV4cGVjdGVkKGUudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0pKCk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ly8gYWRkIHJlcXVpcmVkIHBhcmFtZXRlcnMgYW5kIHJlZGlyZWN0CiAgbGV0IHJlZGlyZWN0VXJsID0gb2ZmZXIuYnVpbGRVcmwoewogICAgdXNlcklwOiBpcEFkZHJlc3MsCiAgICBzdWJJZDogc3ViSWQgPT09ICdOb3Qgc3BlY2lmaWVkJyA/IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlZGlyZWN0VXJsICs9IGAmc3ViaWQ9JHtzdWJpZH1gOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBhc3luYygoKT0+ewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAoc3ViaWQgIT09ICdOb3Qgc3BlY2lmaWVkJykK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXNkKQo=</text>
+        <text encoding="base64">ICAsIEFwcEVycm9ycyA9IHJlcXVpcmUoJy4uLy4uL2Vycm9ycy9pbmRleC5qcycpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/eu-west/us-west/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -536,13 +550,13 @@
         <entry>29</entry>
         <entry>33</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>499,502s/object/initialObject/g</entry>
         <entry>%s/removeOffersFunc/Offer/g</entry>
         <entry>68,85s/getHost(domain)/domainHost</entry>
         <entry>%e/ayankousky/keks/g</entry>
         <entry>%s/ayankousky/950372854860.dkr.ecr.eu-west-2.amazonaws.com/g</entry>
         <entry>%s/eu-west/us-west/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
