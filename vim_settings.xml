@@ -90,6 +90,12 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/asdf.js" timestamp="1518041272194">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="2" />
+        <mark key="^" line="2" column="2" />
+        <mark key="." line="2" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1517183643081">
         <mark key="'" line="360" column="0" />
         <mark key="[" line="37" column="56" />
@@ -332,10 +338,11 @@
       <file name="/Dummy.txt" timestamp="1518040696766">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/reports/subid_cost.js" timestamp="1518041103113">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/reports/subid_cost.js" timestamp="1518042108403">
+        <mark key="[" line="14" column="51" />
+        <mark key="]" line="15" column="11" />
+        <mark key="^" line="15" column="11" />
+        <mark key="." line="15" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1517877944772">
         <mark key="[" line="23" column="0" />
@@ -497,11 +504,11 @@
       <jump line="36" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/mail/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHJpbmdEb21haW4pCg==</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>comprigoNet</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">dmFyIA==</text>
@@ -510,34 +517,34 @@
         <text encoding="base64">ICAgICAgYWRtaW5FbWFpbDogc2NyaXB0NDgxNTE2MjM0MkBnbWFpbC5jb20K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHJpbmdEb21haW4pCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHJpbmdEb21haW4pCg==</text>
+        <text encoding="base64">ICAgICAgICBdIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHJpbmdEb21haW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAkYW5kOiBbCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHJpbmdEb21haW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsiY3JlYXRlZEF0Ijp7fX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHJpbmdEb21haW4pCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHJpbmdEb21haW4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhDbGlja1N0YXQuYWdncmVnYXRlKQo=</text>
+        <text encoding="base64">ICBsZXQgc3RhcnQgPSBuZXcgRGF0ZSgpLnNldEhvdXJzKDAsMCwwLDApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xpY2tfc3RhdHNTY2hlbWEuaW5kZXgoe2NyZWF0ZWRBdDogMSB9KTsK</text>
+        <text encoding="base64">ICB2YXIgZW5kID0gbmV3IERhdGUoKS5zZXRIb3VycygyMyw1OSw1OSw5OTkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xpY2tfc3RhdHNTY2hlbWEuaW5kZXgoe3JlZ2lvbjogMX0pOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHJpbmdEb21haW4pCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/var /let /g</text>
