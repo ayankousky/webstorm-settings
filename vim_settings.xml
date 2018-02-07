@@ -16,12 +16,11 @@
         <mark key="^" line="98" column="26" />
         <mark key="." line="98" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" timestamp="1517771386783">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" timestamp="1517968131412">
         <mark key="'" line="11" column="9" />
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="18" column="35" />
+        <mark key="[" line="13" column="87" />
+        <mark key="]" line="13" column="87" />
+        <mark key="." line="13" column="87" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/test/dev_tests.js" timestamp="1517877773072">
         <mark key="[" line="2" column="20" />
@@ -113,7 +112,7 @@
         <mark key="^" line="37" column="21" />
         <mark key="." line="37" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1517865919005">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1517965501289">
         <mark key="[" line="63" column="11" />
         <mark key="]" line="63" column="18" />
         <mark key="^" line="63" column="18" />
@@ -208,11 +207,11 @@
         <mark key="." line="94" column="38" />
         <mark key="^" line="94" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1517878352730">
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="28" />
-        <mark key="." line="33" column="28" />
-        <mark key="^" line="22" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1517966320971">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/google_analytics.js" timestamp="1514534776349">
         <mark key="[" line="4" column="9" />
@@ -253,18 +252,17 @@
         <mark key="." line="65" column="89" />
         <mark key="^" line="65" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1516397141615">
-        <mark key="[" line="61" column="22" />
-        <mark key="]" line="61" column="26" />
-        <mark key="." line="61" column="26" />
-        <mark key="^" line="61" column="26" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1517969100380">
+        <mark key="[" line="60" column="5" />
+        <mark key="]" line="60" column="5" />
+        <mark key="^" line="59" column="8" />
+        <mark key="." line="60" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/offers.js" timestamp="1516397408462">
-        <mark key="'" line="67" column="15" />
-        <mark key="[" line="68" column="15" />
-        <mark key="]" line="68" column="15" />
-        <mark key="." line="68" column="15" />
-        <mark key="^" line="68" column="15" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/offers.js" timestamp="1517969137300">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="112" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1516662075387">
         <mark key="[" line="20" column="0" />
@@ -446,10 +444,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ldHdvcmsudHlwZSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">Ly9gJHtvZmZlci51cmx9JiR7cHJvY2Vzcy5lbnYuem9vbUFkZGl0aW5hbFF1ZXJ5UGFyYW1ldGVyfWA7</text>
       </register>
       <register name="/" type="4">
         <text>ima</text>
@@ -458,36 +456,34 @@
         <text encoding="base64">ICBsZXQgbmV0d29ya3MgPSBhd2FpdCBOZXR3b3JrLmZpbmRPbmUoe19pZDogJ3pvb20nfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ldHdvcmsudHlwZSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXMpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAsIHBhcnNlciA9IHJlcXVpcmUoJ3htbDJqc29uJykK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAsIHJlYWRsaW5lID0gcmVxdWlyZSgncmVhZGxpbmUnKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ly8gYWRkIHJlcXVpcmVkIHBhcmFtZXRlcnMgYW5kIHJlZGlyZWN0CiAgbGV0IHJlZGlyZWN0VXJsID0gb2ZmZXIuYnVpbGRVcmwoewogICAgdXNlcklwOiBpcEFkZHJlc3MsCiAgICBzdWJJZDogc3ViSWQgPT09ICdOb3Qgc3BlY2lmaWVkJyA/IA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAsIHNpemVvZiA9IHJlcXVpcmUoJ29iamVjdC1zaXplb2YnKQo=</text>
+        <text encoding="base64">ICAgIHJlZGlyZWN0VXJsICs9IGAmc3ViaWQ9JHtzdWJpZH1gOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAsIHJlcXVlc3QgPSByZXF1aXJlKCdyZXF1ZXN0JykK</text>
+        <text encoding="base64">ICBpZiAoc3ViaWQgIT09ICdOb3Qgc3BlY2lmaWVkJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAsIHpsaWIgPSByZXF1aXJlKCd6bGliJykK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJhbXNkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG4gPiAxCg==</text>
+        <text encoding="base64">ICAgICAgICB1cmwrPWlmIChzdWJpZCAhPT0gJ05vdCBzcGVjaWZpZWQnKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>00){
-        return lineReader.close();
-      }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYnVpbGRlZCcpCiAgY29uc29sZS5sb2cocmVkaXJlY3RVcmwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/eu-west/us-west/g</text>
