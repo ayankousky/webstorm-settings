@@ -326,10 +326,11 @@
         <mark key="." line="65" column="89" />
         <mark key="^" line="65" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1518041118149">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1518117733424">
+        <mark key="[" line="69" column="19" />
+        <mark key="]" line="69" column="19" />
+        <mark key="." line="69" column="19" />
+        <mark key="^" line="69" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/index.js" timestamp="1518039546901">
         <mark key="[" line="23" column="23" />
@@ -337,12 +338,12 @@
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/offers.js" timestamp="1518046109926">
-        <mark key="'" line="68" column="47" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-        <mark key="^" line="61" column="78" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/offers.js" timestamp="1518117699716">
+        <mark key="'" line="62" column="47" />
+        <mark key="[" line="80" column="3" />
+        <mark key="]" line="82" column="26" />
+        <mark key="." line="82" column="26" />
+        <mark key="^" line="82" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1516662075387">
         <mark key="[" line="20" column="0" />
@@ -424,6 +425,11 @@
         <mark key="]" line="801" column="64" />
         <mark key="^" line="801" column="64" />
         <mark key="." line="801" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/comprigo.js" timestamp="1518117808839">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -530,10 +536,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG4+MTAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbXByaWdvVXJsKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>reurn</text>
+        <text encoding="base64">IGFwcE9mZmVy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlXD4=</text>
@@ -542,39 +548,34 @@
         <text encoding="base64">b2ZmZXJzU2NoZW1hLmluZGV4KHsgY3JlYXRlZEF0OiAxLCByZWdpb246IDEgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG4+MTAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbXByaWdvVXJsKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>000){
-        lineReader.close()
-        return;
-      }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9mZmVyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBvZmZlcnNJbXBvcnRlci5zZXROZXR3b3JrKHpvb21OZXQpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9mZmVyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNldEkwMDApCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxMjMxMjMxMjMpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">bnRlcnZhbCgoKT0+ewogICAgICBjb25zb2xlLmxvZyhuKQogICAgICBjb25zb2xlLmxvZyhtZXJjaGFudHNDb3VudGVyKQogICAgfSwgMTU=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxMjMxMjMxMjMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgawo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxMTExMTExMTEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyNQcm9kCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBvZmZlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBvZmZlcjsK</text>
       </register>
       <register name="9" type="4">
-        <text>##DEV
-#      - MAXMIND_ID=129332
-#      - MAXMIND_APIKEY=fQA1M9XlaiLJ</text>
+        <text encoding="base64">bGV0IGFwcE9mZmVyOwogIGlmIChkYk9mZmVyKSB7CiAgICBjb25zdCBuZXR3b3JrTWFuYWdlciA9IHJlcXVpcmUoJy4uL2VudGl0aWVzL25ldHdvcmtNYW5hZ2VyJyk7CiAgICBsZXQgbmV0d29ya0VudGl0eSA9IG5ldHdvcmtNYW5hZ2VyLmdldE5ldHdvcmtCeUlkKGRiT2ZmZXIubmV0d29ya0lkKTsKICAgIGFwcE9mZmVyID0gYXdhaXQgbmV0d29ya0VudGl0eS5leHRlbmRPZmZlcihkYk9mZmVyLCB7CiAgICAgIHVzZXJJcDogaXBBZGRyZXNzLAogICAgICBzdWJpZDogc3ViaWQgPT09ICdOb3Qgc3BlY2lmaWVkJyA/IHVuZGVmaW5lZCA6IHN1YmlkCiAgICB9KTsKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/var /let /g</text>
