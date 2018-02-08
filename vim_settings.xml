@@ -34,12 +34,12 @@
         <mark key="^" line="26" column="50" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" timestamp="1518038380254">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" timestamp="1518074809882">
         <mark key="'" line="11" column="9" />
-        <mark key="[" line="34" column="26" />
-        <mark key="]" line="36" column="62" />
-        <mark key="^" line="36" column="62" />
-        <mark key="." line="36" column="62" />
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="31" column="5" />
+        <mark key="." line="31" column="5" />
+        <mark key="^" line="31" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/test/dev_tests.js" timestamp="1517877773072">
         <mark key="[" line="2" column="20" />
@@ -289,11 +289,11 @@
         <mark key="." line="94" column="38" />
         <mark key="^" line="94" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1518073482595">
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="28" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="16" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1518079571713">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/package.json" timestamp="1518044063896">
         <mark key="[" line="20" column="0" />
@@ -399,12 +399,12 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" timestamp="1518073468921">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" timestamp="1518079580645">
         <mark key="'" line="118" column="7" />
-        <mark key="[" line="45" column="8" />
-        <mark key="]" line="45" column="9" />
-        <mark key="^" line="45" column="11" />
-        <mark key="." line="45" column="9" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="46" column="14" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/index.js" timestamp="1514499505386">
         <mark key="[" line="20" column="27" />
@@ -529,11 +529,11 @@
       <jump line="22" column="41" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/email.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>comprigoNet</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaWYgKG4+MTAK</text>
       </register>
       <register name="-" type="4">
-        <text>comprigoNet</text>
+        <text>reurn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlXD4=</text>
@@ -542,34 +542,39 @@
         <text encoding="base64">b2ZmZXJzU2NoZW1hLmluZGV4KHsgY3JlYXRlZEF0OiAxLCByZWdpb246IDEgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKG4+MTAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICB9KTsK</text>
+      <register name="2" type="4">
+        <text>000){
+        lineReader.close()
+        return;
+      }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAvLyBvZmZlcnNJbXBvcnRlci5zZXROZXR3b3JrKHpvb21OZXQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YS5vZmZlcikK</text>
+        <text encoding="base64">ICAgIHNldEkwMDApCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YS5vZmZlci5zdG9yZV9pZCkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">bnRlcnZhbCgoKT0+ewogICAgICBjb25zb2xlLmxvZyhuKQogICAgICBjb25zb2xlLmxvZyhtZXJjaGFudHNDb3VudGVyKQogICAgfSwgMTU=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgawo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgIHNldEludGVydmFsKCgpPT57CiAgICAgICAgY29uc29sZS5sb2coYG49JHtufWApOwogICAgICAgIGNvbnNvbGUubG9nKCdtZXJjaGFudHNDb3VudGVyOiAnKQogICAgICAgIGNvbnNvbGUubG9nKG1lcmNoYW50c0NvdW50ZXIpCiAgICAgICAgY29uc29sZS5sb2cob2ZmZXIubWVyY2hhbnRJZCkKICAgICAgfSwgNTAwMCAp</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIyNQcm9kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b2ZmZXJzU2NoZW1hLmluZGV4KHsgc3RvcmVfdXJsOiAxLCByZWdpb246IDEsIHVwZGF0ZWRBdDogMSB9KTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>##DEV
+#      - MAXMIND_ID=129332
+#      - MAXMIND_APIKEY=fQA1M9XlaiLJ</text>
       </register>
       <register name=":" type="4">
         <text>%s/var /let /g</text>
