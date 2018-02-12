@@ -343,11 +343,11 @@
         <mark key="." line="65" column="89" />
         <mark key="^" line="65" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1518463568414">
-        <mark key="[" line="93" column="16" />
-        <mark key="]" line="93" column="62" />
-        <mark key="^" line="93" column="62" />
-        <mark key="." line="93" column="62" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1518470557638">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="^" line="108" column="47" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/test/index.html" timestamp="1518249457692">
         <mark key="[" line="64" column="39" />
@@ -556,11 +556,11 @@
       <jump line="22" column="41" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/email.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>console.log('123')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbmNyeXB0ZWQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>console.log('123')</text>
+        <text>console.log</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlXD4=</text>
@@ -569,34 +569,34 @@
         <text encoding="base64">b2ZmZXJzU2NoZW1hLmluZGV4KHsgY3JlYXRlZEF0OiAxLCByZWdpb246IDEgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHNjcmlwdD4K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbmNyeXB0ZWQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHNjcmlwdD4K</text>
+        <text encoding="base64">ICBsZXQgcHVnID0gcmVxdWlyZSgncHVnJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNjcmlwdAo=</text>
+        <text encoding="base64">ICBsZXQgaHRtbCA9IHB1Zy5yZW5kZXJGaWxlKF9fZGlybmFtZSArICcvcmVkaXJlY3RfcGFnZS5wdWcnLCB7fSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygna2VrZWtla2UnKQo=</text>
+        <text encoding="base64">ICAvLyByZXEuZW5kKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZpZGVvVGl0bGU6IHZpZGVvVGl0bGUK</text>
+        <text encoding="base64">ICAvLyByZXMuc2VuZChodG1sKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlzVXBsb2FkZWQ6IGlzVXBsb2FkZWQsCg==</text>
+        <text encoding="base64">PHNjcmlwdD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwcExpbms6IGFwcExpbmssCg==</text>
+        <text encoding="base64">PHNjcmlwdD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRvd25sb2FkTGluazogZG93bmxvYWRVcmwsCg==</text>
+        <text encoding="base64">ICAgIHNjcmlwdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGRhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygna2VrZWtla2UnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
