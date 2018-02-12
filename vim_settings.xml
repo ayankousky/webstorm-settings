@@ -21,6 +21,12 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/helpers/index.js" timestamp="1518471101758">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/README.md" timestamp="1515629372855">
         <mark key="'" line="15" column="118" />
         <mark key="[" line="98" column="19" />
@@ -34,12 +40,12 @@
         <mark key="^" line="26" column="50" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" timestamp="1518250681397">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" timestamp="1518471741584">
         <mark key="'" line="11" column="9" />
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="31" column="5" />
-        <mark key="." line="31" column="5" />
-        <mark key="^" line="31" column="5" />
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="22" column="15" />
+        <mark key="." line="22" column="15" />
+        <mark key="^" line="22" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/test/dev_tests.js" timestamp="1517877773072">
         <mark key="[" line="2" column="20" />
@@ -343,11 +349,11 @@
         <mark key="." line="65" column="89" />
         <mark key="^" line="65" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1518470557638">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="108" column="47" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1518471772158">
+        <mark key="[" line="91" column="54" />
+        <mark key="]" line="91" column="76" />
+        <mark key="^" line="91" column="76" />
+        <mark key="." line="91" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/test/index.html" timestamp="1518249457692">
         <mark key="[" line="64" column="39" />
@@ -372,7 +378,12 @@
         <mark key="^" line="377" column="78" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518459675309">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/helpers/common.js" timestamp="1518472052263">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1518471654590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/reports/subid_cost.js" timestamp="1518045183731">
@@ -557,10 +568,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbmNyeXB0ZWQpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhrZXkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>console.log</text>
+        <text encoding="base64">IGRlY3J5cHQ=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlXD4=</text>
@@ -569,34 +580,35 @@
         <text encoding="base64">b2ZmZXJzU2NoZW1hLmluZGV4KHsgY3JlYXRlZEF0OiAxLCByZWdpb246IDEgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbmNyeXB0ZWQpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhrZXkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgcHVnID0gcmVxdWlyZSgncHVnJykK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0ZXh0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQgaHRtbCA9IHB1Zy5yZW5kZXJGaWxlKF9fZGlybmFtZSArICcvcmVkaXJlY3RfcGFnZS5wdWcnLCB7fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyByZXEuZW5kKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyByZXMuc2VuZChodG1sKQo=</text>
+        <text encoding="base64">bGV0ICwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHNjcmlwdD4K</text>
+        <text encoding="base64">ICBwYXNzd29yZCA9ICdWelc0aXQ3OVFlM05ubVJHJzsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdD4K</text>
+      <register name="7" type="8">
+        <text>String
+String</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHNjcmlwdAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmZ1bmN0aW9uIGVuY3J5cHQodGV4dCl7CiAgbGV0IGNpcGhlciA9IGNyeXB0by5jcmVhdGVDaXBoZXIoYWxnb3JpdGhtLHBhc3N3b3JkKQogIGxldCBjcnlwdGVkID0gY2lwaGVyLnVwZGF0ZSh0ZXh0LCd1dGY4JywnaGV4JykKICBjcnlwdGVkICs9IGNpcGhlci5maW5hbCgnaGV4Jyk7CiAgcmV0dXJuIGNyeXB0ZWQ7Cn0KCmZ1bmN0aW9uIGRlY3J5cHQodGV4dCl7CiAgbGV0IGRlY2lwaGVyID0gY3J5cHRvLmNyZWF0ZURlY2lwaGVyKGFsZ29yaXRobSxwYXNzd29yZCkKICBsZXQgZGVjID0gZGVjaXBoZXIudXBkYXRlKHRleHQsJ2hleCcsJ3V0ZjgnKQogIGRlYyArPSBkZWNpcGhlci5maW5hbCgndXRmOCcpOwogIHJldHVybiBkZWM7Cn0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygna2VrZWtla2UnKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
