@@ -65,12 +65,12 @@
         <mark key="^" line="7" column="49" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1518638183487">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1518639190295">
         <mark key="'" line="14" column="53" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="178" column="27" />
-        <mark key="." line="178" column="27" />
-        <mark key="^" line="178" column="27" />
+        <mark key="[" line="169" column="2" />
+        <mark key="]" line="169" column="2" />
+        <mark key="." line="169" column="2" />
+        <mark key="^" line="168" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/file.js" timestamp="1518038543659">
         <mark key="[" line="5" column="2" />
@@ -391,7 +391,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518471654590">
+      <file name="/Dummy.txt" timestamp="1518639151270">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/reports/subid_cost.js" timestamp="1518045183731">
@@ -576,10 +576,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>continue</text>
+        <text encoding="base64">Ly8gbGV0IHZpZGVvcwogIC8vCiAgLy8gbGV0IGZvbGRlcnMgPSBhd2FpdChGb2xkZXIKICAvLyAgIC5xdWVyeSgnY2hhbm5lbElkJykuZXEoKQogIC8vICAgLndoZXJlKCdpZCcpLmluKFtdKQogIC8vICAgLmV4ZWMoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>continue</text>
+        <text encoding="base64">IGZvbGRlcklk</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlXD4=</text>
@@ -588,51 +588,38 @@
         <text encoding="base64">b2ZmZXJzU2NoZW1hLmluZGV4KHsgY3JlYXRlZEF0OiAxLCByZWdpb246IDEgfSk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Y29uc29sZS5sb2coCiAgICBfKGZvbGRlcklkcykKICAgICAgLmdyb3VwQnkoeCA9PiB4LmNhaG5uZWxJZCkKICAgICAgLm1hcCgodmFsdWUsIGtleSkgPT4gKGNvbnNvbGUubG9nKHZhbHVlKSkpCiAgICAgIC52YWx1ZSgpCiAgKQ==</text>
+        <text encoding="base64">Ly8gbGV0IHZpZGVvcwogIC8vCiAgLy8gbGV0IGZvbGRlcnMgPSBhd2FpdChGb2xkZXIKICAvLyAgIC5xdWVyeSgnY2hhbm5lbElkJykuZXEoKQogIC8vICAgLndoZXJlKCdpZCcpLmluKFtdKQogIC8vICAgLmV4ZWMoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBmb2xkZXJJZHMuZm9yRWFjaChmSSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByYW5nZUtleTogJ2NyZWF0aW9uRGF0ZScsCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ly8gbGV0IGdyb3VwZWQgPSB7fTsKICAvLyBmb3IgKGxldCBmSWQgb2YgZm9sZGVySWRzKSB7CiAgLy8gICBpZiAoIWZJZC5mb2xkZXJJZCB8fCAhZklkLmNoYW5uZWxJZCkgY29udGludWU7CiAgLy8gICBpZiAoIWdyb3VwZWRbZklkLmNoYW5uZWxJZF0pewogIC8vICAgICBncm91cGVkW2ZJZC5jaGFubmVsSWRdID0gW107CiAgLy8gICB9IGVsc2UgewogIC8vICAgICBncm91cGVkW2ZJZC5jaGFubmVsSWRdLnB1c2goZklkLmZvbGRlcklkKTsKICAvLyAgIH0KICAvLyB9CiAgLy8gY29uc29sZS5sb2coZ3JvdXBlZCkKICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByYW5nZUtleTogJ2NyZWF0aW9uRGF0ZScsCg==</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhncm91cGVkKQogIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmFuZ2VLZXk6IHRydWUsCg==</text>
+      <register name="5" type="4">
+        <text>for (let chId in grouped){
+    console.log(grouped[chId])
+    Folder
+      .query('cahnnelId').eq(chId)
+  }</text>
       </register>
-      <register name="6" type="4">
-        <text>let pug = require('pug')
-    , html = pug.renderFile('./pug.pug', {
-    downloadLink: 'downloadUrl',
-    appLink: 'appLink',
-    isUploaded: false,
-    videoTitle: 'videoTitle'
-  });
-
-  console.log(html)
-  // return context.succeed(hmtl);
-  const response = {
-    statusCode: '200',
-    headers: {
-      &quot;Access-Control-Allow-Origin&quot; : &quot;*&quot;, // Required for CORS support to work
-      &quot;Content-Type&quot;: &quot;text/html&quot;
-    },
-    body: html
-  };</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLndoZXJlKCdpZCcpLmQK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHdhcm11cDogdHJ1ZQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">Y29uc29sZS5sb2coCiAgICBfKGZvbGRlcklkcykKICAgICAgLmdyb3VwQnkoeCA9PiB4LmNhaG5uZWxJZCkKICAgICAgLm1hcCgodmFsdWUsIGtleSkgPT4gKGNvbnNvbGUubG9nKHZhbHVlKSkpCiAgICAgIC52YWx1ZSgpCiAgKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhrZXkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyByYW5nZUtleTogJ2NyZWF0aW9uRGF0ZScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
