@@ -187,10 +187,11 @@
         <mark key="^" line="37" column="21" />
         <mark key="." line="37" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1518721875174">
-        <mark key="[" line="43" column="50" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1518723982775">
+        <mark key="[" line="86" column="5" />
+        <mark key="]" line="87" column="14" />
+        <mark key="." line="87" column="14" />
+        <mark key="^" line="87" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/sharedVideo.js" timestamp="1516651981664">
         <mark key="'" line="101" column="4" />
@@ -218,11 +219,10 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/connexity.js" timestamp="1518722003064">
-        <mark key="[" line="48" column="37" />
-        <mark key="]" line="48" column="37" />
-        <mark key="^" line="48" column="37" />
-        <mark key="." line="48" column="37" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/connexity.js" timestamp="1518726589765">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.component.ts" timestamp="1515364711445">
         <mark key="[" line="11" column="46" />
@@ -317,12 +317,12 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/comprigo.js" timestamp="1518045927190">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/comprigo.js" timestamp="1518724207446">
         <mark key="'" line="9" column="21" />
-        <mark key="[" line="46" column="76" />
-        <mark key="]" line="46" column="99" />
-        <mark key="^" line="46" column="99" />
-        <mark key="." line="46" column="99" />
+        <mark key="[" line="81" column="21" />
+        <mark key="]" line="81" column="21" />
+        <mark key="^" line="81" column="21" />
+        <mark key="." line="81" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" timestamp="1518046086369">
         <mark key="[" line="71" column="0" />
@@ -393,7 +393,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518721863041">
+      <file name="/Dummy.txt" timestamp="1518723578509">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1518648164931">
@@ -408,6 +408,12 @@
         <mark key="]" line="11" column="87" />
         <mark key="." line="11" column="87" />
         <mark key="^" line="11" column="87" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1518724459853">
+        <mark key="[" line="29" column="28" />
+        <mark key="]" line="30" column="24" />
+        <mark key="." line="30" column="24" />
+        <mark key="^" line="30" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/tmp/split_video/ffmpeg_run.sh" timestamp="1515624101929">
         <mark key="[" line="7" column="18" />
@@ -443,12 +449,12 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" timestamp="1518721158671">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" timestamp="1518724198431">
         <mark key="'" line="118" column="7" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="47" />
-        <mark key="." line="44" column="9" />
-        <mark key="^" line="44" column="9" />
+        <mark key="[" line="121" column="19" />
+        <mark key="]" line="121" column="19" />
+        <mark key="." line="121" column="19" />
+        <mark key="^" line="121" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/index.js" timestamp="1514499505386">
         <mark key="[" line="20" column="27" />
@@ -574,10 +580,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGVsZXRlZE9mZmVyc0NvdW50ID0gZGVsZXRlUmVzdWx0ICYmIGRlbGV0ZVJlc3VsdC5yZXN1bHQgJiYgZGVsZXRlUmVzdWx0LnJlc3VsdC5uOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsaW5lKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>feed.offers[0]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlXD4=</text>
@@ -586,35 +592,40 @@
         <text encoding="base64">ICAgIGxldCBkZWNvbXByZXNzU3RyZWFtID0gemxpYi5jcmVhdGVHdW56aXAoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGVsZXRlZE9mZmVyc0NvdW50ID0gZGVsZXRlUmVzdWx0ICYmIGRlbGV0ZVJlc3VsdC5yZXN1bHQgJiYgZGVsZXRlUmVzdWx0LnJlc3VsdC5uOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsaW5lKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>deleteResult = await Offer.remove({updatedAt: {$lte: startDate - 1 }, networkId: network._id}); //remove obsolete offers
-      let d</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgb25zb2xlLmxvZyhvcHRpb25zLmlzQXJyYXkpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobGluZSk7Cg==</text>
+      <register name="3" type="4">
+        <text>console.log(options)
+      console.log(options)
+      console.log(options)
+      console.log(options)
+      c</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cy5lbnYuY29ubmV4aXR5SWQpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTExMTEpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmNvbnNvbGUubG9nKHByb2Nlc3MuZW52LmNvbm5leGl0eUlkKQpjb25zb2xlLmxvZyhwcm9jZXNzLmVudi5jb25uZXhpdHlJZCkKY29uc29sZS5sb2cocHJvY2Vzcy5lbnYuY29ubmV4aXR5SWQpCmNvbnNvbGUubG9nKHByb2Nlcw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmVkOiB0cnVlZGQK</text>
+        <text encoding="base64">ICAgIGxldCA9IEpTT04ucGFyc2UobG9uZ0pTT04pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgb25zb2xlLmxvZygnX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fJykK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGNvbnNvbGUubG9nKG5ldHdvcmspCiAgICBjb25zb2xlLmxvZygxMTExMTExMSkKICAgIGNvbnNvbGUubG9nKCdfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18nKQogICAgY29uc29sZS5sb2coJ1N0YXJ0IERhdGUgJyArIHN0YXJ0RGF0ZSkKICAgIGNvbnNvbGUubG9nKCdFbmQgRGF0ZSAgICcgKyBuZXcgRGF0ZSgpKQogICAgYw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ00K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8qKioqVG9EbyoqKio6IEhhcmRjb2RlZCBNb2RlbCBwYXNzZWQgIQo=</text>
+      <register name="9" type="4">
+        <text>erchant reader close')
+      console.log('__________________________________________________________________')
+    })</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
