@@ -219,10 +219,11 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/connexity.js" timestamp="1518726589765">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/connexity.js" timestamp="1518727746481">
+        <mark key="[" line="81" column="50" />
+        <mark key="]" line="81" column="16" />
+        <mark key="." line="81" column="16" />
+        <mark key="^" line="81" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.component.ts" timestamp="1515364711445">
         <mark key="[" line="11" column="46" />
@@ -376,6 +377,7 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
+      <file name="$USER_HOME$/Desktop/103513_part001.json" timestamp="1518727392309" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/index.js" timestamp="1518039546901">
         <mark key="[" line="23" column="23" />
         <mark key="]" line="23" column="24" />
@@ -387,11 +389,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="377" column="78" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/helpers/common.js" timestamp="1518472052263">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1518723578509">
         <mark key="[" line="0" column="0" />
@@ -580,10 +577,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsaW5lKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coT2JqZWN0LmtleXMob2ZmZXJzRGF0YS5vZmZlcnMpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>feed.offers[0]</text>
+        <text>offer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlXD4=</text>
@@ -592,40 +589,38 @@
         <text encoding="base64">ICAgIGxldCBkZWNvbXByZXNzU3RyZWFtID0gemxpYi5jcmVhdGVHdW56aXAoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsaW5lKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coT2JqZWN0LmtleXMob2ZmZXJzRGF0YS5vZmZlcnMpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsaW5lKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgb25zb2xlLmxvZyhvcHRpb25zLmlzQXJyYXkpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>console.log(options)
       console.log(options)
       console.log(options)
       console.log(options)
       c</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTExMTEpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGxldCA9IEpTT04ucGFyc2UobG9uZ0pTT04pOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ00K</text>
-      </register>
-      <register name="9" type="4">
-        <text>erchant reader close')
-      console.log('__________________________________________________________________')
-    })</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
