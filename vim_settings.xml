@@ -47,12 +47,12 @@
         <mark key="^" line="26" column="50" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" timestamp="1518471741584">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" timestamp="1518718550899">
         <mark key="'" line="11" column="9" />
-        <mark key="[" line="22" column="6" />
-        <mark key="]" line="22" column="15" />
-        <mark key="." line="22" column="15" />
-        <mark key="^" line="22" column="15" />
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="23" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/test/dev_tests.js" timestamp="1517877773072">
         <mark key="[" line="2" column="20" />
@@ -187,11 +187,11 @@
         <mark key="^" line="37" column="21" />
         <mark key="." line="37" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1517965501289">
-        <mark key="[" line="63" column="11" />
-        <mark key="]" line="63" column="18" />
-        <mark key="^" line="63" column="18" />
-        <mark key="." line="63" column="18" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1518718419555">
+        <mark key="[" line="81" column="11" />
+        <mark key="]" line="81" column="19" />
+        <mark key="^" line="81" column="19" />
+        <mark key="." line="81" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/sharedVideo.js" timestamp="1516651981664">
         <mark key="'" line="101" column="4" />
@@ -332,11 +332,11 @@
         <mark key="." line="10" column="244" />
         <mark key="^" line="10" column="244" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1518079571713">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="13" column="34" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1518718309822">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="39" />
+        <mark key="^" line="16" column="39" />
+        <mark key="." line="16" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/google_analytics.js" timestamp="1514534776349">
         <mark key="[" line="4" column="9" />
@@ -364,12 +364,6 @@
         <mark key="." line="65" column="89" />
         <mark key="^" line="65" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1518549419335">
-        <mark key="[" line="81" column="119" />
-        <mark key="]" line="81" column="133" />
-        <mark key="^" line="81" column="133" />
-        <mark key="." line="81" column="133" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/update_folder.json" timestamp="1518648501695">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="27" />
@@ -388,11 +382,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="377" column="78" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/helpers/common.js" timestamp="1518472052263">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1518648032604">
         <mark key="[" line="0" column="0" />
@@ -580,11 +569,11 @@
       <jump line="87" column="19" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>newLocal</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>newLocal</text>
+        <text>comprigo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlXD4=</text>
@@ -599,36 +588,45 @@
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHJlZ2lvbjogJ0JSJywK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldkV4cG9ydFVybDogJ2h0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS91Yz9hdXRodXNlcj0wJmlkPTFzMVBXWHctc0h5MzczWElrSEVxREpDTFR6NnFjbmphSiZleHBvcnQ9ZG93bmxvYWQnLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>exportMerchantsPath: [
+      {url: 'http://publisher-api.comprigo.com/v1/domainlist/json/de', region: 'DE'},
+      {url: 'http://publisher-api.comprigo.com/v1/domainlist/json/br', region: 'BR'},
+      {url: 'http://publisher-api.comprigo.com/v1/domainlist/json/us', region: 'US'},
+      {url: 'http://publisher-api.comprigo.com/v1/domainlist/json/uk', region: 'GB'},
+      {url: 'http://publisher-api.comprigo.com/v1/domainlist/json/dk', region: 'DK'},
+      {url: 'http://publisher-api.comprigo.com/v1/domainlist/json/no', region: 'NO'},
+      {url: 'http://publisher-api.comprigo.com/v1/domainlist/json/se', region: 'SE'},
+      {url: 'http://publisher-api.comprigo.com/v1/domainlist/json/be', region: 'BE'},
+      {url: 'http://publisher-api.comprigo.com/v1/domainlist/json/pl', region: 'PL'},
+      {url: 'http://publisher-api.comprigo.com/v1/domainlist/json/it', region: 'IT'},
+      {url: 'http://publisher-api.comprigo.com/v1/domainlist/json/at', region: 'AT'},
+      {url: 'http://publisher-api.comprigo.com/v1/domainlist/json/ch', region: 'CH'},
+      {url: 'http://publisher-api.comprigo.com/v1/domainlist/json/nl', region: 'NL'},
+      {url: 'http://publisher-api.comprigo.com/v1/domainlist/json/fr', region: 'FR'},
+      {url: 'http://publisher-api.comprigo.com/v1/domainlist/json/es', region: 'ES'},
+    ],</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICwK</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>video   : newFolder instanceof AppErrors.BaseError ? undefined : await(newFolder.project('client')),
     error   : newFolder instanceof AppErrors.BaseError ? await(newFolder.project('client')) : undefined</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>let newFolder = await (Folder.create({
-    localPath: localPath,
-    channelId: channelId
-  }));
-  console.log(newFOlder)</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWxJZCI6ICIyIiwK</text>
-      </register>
-      <register name="7" type="4">
-        <text>&quot;isPublic&quot;: false,
-    &quot;description&quot;: &quot;Very long description&quot;,
-    &quot;type&quot;: &quot;fvp&quot;,
-    &quot;</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3IgIDogbmV3IEFwcEVycm9ycy5CYXNlRXJyb3IoVHJhbnNsYXRvci5jcmVhdGVQaHJhc2UoJ2NvbW1lbnRzLmVycm9ycy5ub3RfZm91bmQnKSwgU3RhdHVzQ29kZXMuQ29tbWVudE5vdEZvdW5kKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3IgIDogbmV3IEFwcEVycm9ycy5CYXNlRXJyb3IoVHJhbnNsYXRvci5jcmVhdGVQaHJhc2UoJ2NvbW1lbnRzLmVycm9ycy5ub3RfZm91bmQnKSwgU3RhdHVzQ29kZXMuQ29tbWVudE5vdEZvdW5kKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
