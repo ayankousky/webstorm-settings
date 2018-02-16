@@ -269,12 +269,11 @@
         <mark key="^" line="52" column="28" />
         <mark key="." line="52" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/index.js" timestamp="1518808881291">
-        <mark key="'" line="6" column="10" />
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/index.js" timestamp="1518809035746">
+        <mark key="'" line="5" column="10" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/index.js" timestamp="1517171769244">
         <mark key="[" line="9" column="12" />
@@ -652,7 +651,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">IH4gCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGNsb3N1cmU=</text>
@@ -664,43 +663,34 @@
         <text>(1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">IH4gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgbGV0IGZvbyA9IGZ1bmN0aW9uIChhKSB7CiAgICAKICAgIGxldCBwcml2YXRlRnVuY3Rpb24KICAgIAogICAgZnVuY3Rpb24gTXlQcml2YXRlQ2xhc3MoYikgewogICAgICB2YWwuYSA9IHZhbC5hICsgYjsKICAgICAgcmV0dXJuIE15UHJpdmF0ZUNsYXNzOwogICAgfQogICAgcmV0dXJuICBNeVByaXZhdGVDbGFzcwogIH07</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">X3VuZGUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCB2YWwgPSBhOwo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">bGV0IGEgPSB7YTogMX07CiAgbGV0IGNsb3N1cmUgPSBmb28oYSkKICBjbG9zdXJlKDEpKDIpKDMpKDQpKDUpKDEpKDEpKDEpKDEpKDEpKDEpKDEpKDEpKDEpKDEpKDEpKDEpCiAgY29uc29sZS5sb2coYSkK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="4" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>class CL{
-    constructor(){
-
-      
-    }
-
-    _privateFunction(){
-
-    }
-  }</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CnZhciBhID0gMjsKbGV0IGIgPSAzOwoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgbGV0IGZvbyA9IGZ1bmN0aW9uIChhKSB7CiAgICAKICAgIGxldCBwcml2YXRlRnVuY3Rpb24KICAgIAogICAgZnVuY3Rpb24gTXlQcml2YXRlQ2xhc3MoYikgewogICAgICB2YWwuYSA9IHZhbC5hICsgYjsKICAgICAgcmV0dXJuIE15UHJpdmF0ZUNsYXNzOwogICAgfQogICAgcmV0dXJuICBNeVByaXZhdGVDbGFzcwogIH07</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
