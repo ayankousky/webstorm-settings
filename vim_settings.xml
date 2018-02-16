@@ -269,6 +269,13 @@
         <mark key="^" line="52" column="28" />
         <mark key="." line="52" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/index.js" timestamp="1518808881291">
+        <mark key="'" line="6" column="10" />
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/index.js" timestamp="1517171769244">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="22" />
@@ -542,7 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="118" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/README.md" />
       <jump line="459" column="7" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="453" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="424" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
@@ -642,49 +648,59 @@
       <jump line="87" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/connexity.js" />
       <jump line="58" column="111" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/connexity.js" />
       <jump line="98" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/connexity.js" />
+      <jump line="13" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>comprigoNet</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>comprigoNet</text>
+        <text encoding="base64">IGNsb3N1cmU=</text>
       </register>
       <register name="/" type="4">
         <text>10</text>
       </register>
       <register name="0" type="4">
-        <text>getHost(networkOffer.rawUrl),</text>
+        <text>(1)</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgYXN5bmMgaW1wb3J0Q1BDKCl7CiAgICByZXR1cm47CiAgICAvLyBsZXQgZmVlZCA9IGF3YWl0IHRoaXMuX2dldEZlZWQoKTsKICAgIC8vIGxldCBjcGNPYmplY3QgPSBhd2FpdCB0aGlzLl9nZXRGZWVkSXRlbShmZWVkLmNwY1swXSwge2lzQXJyYXk6IHRydWV9KTsKICAgIC8vIGNvbnNvbGUubG9nKGNwY09iamVjdCk7CiAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ld09mZmVyc0NvdW50ZXIpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgbGV0IGZvbyA9IGZ1bmN0aW9uIChhKSB7CiAgICAKICAgIGxldCBwcml2YXRlRnVuY3Rpb24KICAgIAogICAgZnVuY3Rpb24gTXlQcml2YXRlQ2xhc3MoYikgewogICAgICB2YWwuYSA9IHZhbC5hICsgYjsKICAgICAgcmV0dXJuIE15UHJpdmF0ZUNsYXNzOwogICAgfQogICAgcmV0dXJuICBNeVByaXZhdGVDbGFzcwogIH07</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGRlY29tcHJlc3NTdHJlYW0gPSB6bGliLmNyZWF0ZUd1bnppcCgpCiAgICAgICAgLCByZXEgPSByZXF1ZXN0LmdldCh0aGlzLm5ldHdvcmsuZXhwb3J0VXJsICsgYD8ke3RoaXMuc2VjcmV0UXVlcnl9YCwge3RpbWVvdXQ6IDIwMDAwfSkub24oJ2Vycm9yJywgZXJyID0+IHt9KS8vIGNvbnNvbGUubG9nKGVycikpCg==</text>
+        <text encoding="base64">X3VuZGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGNvbnNvbGUubG9nKGUpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1RvdGFsIGxpbmVzIGNvdW50OiAnICsgbik7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1RvdGFsIG1lcmNoYW50czogJywgK09iamVjdC5rZXlzKG1lcmNoYW50c0NvdW50ZXIpLmxlbmd0aCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxldCB2YWwgPSBhOwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">bGV0IGEgPSB7YTogMX07CiAgbGV0IGNsb3N1cmUgPSBmb28oYSkKICBjbG9zdXJlKDEpKDIpKDMpKDQpKDUpKDEpKDEpKDEpKDEpKDEpKDEpKDEpKDEpKDEpKDEpKDEpKDEpCiAgY29uc29sZS5sb2coYSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">Ly8gYXdhaXQgUHJvbWlzZS5hbGwoZmVlZC5vZmZlcnMubWFwKGFzeW5jIG9mZmVyVXJsID0+IHsKICAgIC8vICAgbGV0IG9mZmVyc0RhdGE9IGF3YWl0IHRoaXMuX2dldEZlZWRJdGVtKG9mZmVyVXJsKTsKICAgIC8vICAgLy8gY29uc29sZS5sb2cob2ZmZXJzRGF0YS5vZmZlcnMub2ZmZXJbMF0pCiAgICAvLyAgIHRvdGFsQ291bnQgKz0gb2ZmZXJzRGF0YS5vZmZlcnMub2ZmZXIubGVuZ3RoCiAgICAvLyAgIGNvbnNvbGUubG9nKHRvdGFsQ291bnQpCiAgICAvLyAgIGlmICh0b3RhbENvdW50ID4gMTAwMDAwKXsKICAgIC8vICAgICAvLyBjb25zb2xlLmxvZygnbW9yZSB0aGFuIDEwMDAwMCcpCiAgICAvLyAgIH0KICAgIC8vCiAgICAvLyB9KSk7</text>
+        <text>class CL{
+    constructor(){
+
+      
+    }
+
+    _privateFunction(){
+
+    }
+  }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
