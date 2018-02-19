@@ -258,12 +258,12 @@
         <mark key="^" line="75" column="45" />
         <mark key="." line="75" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1519066244475">
-        <mark key="'" line="1090" column="33" />
-        <mark key="[" line="359" column="4" />
-        <mark key="]" line="359" column="4" />
-        <mark key="^" line="359" column="4" />
-        <mark key="." line="359" column="4" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1519067969784">
+        <mark key="'" line="1091" column="33" />
+        <mark key="[" line="360" column="15" />
+        <mark key="]" line="360" column="18" />
+        <mark key="^" line="360" column="18" />
+        <mark key="." line="360" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/index.html" timestamp="1518239816325">
         <mark key="[" line="7" column="47" />
@@ -446,7 +446,7 @@
         <mark key="^" line="377" column="78" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518818167293">
+      <file name="/Dummy.txt" timestamp="1519067862986">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1518648164931">
@@ -643,11 +643,11 @@
       <jump line="13" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVyY2hhbnRJZCAgICA6IGAke3RoaXMubmV0d29yay5pZH06JHtuZXR3b3JrT2ZmZXIubWVyY2hhbnRJZH1gLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IDIwMA==</text>
       </register>
       <register name="-" type="4">
-        <text>comprigoNet</text>
+        <text encoding="base64">IDIwMA==</text>
       </register>
       <register name="/" type="4">
         <text>10</text>
@@ -656,34 +656,41 @@
         <text>(1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVyY2hhbnRJZCAgICA6IGAke3RoaXMubmV0d29yay5pZH06JHtuZXR3b3JrT2ZmZXIubWVyY2hhbnRJZH1gLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>return context.succeed({
+    statusCode: '400',
+    body: JSON.stringify({ error: 'you messed up!' }),
+    headers: {
+      'Content-Type': 'application/json',
+    }
+	});
+  return reqEnd({})</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IH4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVyY2hhbnRJZCAgICA6IGAke3RoaXMubmV0d29yay5pZH06JHtuZXR3b3JrT2ZmZXIubWVyY2hhbnRJZH1gLAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IH4gCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CnZhciBhID0gMjsKbGV0IGIgPSAzOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
