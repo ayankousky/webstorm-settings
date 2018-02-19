@@ -195,11 +195,12 @@
         <mark key="^" line="42" column="41" />
         <mark key="." line="42" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" timestamp="1515782050478">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="17" column="34" />
-        <mark key="." line="17" column="34" />
-        <mark key="^" line="17" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" timestamp="1519075485853">
+        <mark key="'" line="40" column="20" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="29" column="20" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.component.html" timestamp="1515365797773">
         <mark key="[" line="11" column="36" />
@@ -452,12 +453,12 @@
         <mark key="^" line="377" column="78" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1519073219661">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1519074732411">
         <mark key="'" line="73" column="0" />
-        <mark key="[" line="289" column="0" />
-        <mark key="]" line="289" column="0" />
-        <mark key="^" line="271" column="31" />
-        <mark key="." line="289" column="0" />
+        <mark key="[" line="274" column="22" />
+        <mark key="]" line="274" column="27" />
+        <mark key="^" line="274" column="27" />
+        <mark key="." line="274" column="27" />
       </file>
       <file name="/Dummy.txt" timestamp="1519070441633">
         <mark key="[" line="0" column="0" />
@@ -554,7 +555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="453" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="424" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="435" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="449" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
@@ -654,13 +654,14 @@
       <jump line="98" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/connexity.js" />
       <jump line="13" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/index.js" />
       <jump line="73" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="40" column="20" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKDExMTExCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlLnJlc3BvbnNlLmJvZHkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>stringify</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>.log</text>
@@ -669,40 +670,41 @@
         <text>(1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKDExMTExCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlLnJlc3BvbnNlLmJvZHkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>)
-	console.log(11111)
-	console.log(11111)
-	console.log(11111)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBsZXQgYm9keSAgICAgICAgICA9IDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBldmVudC5ib2R5ID0gZXZlbnQuYm9keSB8fCB7fQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cgljb25zb2xlLmxvZyh1c2VyKQoJY29uc29sZS5sb2codXNlcikKCWNvbnNvbGUubG9nKHVzZXIpCgljb25zb2xlLmxvZyh1c2VyKQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxMTExMQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CSAgY29uc29sZS5sb2coZW1haWwK</text>
-      </register>
-      <register name="6" type="4">
+      <register name="5" type="4">
         <text>)
-	  console.log(email)
-	  console.log(clearPassword)
-	  console.log(clearPassword)</text>
+  console.log(11111)
+  console.log(11111)
+  console.log(11111)</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxMTExMSkKICBjb25zb2xlLmxvZygxMTExMSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2wK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxMTExMSkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgLy8gbGV0IGxpbmsgPSBhd2FpdChVcmxTdG9yYWdlLmdldEJ5UGF0aChldmVudC5wYXRoUGFyYW1ldGVycy5saW5rKSk7CiAgLy8gbGV0IGlzRGlyZWN0ID0gZXZlbnQucXVlcnlTdHJpbmdQYXJhbWV0ZXJzICYmIGV2ZW50LnF1ZXJ5U3RyaW5nUGFyYW1ldGVycy5kaXJlY3QgPT09ICd0cnVlJzsK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2R5Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>)
+  console.log(body)
+  console.log(body)
+  console.log(body)
+  console.log(body)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
