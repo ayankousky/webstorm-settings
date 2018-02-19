@@ -158,12 +158,12 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1519069227633">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1519072529615">
         <mark key="'" line="370" column="0" />
-        <mark key="[" line="209" column="29" />
-        <mark key="]" line="209" column="34" />
-        <mark key="^" line="209" column="34" />
-        <mark key="." line="209" column="34" />
+        <mark key="[" line="84" column="29" />
+        <mark key="]" line="84" column="34" />
+        <mark key="^" line="84" column="34" />
+        <mark key="." line="84" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/kd.js" timestamp="1518039614021">
         <mark key="[" line="0" column="0" />
@@ -412,12 +412,12 @@
         <mark key="^" line="6" column="65" />
         <mark key="." line="6" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" timestamp="1516641408626">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" timestamp="1519073130484">
         <mark key="'" line="91" column="0" />
-        <mark key="[" line="65" column="12" />
-        <mark key="]" line="65" column="89" />
-        <mark key="." line="65" column="89" />
-        <mark key="^" line="65" column="89" />
+        <mark key="[" line="87" column="16" />
+        <mark key="]" line="87" column="27" />
+        <mark key="." line="87" column="27" />
+        <mark key="^" line="87" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/test/index.html" timestamp="1518249457692">
         <mark key="[" line="64" column="39" />
@@ -451,6 +451,13 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="377" column="78" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1519073219661">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="289" column="0" />
+        <mark key="]" line="289" column="0" />
+        <mark key="^" line="271" column="31" />
+        <mark key="." line="289" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1519070441633">
         <mark key="[" line="0" column="0" />
@@ -547,7 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="459" column="7" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="453" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="424" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="435" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
@@ -647,53 +653,53 @@
       <jump line="58" column="111" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/connexity.js" />
       <jump line="98" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/connexity.js" />
       <jump line="13" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/index.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>query</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWNvbnNvbGUubG9nKDExMTExCg==</text>
       </register>
       <register name="-" type="4">
-        <text>query</text>
+        <text>stringify</text>
       </register>
       <register name="/" type="4">
-        <text>10</text>
+        <text>.log</text>
       </register>
       <register name="0" type="4">
         <text>(1)</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgLy8gbGV0IGxpbmsgPSBhd2FpdChVcmxTdG9yYWdlLmdldEJ5UGF0aChldmVudC5wYXRoUGFyYW1ldGVycy5saW5rKSk7CiAgLy8gbGV0IGlzRGlyZWN0ID0gZXZlbnQucXVlcnlTdHJpbmdQYXJhbWV0ZXJzICYmIGV2ZW50LnF1ZXJ5U3RyaW5nUGFyYW1ldGVycy5kaXJlY3QgPT09ICd0cnVlJzsK</text>
+      <register name="1" type="2">
+        <text encoding="base64">CWNvbnNvbGUubG9nKDExMTExCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>)
+	console.log(11111)
+	console.log(11111)
+	console.log(11111)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCByZXNwb25zZSA9IAo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ewogICAgc3RhdHVzQ29kZTogNDAxLAogICAgaGVhZGVyczogewogICAgICAieC1jdXN0b20taGVhZGVyIiA6ICJNeSBIZWFkZXIgVmFsdWUiCiAgICB9LAogICAgYm9keTogSlNPTi5zdHJpbmdpZnkoeyAibWVzc2FnZSI6ICJIZWxsbyBXb3JsZCEiIH0pCiAgfTsKCiAgcmV0dXJuIGNhbGxiYWNrKG51bGwsIHJlc3BvbnNlKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>return context.succeed({
-    statusCode: '400',
-    body: JSON.stringify({ error: 'you messed up!' }),
-    headers: {
-      'Content-Type': 'application/json',
-    }
-	});
-  return reqEnd({})</text>
+      <register name="4" type="4">
+        <text encoding="base64">Cgljb25zb2xlLmxvZyh1c2VyKQoJY29uc29sZS5sb2codXNlcikKCWNvbnNvbGUubG9nKHVzZXIpCgljb25zb2xlLmxvZyh1c2VyKQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVyY2hhbnRJZCAgICA6IGAke3RoaXMubmV0d29yay5pZH06JHtuZXR3b3JrT2ZmZXIubWVyY2hhbnRJZH1gLAo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">CSAgY29uc29sZS5sb2coZW1haWwK</text>
+      </register>
+      <register name="6" type="4">
+        <text>)
+	  console.log(email)
+	  console.log(clearPassword)
+	  console.log(clearPassword)</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2wK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgLy8gbGV0IGxpbmsgPSBhd2FpdChVcmxTdG9yYWdlLmdldEJ5UGF0aChldmVudC5wYXRoUGFyYW1ldGVycy5saW5rKSk7CiAgLy8gbGV0IGlzRGlyZWN0ID0gZXZlbnQucXVlcnlTdHJpbmdQYXJhbWV0ZXJzICYmIGV2ZW50LnF1ZXJ5U3RyaW5nUGFyYW1ldGVycy5kaXJlY3QgPT09ICd0cnVlJzsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -703,9 +709,9 @@
       </register>
     </registers>
     <search>
-      <last-search>10</last-search>
+      <last-search>.log</last-search>
       <last-offset />
-      <last-pattern>10</last-pattern>
+      <last-pattern>.log</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>10</last-substitute>
       <last-dir>1</last-dir>
@@ -713,7 +719,6 @@
     </search>
     <history>
       <history-search>
-        <entry>36</entry>
         <entry>15</entry>
         <entry>getObj</entry>
         <entry>object</entry>
@@ -733,6 +738,7 @@
         <entry encoding="base64">XDxkYXRlXD4=</entry>
         <entry>5000</entry>
         <entry>10</entry>
+        <entry>.log</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4xOQ==</entry>
