@@ -445,11 +445,11 @@
         <mark key="." line="123" column="0" />
         <mark key="^" line="121" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/reports/subid_cost.js" timestamp="1519077611050">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="14" column="30" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/reports/subid_cost.js" timestamp="1519078593894">
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="40" />
+        <mark key="." line="7" column="40" />
+        <mark key="^" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1518818175494">
         <mark key="[" line="22" column="29" />
@@ -617,11 +617,11 @@
       <jump line="40" column="20" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlOiB7JGxpdGVyYWw6IGV4cG9ydERhdGVWYWx1ZX0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>, region: '$region'</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>.log</text>
