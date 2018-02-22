@@ -99,12 +99,6 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/index.js" timestamp="1518809035746">
-        <mark key="'" line="5" column="10" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/nginx/conf.prod.nginx" timestamp="1515628546770">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="15" column="16" />
@@ -129,11 +123,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519286710134">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519288202838">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="186" column="22" />
-        <mark key="]" line="186" column="22" />
-        <mark key="." line="186" column="22" />
+        <mark key="[" line="191" column="23" />
+        <mark key="]" line="191" column="29" />
+        <mark key="^" line="191" column="29" />
+        <mark key="." line="191" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1518648089962">
         <mark key="[" line="19" column="32" />
@@ -286,7 +281,7 @@
         <mark key="^" line="23" column="55" />
         <mark key="." line="23" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/zoom.js" timestamp="1519285164245">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/zoom.js" timestamp="1519287868663">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="47" />
       </file>
@@ -629,11 +624,11 @@
       <jump line="10" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbHVtbnM6IHRydWUsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>line</text>
       </register>
       <register name="/" type="4">
         <text>mid</text>
@@ -642,34 +637,34 @@
         <text>___</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sbwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbHVtbnM6IHRydWUsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gICBhdXRvX3BhcnNlOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJyAnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobGluZS5zcGxpdCgnOycpKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobisrKQo=</text>
+        <text encoding="base64">ICAgICAgLy8gICBhdXRvX3BhcnNlOiB0cnVlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gaW5wdXQ6IGZzLmNyZWF0ZXJlYWRzdHJlYW0oZmlsZXBhdGgyKS5waXBlKHpsaWIuY3JlYXRlZ3VuemlwKCkpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobGluZS5zcGxpdCgnOycpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobisrKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLCBtZXJjaGFudHNYTFNYID0gYXdhaXQgZ2V0TWVyY2hhbnRzWExTWChuZXR3b3JrLnJldkV4cG9ydFVybCkK</text>
+        <text encoding="base64">ICAgICAgLy8gaW5wdXQ6IGZzLmNyZWF0ZXJlYWRzdHJlYW0oZmlsZXBhdGgyKS5waXBlKHpsaWIuY3JlYXRlZ3VuemlwKCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLCBtZXJjaGFudHNDb3VudGVyID0ge30K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLCBuZXdPZmZlcnNDb3VudGVyID0gMAogICAgICAsIG1lcmNoYW50c0NvdW50ZXIgPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgLCBtZXJjaGFudHNYTFNYID0gYXdhaXQgZ2V0TWVyY2hhbnRzWExTWChuZXR3b3JrLnJldkV4cG9ydFVybCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
