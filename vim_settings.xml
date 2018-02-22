@@ -53,12 +53,12 @@
         <mark key="^" line="26" column="50" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" timestamp="1518738777759">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" timestamp="1519281415588">
         <mark key="'" line="11" column="9" />
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="28" />
+        <mark key="[" line="42" column="24" />
+        <mark key="]" line="42" column="33" />
+        <mark key="." line="42" column="33" />
+        <mark key="^" line="42" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/test/dev_tests.js" timestamp="1517877773072">
         <mark key="[" line="2" column="20" />
@@ -128,6 +128,13 @@
         <mark key="]" line="10" column="64" />
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519281644820">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="30" />
+        <mark key="." line="38" column="30" />
+        <mark key="^" line="38" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1518648089962">
         <mark key="[" line="19" column="32" />
@@ -216,11 +223,11 @@
         <mark key="^" line="67" column="4" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1518817009394">
-        <mark key="[" line="83" column="16" />
-        <mark key="]" line="83" column="37" />
-        <mark key="." line="83" column="37" />
-        <mark key="^" line="83" column="37" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1519280443572">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="91" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/dynamodb.js" timestamp="1518642831898">
         <mark key="[" line="65" column="0" />
@@ -367,12 +374,12 @@
         <mark key="." line="71" column="28" />
         <mark key="^" line="71" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1519175847300">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1519280939477">
         <mark key="'" line="19" column="2" />
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="39" />
-        <mark key="^" line="16" column="39" />
-        <mark key="." line="16" column="39" />
+        <mark key="[" line="15" column="72" />
+        <mark key="]" line="15" column="72" />
+        <mark key="^" line="15" column="72" />
+        <mark key="." line="15" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" timestamp="1516056181980">
         <mark key="'" line="11" column="0" />
@@ -381,11 +388,12 @@
         <mark key="." line="10" column="244" />
         <mark key="^" line="10" column="244" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/index.js" timestamp="1518817125714">
-        <mark key="[" line="30" column="33" />
-        <mark key="]" line="30" column="50" />
-        <mark key="." line="30" column="50" />
-        <mark key="^" line="30" column="50" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/index.js" timestamp="1519280866341">
+        <mark key="'" line="5" column="48" />
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="34" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/google_analytics.js" timestamp="1514534776349">
         <mark key="[" line="4" column="9" />
@@ -442,7 +450,7 @@
         <mark key="^" line="274" column="27" />
         <mark key="." line="274" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519077418352">
+      <file name="/Dummy.txt" timestamp="1519281209351">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1518648164931">
@@ -516,8 +524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
-      <jump line="37" column="76" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="48" column="24" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="78" column="19" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="117" column="198" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
@@ -616,13 +622,15 @@
       <jump line="102" column="11" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/connexity.js" />
       <jump line="149" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/connexity.js" />
       <jump line="19" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" />
+      <jump line="5" column="48" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/index.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IHJw</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IHJw</text>
       </register>
       <register name="/" type="4">
         <text>mid</text>
@@ -631,37 +639,34 @@
         <text encoding="base64">ICAgICAgbGV0IG1lcmNoYW50SWQgPSBvZmZlclVybC5tYXRjaCgvKFxkKilfcGFydFxkezN9Lmpzb24uZ3ovKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbGV0IG1lcmNoYW50SWQgPSAiaHR0cDovL3B1Ymxpc2hlcmV4cG9ydHMuY29ubmV4aXR5LmNvbS9mZWVkcy9taWQvMTQ1MDU3X3BhcnQwMDEuanNvbi5neiIubWF0Y2goLyhcZCopX3BhcnRcZHszfS5qc29uLmd6LykK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGV0IG1lcmNoYW50ID0gYXdhaXQgdGhpcy5NZXJjaGFudC5maW5kT25lKHttaWQ6IG9mZmVyc0RhdGFbMF0uc3BsaXQoJ1x0JylbMTldLCByZWdpb246IHRoaXMubmV0d29yay5yZWdpb259KTsK</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbXBvcnQnKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>(!merchant || !merchant.store_url) {
-        console.log('ERrror on import offers for:')
-        console.log(merchant);
-      }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbXBvcnQnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobS5taWQpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbXBvcnQnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG5ldHdvcmtPZmZlci5vaWQpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbXBvcnQnKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmxldCBlID0gewogICJyYXdVcmwiICAgICAgICA6ICJodHRwOi8vdHJhY2sucHJvZHVjdHN1cC5pby9jbGljay5yZWRpcj9zaXRlaWQ9NDY5MTEyJnZlcnNpb249MS4wJnB1cF9lPTQyMDMmcHVwX2NpZD03ODI1MyZwdXBfaWQ9OTYyMTQ0MCZyZWRpcj1odHRwczovL3d3dy5sYW1wZW53ZWx0LmRlL0xvdWlzYW5uZS1iZXRvbmdyYXVlLUhhZW5nZWxldWNodGUtbS1Kb2pvLVBlbmRlbC5odG1sP3V0bV9tZWRpdW09cHYmdXRtX3NvdXJjZT1jb25uZXhpdHkmdXRtX2NhbXBhaWduPWNwY19kZSZ1dG1fY29udGVudD05NjIxNDQwJnV0bV90ZXJtPTAwMDI2IiwKICAiYXRvbUlkIiAgICAgICAgICAgICAgIDogIjEyMDE4IiwKICAiY2F0ZWdvcnlJZCIgICAgICAgICAgIDogIjE2NTUwIiwKICAidHlwZSIgICAgICAgICAgICAgICAgIDogIk9GRkVSIiwKICAic2t1IiAgICAgICAgICAgICAgICAgIDogIjk2MjE0NDAiLAogICJ1cmwiICAgICAgICAgICAgICAgICAgOiB7InZhbHVlIjogImh0dHA6Ly9yZC5zaG9wemlsbGEuZGUvcmQ/dD1odHRwJTNBJTJGJTJGdHJhY2sucHJvZHVjdHN1cC5pbyUyRmNsaWNrLnJlZGlyJTNGc2l0ZWlkJTNENDY5MTEyJTI2dmVyc2lvbiUzRDEuMCUyNnB1cF9lJTNENDIwMyUyNnB1cF9jaWQlM0Q3ODI1MyUyNnB1cF9pZCUzRDk2MjE0NDAlMjZyZWRpciUzRGh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3LmxhbXBlbndlbHQuZGUlMjUyRkxvdWlzYW5uZS1iZXRvbmdyYXVlLUhhZW5nZWxldWNodGUtbS1Kb2pvLVBlbmRlbC5odG1sJTI1M0Z1dG1fbWVkaXVtJTI1M0RwdiUyNTI2dXRtX3NvdXJjZSUyNTNEY29ubmV4aXR5JTI1MjZ1dG1fY2FtcGFpZ24lMjUzRGNwY19kZSUyNTI2dXRtX2NvbnRlbnQlMjUzRDk2MjE0NDAlMjUyNnV0bV90ZXJtJTI1M0QwMDAyNiZtaWQ9MjA3NzU4JmNhdF9pZD0xNjU1MCZhdG9tPTEyMDE4JnByb2RfaWQ9Jm9pZD04MzI1Njk5MDMzJnBvcz0xJmJfaWQ9MTgmYmlkX3R5cGU9MiZiYW10PWY2YTkxNmQ3NDhjZGY2NGImY29icmFuZD0xJnBwcj1kOTg1Yjg1YTcxMmNiMzVjJnJmPWFmMSZhZl9hc3NldHR5cGVfaWQ9MTImYWZfY3JlYXRpdmVfaWQ9Mjk3MyZhZl9pZD1bUFVCTElTSEVSX0lEXSZhZl9wbGFjZW1lbnRfaWQ9MSZkdj0wMjhiYWQ5YWFlMzgxOTdhZjgxMWQwNmQ2YjJkMTA1ZiJ9LAogICJpZCIgICAgICAgICAgICAgICAgICAgOiAiODMyNTY5OTAzMyIsCiAgInNoaXBUeXBlIiAgICAgICAgICAgICA6ICJGUkVFIiwKICAidGl0bGUiICAgICAgICAgICAgICAgIDogIkxvdWlzYW5uZSAtIGJldG9uZ3JhdWUgSMOkbmdlbGV1Y2h0ZSBtLiBKb2pvLVBlbmRlbCIsCiAgInJldlR5cGUiICAgICAgICAgICAgICA6ICIxIiwKICAicHJpY2UiICAgICAgICAgICAgICAgIDogeyJ2YWx1ZSI6ICI3OSw5MCDigqwiLCAiaW50ZWdyYWwiOiAiNzk5MCJ9LAogICJzdG9jayIgICAgICAgICAgICAgICAgOiAiSU4iLAogICJvcmlnaW5hbFByaWNlIiAgICAgICAgOiB7InZhbHVlIjogIjg5LDkwIOKCrCIsICJpbnRlZ3JhbCI6ICI4OTkwIn0sCiAgIm1hbnVmYWN0dXJlciIgICAgICAgICA6ICJMYW1wZW53ZWx0IiwKICAiZGVzY3JpcHRpb24iICAgICAgICAgIDogIkRlciBNZXRhbGxzY2hpcm0gZGVySMOkbmdlbGV1Y2h0ZSBMb3Vpc2FubmUgaXN0IGJldG9uZ3JhdSBnZWbDpHJidCwgc28gZGFzcyBkaWUgTGV1Y2h0ZSBlcnN0a2xhc3NpZyB6dSBFaW5yaWNodHVuZ2VuIGltIGluZHVzdHJpZWxsZW4gU3RpbCBwYXNzdC4gSMO2aGVudmVyc3RlbGxiYXIgdm9uIDExMCBjbSBiaXMgMjM1IGNtLiBFbmVyZ2llZWZmaXppZW56a2xhc3NlOkErKyIsCiAgImltYWdlcyIgICAgICAgICAgICAgICA6IHsKICAgICJpbWFnZSI6IFt7CiAgICAgICJ2YWx1ZSI6ICJodHRwOi8vZDQuY25ueC5pby9pbWFnZS9vYmovODMyNTY5OTAzMztzcT00MDAiLAogICAgICAieHNpemUiOiA0MDAuMCwKICAgICAgInlzaXplIjogNDAwLjAKICAgIH1dCiAgfSwKICAibWVyY2hhbnRJZCIgICAgICAgICAgIDogIjIwNzc1OCIsCiAgIm1lcmNoYW50UHJvZHVjdElkIiAgICA6ICI5NjIxNDQwIiwKICAic2hpcEFtb3VudCIgICAgICAgICAgIDogeyJ2YWx1ZSI6ICIwLDAwIOKCrCIsICJpbnRlZ3JhbCI6ICIwIn0sCiAgIm1hcmtkb3duUGVyY2VudCIgICAgICA6ICIxMS4xMiIsCiAgImVhbjEzIiAgICAgICAgICAgICAgICA6ICI0MjUxMDk2NTMyNzkxIiwKICAiZXN0aW1hdGVkQ1BDIiAgICAgICAgIDogeyJ2YWx1ZSI6ICIwLDA5IOKCrCIsICJpbnRlZ3JhbCI6ICI5In0sCiAgImVuZXJneUVmZmljaWVuY3lDbGFzcyI6ICJBKysiCn0KCmxldCBrZWtlID0gewogICJyYXdVcmwiIDogImh0dHBzOi8vd3d3LmJvbnByaXguZGUvcHJvZHVrdC9waXN0YXppZS05MTcyNzg5NS8/dHlwPVBTTSZhbmJpZXRlcj1TaG9wemlsbGEmcHJvbW89MjUmbWF0Y2hrZXk9MjI1MzQ0NTc2JnZlcnNpb249OTE3Mjc4OTUiLAogICJhdG9tSWQiICAgICAgICAgICA6ICIxMTczOSIsCiAgImNhdGVnb3J5SWQiICAgICAgIDogIjE1NjUwIiwKICAidHlwZSIgICAgICAgICAgICAgOiAiT0ZGRVIiLAogICJza3UiICAgICAgICAgICAgICA6ICI5MTcyNzg5NSIsCiAgInVybCIgICAgICAgICAgICAgIDogeyJ2YWx1ZSI6ICJodHRwOi8vcmQuc2hvcHppbGxhLmRlL3JkP3Q9aHR0cHMlM0ElMkYlMkZjbGljay5jcHRyYWNrLmRlJTJGJTNGcmQlM0R0cnVlJTI2ayUzRE9SQlFQUkhxbnpRakgtQmVjU2s3MGZ3RDVLbVpoUk42VjBqWHVWR1VsdWcmbWlkPTEwMzY1MyZjYXRfaWQ9MTU2NTAmYXRvbT0xMTczOSZwcm9kX2lkPSZvaWQ9NjY0NDAxNDQ1NSZwb3M9MSZiX2lkPTE4JmJpZF90eXBlPTImYmFtdD1iZTg1ZmE4ZjZhZDczN2Y2JmNvYnJhbmQ9MSZwcHI9ZDUyN2ViODM2YTUzZjAzZiZyZj1hZjEmYWZfYXNzZXR0eXBlX2lkPTEyJmFmX2NyZWF0aXZlX2lkPTI5NzMmYWZfaWQ9W1BVQkxJU0hFUl9JRF0mYWZfcGxhY2VtZW50X2lkPTEmZHY9MDI4YmFkOWFhZTM4MTk3YWY4MTFkMDZkNmIyZDEwNWYifSwKICAiaWQiICAgICAgICAgICAgICAgOiAiNjY0NDAxNDQ1NSIsCiAgInNoaXBUeXBlIiAgICAgICAgIDogIkNVU1RPTSIsCiAgInRpdGxlIiAgICAgICAgICAgIDogIlB1bGxvdmVyIG1pdCBTdGVoa3JhZ2VuIGxhbmdhcm0gaW4gZ3LDvG4gZsO8ciBEYW1lbiB2b24gYm9ucHJpeCIsCiAgInJldlR5cGUiICAgICAgICAgIDogIjEiLAogICJwcmljZSIgICAgICAgICAgICA6IHsidmFsdWUiOiAiMTEsOTkg4oKsIiwgImludGVncmFsIjogIjExOTkifSwKICAic3RvY2siICAgICAgICAgICAgOiAiSU4iLAogICJvcmlnaW5hbFByaWNlIiAgICA6IHt9LAogICJtYW51ZmFjdHVyZXIiICAgICA6ICJicGMgYm9ucHJpeCBjb2xsZWN0aW9uIiwKICAiZGVzY3JpcHRpb24iICAgICAgOiAiYnBjIGJvbnByaXggY29sbGVjdGlvbiBEYW1lbiBQdWxsb3ZlciBtaXQgU3RlaGtyYWdlbiBpbiBncsO8bjogRWluZSBhbmdlbmVobWUgUGFzc2Zvcm0gdmVyYmluZGV0IHNpY2ggYmVpIGRpZXNlbSBQdWxsb3ZlciBtaXQgZWluZXIgbW9kZXJuZW4gU3RyaWNrYXJ0LU1pc2NodW5nLiBEZXIgVG9yc28gcHLDpHNlbnRpZXJ0IHNpY2ggaW0gZ3JvYmVuIExpbmtzc3RyaWNrLiBEYXJhbiBzY2hsaWXDn2VuIHJlY2h0cyBnZXN0cmlja3RlIMOEcm1lbCBpbS4uLiIsCiAgImltYWdlcyIgICAgICAgICAgIDogewogICAgImltYWdlIjogW3sKICAgICAgInZhbHVlIjogImh0dHA6Ly9kMS5jbm54LmlvL2ltYWdlL29iai82NjQ0MDE0NDU1O3NxPTQwMCIsCiAgICAgICJ4c2l6ZSI6IDQwMC4wLAogICAgICAieXNpemUiOiA0MDAuMAogICAgfV0KICB9LAogICJtZXJjaGFudElkIiAgICAgICA6ICIxMDM2NTMiLAogICJtZXJjaGFudFByb2R1Y3RJZCI6ICI5MTcyNzg5NSIsCiAgInNoaXBBbW91bnQiICAgICAgIDogeyJ2YWx1ZSI6ICI1LDk5IOKCrCIsICJpbnRlZ3JhbCI6ICI1OTkifSwKICAiZWFuMTMiICAgICAgICAgICAgOiAiODk0MDAwMjIxMjQ1NyIsCiAgImVzdGltYXRlZENQQyIgICAgIDogeyJ2YWx1ZSI6ICIwLDA0IOKCrCIsICJpbnRlZ3JhbCI6ICI0In0KfQoK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbXBvcnQnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgICAgbWVyY2hhbnRFeHBvcnRVcmw6ICdodHRwOi8vcHVibGlzaGVyZXhwb3J0cy5jb25uZXhpdHkuY29tL2ZlZWRzL21pZC9tZXJjaGFudHMuanNvbi5neicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gb2lkICAgICAgICAgICA6IG5ldHdvcmtPZmZlcgo=</text>
+        <text encoding="base64">ICAgICAgYmlsbGlnZXJJZDogY29ubmV4aXR5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
