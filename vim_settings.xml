@@ -123,12 +123,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519339428725">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519367057812">
         <mark key="'" line="53" column="2" />
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="228" column="0" />
-        <mark key="^" line="179" column="25" />
-        <mark key="." line="228" column="0" />
+        <mark key="[" line="197" column="10" />
+        <mark key="]" line="197" column="10" />
+        <mark key="^" line="197" column="10" />
+        <mark key="." line="197" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1518648089962">
         <mark key="[" line="19" column="32" />
@@ -365,18 +365,18 @@
         <mark key="^" line="79" column="21" />
         <mark key="." line="79" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" timestamp="1519334684915">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" timestamp="1519367085775">
         <mark key="[" line="80" column="85" />
         <mark key="]" line="80" column="85" />
         <mark key="." line="80" column="85" />
         <mark key="^" line="80" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1519339529464">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1519367025558">
         <mark key="'" line="19" column="2" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="25" column="29" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="22" column="1" />
+        <mark key="^" line="22" column="1" />
+        <mark key="." line="22" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" timestamp="1516056181980">
         <mark key="'" line="11" column="0" />
@@ -447,7 +447,7 @@
         <mark key="^" line="274" column="27" />
         <mark key="." line="274" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519334373570">
+      <file name="/Dummy.txt" timestamp="1519367096532">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1518648164931">
@@ -624,10 +624,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBiaWxsaWdlclJ1bGUuaG91ciA9IFsnMicsICc1JywgJzgnLCAnMTEnLCAnMTQnLCAnMTcnLCAnMjAnLCAnMjMnXTsgLy8qKipUb0RvKioqOiBDb25uZXhpdHkgaGFzIHRpbWVzdGFtcCBmb3IgdXBkYXRlcwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>zoomRule</text>
+        <text encoding="base64">IDUwMDA=</text>
       </register>
       <register name="/" type="4">
         <text>rsC</text>
@@ -636,48 +636,36 @@
         <text encoding="base64">ICAvLyB6b29tUnVsZS5taW51dGUgPSBbJzEwJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBiaWxsaWdlclJ1bGUuaG91ciA9IFsnMicsICc1JywgJzgnLCAnMTEnLCAnMTQnLCAnMTcnLCAnMjAnLCAnMjMnXTsgLy8qKipUb0RvKioqOiBDb25uZXhpdHkgaGFzIHRpbWVzdGFtcCBmb3IgdXBkYXRlcwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRzKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8gc3RvcmVfbmFtZSAgICA6IG1lcmNoYW50LnN0b3JlX3VybCwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+      <register name="3" type="4">
+        <text>// merchantId    : `${this.network.id}:${merchant.store_url}:${this.network.region}`,
+          // store_url     : merchant.store_url,
+          /</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhvZmZlcikK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhjdXJyTGluZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18nKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>data.
-data.
-data.
-data.
-data.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">aWYgKG4gPiAyMCl7CiAgICAgICAgLy8gICByZXR1cm4gbGluZVJlYWRlci5jbG9zZSgpOwogICAgICAgIC8vIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGRlbGV0ZSBvZmZlcgo=</text>
+        <text encoding="base64">ICAvLyBiaWxsaWdlclJ1bGUuaG91ciA9IFsnMicsICc1JywgJzgnLCAnMTEnLCAnMTQnLCAnMTcnLCAnMjAnLCAnMjMnXTsgLy8qKipUb0RvKioqOiBDb25uZXhpdHkgaGFzIHRpbWVzdGFtcCBmb3IgdXBkYXRlcwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>else {
-      let merchant    = await this.Merchant.getByMID(mid, this.network._id)
-      if (!merchant){
-        return;
-      }
-      let offersCount = await this.Offer.getOffersCount(merchant.store_url, this.network._id, this.network.region);
-      this.merchants[mid] = {
-        domain     : merchant.store_url,
-        offersCount: offersCount
-      }
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
