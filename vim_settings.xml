@@ -123,12 +123,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519458380361">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519460156105">
         <mark key="'" line="291" column="39" />
-        <mark key="[" line="274" column="81" />
-        <mark key="]" line="274" column="87" />
-        <mark key="^" line="274" column="87" />
-        <mark key="." line="274" column="87" />
+        <mark key="[" line="147" column="43" />
+        <mark key="]" line="149" column="32" />
+        <mark key="^" line="149" column="32" />
+        <mark key="." line="149" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1518648089962">
         <mark key="[" line="19" column="32" />
@@ -610,11 +610,11 @@
       <jump line="291" column="39" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>proess</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>proess</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>rsC</text>
@@ -623,34 +623,34 @@
         <text encoding="base64">ICAvLyB6b29tUnVsZS5taW51dGUgPSBbJzEwJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgOgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobGF0ZXN0RGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIHJlc29sdmUocmVzKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGNvbnNvbGUubG9nKHpsaXJlcykK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHpsaWIuZ3VuemlwKHJlcyksIChlcnIsCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGRhdGEpPT57CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycikKICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSkKICAgICAgICAgIH0=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnBpcGUoZGVjb21wcmVzc1N0cmVhbSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobGF0ZXN0RGF0ZSkK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIHJlc29sdmUocmVzKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIGNvbnNvbGUubG9nKHpsaXJlcykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHpsaWIuZ3VuemlwKHJlcyksIChlcnIsCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IGRhdGEpPT57CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycikKICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSkKICAgICAgICAgIH0=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnBpcGUoZGVjb21wcmVzc1N0cmVhbSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobGF0ZXN0RGF0ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
