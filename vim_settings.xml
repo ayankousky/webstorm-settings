@@ -123,12 +123,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519477869059">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519484439151">
         <mark key="'" line="291" column="39" />
-        <mark key="[" line="151" column="35" />
-        <mark key="]" line="151" column="35" />
-        <mark key="^" line="151" column="46" />
-        <mark key="." line="151" column="35" />
+        <mark key="[" line="159" column="22" />
+        <mark key="]" line="160" column="35" />
+        <mark key="^" line="160" column="35" />
+        <mark key="." line="160" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1518648089962">
         <mark key="[" line="19" column="32" />
@@ -438,7 +438,7 @@
         <mark key="^" line="274" column="27" />
         <mark key="." line="274" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519416146128">
+      <file name="/Dummy.txt" timestamp="1519484445661">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1518648164931">
@@ -615,10 +615,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>new Date(</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>new Date(</text>
       </register>
       <register name="/" type="4">
         <text>rsC</text>
@@ -627,47 +627,34 @@
         <text encoding="base64">ICAvLyB6b29tUnVsZS5taW51dGUgPSBbJzEwJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJhc2VPZmZlck1hcCkK</text>
+        <text encoding="base64">ICAgY29uc29sZS5sb2cobGFzdEJhc2VVcGRhdGUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGNvbnNvbGUubG9nKGxhc3RCYXNlVXBkYXRlKTsKICAgIGNvbnNvbGUubG9nKGxhc3RCYXNlVXBkYXRlKTsKICAgIGNvbnNvbGUubG9nKGxhc3RCYXNlVXBkYXRlKTsKICAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gaWYgKG4gPgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMzEyMzEyMzEyMzEpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IDMpewogICAgICAvLyAgIHJldHVybiBsaW5lUmVhZGVyLmNsb3NlKCkKICAgICAgLy8gfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLCBmaW5kT2ZmZXJzQmFzZSAgPSBuYW1lID0+IC8oXGQqLVxkKilcLm9mZmVyc19iYXNlLy5leGVjKG5hbWUpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubmV0d29yay5zYXZlKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>;
-        // let offer = {
-        //   networkId     : this.network._id,
-        //   region        : this.network.region,
-        //   offerId       : this.network._id + ':' + offerArr[2],
-        //   title         : offerArr[4],
-        //   description   : offerArr[5],
-        //   regular_price : offerArr[10],
-        //   currency      : offerArr[9],
-        //   url           : offerArr[15],
-        //   // cpc           : offerArr.cpc,
-        //   mid           : offerArr[34],
-        //   oid           : offerArr[2],
-        // };</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJhc2VPZmZlck1hcCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
