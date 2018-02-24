@@ -123,12 +123,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519454150727">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519455366289">
         <mark key="'" line="53" column="2" />
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="282" column="0" />
-        <mark key="^" line="280" column="26" />
-        <mark key="." line="282" column="0" />
+        <mark key="[" line="281" column="74" />
+        <mark key="]" line="281" column="74" />
+        <mark key="^" line="281" column="33" />
+        <mark key="." line="281" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1518648089962">
         <mark key="[" line="19" column="32" />
@@ -623,11 +623,11 @@
       <jump line="53" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>rsC</text>
@@ -636,36 +636,36 @@
         <text encoding="base64">ICAvLyB6b29tUnVsZS5taW51dGUgPSBbJzEwJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vZXhwb3J0LnNvbHV0ZS5kZS9rYWxhZF9wcm9kX2V4cG9ydC8K</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc1swXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vZXhwb3J0LnNvbHV0ZS5kZS9rYWxhZF9wcm9kX2V4cG9ydC8K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRzKQo=</text>
+        <text encoding="base64">ICAgIGh0dHBzOi8vZXhwb3J0LnNvbHV0ZS5kZS9rYWxhZF9wcm9kX2V4cG9ydC8K</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGh0dHBzOi8vZXhwb3J0LnNvbHV0ZS5kZS9rYWxhZF9wcm9kX2V4cG9ydC8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRzKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIC8gc3RvcmVfbmFtZSAgICA6IG1lcmNoYW50LnN0b3JlX3VybCwK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>// merchantId    : `${this.network.id}:${merchant.store_url}:${this.network.region}`,
           // store_url     : merchant.store_url,
           /</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhjdXJyTGluZSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18nKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhjdXJyTGluZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
