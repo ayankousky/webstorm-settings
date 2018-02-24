@@ -123,12 +123,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519462076866">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519477869059">
         <mark key="'" line="291" column="39" />
-        <mark key="[" line="152" column="13" />
-        <mark key="]" line="152" column="13" />
-        <mark key="^" line="152" column="13" />
-        <mark key="." line="152" column="13" />
+        <mark key="[" line="151" column="35" />
+        <mark key="]" line="151" column="35" />
+        <mark key="^" line="151" column="46" />
+        <mark key="." line="151" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1518648089962">
         <mark key="[" line="19" column="32" />
@@ -371,7 +371,11 @@
         <mark key="." line="80" column="85" />
         <mark key="^" line="80" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1519458498270" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1519477666264">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" timestamp="1516056181980">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="10" column="25" />
@@ -610,11 +614,11 @@
       <jump line="291" column="39" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>rsC</text>
@@ -623,15 +627,30 @@
         <text encoding="base64">ICAvLyB6b29tUnVsZS5taW51dGUgPSBbJzEwJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJhc2VPZmZlck1hcCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLy8gaWYgKG4gPgo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IDMpewogICAgICAvLyAgIHJldHVybiBsaW5lUmVhZGVyLmNsb3NlKCkKICAgICAgLy8gfQ==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLCBmaW5kT2ZmZXJzQmFzZSAgPSBuYW1lID0+IC8oXGQqLVxkKilcLm9mZmVyc19iYXNlLy5leGVjKG5hbWUpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>;
         // let offer = {
         //   networkId     : this.network._id,
@@ -647,25 +666,8 @@
         //   oid           : offerArr[2],
         // };</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvZmZlckFyci5mb3JFYWNoKChlbCwgaWR4KSA9Pgo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>{
-          console.log(el + '      ' + idx)
-        })</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvZmZlckFycikK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
