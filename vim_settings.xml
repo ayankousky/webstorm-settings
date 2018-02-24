@@ -123,12 +123,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519484439151">
-        <mark key="'" line="291" column="39" />
-        <mark key="[" line="159" column="22" />
-        <mark key="]" line="160" column="35" />
-        <mark key="^" line="160" column="35" />
-        <mark key="." line="160" column="35" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519486274418">
+        <mark key="'" line="21" column="9" />
+        <mark key="[" line="161" column="64" />
+        <mark key="]" line="81" column="34" />
+        <mark key="^" line="81" column="34" />
+        <mark key="." line="81" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1518648089962">
         <mark key="[" line="19" column="32" />
@@ -217,7 +217,7 @@
         <mark key="^" line="67" column="4" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1519461854622">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1519486120470">
         <mark key="[" line="95" column="25" />
         <mark key="]" line="96" column="24" />
         <mark key="." line="96" column="24" />
@@ -438,7 +438,7 @@
         <mark key="^" line="274" column="27" />
         <mark key="." line="274" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519484445661">
+      <file name="/Dummy.txt" timestamp="1519486066085">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1518648164931">
@@ -448,11 +448,11 @@
         <mark key="." line="123" column="0" />
         <mark key="^" line="121" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1519416176514">
-        <mark key="[" line="29" column="28" />
-        <mark key="]" line="30" column="45" />
-        <mark key="." line="30" column="45" />
-        <mark key="^" line="30" column="45" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1519486177470">
+        <mark key="[" line="27" column="172" />
+        <mark key="]" line="27" column="170" />
+        <mark key="." line="27" column="170" />
+        <mark key="^" line="27" column="170" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/tmp/split_video/ffmpeg_run.sh" timestamp="1515624101929">
         <mark key="[" line="7" column="18" />
@@ -512,8 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="498" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
-      <jump line="15" column="69" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/batchExport.js" />
       <jump line="44" column="54" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
       <jump line="10" column="244" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
@@ -612,13 +610,15 @@
       <jump line="31" column="48" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" />
       <jump line="53" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" />
       <jump line="291" column="39" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="162" column="7" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="21" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new Date(</text>
+        <text>NetworkModel</text>
       </register>
       <register name="-" type="4">
-        <text>new Date(</text>
+        <text>NetworkModel</text>
       </register>
       <register name="/" type="4">
         <text>rsC</text>
@@ -627,34 +627,47 @@
         <text encoding="base64">ICAvLyB6b29tUnVsZS5taW51dGUgPSBbJzEwJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgY29uc29sZS5sb2cobGFzdEJhc2VVcGRhdGUpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuTmV0d29yayAgICAgICAgPSBOZXR3b3JrTW9kZWw7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGNvbnNvbGUubG9nKGxhc3RCYXNlVXBkYXRlKTsKICAgIGNvbnNvbGUubG9nKGxhc3RCYXNlVXBkYXRlKTsKICAgIGNvbnNvbGUubG9nKGxhc3RCYXNlVXBkYXRlKTsKICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuTmV0d29yawo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMzEyMzEyMzEyMzEpCg==</text>
+      <register name="3" type="4">
+        <text>)
+    console.log(this.Network)
+    console.log(this.Network)
+    console.log(this.Network)
+    console.log(this.Network)
+    console.log(this.Network)
+    console.log(this.Network)
+    console.log(this.Network)
+    console.log(this.Network)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRzKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKERCLm1vZGVsKCduZXR3b3JrcycK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubmV0d29yay5zYXZlKCkpCg==</text>
+      <register name="5" type="4">
+        <text>))
+    console.log(DB.model('networks'))
+    console.log(DB.model('networks'))
+    console.log(DB.model('networks'))
+    console.log(DB.model('networks'))
+    console.log()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgY29uc29sZS5sb2cobGFzdEJhc2VVcGRhdGUpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJhc2VPZmZlck1hcCkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGNvbnNvbGUubG9nKGxhc3RCYXNlVXBkYXRlKTsKICAgIGNvbnNvbGUubG9nKGxhc3RCYXNlVXBkYXRlKTsKICAgIGNvbnNvbGUubG9nKGxhc3RCYXNlVXBkYXRlKTsKICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMzEyMzEyMzEyMzEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
