@@ -123,12 +123,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519502201403">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519504938576">
         <mark key="'" line="21" column="9" />
-        <mark key="[" line="200" column="29" />
-        <mark key="]" line="200" column="51" />
-        <mark key="^" line="200" column="51" />
-        <mark key="." line="200" column="51" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="0" />
+        <mark key="^" line="225" column="28" />
+        <mark key="." line="226" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1518648089962">
         <mark key="[" line="19" column="32" />
@@ -365,11 +365,10 @@
         <mark key="^" line="79" column="21" />
         <mark key="." line="79" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" timestamp="1519491409894">
-        <mark key="[" line="80" column="85" />
-        <mark key="]" line="80" column="85" />
-        <mark key="." line="80" column="85" />
-        <mark key="^" line="80" column="85" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" timestamp="1519505405676">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1519493619552">
         <mark key="[" line="17" column="28" />
@@ -616,10 +615,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>region</text>
+        <text>store_url</text>
       </register>
       <register name="/" type="4">
         <text>rsC</text>
@@ -628,34 +627,37 @@
         <text encoding="base64">ICAvLyB6b29tUnVsZS5taW51dGUgPSBbJzEwJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbSBpbicpCg==</text>
+        <text encoding="base64">ICAvLyByZXR1cm4gYXdhaXQgb2ZmZXIuc2F2ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJycpCg==</text>
+        <text encoding="base64">ICByZXR1cm4gcmVzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobWlkKQo=</text>
+        <text encoding="base64">ICBsZXQgcmVzID0gKHJlcykK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPz8/PycpCg==</text>
+      <register name="5" type="4">
+        <text>await Model.findOneAndUpdate({_id: offer._id}, offer, {upsert:true, 'new': true})
+  console.log</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbSBpbicpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhtZXJjaGFudCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1pZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoYXMgbWVyY2hhbnQnbWlkXS5vZmZlcnNDb3VudCA8IHRoaXMubWF4T2ZmZXJzQ291bnQpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+      <register name="9" type="4">
+        <text>)
+    console.log(this.merchants[mid].offersCount)
+    console.log(this.merchants[</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
