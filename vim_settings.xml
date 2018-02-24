@@ -123,12 +123,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519460156105">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519462076866">
         <mark key="'" line="291" column="39" />
-        <mark key="[" line="147" column="43" />
-        <mark key="]" line="149" column="32" />
-        <mark key="^" line="149" column="32" />
-        <mark key="." line="149" column="32" />
+        <mark key="[" line="152" column="13" />
+        <mark key="]" line="152" column="13" />
+        <mark key="^" line="152" column="13" />
+        <mark key="." line="152" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1518648089962">
         <mark key="[" line="19" column="32" />
@@ -217,11 +217,11 @@
         <mark key="^" line="67" column="4" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1519458294813">
-        <mark key="[" line="93" column="16" />
-        <mark key="]" line="94" column="74" />
-        <mark key="." line="94" column="74" />
-        <mark key="^" line="94" column="74" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1519461854622">
+        <mark key="[" line="95" column="25" />
+        <mark key="]" line="96" column="24" />
+        <mark key="." line="96" column="24" />
+        <mark key="^" line="96" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/dynamodb.js" timestamp="1518642831898">
         <mark key="[" line="65" column="0" />
@@ -611,10 +611,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>rsC</text>
@@ -623,34 +623,49 @@
         <text encoding="base64">ICAvLyB6b29tUnVsZS5taW51dGUgPSBbJzEwJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobGF0ZXN0RGF0ZSkK</text>
+      <register name="3" type="4">
+        <text>;
+        // let offer = {
+        //   networkId     : this.network._id,
+        //   region        : this.network.region,
+        //   offerId       : this.network._id + ':' + offerArr[2],
+        //   title         : offerArr[4],
+        //   description   : offerArr[5],
+        //   regular_price : offerArr[10],
+        //   currency      : offerArr[9],
+        //   url           : offerArr[15],
+        //   // cpc           : offerArr.cpc,
+        //   mid           : offerArr[34],
+        //   oid           : offerArr[2],
+        // };</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIHJlc29sdmUocmVzKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGNvbnNvbGUubG9nKHpsaXJlcykK</text>
+        <text encoding="base64">ICAgICAgICBvZmZlckFyci5mb3JFYWNoKChlbCwgaWR4KSA9Pgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHpsaWIuZ3VuemlwKHJlcyksIChlcnIsCg==</text>
+      <register name="6" type="4">
+        <text>{
+          console.log(el + '      ' + idx)
+        })</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGRhdGEpPT57CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycikKICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSkKICAgICAgICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnBpcGUoZGVjb21wcmVzc1N0cmVhbSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobGF0ZXN0RGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvZmZlckFycikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -661,7 +676,7 @@
       <last-offset />
       <last-pattern>rsC</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
-      <last-substitute>10</last-substitute>
+      <last-substitute>rsC</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
