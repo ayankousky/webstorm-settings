@@ -123,12 +123,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519492090663">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519494657427">
         <mark key="'" line="21" column="9" />
-        <mark key="[" line="150" column="25" />
-        <mark key="]" line="150" column="46" />
-        <mark key="^" line="150" column="46" />
-        <mark key="." line="150" column="46" />
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="231" column="0" />
+        <mark key="^" line="231" column="16" />
+        <mark key="." line="231" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1518648089962">
         <mark key="[" line="19" column="32" />
@@ -217,11 +217,11 @@
         <mark key="^" line="67" column="4" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1519491924972">
-        <mark key="[" line="27" column="3" />
-        <mark key="]" line="29" column="15" />
-        <mark key="." line="29" column="15" />
-        <mark key="^" line="29" column="15" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1519492737179">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="16" />
+        <mark key="." line="29" column="16" />
+        <mark key="^" line="29" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/dynamodb.js" timestamp="1518642831898">
         <mark key="[" line="65" column="0" />
@@ -280,7 +280,7 @@
         <mark key="^" line="23" column="55" />
         <mark key="." line="23" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/zoom.js" timestamp="1519338202892">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/zoom.js" timestamp="1519494620760">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="47" />
       </file>
@@ -371,10 +371,11 @@
         <mark key="." line="80" column="85" />
         <mark key="^" line="80" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1519477666264">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1519493619552">
         <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="28" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" timestamp="1516056181980">
         <mark key="'" line="11" column="0" />
@@ -615,10 +616,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmwK</text>
       </register>
       <register name="-" type="4">
-        <text>let res = a</text>
+        <text>let d</text>
       </register>
       <register name="/" type="4">
         <text>rsC</text>
@@ -627,43 +628,36 @@
         <text encoding="base64">ICAvLyB6b29tUnVsZS5taW51dGUgPSBbJzEwJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygnbGFzdGJhc2V1cGRhdGUnKQogICAgY29uc29sZS5sb2cobGFzdEJhc2VVcGRhdGUpOwo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGhpcy5OZXR3b3JrLnVwZGF0ZSh7X2lkOiB0aGlzLm5ldHdvcmsuCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKG4gPiA1KQo=</text>
       </register>
       <register name="5" type="4">
-        <text>_id}, this.network)
-      // this.network.save(function(err){
-      //   console.log(err)
-      //   console.log(err)
-      //   console.log(err)
-      //   console.log(err)
-      // });
-      // console.log(this.network.save)</text>
+        <text>{
+        return lineReader.close();
+      }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubmV0d29yay5leHRyYS5sYXN0QmFzZVVwZGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2cobGluZSkK</text>
       </register>
-      <register name="7" type="4">
-        <text>)
-    console.log(lastBaseUpdate)
-    console.log(feeds.offersBase.time)</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5uZXR3b3JrLmV4dHJhLmxhc3RCYXNlVXBkYXRlID0gJzEyMzQnOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5OZXR3b3JrLnJlZ2lvbiA9ICdraycK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvZmZlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
