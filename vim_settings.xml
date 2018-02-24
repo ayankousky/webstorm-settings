@@ -123,12 +123,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519486274418">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519492090663">
         <mark key="'" line="21" column="9" />
-        <mark key="[" line="161" column="64" />
-        <mark key="]" line="81" column="34" />
-        <mark key="^" line="81" column="34" />
-        <mark key="." line="81" column="34" />
+        <mark key="[" line="150" column="25" />
+        <mark key="]" line="150" column="46" />
+        <mark key="^" line="150" column="46" />
+        <mark key="." line="150" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1518648089962">
         <mark key="[" line="19" column="32" />
@@ -217,11 +217,11 @@
         <mark key="^" line="67" column="4" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1519486120470">
-        <mark key="[" line="95" column="25" />
-        <mark key="]" line="96" column="24" />
-        <mark key="." line="96" column="24" />
-        <mark key="^" line="96" column="24" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1519491924972">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="15" />
+        <mark key="^" line="29" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/dynamodb.js" timestamp="1518642831898">
         <mark key="[" line="65" column="0" />
@@ -365,7 +365,7 @@
         <mark key="^" line="79" column="21" />
         <mark key="." line="79" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" timestamp="1519367085775">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" timestamp="1519491409894">
         <mark key="[" line="80" column="85" />
         <mark key="]" line="80" column="85" />
         <mark key="." line="80" column="85" />
@@ -438,7 +438,7 @@
         <mark key="^" line="274" column="27" />
         <mark key="." line="274" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519486066085">
+      <file name="/Dummy.txt" timestamp="1519491386018">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1518648164931">
@@ -614,11 +614,11 @@
       <jump line="21" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>NetworkModel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>NetworkModel</text>
+        <text>let res = a</text>
       </register>
       <register name="/" type="4">
         <text>rsC</text>
@@ -627,47 +627,43 @@
         <text encoding="base64">ICAvLyB6b29tUnVsZS5taW51dGUgPSBbJzEwJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuTmV0d29yayAgICAgICAgPSBOZXR3b3JrTW9kZWw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuTmV0d29yawo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygnbGFzdGJhc2V1cGRhdGUnKQogICAgY29uc29sZS5sb2cobGFzdEJhc2VVcGRhdGUpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>)
-    console.log(this.Network)
-    console.log(this.Network)
-    console.log(this.Network)
-    console.log(this.Network)
-    console.log(this.Network)
-    console.log(this.Network)
-    console.log(this.Network)
-    console.log(this.Network)</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKERCLm1vZGVsKCduZXR3b3JrcycK</text>
-      </register>
-      <register name="5" type="4">
-        <text>))
-    console.log(DB.model('networks'))
-    console.log(DB.model('networks'))
-    console.log(DB.model('networks'))
-    console.log(DB.model('networks'))
-    console.log()</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgY29uc29sZS5sb2cobGFzdEJhc2VVcGRhdGUpOwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy8gdGhpcy5OZXR3b3JrLnVwZGF0ZSh7X2lkOiB0aGlzLm5ldHdvcmsuCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGNvbnNvbGUubG9nKGxhc3RCYXNlVXBkYXRlKTsKICAgIGNvbnNvbGUubG9nKGxhc3RCYXNlVXBkYXRlKTsKICAgIGNvbnNvbGUubG9nKGxhc3RCYXNlVXBkYXRlKTsKICAgIA==</text>
+      <register name="5" type="4">
+        <text>_id}, this.network)
+      // this.network.save(function(err){
+      //   console.log(err)
+      //   console.log(err)
+      //   console.log(err)
+      //   console.log(err)
+      // });
+      // console.log(this.network.save)</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubmV0d29yay5leHRyYS5sYXN0QmFzZVVwZGF0ZQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>)
+    console.log(lastBaseUpdate)
+    console.log(feeds.offersBase.time)</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5uZXR3b3JrLmV4dHJhLmxhc3RCYXNlVXBkYXRlID0gJzEyMzQnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMzEyMzEyMzEyMzEyMzEyMzEpCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5OZXR3b3JrLnJlZ2lvbiA9ICdraycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
