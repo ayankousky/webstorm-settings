@@ -21,6 +21,9 @@
         <mark key="^" line="31" column="35" />
         <mark key="." line="31" column="35" />
       </file>
+      <file name="/fragment.js" timestamp="1519509827080">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.json" timestamp="1516142140705">
         <mark key="[" line="0" column="44" />
         <mark key="]" line="0" column="40" />
@@ -123,12 +126,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519504938576">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519510364202">
         <mark key="'" line="21" column="9" />
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="0" />
-        <mark key="^" line="225" column="28" />
-        <mark key="." line="226" column="0" />
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="0" />
+        <mark key="^" line="217" column="27" />
+        <mark key="." line="218" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1518648089962">
         <mark key="[" line="19" column="32" />
@@ -365,10 +368,11 @@
         <mark key="^" line="79" column="21" />
         <mark key="." line="79" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" timestamp="1519505405676">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" timestamp="1519510205721">
+        <mark key="[" line="78" column="33" />
+        <mark key="]" line="78" column="33" />
+        <mark key="^" line="78" column="33" />
+        <mark key="." line="78" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1519493619552">
         <mark key="[" line="17" column="28" />
@@ -615,10 +619,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYk9mZmVyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>store_url</text>
+        <text>fields</text>
       </register>
       <register name="/" type="4">
         <text>rsC</text>
@@ -627,37 +631,34 @@
         <text encoding="base64">ICAvLyB6b29tUnVsZS5taW51dGUgPSBbJzEwJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYk9mZmVyKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm4gYXdhaXQgb2ZmZXIuc2F2ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgcmVzID0gKHJlcykK</text>
+        <text encoding="base64">Ly8gLyoqLwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>await Model.findOneAndUpdate({_id: offer._id}, offer, {upsert:true, 'new': true})
-  console.log</text>
+      <register name="5" type="2">
+        <text encoding="base64">b2ZmZXJzU2NoZW1hLnN0YXRpY3MuZ2V0T25lID0gYXN5bmMgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhtZXJjaGFudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1pZCkK</text>
+        <text encoding="base64">ICAvLyByZXR1cm4gYXdhaXQgb2ZmZXIuc2F2ZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoYXMgbWVyY2hhbnQnbWlkXS5vZmZlcnNDb3VudCA8IHRoaXMubWF4T2ZmZXJzQ291bnQpCg==</text>
+        <text encoding="base64">ICByZXR1cm4gcmVzOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>)
-    console.log(this.merchants[mid].offersCount)
-    console.log(this.merchants[</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBsZXQgcmVzID0gKHJlcykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
