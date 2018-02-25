@@ -126,12 +126,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519543300826">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519558434972">
         <mark key="'" line="21" column="9" />
-        <mark key="[" line="182" column="14" />
-        <mark key="]" line="184" column="0" />
-        <mark key="^" line="184" column="0" />
-        <mark key="." line="184" column="0" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="^" line="179" column="3" />
+        <mark key="." line="179" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1518648089962">
         <mark key="[" line="19" column="32" />
@@ -618,7 +618,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSwgMjAwMDApOwo=</text>
       </register>
       <register name="-" type="4">
         <text>@</text>
@@ -630,36 +630,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAvLyBqdXN0IHVwZGF0ZSBhbiBvZmZlciB3aXRob3V0IGluY3JlYXNpbmcgY291bnRlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSwgMjAwMDApOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>// offersSchema.statics.findById = async function(id){
-//   return await Model.findById(id);
-// };</text>
+        <text encoding="base64">ICAgIHNldEludGVydmFsKCgpPT57CiAgICAgIGNvbnNvbGUubG9nKG4pOwogICAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG4gPiAxMDAwMCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ewogICAgICAgIHJldHVybiBsaW5lUmVhZGVyLmNsb3NlKCkKICAgICAgfQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxhc3RCYXNlVXBkYXRlIDwgZmVlZHMub2ZmZXJzQmFzZS50aW1lKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgLy8gaWYgKG4gPiA1KXsKICAgICAgLy8gICByZXR1cm4gbGluZVJlYWRlci5jbG9zZSgpCiAgICAgIC8vIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxhc3RCYXNlVXBkYXRlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNEZWx0YUV4cG9ydCAmJiBvZmZlckFyclsxXSA9PT0gJ2RlbGV0ZScpIHsgLy8gZm9yIERlbHRhIG9ubHkKICAgICAgICAgIAogICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRiT2ZmZXIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
