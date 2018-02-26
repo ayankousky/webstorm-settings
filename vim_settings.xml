@@ -56,7 +56,7 @@
         <mark key="^" line="26" column="50" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" timestamp="1519458191672">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" timestamp="1519565536097">
         <mark key="'" line="11" column="9" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -220,7 +220,7 @@
         <mark key="^" line="67" column="4" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1519513282715">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1519565542648">
         <mark key="[" line="119" column="2" />
         <mark key="]" line="119" column="2" />
         <mark key="." line="119" column="2" />
@@ -457,6 +457,12 @@
         <mark key="." line="27" column="170" />
         <mark key="^" line="27" column="170" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/billiger.js" timestamp="1519604091447">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="26" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/tmp/split_video/ffmpeg_run.sh" timestamp="1515624101929">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="21" />
@@ -617,11 +623,11 @@
       <jump line="21" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>af_campaign_id</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>af_campaign_id</text>
       </register>
       <register name="/" type="4">
         <text>rsC</text>
@@ -635,29 +641,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYk9mZmVyKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIC8vIGFkZCBvciBjaGFuZ2UgcHVibGlzaGVySWQgaW4gdXJsCiAgICAvLyBvZmZlci51cmwgPSBoZWxwZXJzLmNvbW1vbi51cGRhdGVRdWVyeVN0cmluZ1BhcmFtZXRlcihvZmZlci51cmwsICdhZl9pZCcsIHByb2Nlc3MuZW52LmNvbm5leGl0eVB1Ymxpc2hlcklkKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">fSwgMjAwMDApOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHNldEludGVydmFsKCgpPT57CiAgICAgIGNvbnNvbGUubG9nKG4pOwogICAg</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxhc3RCYXNlVXBkYXRlIDwgZmVlZHMub2ZmZXJzQmFzZS50aW1lKQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYk9mZmVyKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">fSwgMjAwMDApOwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHNldEludGVydmFsKCgpPT57CiAgICAgIGNvbnNvbGUubG9nKG4pOwogICAg</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxhc3RCYXNlVXBkYXRlKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
