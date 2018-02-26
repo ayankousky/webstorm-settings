@@ -84,6 +84,12 @@
       <file name="util.js" timestamp="1518732719406">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1519674028142">
+        <mark key="[" line="307" column="0" />
+        <mark key="]" line="307" column="0" />
+        <mark key="^" line="306" column="55" />
+        <mark key="." line="307" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/file.js" timestamp="1518038543659">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="10" column="46" />
@@ -265,11 +271,11 @@
         <mark key="." line="75" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1519070562357">
-        <mark key="'" line="1091" column="33" />
-        <mark key="[" line="389" column="11" />
-        <mark key="]" line="389" column="31" />
-        <mark key="^" line="389" column="31" />
-        <mark key="." line="389" column="31" />
+        <mark key="'" line="1092" column="33" />
+        <mark key="[" line="390" column="11" />
+        <mark key="]" line="390" column="31" />
+        <mark key="^" line="390" column="31" />
+        <mark key="." line="390" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/index.html" timestamp="1518239816325">
         <mark key="[" line="7" column="47" />
@@ -349,7 +355,7 @@
         <mark key="." line="3" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1517183646990">
-        <mark key="'" line="104" column="0" />
+        <mark key="'" line="139" column="0" />
         <mark key="[" line="41" column="39" />
         <mark key="]" line="41" column="40" />
         <mark key="." line="41" column="40" />
@@ -434,12 +440,12 @@
         <mark key="^" line="377" column="78" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1519074732411">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="274" column="22" />
-        <mark key="]" line="274" column="27" />
-        <mark key="^" line="274" column="27" />
-        <mark key="." line="274" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1519674040044">
+        <mark key="'" line="383" column="6" />
+        <mark key="[" line="398" column="27" />
+        <mark key="]" line="398" column="27" />
+        <mark key="." line="398" column="27" />
+        <mark key="^" line="398" column="27" />
       </file>
       <file name="/Dummy.txt" timestamp="1519491386018">
         <mark key="[" line="0" column="0" />
@@ -521,15 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="54" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
-      <jump line="10" column="244" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
-      <jump line="65" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
-      <jump line="69" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
-      <jump line="72" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
       <jump line="70" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
       <jump line="67" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/api_test.js" />
@@ -621,58 +618,73 @@
       <jump line="291" column="39" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" />
       <jump line="162" column="7" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" />
       <jump line="21" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="279" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="314" column="10" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="329" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="334" column="68" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="342" column="30" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="360" column="15" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="363" column="57" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="371" column="15" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="383" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>af_campaign_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>af_campaign_id</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>rsC</text>
+        <text>update</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAvLyBqdXN0IHVwZGF0ZSBhbiBvZmZlciB3aXRob3V0IGluY3JlYXNpbmcgY291bnRlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIC8vIGFkZCBvciBjaGFuZ2UgcHVibGlzaGVySWQgaW4gdXJsCiAgICAvLyBvZmZlci51cmwgPSBoZWxwZXJzLmNvbW1vbi51cGRhdGVRdWVyeVN0cmluZ1BhcmFtZXRlcihvZmZlci51cmwsICdhZl9pZCcsIHByb2Nlc3MuZW52LmNvbm5leGl0eVB1Ymxpc2hlcklkKQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVtYWlsOiAK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Cgo=</text>
+        <text>{
+            enable: true
+          },
+          push: {
+            enable: false
+          }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAluZXdTaGFyaW5nczoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYk9mZmVyKQo=</text>
+        <text encoding="base64">ICBmaWVsZHMudXNlcklkID0gdXNlci5pZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fSwgMjAwMDApOwo=</text>
+        <text encoding="base64">CS8vIGxldCB1cGRhdGVSZXN1bHQgPSBhd2FpdChVc2VyLnVwZGF0ZUJ5SWQoZWRpdFVzZXJJZCwgZmllbGRzKSkK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIHNldEludGVydmFsKCgpPT57CiAgICAgIGNvbnNvbGUubG9nKG4pOwogICAg</text>
+        <text>;
+	// let updateResult = await(CloudUser.updateUserByEmail(user.email, fields));</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIC8vIGFkZCBvciBjaGFuZ2UgcHVibGlzaGVySWQgaW4gdXJsCiAgICAvLyBvZmZlci51cmwgPSBoZWxwZXJzLmNvbW1vbi51cGRhdGVRdWVyeVN0cmluZ1BhcmFtZXRlcihvZmZlci51cmwsICdhZl9pZCcsIHByb2Nlc3MuZW52LmNvbm5leGl0eVB1Ymxpc2hlcklkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rsC</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>rsC</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>rsC</last-substitute>
       <last-dir>1</last-dir>
@@ -680,8 +692,6 @@
     </search>
     <history>
       <history-search>
-        <entry>removeOffersFunc</entry>
-        <entry>https</entry>
         <entry>config =</entry>
         <entry>expi</entry>
         <entry>getHost(domain)</entry>
@@ -700,6 +710,8 @@
         <entry>mid</entry>
         <entry>importOf</entry>
         <entry>rsC</entry>
+        <entry>upload</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4xOQ==</entry>
