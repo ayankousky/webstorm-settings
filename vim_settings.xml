@@ -61,7 +61,7 @@
         <mark key="^" line="26" column="50" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" timestamp="1519565536097">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" timestamp="1519689986271">
         <mark key="'" line="11" column="9" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -137,12 +137,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519560131495">
-        <mark key="'" line="21" column="9" />
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="0" />
-        <mark key="^" line="179" column="3" />
-        <mark key="." line="221" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1519690890851">
+        <mark key="'" line="227" column="0" />
+        <mark key="[" line="357" column="0" />
+        <mark key="]" line="357" column="0" />
+        <mark key="^" line="360" column="33" />
+        <mark key="." line="357" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1518648089962">
         <mark key="[" line="19" column="32" />
@@ -231,7 +231,7 @@
         <mark key="^" line="67" column="4" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1519565542648">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1519690246366">
         <mark key="[" line="119" column="2" />
         <mark key="]" line="119" column="2" />
         <mark key="." line="119" column="2" />
@@ -378,7 +378,8 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1519493619552">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1519690070669">
+        <mark key="'" line="21" column="0" />
         <mark key="[" line="17" column="28" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -543,8 +544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/facebook_share.html" />
-      <jump line="15" column="54" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/facebook_share.html" />
       <jump line="16" column="54" filename="$USER_HOME$/Documents/Projects/VulcanVision/SRC/videos_concat/facebook/facebook_share.html" />
       <jump line="493" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="496" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
@@ -643,64 +642,60 @@
       <jump line="434" column="10" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="25" column="19" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
       <jump line="77" column="52" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" />
+      <jump line="227" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGV2ZW50LmJvZHkgID0gZXZlbnQuYm9keSA/IEpTT04ucGFyc2UoZXZlbnQuYm9keSkgOiB7fTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobGluZSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZpZWxkcw==</text>
+        <text>currLine</text>
       </register>
       <register name="/" type="4">
-        <text>arn</text>
+        <text>CPC</text>
       </register>
       <register name="0" type="4">
         <text>s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGV2ZW50LmJvZHkgID0gZXZlbnQuYm9keSA/IEpTT04ucGFyc2UoZXZlbnQuYm9keSkgOiB7fTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobGluZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVjaXBpZW50VXNlci5zaG91bGRHZXROb3RpZmljYXRpb24oJ2VtYWlsJywgJ25ld1NoYXJpbmdzJykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvZmZlckFycltvZmZlckFyci5sZW5ndGggLSAxXSA9IG9mZmVyQXJyW29mZmVyQXJyLmxlbmd0aCAtIDFdLnJlcGxhY2UoLyIkLywnJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2cocmVjaXBpZW50VXNlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvZmZlckFyclswXSA9IG9mZmVyQXJyWzBdLnJlcGxhY2UoL14iLywnJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLCAgbmV3TWVyY2hhbnRzQ291bnQgPSAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlY29tcHJlc3NTdHJlYW0ub24oJ2VuCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gYXN5bmMoKCk9PnsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZCcsICgpPT57CiAgICAgICAgICAgIHJlc29sdmUoZnVsbERhdGEpOwogICAgICAgICAgfSk7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9KSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGZ1bGxEYXRhID0gJyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdmaWVsZHMnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHRleHQgPSBkYXRhLnRvU3RyaW5nKCd1dGYtOCcpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>)
-	console.log('fields')
-	console.log('fields')
-	console.log('fields')
-	console.log('fields')
-	console.log('fields')
-	console.log(event.body)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGV4dAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>arn</last-search>
+      <last-search>CPC</last-search>
       <last-offset />
-      <last-pattern>arn</last-pattern>
+      <last-pattern>CPC</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>rsC</last-substitute>
       <last-dir>1</last-dir>
@@ -708,8 +703,6 @@
     </search>
     <history>
       <history-search>
-        <entry>expi</entry>
-        <entry>getHost(domain)</entry>
         <entry>164</entry>
         <entry>ondyn</entry>
         <entry>524</entry>
@@ -728,6 +721,8 @@
         <entry>upload</entry>
         <entry>update</entry>
         <entry>arn</entry>
+        <entry>cpc</entry>
+        <entry>CPC</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4xOQ==</entry>
