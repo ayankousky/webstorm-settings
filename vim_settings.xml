@@ -439,14 +439,14 @@
         <mark key="^" line="377" column="78" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1519924399343">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1519929054756">
         <mark key="'" line="391" column="6" />
         <mark key="[" line="66" column="43" />
         <mark key="]" line="73" column="47" />
         <mark key="^" line="73" column="47" />
         <mark key="." line="73" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519924315970">
+      <file name="/Dummy.txt" timestamp="1519929562549">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1518648164931">
@@ -527,7 +527,7 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1518646211144">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1519929803664">
         <mark key="'" line="821" column="26" />
         <mark key="[" line="833" column="0" />
         <mark key="]" line="825" column="19" />
@@ -639,10 +639,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Ly8gICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>feeds.offersBase.time</text>
+        <text>POST</text>
       </register>
       <register name="/" type="4">
         <text>CPC</text>
@@ -651,100 +651,52 @@
         <text>s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Ly8gICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>*             error:
- *               $ref: '#/definitions/BaseError'</text>
+        <text>&quot;error&quot;: {
+//     &quot;code&quot;: 11,
+//       &quot;message&quot;: &quot;unexpected error happened&quot;
+//   }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="3" type="4">
+        <text>{
+  //   &quot;created&quot;: true,
+  //   &quot;user&quot;: {
+  //     &quot;email&quot;: &quot;alex@gmail.com&quot;,
+  //     &quot;name&quot;: &quot;Alex Smith&quot;,
+  //     &quot;verified&quot;: false,
+  //     &quot;id&quot;: &quot;3bce4931-6c75-41ab-afe0-2ec108a30860&quot;,
+  //     &quot;creationDate&quot;: &quot;2017-05-16T20:48:46.315Z&quot;,
+  //     &quot;lastUpdateDate&quot;: &quot;2017-05-16T20:48:46.315Z&quot;
+  //   }
+  // }</text>
       </register>
-      <register name="4" type="4">
-        <text>*       error:
- *         $ref: '#/definitions/BaseError'</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>if (res.success){
+  	$('#zalupa').text(res.user.creationDate)
+	} else {
+  	$('#zalupa').text('sorry nihuya ne sozdalos')
+	}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>/**
- * @swagger
- * definitions:
- *   NewUser:
- *     type: object
- *     required:
- *       - email
- *       - password
- *       - username
- *     properties:
- *       email:
- *         type: string
- *       password:
- *         type: string
- *         format: password
- *       username:
- *         type: string
- *   User:
- *     type: object
- *     example:
- *       email: alex@gmail.com
- *       name: Alex Smith
- *       verified: false
- *       id: 3bce4931-6c75-41ab-afe0-2ec108a30860
- *       creationDate: 2017-05-16T20:48:46.315Z
- *       lastUpdateDate: 2017-05-16T20:48:46.315Z
- *     properties:
- *       id:
- *         type: string
- *         description: user unique identifier
- *         example: 3bce4931-6c75-41ab-afe0-2ec108a30860
- *       email:
- *         type: string
- *         example: alex@gmail.com
- *       name:
- *         type: string
- *         example: Alex Smith
- *       verified:
- *         type: boolean
- *         description: if user verified and he is enabled to login
- *         example: true
- *       creationDate:
- *         type: string
- *         description: ISO date of user creation
- *         example: 2017-05-16T20:48:46.315Z
- *       lastUpdateDate:
- *         type: string
- *         description: ISO date of user last update
- *         example: 2017-05-16T20:48:46.315Z
- *   LoginResponse:
- *     type: object
- *     properties:
- *       success:
- *         type: boolean
- *         description: indicates if user has been logged in
- *         example: true
- *       token:
- *         type: string
- *         description: token which you have to use in header to make authorized requests
- *         example: eyJraWQiOiJ1cy13ZXN0LTIxIiwidHlwIjoiSldTIiwiYWxnIjoiUlM1MTIifQ.eyJzdWIiOiJ1cy13ZXN0LTI6MDUwODZmM2EtM2NjNy00ZmZhLWJhN2QtN2E3ZTM3NzQ0ODQwIiwiYXVkIjoidXMtd2VzdC0yOjY2MmNjNTljLWMzZTgtNGYxOC04NWIzLTQ1OTdiYTQ4YThkNSIsImFtciI6WyJhdXRoZW50aWNhdGVkIiwiYXlhbmtvdXNreS52dWxjYW52aXNpb24tdGVzdCIsImF5YW5rb3Vza3kudnVsY2FudmlzaW9uLXRlc3Q6dXMtd2VzdC0yOjY2MmNjNTljLWMzZTgtNGYxOC04NWIzLTQ1OTdiYTQ4YThkNTpheWFua291c2t5QHlhaG9vLmNvbSJdLCJpc3MiOiJodHRwczovL2NvZ25pdG8taWRlbnRpdHkuYW1hem9uYXdzLmNvbSIsImV4cCI6MTQ5MDY4OTk0NiwiaWF0IjoxNDkwNjg5MDQ2fQ.LjQ188uMOl8PFm-ltdRjf-oUuH9zkC5A1uQXwzNaD5d1Lr6mM2VgHZbCqYtDcovUA34AQJRu2__ui3twZdK_K4bQqQYf8vLnSXWeCTeB77AZT8N_aZpnUTFFe1BelLUIqL2DSR9Qpx8XdVgspDa1mpSFJ1cx9nrTha_ebxdJl-Ca0twGwqFF0i1AQgn3A2cwAnQClKUYDfgcDA6lzKeyy5Cj1BUWsPHCF4PLrGfTdR_50wvi8wfBQ9lmNtU79_gnKHFbGaPDqrYHYhehFwffo7le1fiYcL10AG-Nid5gyfZ7xbmEjGcwJkg4tLOKnLMDTP0zF5ItDs0vx_DoQcS7Ig
- *       user:
- *         $ref: '#/definitions/User'
- *       error:
- *         $ref: '#/definitions/BaseError'
- */</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>*             error:
+ *               $ref: '#/definitions/BaseError'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
