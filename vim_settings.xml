@@ -480,12 +480,12 @@
         <mark key="^" line="377" column="78" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1519944207189">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1519945488707">
         <mark key="'" line="391" column="6" />
-        <mark key="[" line="219" column="50" />
-        <mark key="]" line="219" column="50" />
-        <mark key="^" line="219" column="50" />
-        <mark key="." line="219" column="50" />
+        <mark key="[" line="228" column="12" />
+        <mark key="]" line="228" column="12" />
+        <mark key="^" line="234" column="53" />
+        <mark key="." line="228" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1519942423394">
         <mark key="[" line="0" column="0" />
@@ -648,10 +648,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3Y19vcmRlcm9zXzU5NzEwZTdiMTUzMDhcPg==</text>
@@ -659,27 +659,38 @@
       <register name="0" type="4">
         <text>s</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICogICAgICAga2VrczogMgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAqICAgICAgICAgZGVzY3JpcHRpb246IGlmIGNsaWVudCBhcHAgc2VuZHMgbWFsZm9ybWVkIGRhdGEKICogICAgICAgICBzY2hlbWE6CiAqICAgICAgICAgICB0eXBlOiBvYmplY3QKICogICAgICAgICAgIHByb3BlcnRpZXM6CiAqICAgICAgICAgICAgIGVycm9yOg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogICAgICAga2VrOiAxMjMK</text>
+        <text encoding="base64">ICogICAgICAga2VrczogMgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICogICAgICAga2VrOiAxMjMK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICogICAgIGV4YW1wbGUK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>:
  *       prop1: kek
  *       prop2: keks</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICogICAgIHByb3BlcnRpZXMK</text>
       </register>
-      <register name="6" type="4">
+      <register name="v" type="4">
+        <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="7" type="4">
         <text>:
  *       prop1:
  *         type: string
@@ -690,32 +701,11 @@
  *         description: property from VULCAM.tv subscription
  *         example: 2</text>
       </register>
-      <register name="v" type="4">
-        <keys>
-          <key char="106" code="0" mods="0" />
-          <key char="65" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICogICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICogICAgIHByb3BlcnRpZXM6Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>type: object
- *               description: error if something goes wrong. f.i. user already exists
- *               properties:
- *                 code:
- *                   type: number
- *                   description: in app status code
- *                   example: 1
- *                 message:
- *                   type: string
- *                   description: message which should be shown to user
- *                   example: User with this name already exists</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
