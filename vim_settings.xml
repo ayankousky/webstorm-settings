@@ -59,11 +59,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="156" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1519941054828">
-        <mark key="[" line="93" column="13" />
-        <mark key="]" line="94" column="42" />
-        <mark key="." line="94" column="42" />
-        <mark key="^" line="94" column="42" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1519942458094">
+        <mark key="[" line="92" column="19" />
+        <mark key="]" line="93" column="19" />
+        <mark key="." line="93" column="19" />
+        <mark key="^" line="93" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/file.js" timestamp="1518038543659">
         <mark key="[" line="5" column="2" />
@@ -479,14 +479,14 @@
         <mark key="^" line="377" column="78" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1519940817265">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1519942089019">
         <mark key="'" line="391" column="6" />
-        <mark key="[" line="202" column="19" />
-        <mark key="]" line="202" column="22" />
-        <mark key="^" line="202" column="22" />
-        <mark key="." line="202" column="22" />
+        <mark key="[" line="213" column="85" />
+        <mark key="]" line="214" column="51" />
+        <mark key="^" line="214" column="51" />
+        <mark key="." line="214" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519940884639">
+      <file name="/Dummy.txt" timestamp="1519942423394">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/billiger.js" timestamp="1519693993922">
@@ -647,7 +647,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogICAgICAgCg==</text>
+        <text encoding="base64">ICogICAgIHByb3BlcnRpZXMK</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -659,15 +659,29 @@
         <text>s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogICAgICAgCg==</text>
+        <text encoding="base64">ICogICAgIHByb3BlcnRpZXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>:
+ *       prop1:
+ *         type: string
+ *         description: property from VULCAM.tv subscription
+ *         example: 1
+ *       prop2:
+ *         type: string
+ *         description: property from VULCAM.tv subscription
+ *         example: 2</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICogICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICogICAgIHByb3BlcnRpZXM6Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>type: object
  *               description: error if something goes wrong. f.i. user already exists
  *               properties:
@@ -680,16 +694,16 @@
  *                   description: message which should be shown to user
  *                   example: User with this name already exists</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>&quot;error&quot;: {
 //     &quot;code&quot;: 11,
 //       &quot;message&quot;: &quot;unexpected error happened&quot;
 //   }</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>{
   //   &quot;created&quot;: true,
   //   &quot;user&quot;: {
@@ -702,18 +716,8 @@
   //   }
   // }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>if (res.success){
-  	$('#zalupa').text(res.user.creationDate)
-	} else {
-  	$('#zalupa').text('sorry nihuya ne sozdalos')
-	}</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
