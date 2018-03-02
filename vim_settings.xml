@@ -480,12 +480,12 @@
         <mark key="^" line="377" column="78" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1519948019971">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1519970187684">
         <mark key="'" line="391" column="6" />
-        <mark key="[" line="291" column="47" />
-        <mark key="]" line="291" column="104" />
-        <mark key="^" line="291" column="104" />
-        <mark key="." line="291" column="104" />
+        <mark key="[" line="384" column="34" />
+        <mark key="]" line="387" column="55" />
+        <mark key="^" line="387" column="55" />
+        <mark key="." line="387" column="55" />
       </file>
       <file name="/Dummy.txt" timestamp="1519942423394">
         <mark key="[" line="0" column="0" />
@@ -648,10 +648,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>object</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3Y19vcmRlcm9zXzU5NzEwZTdiMTUzMDhcPg==</text>
@@ -659,28 +659,28 @@
       <register name="0" type="4">
         <text>s</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAqICAgICAgICAgZGVzY3JpcHRpb246IGlmIGNsaWVudCBhcHAgc2VuZHMgbWFsZm9ybWVkIGRhdGEKICogICAgICAgICBzY2hlbWE6CiAqICAgICAgICAgICB0eXBlOiBvYmplY3QKICogICAgICAgICAgIHByb3BlcnRpZXM6CiAqICAgICAgICAgICAgIGVycm9yOg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICogICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICogICAgICAga2VrczogMgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAqICAgICAgICAgZGVzY3JpcHRpb246IGlmIGNsaWVudCBhcHAgc2VuZHMgbWFsZm9ybWVkIGRhdGEKICogICAgICAgICBzY2hlbWE6CiAqICAgICAgICAgICB0eXBlOiBvYmplY3QKICogICAgICAgICAgIHByb3BlcnRpZXM6CiAqICAgICAgICAgICAgIGVycm9yOg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogICAgICAga2VrOiAxMjMK</text>
+        <text encoding="base64">ICogICAgICAga2VrczogMgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICogICAgICAga2VrOiAxMjMK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICogICAgIGV4YW1wbGUK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>:
  *       prop1: kek
  *       prop2: keks</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICogICAgIHByb3BlcnRpZXMK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -690,7 +690,10 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICogICAgIHByb3BlcnRpZXMK</text>
+      </register>
+      <register name="8" type="4">
         <text>:
  *       prop1:
  *         type: string
@@ -701,11 +704,8 @@
  *         description: property from VULCAM.tv subscription
  *         example: 2</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogICAgIHByb3BlcnRpZXM6Cg==</text>
+        <text encoding="base64">ICogICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
