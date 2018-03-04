@@ -90,12 +90,11 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1520150857627">
-        <mark key="'" line="227" column="0" />
-        <mark key="[" line="349" column="0" />
-        <mark key="]" line="349" column="0" />
-        <mark key="^" line="350" column="5" />
-        <mark key="." line="349" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1520172696232">
+        <mark key="[" line="358" column="0" />
+        <mark key="]" line="358" column="0" />
+        <mark key="^" line="381" column="6" />
+        <mark key="." line="358" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1519938617220">
         <mark key="[" line="14" column="33" />
@@ -177,18 +176,11 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/comprigo.js" timestamp="1518724207446">
-        <mark key="'" line="9" column="21" />
-        <mark key="[" line="79" column="21" />
-        <mark key="]" line="79" column="21" />
-        <mark key="^" line="79" column="21" />
-        <mark key="." line="79" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1520154034100">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="38" />
-        <mark key="." line="17" column="38" />
-        <mark key="^" line="17" column="38" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1520172326735">
+        <mark key="[" line="63" column="35" />
+        <mark key="]" line="63" column="39" />
+        <mark key="^" line="63" column="39" />
+        <mark key="." line="63" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/index.js" timestamp="1519280866341">
         <mark key="'" line="5" column="48" />
@@ -490,7 +482,7 @@
         <mark key="^" line="387" column="55" />
         <mark key="." line="387" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519942423394">
+      <file name="/Dummy.txt" timestamp="1520172103904">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/billiger.js" timestamp="1519693993922">
@@ -651,11 +643,11 @@
       <jump line="94" column="15" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>billigerNet</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxhc3RDUEN1cGRhdGUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>billigerNet</text>
+        <text encoding="base64">bWVyY2hhbnQg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3Y19vcmRlcm9zXzU5NzEwZTdiMTUzMDhcPg==</text>
@@ -664,27 +656,26 @@
         <text>s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxhc3RDUEN1cGRhdGUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAqICAgICAgICAgZGVzY3JpcHRpb246IGlmIGNsaWVudCBhcHAgc2VuZHMgbWFsZm9ybWVkIGRhdGEKICogICAgICAgICBzY2hlbWE6CiAqICAgICAgICAgICB0eXBlOiBvYmplY3QKICogICAgICAgICAgIHByb3BlcnRpZXM6CiAqICAgICAgICAgICAgIGVycm9yOg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ05ldyBtZXJjaGFudGFudHM6ICR7ZGVsZXRlZE1lcmNoYW50c0NvdW50IH1gKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICogICAgICAga2VrczogMgo=</text>
+      <register name="3" type="4">
+        <text>s count: ', + newMerchantsCount)
+      console.log(`Deleted merch</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogICAgICAga2VrOiAxMjMK</text>
+        <text encoding="base64">ICogICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICogICAgIGV4YW1wbGUK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAqICAgICAgICAgZGVzY3JpcHRpb246IGlmIGNsaWVudCBhcHAgc2VuZHMgbWFsZm9ybWVkIGRhdGEKICogICAgICAgICBzY2hlbWE6CiAqICAgICAgICAgICB0eXBlOiBvYmplY3QKICogICAgICAgICAgIHByb3BlcnRpZXM6CiAqICAgICAgICAgICAgIGVycm9yOg==</text>
       </register>
-      <register name="6" type="4">
-        <text>:
- *       prop1: kek
- *       prop2: keks</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICogICAgICAga2VrczogMgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -695,21 +686,15 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogICAgIHByb3BlcnRpZXMK</text>
+        <text encoding="base64">ICogICAgICAga2VrOiAxMjMK</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">ICogICAgIGV4YW1wbGUK</text>
+      </register>
+      <register name="9" type="4">
         <text>:
- *       prop1:
- *         type: string
- *         description: property from VULCAM.tv subscription
- *         example: 1
- *       prop2:
- *         type: string
- *         description: property from VULCAM.tv subscription
- *         example: 2</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICogICAgICAgCg==</text>
+ *       prop1: kek
+ *       prop2: keks</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
