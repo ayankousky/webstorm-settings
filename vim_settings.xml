@@ -184,11 +184,11 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="34" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1520186169454">
-        <mark key="[" line="119" column="53" />
-        <mark key="]" line="119" column="70" />
-        <mark key="^" line="119" column="70" />
-        <mark key="." line="119" column="70" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1520187803180">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="5" />
+        <mark key="^" line="11" column="5" />
+        <mark key="." line="11" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/update_folder.json" timestamp="1518648501695">
         <mark key="[" line="5" column="22" />
@@ -645,10 +645,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>stringDomain</text>
+        <text>Offer        = DB.model('offers')</text>
       </register>
       <register name="-" type="4">
-        <text>stringDomain</text>
+        <text>Offer        = DB.model('offers')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3Y19vcmRlcm9zXzU5NzEwZTdiMTUzMDhcPg==</text>
@@ -657,26 +657,25 @@
         <text>s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxhc3RDUEN1cGRhdGUpCg==</text>
+        <text encoding="base64">ICAgICwgUmFlUnVsZSAgICAgICA9IERCLm1vZGVsKCdyYWVfcnVsZXMnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ05ldyBtZXJjaGFudGFudHM6ICR7ZGVsZXRlZE1lcmNoYW50c0NvdW50IH1gKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyYW5kb21DQykK</text>
       </register>
-      <register name="3" type="4">
-        <text>s count: ', + newMerchantsCount)
-      console.log(`Deleted merch</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhvZmZlcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAqICAgICAgICAgZGVzY3JpcHRpb246IGlmIGNsaWVudCBhcHAgc2VuZHMgbWFsZm9ybWVkIGRhdGEKICogICAgICAgICBzY2hlbWE6CiAqICAgICAgICAgICB0eXBlOiBvYmplY3QKICogICAgICAgICAgIHByb3BlcnRpZXM6CiAqICAgICAgICAgICAgIGVycm9yOg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBhd2FpdCByYW5kb21DQy5pbmNSQUUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogICAgICAga2VrczogMgo=</text>
+        <text encoding="base64">ICBhd2FpdCBDbGlja3NDb3VudGVyLmluY1JBRShvZmZlci5zdG9yZV91cmwsIG9mZmVyLm5ldHdvcmtJZCwgb2ZmZXIucmVnaW9uKTsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -687,15 +686,15 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogICAgICAga2VrOiAxMjMK</text>
+        <text encoding="base64">ICAvLyBUb0RvOiBpbXBsZW1lCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogICAgIGV4YW1wbGUK</text>
+      <register name="8" type="4">
+        <text>nt redirect to offer
+
+  return res.end();</text>
       </register>
-      <register name="9" type="4">
-        <text>:
- *       prop1: kek
- *       prop2: keks</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxhc3RDUEN1cGRhdGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
