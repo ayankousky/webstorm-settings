@@ -108,10 +108,11 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1520246695513">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1520248567324">
+        <mark key="[" line="434" column="0" />
+        <mark key="]" line="434" column="0" />
+        <mark key="^" line="47" column="111" />
+        <mark key="." line="434" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -644,97 +645,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZXJsZXNzLXBsdWdpbi1zcGxpdC1zdGFja3MiOiAiXjEuMC4xIiwK</text>
+        <text encoding="base64">ICAgIHdhcm11cDogdHJ1ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>/aws/lambda/VulcanVision-Alex-dev-userLogin</text>
+        <text>vulcanvision-${self:custom.main_config.serverless.stage}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3Y19vcmRlcm9zXzU5NzEwZTdiMTUzMDhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiYXJuOmF3czpsb2dzOnVzLXdlc3QtMjozNzQxODAwOTk0MDk6bG9nLWdyb3VwOi9hd3MvbGFtYmRhL1Z1bGNhblZpc2lvbi1BbGV4LWRldi11c2VyTG9naW46KiIsCg==</text>
+        <text encoding="base64">ICAgICAgUmVzb3VyY2U6ICdhcm46YXdzOmVzOiR7c2VsZjpjdXN0b20ubWFpbl9jb25maWcuUkVHSU9OfToke3NlbGY6Y3VzdG9tLm1haW5fY29uZmlnLkFXU19BQ0NPVU5UX0lEfTpkb21haW4vdnVsY2FudmlzaW9uLSR7c2VsZjpjdXN0b20ubWFpbl9jb25maWcuc2VydmVybGVzcy5zdGFnZX0vKicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZXJsZXNzLXBsdWdpbi1zcGxpdC1zdGFja3MiOiAiXjEuMC4xIiwK</text>
+        <text encoding="base64">ICAgIHdhcm11cDogdHJ1ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZXJsZXNzLWlhbS1yb2xlcy1wZXItZnVuY3Rpb24iOiAiXjAuMS41IiwK</text>
+        <text encoding="base64">ICAgIHdhcm11cDogdHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIHNlcnZlcmxlc3MtaWFtLXJvbGVzLXBlci1mdW5jdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgUmVzb3VyY2U6ICdhcm46YXdzOmVzOiR7c2VsZjpjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlhbVJvbGVTdGF0ZW1lbnQ6YXdzOmxvZ3M6dXMtd2VzdC0yOjM3NDE4MDA5OTQwOTpsb2ctZ3JvdXA6KjoqCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>s:
-      - Effect: &quot;Allow&quot;
-        Action:
-        - dynamodb:Query
-        - dynamodb:Scan
-        - dynamodb:GetItem
-        - dynamodb:PutItem
-        - dynamodb:UpdateItem
-        - dynamodb:DeleteItem
-        - dynamodb:CreateTable
-        - dynamodb:ListTables
-        - dynamodb:DescribeTable
-        - dynamodb:BatchGetItem
-        - dynamodb:BatchWriteItem
-        Resource: arn:aws:dynamodb:${self:custom.main_config.REGION}:${self:custom.main_config.AWS_ACCOUNT_ID}:*
-      - Effect: &quot;Allow&quot;
-        Action:
-        - &quot;ses:SendEmail&quot;
-        - &quot;ses:SendRawEmail&quot;
-        Resource: &quot;*&quot;
-      - Effect: &quot;Allow&quot;
-        Action: s3:*
-        Resource:
-        - arn:aws:s3:::${self:custom.main_config.BUCKET}/*
-        - arn:aws:s3:::${self:custom.main_config.BUCKET}
-      - Effect: 'Allow'
-        Action: lambda:InvokeFunction
-        Resource: arn:aws:lambda:${self:custom.main_config.REGION}:${self:custom.main_config.AWS_ACCOUNT_ID}:function:${self:service}-${opt:stage, self:provider.stage}-*
-      - Effect: 'Allow'
-        Action: 'es:*'
-        Resource: 'arn:aws:es:${self:custom.main_config.REGION}:${self:custom.main_config.AWS_ACCOUNT_ID}:domain/vulcanvision-${self:custom.main_config.serverless.stage}/*'
-      - Effect: 'Allow'
-        Action:
-        - logs:CreateLogStream
-        - logs:PutLogEvents
-        Resource: arn</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgUmVzb3VyY2U6ICdhcm46YXdzOmVzOiR7c2VsZjpjJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgICJzZXJ2ZXJsZXNzLXBsdWdpbi1zcGxpdC1zdGFja3MiOiAiXjEuMC4xIiwK</text>
       </register>
       <register name="v" type="4">
         <text>xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBFZmZlY3RlOiBhcm46YXdzOmR5bmFtb2RiOiR7c2VsZjpjdXN0b20ubWFpbl9jb25maWcuUkVHSU9OfToke3NlbGY6Y3VzdG9tLm1haW5fY29uZmlnLkFXU19BQ0NPVU5UX0lEfToqCg==</text>
+        <text encoding="base64">ICAgICJzZXJ2ZXJsZXNzLWlhbS1yb2xlcy1wZXItZnVuY3Rpb24iOiAiXjAuMS41IiwK</text>
       </register>
-      <register name="8" type="4">
-        <text>: &quot;Allow&quot;
-        Action:
-        - dynamodb:Query
-        - dynamodb:Scan
-        - dynamodb:GetItem
-        - dynamodb:PutItem
-        - dynamodb:UpdateItem
-        - dynamodb:DeleteItem
-        - dynamodb:CreateTable
-        - dynamodb:ListTables
-        - dynamodb:DescribeTable
-        - dynamodb:BatchGetItem
-        - dynamodb:BatchWriteItem
-        Resourc</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAtIHNlcnZlcmxlc3MtaWFtLXJvbGVzLXBlci1mdW5jdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwbHVnaW5zOgo=</text>
+        <text encoding="base64">ICAgIGlhbVJvbGVTdGF0ZW1lbnQ6YXdzOmxvZ3M6dXMtd2VzdC0yOjM3NDE4MDA5OTQwOTpsb2ctZ3JvdXA6KjoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
