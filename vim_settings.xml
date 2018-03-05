@@ -108,11 +108,10 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1520244206509">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="25" column="1" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1520246695513">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -403,6 +402,7 @@
         <mark key="^" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/policy.json" timestamp="1520246674567" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1517594350271">
         <mark key="'" line="567" column="5" />
         <mark key="[" line="420" column="2" />
@@ -433,6 +433,11 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="37" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/package.json" timestamp="1520246723826">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" timestamp="1519513306335">
         <mark key="[" line="78" column="0" />
@@ -484,11 +489,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1520243817573">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/billiger.js" timestamp="1519693993922">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="/cloud_user.js" timestamp="1520020225798" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/tmp/split_video/ffmpeg_run.sh" timestamp="1515624101929">
@@ -644,79 +644,97 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJvbGU6IG15RGVmYXVsdFJvbGUK</text>
+        <text encoding="base64">ICAgICJzZXJ2ZXJsZXNzLXBsdWdpbi1zcGxpdC1zdGFja3MiOiAiXjEuMC4xIiwK</text>
       </register>
       <register name="-" type="4">
-        <text>2017</text>
+        <text>/aws/lambda/VulcanVision-Alex-dev-userLogin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3Y19vcmRlcm9zXzU5NzEwZTdiMTUzMDhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJvbGU6IG15RGVmYXVsdFJvbGUK</text>
+        <text encoding="base64">ICAgICAgICAiYXJuOmF3czpsb2dzOnVzLXdlc3QtMjozNzQxODAwOTk0MDk6bG9nLWdyb3VwOi9hd3MvbGFtYmRhL1Z1bGNhblZpc2lvbi1BbGV4LWRldi11c2VyTG9naW46KiIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJvbGU6IG15RGVmYXVsdFJvbGUK</text>
+        <text encoding="base64">ICAgICJzZXJ2ZXJsZXNzLXBsdWdpbi1zcGxpdC1zdGFja3MiOiAiXjEuMC4xIiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJvbGU6IG15RGVmYXVsdFJvbGUK</text>
+        <text encoding="base64">ICAgICJzZXJ2ZXJsZXNzLWlhbS1yb2xlcy1wZXItZnVuY3Rpb24iOiAiXjAuMS41IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpYW1Sb2xlU3RhdGVtZW50czphd3M6ZXM6JHtzZWxmOmN1c3RvbS5tYWluX2NvbmZpZy5SRUdJT059OiR7c2VsZjpjdXN0b20ubWFpbl9jb25maWcuQVdTX0FDQ09VTlRfSUR9OmRvbWFpbi92dWxjYW52aXNpb24tJHtzZWxmOmN1c3RvbS5tYWluX2NvbmZpZy5zZXJ2ZXJsZXNzLnN0YWdlfS8qJwo=</text>
+        <text encoding="base64">ICAtIHNlcnZlcmxlc3MtaWFtLXJvbGVzLXBlci1mdW5jdGlvbgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>:
-    - Effect: &quot;Allow&quot;
-      Action:
-      - dynamodb:Query
-      - dynamodb:Scan
-      - dynamodb:GetItem
-      - dynamodb:PutItem
-      - dynamodb:UpdateItem
-      - dynamodb:DeleteItem
-      - dynamodb:CreateTable
-      - dynamodb:ListTables
-      - dynamodb:DescribeTable
-      - dynamodb:BatchGetItem
-      - dynamodb:BatchWriteItem
-      Resource: arn:aws:dynamodb:${self:custom.main_config.REGION}:${self:custom.main_config.AWS_ACCOUNT_ID}:*
-    - Effect: &quot;Allow&quot;
-      Action:
-      - &quot;ses:SendEmail&quot;
-      - &quot;ses:SendRawEmail&quot;
-      Resource: &quot;*&quot;
-    - Effect: &quot;Allow&quot;
-      Action: s3:*
-      Resource:
-      - arn:aws:s3:::${self:custom.main_config.BUCKET}/*
-      - arn:aws:s3:::${self:custom.main_config.BUCKET}
-    - Effect: 'Allow'
-      Action: lambda:InvokeFunction
-      Resource: arn:aws:lambda:${self:custom.main_config.REGION}:${self:custom.main_config.AWS_ACCOUNT_ID}:function:${self:service}-${opt:stage, self:provider.stage}-*
-    - Effect: 'Allow'
-      Action: 'es:*'
-      Resource: 'arn</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlhbVJvbGVTdGF0ZW1lbnQ6YXdzOmxvZ3M6dXMtd2VzdC0yOjM3NDE4MDA5OTQwOTpsb2ctZ3JvdXA6KjoqCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gICAgICAgLSAiUmVmIiA6ICJTZXJ2ZXJsZXNzRGVwbG95bWVudEJ1Y2tldCIK</text>
+      <register name="5" type="4">
+        <text>s:
+      - Effect: &quot;Allow&quot;
+        Action:
+        - dynamodb:Query
+        - dynamodb:Scan
+        - dynamodb:GetItem
+        - dynamodb:PutItem
+        - dynamodb:UpdateItem
+        - dynamodb:DeleteItem
+        - dynamodb:CreateTable
+        - dynamodb:ListTables
+        - dynamodb:DescribeTable
+        - dynamodb:BatchGetItem
+        - dynamodb:BatchWriteItem
+        Resource: arn:aws:dynamodb:${self:custom.main_config.REGION}:${self:custom.main_config.AWS_ACCOUNT_ID}:*
+      - Effect: &quot;Allow&quot;
+        Action:
+        - &quot;ses:SendEmail&quot;
+        - &quot;ses:SendRawEmail&quot;
+        Resource: &quot;*&quot;
+      - Effect: &quot;Allow&quot;
+        Action: s3:*
+        Resource:
+        - arn:aws:s3:::${self:custom.main_config.BUCKET}/*
+        - arn:aws:s3:::${self:custom.main_config.BUCKET}
+      - Effect: 'Allow'
+        Action: lambda:InvokeFunction
+        Resource: arn:aws:lambda:${self:custom.main_config.REGION}:${self:custom.main_config.AWS_ACCOUNT_ID}:function:${self:service}-${opt:stage, self:provider.stage}-*
+      - Effect: 'Allow'
+        Action: 'es:*'
+        Resource: 'arn:aws:es:${self:custom.main_config.REGION}:${self:custom.main_config.AWS_ACCOUNT_ID}:domain/vulcanvision-${self:custom.main_config.serverless.stage}/*'
+      - Effect: 'Allow'
+        Action:
+        - logs:CreateLogStream
+        - logs:PutLogEvents
+        Resource: arn</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBFZmZlY3Q6ICJBbGxvdyIKICAgICAgICAgICAgICAgICAgIEFjdGlvbjoKICAgICAgICAgICAgICAgICAgICAgLSAiczM6UHV0T2JqZWN0IgogICAgICAgICAgICAgICAgICAgUmVzb3VyY2U6CiAgICAgICAgICAgICAgICAgICAgIEZuOjpKb2luOgogICAgICAgICAgICAgICAgICAgICAgIC0gIiIKICAgICAgICAgICAgICAgICAgICAgICAtIC0gImFybjphd3M6czM6OjoiCiAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="v" type="4">
         <text>xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICwgUmFlUnVsZSAgICAgICA9IERCLm1vZGVsKCdyYWVfcnVsZXMnKQo=</text>
+        <text encoding="base64">ICAgICAgLSBFZmZlY3RlOiBhcm46YXdzOmR5bmFtb2RiOiR7c2VsZjpjdXN0b20ubWFpbl9jb25maWcuUkVHSU9OfToke3NlbGY6Y3VzdG9tLm1haW5fY29uZmlnLkFXU19BQ0NPVU5UX0lEfToqCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyYW5kb21DQykK</text>
+      <register name="8" type="4">
+        <text>: &quot;Allow&quot;
+        Action:
+        - dynamodb:Query
+        - dynamodb:Scan
+        - dynamodb:GetItem
+        - dynamodb:PutItem
+        - dynamodb:UpdateItem
+        - dynamodb:DeleteItem
+        - dynamodb:CreateTable
+        - dynamodb:ListTables
+        - dynamodb:DescribeTable
+        - dynamodb:BatchGetItem
+        - dynamodb:BatchWriteItem
+        Resourc</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhvZmZlcik7Cg==</text>
+        <text encoding="base64">ICBwbHVnaW5zOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
