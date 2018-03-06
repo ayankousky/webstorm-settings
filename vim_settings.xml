@@ -309,12 +309,6 @@
         <mark key="^" line="23" column="54" />
         <mark key="." line="23" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/index.js" timestamp="1520186064015">
-        <mark key="[" line="76" column="4" />
-        <mark key="]" line="77" column="60" />
-        <mark key="^" line="77" column="60" />
-        <mark key="." line="77" column="60" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/index.js" timestamp="1517984717329">
         <mark key="[" line="6" column="43" />
         <mark key="]" line="6" column="43" />
@@ -389,7 +383,13 @@
         <mark key="^" line="377" column="78" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520250033222">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/clicks_counter.js" timestamp="1520374210247">
+        <mark key="[" line="145" column="31" />
+        <mark key="]" line="145" column="31" />
+        <mark key="^" line="145" column="31" />
+        <mark key="." line="145" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1520372691213">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/cloud_user.js" timestamp="1520020225798" />
@@ -538,111 +538,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localPath</text>
+        <text encoding="base64">bGV0IHJlc3VsdCA9IA==</text>
       </register>
       <register name="-" type="4">
-        <text>localPath</text>
+        <text encoding="base64">bGV0IHJlc3VsdCA9IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcm5cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgUmVzb3VyY2U6ICdhcm46YXdzOmVzOiR7c2VsZjpjdXN0b20ubWFpbl9jb25maWcuUkVHSU9OfToke3NlbGY6Y3VzdG9tLm1haW5fY29uZmlnLkFXU19BQ0NPVU5UX0lEfTpkb21haW4vdnVsY2FudmlzaW9uLSR7c2VsZjpjdXN0b20ubWFpbl9jb25maWcuc2VydmVybGVzcy5zdGFnZX0vKicK</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgbGV0IHJlc3VsdCA9IGF3YWl0IE1vZGVsLnVwZGF0ZSh7X2lkOiBpZH0sIHskaW5jOiB7cmVlX2NvdW50OiAxfX0pOwogIGNvbnNvbGUubG9nKCdyZXN1bHQnKQogIGNvbnNvbGUubG9nKHJlc3VsdCkKICBjb3VudGVyID0gYXdhaXQgTW9kZWwuZmluZEJ5SWQoaWQpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTExMTEpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImZuQ3JlYXRlZENlbGwiOiBmCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVzdWx0JykK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">dW5jdGlvbiAoblRkLCBzRGF0YSwgb0RhdGEsIGlSb3csIGlDb2wpIHsKICAgICAgICAgICAgICBpZiAob0RhdGEuZG93bmxvYWRVcmwpIHsKICAgICAgICAgICAgICAgICQoblRkKS5odG1sKCI8YSBocmVmPSciK29EYXRhLmRvd25sb2FkVXJsKyInPiIrb0RhdGEuZG93bmxvYWRVcmwrIjwvYT4iKTsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAgICAgICBhcm46ICdhcm46YXdzOmR5bmFtb2RiOnVzLXdlc3QtMjozNzQxODAwOTk0MDk6dGFibGUvVnVsY2FtLVZpZGVvcy1kZXYvc3RyZWFtLzIwMTctMDktMThUMTM6MzI6MzAuMzM0Jwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVzdWx0JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFJlc291cmNlOiAnYXJuOmF3czplczoke3NlbGY6Y3VzdG9tLm1haW5fY29uZmlnLlJFR0lPTn06JHtzZWxmOmN1c3RvbS5tYWluX2NvbmZpZy5BV1NfQUNDT1VOVF9JRH06ZG9tYWluL3Z1bGNhbnZpc2lvbi0ke3NlbGY6Y3VzdG9tLm1haW5fY29uZmlnLnNlcnZlcmxlc3Muc3RhZ2V9LyonCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>#    myDefaultRole:
-#      Type: AWS::IAM::Role
-#      Properties:
-#        Path: /
-#        RoleName: MyDefaultRole
-#        AssumeRolePolicyDocument:
-#          Version: '2012-10-17'
-#          Statement:
-#            - Effect: Allow
-#              Principal:
-#                Service:
-#                  - lambda.amazonaws.com
-#              Action: sts:AssumeRole
-#        ManagedPolicyArns:
-#          - arn:aws:iam::aws:policy/service-role/AWSLambdaVPCAccessExecutionRole
-#        Policies:
-#          - PolicyName: myPolicyName
-#            PolicyDocument:
-#              Version: '2012-10-17'
-#              Statement:
-#                - Effect: Allow # note that these rights are given in the default policy and are required if you want logs out of your lambda(s)
-#                  Action:
-#                    - logs:CreateLogGroup
-#                    - logs:CreateLogStream
-#                    - logs:PutLogEvents
-#                  Resource:
-#                    - 'Fn::Join':
-#                      - ':'
-#                      -
-#                        - 'arn:aws:logs'
-#                        - Ref: 'AWS::Region'
-#                        - Ref: 'AWS::AccountId'
-#                        - 'log-group:/aws/lambda/*:*:*'
-#                - Effect: &quot;Allow&quot;
-#                  Action:
-#                    - dynamodb:Query
-#                    - dynamodb:Scan
-#                    - dynamodb:GetItem
-#                    - dynamodb:PutItem
-#                    - dynamodb:UpdateItem
-#                    - dynamodb:DeleteItem
-#                    - dynamodb:CreateTable
-#                    - dynamodb:ListTables
-#                    - dynamodb:DescribeTable
-#                    - dynamodb:BatchGetItem
-#                    - dynamodb:BatchWriteItem
-#                  Resource: arn:aws:dynamodb:${self:custom.main_config.REGION}:${self:custom.main_config.AWS_ACCOUNT_ID}:*
-#                - Effect: &quot;Allow&quot;
-#                  Action:
-#                  - &quot;ses:SendEmail&quot;
-#                  - &quot;ses:SendRawEmail&quot;
-#                  Resource: &quot;*&quot;
-#                - Effect: &quot;Allow&quot;
-#                  Action: s3:*
-#                  Resource:
-#                  - arn:aws:s3:::${self:custom.main_config.BUCKET}/*
-#                  - arn:aws:s3:::${self:custom.main_config.BUCKET}
-#                - Effect: 'Allow'
-#                  Action: lambda:InvokeFunction
-#                  Resource: arn:aws:lambda:${self:custom.main_config.REGION}:${self:custom.main_config.AWS_ACCOUNT_ID}:function:${self:service}-${opt:stage, self:provider.stage}-*
-#                - Effect: 'Allow'
-#                  Action: 'es:*'
-#</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTExMTEpCg==</text>
       </register>
       <register name="v" type="4">
         <text>xj</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">YXJuOmF3czplczoke3NlbGY6Y3VzdG9tLm1haW5fY29uZmlnLlJFR0lPTn06JHtzZWxmOmN1c3RvbS5tYWluX2NvbmZpZy5BV1NfQUNDT1VOVF9JRH06ZG9tYWluL3Z1bGNhbnZpc2lvbi0ke3NlbGY6Y3VzdG9tLm1haW5fY29uZmlnLnNlcnZlcmxlc3Muc3RhZ2V9LyonCiAgICAtIEVmZmVjdDogJ0FsbG93JwogICAgICBBY3Rpb246CiAgICAgIC0gbG9nczpQdXRMb2dFdmVudHMKICAgICAgLSBsb2dzOkNyZWF0ZUxvZ1N0cmVhbSAKICAgICAgUmVzb3VyY2U6IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImZuQ3JlYXRlZENlbGwiOiBmCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHdhcm11cDogdHJ1ZQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">dW5jdGlvbiAoblRkLCBzRGF0YSwgb0RhdGEsIGlSb3csIGlDb2wpIHsKICAgICAgICAgICAgICBpZiAob0RhdGEuZG93bmxvYWRVcmwpIHsKICAgICAgICAgICAgICAgICQoblRkKS5odG1sKCI8YSBocmVmPSciK29EYXRhLmRvd25sb2FkVXJsKyInPiIrb0RhdGEuZG93bmxvYWRVcmwrIjwvYT4iKTsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdhcm11cDogdHJ1ZQo=</text>
+        <text encoding="base64">IyAgICAgICAgICBhcm46ICdhcm46YXdzOmR5bmFtb2RiOnVzLXdlc3QtMjozNzQxODAwOTk0MDk6dGFibGUvVnVsY2FtLVZpZGVvcy1kZXYvc3RyZWFtLzIwMTctMDktMThUMTM6MzI6MzAuMzM0Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
