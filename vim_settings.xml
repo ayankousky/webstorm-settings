@@ -403,11 +403,11 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/internal.js" timestamp="1520370268791">
-        <mark key="[" line="84" column="9" />
-        <mark key="]" line="84" column="17" />
-        <mark key="." line="84" column="17" />
-        <mark key="^" line="84" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/internal.js" timestamp="1520371305847">
+        <mark key="[" line="142" column="58" />
+        <mark key="]" line="142" column="58" />
+        <mark key="." line="142" column="58" />
+        <mark key="^" line="142" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/google_analytics.js" timestamp="1514534776349">
         <mark key="[" line="4" column="9" />
@@ -580,11 +580,11 @@
       <jump line="44" column="169" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImZuQ3JlYXRlZENlbGwiOiBmCg==</text>
+      <register name="&quot;" type="4">
+        <text>channels</text>
       </register>
       <register name="-" type="4">
-        <text>Not specified</text>
+        <text>channels</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcm5cPg==</text>
