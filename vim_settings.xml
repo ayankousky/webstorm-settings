@@ -135,11 +135,11 @@
         <mark key="^" line="17" column="34" />
         <mark key="." line="17" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1520376585742">
-        <mark key="[" line="39" column="25" />
-        <mark key="]" line="39" column="25" />
-        <mark key="^" line="39" column="25" />
-        <mark key="." line="39" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1520436311716">
+        <mark key="[" line="41" column="148" />
+        <mark key="]" line="41" column="172" />
+        <mark key="^" line="41" column="172" />
+        <mark key="." line="41" column="172" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/update_folder.json" timestamp="1518648501695">
         <mark key="[" line="5" column="22" />
@@ -309,11 +309,11 @@
         <mark key="^" line="23" column="54" />
         <mark key="." line="23" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/index.js" timestamp="1520435070538">
-        <mark key="[" line="108" column="28" />
-        <mark key="]" line="109" column="5" />
-        <mark key="^" line="109" column="5" />
-        <mark key="." line="109" column="5" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/index.js" timestamp="1520436335838">
+        <mark key="[" line="125" column="20" />
+        <mark key="]" line="125" column="25" />
+        <mark key="^" line="125" column="25" />
+        <mark key="." line="125" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/index.js" timestamp="1517984717329">
         <mark key="[" line="6" column="43" />
@@ -395,7 +395,7 @@
         <mark key="^" line="145" column="31" />
         <mark key="." line="145" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520376303523">
+      <file name="/Dummy.txt" timestamp="1520435910987">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/cloud_user.js" timestamp="1520020225798" />
@@ -544,10 +544,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID09PSAnTm90IHNwZWNpZmllZCcgPyB1bmRlZmluZWQgOiBzdWJpZA==</text>
+        <text encoding="base64">IHN1Ymlk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09PSAnTm90IHNwZWNpZmllZCcgPyB1bmRlZmluZWQgOiBzdWJpZA==</text>
+        <text encoding="base64">IHN1Ymlk</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcm5cPg==</text>
@@ -556,37 +556,37 @@
         <text encoding="base64">CiAgbGV0IHJlc3VsdCA9IGF3YWl0IE1vZGVsLnVwZGF0ZSh7X2lkOiBpZH0sIHskaW5jOiB7cmVlX2NvdW50OiAxfX0pOwogIGNvbnNvbGUubG9nKCdyZXN1bHQnKQogIGNvbnNvbGUubG9nKHJlc3VsdCkKICBjb3VudGVyID0gYXdhaXQgTW9kZWwuZmluZEJ5SWQoaWQpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1YmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICBvZmZlci5jbGlja0NvdW50ZXIgPSByYW5kb21DQzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1YmlkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVzdWx0JykK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZygncmVzdWx0JykK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVzdWx0JykK</text>
       </register>
       <register name="v" type="4">
         <text>xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTExMTEpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImZuQ3JlYXRlZENlbGwiOiBmCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTExMTEpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">dW5jdGlvbiAoblRkLCBzRGF0YSwgb0RhdGEsIGlSb3csIGlDb2wpIHsKICAgICAgICAgICAgICBpZiAob0RhdGEuZG93bmxvYWRVcmwpIHsKICAgICAgICAgICAgICAgICQoblRkKS5odG1sKCI8YSBocmVmPSciK29EYXRhLmRvd25sb2FkVXJsKyInPiIrb0RhdGEuZG93bmxvYWRVcmwrIjwvYT4iKTsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImZuQ3JlYXRlZENlbGwiOiBmCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
