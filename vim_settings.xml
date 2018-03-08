@@ -205,10 +205,10 @@
         <mark key="." line="11" column="44" />
         <mark key="^" line="11" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" timestamp="1520520018006">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" timestamp="1520521808730">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless/CloudFormation/Resources/dynamodb/videosTable.yml" timestamp="1515451169424">
         <mark key="[" line="35" column="21" />
@@ -385,11 +385,11 @@
         <mark key="^" line="24" column="27" />
         <mark key="." line="24" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1520519960486">
-        <mark key="[" line="525" column="46" />
-        <mark key="]" line="525" column="48" />
-        <mark key="^" line="525" column="48" />
-        <mark key="." line="525" column="48" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1520521826740">
+        <mark key="[" line="438" column="0" />
+        <mark key="]" line="438" column="0" />
+        <mark key="^" line="522" column="48" />
+        <mark key="." line="438" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/clicks_counter.js" timestamp="1520374210247">
         <mark key="[" line="145" column="31" />
@@ -581,7 +581,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb250ZXh0LmNhbGxiYWNrV2FpdHNGb3JFbXB0eUV2ZW50TG9vcCA9IGZhbHNlOyAvLyBjb25uZWN0aW9ucyB0byBkYiB3aWxsIGhhbmcgdGhlIGxhbWJkYSBmdW5jdGlvbiB3aXRob3V0IGl0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNlY29uZFVzZXJUb2tlbikK</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -593,38 +593,38 @@
         <text encoding="base64">ICBjb250ZXh0LmNhbGxiYWNrV2FpdHNGb3JFbXB0eUV2ZW50TG9vcCA9IGZhbHNlOyAvLyBjb25uZWN0aW9ucyB0byBkYiB3aWxsIGhhbmcgdGhlIGxhbWJkYSBmdW5jdGlvbiB3aXRob3V0IGl0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNlY29uZFVzZXJUb2tlbikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudCkK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGAvdmlkZW9zP2NoYW5uZWxJZD0ke3NlY29uZFZpZGVvLmNoYW5uZWxJZH0mc2hhcmVkPXRydWVgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJjaGFubmVsSWRkIjogIjgiCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>ery.channelId;
-  let channel = await(Chan</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogICAgICAgICAgICAgcmVxdWlyZWQ6IHRydWUK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudCkK</text>
       </register>
       <register name="v" type="4">
         <text>xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IC8vIGNvbnNvbGUubG9nKHJlc3VsdCkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudCkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAvLyBmb2xkZXIubG9jYWxQYXRoID0gbmV3TG9jYWxQYXRoOwogIC8vIGF3YWl0KGZvbGRlci5zYXZlKCkpOwog</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJjaGFubmVsSWRkIjogIjgiCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICogICAgICAgICAgICAgICBZb3UgaGF2ZSB0byBzZW5kIGVpdGhlciBvbGRMb2NhbFBhdGgK</text>
+      <register name="9" type="4">
+        <text>ery.channelId;
+  let channel = await(Chan</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
