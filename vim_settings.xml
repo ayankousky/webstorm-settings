@@ -42,6 +42,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1520509866015">
+        <mark key="[" line="136" column="17" />
+        <mark key="]" line="138" column="24" />
+        <mark key="^" line="138" column="24" />
+        <mark key="." line="138" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/phrase.js" timestamp="1519682762205">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -383,11 +389,11 @@
       <file name="/Dummy.txt" timestamp="1520465043814">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1520508088874">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="129" column="24" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1520509638509">
+        <mark key="[" line="253" column="26" />
+        <mark key="]" line="254" column="20" />
+        <mark key="." line="254" column="20" />
+        <mark key="^" line="254" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/index.js" timestamp="1519682515418">
         <mark key="[" line="26" column="0" />
@@ -557,11 +563,11 @@
       <jump line="9" column="12" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/create_folder.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjaGFubmVsKQo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>channelId</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcm5cPg==</text>
@@ -570,40 +576,37 @@
         <text encoding="base64">CiAgbGV0IHJlc3VsdCA9IGF3YWl0IE1vZGVsLnVwZGF0ZSh7X2lkOiBpZH0sIHskaW5jOiB7cmVlX2NvdW50OiAxfX0pOwogIGNvbnNvbGUubG9nKCdyZXN1bHQnKQogIGNvbnNvbGUubG9nKHJlc3VsdCkKICBjb3VudGVyID0gYXdhaXQgTW9kZWwuZmluZEJ5SWQoaWQpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjaGFubmVsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJjaGFubmVsSWQiOiAiMiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICwgY2hhbm5lbCA9IGF3YWl0KENoYW5uZWwuZ2V0QnlJZChjaGFubmVsSWQpKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvbGRlciAgPSBhd2FpdChGb2xkZXIuZ2V0QnlMb2NhbFBhdGgoY2hhbm5lbElkLCBvbGRMb2NhbFBhdGgpKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvbGRlciAgPSBhd2FpdChGb2xkZXIuZ2V0QnlJZChmb2xkZXJJZCkpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjaGFubmVsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHJ1ZQo=</text>
+        <text encoding="base64">ICAgICJjaGFubmVsSWQiOiAiMiIK</text>
       </register>
       <register name="v" type="4">
         <text>xj</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICogICAgICAgICAgIGlzUHVibGljOgogKiAgICAgICAgICAgICB0eXBlOiBib29sZWFuCiAqICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBkZWZpbmVzIHdoZXRoZXIgdGhlIHZpZGVvIGlzIHB1YmxpYyBvciBwcml2YXRlIChvdmVycmlkZGVuIGZyb20gdGhlIGNoYW5uZWwgaWYgbm90IHNwZWNpZmllZCkKICogICAgICAgICAgICAgZXhhbXBsZTogdHJ1ZQogKiAgICAgICAgICAgdHlwZToKICogICAgICAgICAgICAgdHlwZTogc3RyaW5nCiAqICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAidmlkZW8gdHlwZS4gJ2Z2cCcgaWYgbm90IHNwZWNpZmllZCIKICogICAgICAgICAgICAgZXhhbXBsZTogZnZwCiAqICAgICAgICAgICBjb21tZW50c0Rpc2FibGVkOgogKiAgICAgICAgICAgICB0eXBlOiBzdHJpbmcKICogICAgICAgICAgICAgZGVzY3JpcHRpb246IHNldCB0byB0cnVlLiBJZiB5b3UgZG9uJ3Qgd2FudCBjb21tZW50cyBmb3IgdGhlIHZpZGVvCiAqICAgICAgICAgICAgIGV4YW1wbGU6IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICwgY2hhbm5lbCA9IGF3YWl0KENoYW5uZWwuZ2V0QnlJZChjaGFubmVsSWQpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogICAgICAgICAgIGRlc2NyaXB0aW9uCg==</text>
+        <text encoding="base64">ICAgIGZvbGRlciAgPSBhd2FpdChGb2xkZXIuZ2V0QnlMb2NhbFBhdGgoY2hhbm5lbElkLCBvbGRMb2NhbFBhdGgpKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>:
- *             type: string
- *             description: description for video
- *             example: Hello, here are my song clips</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGZvbGRlciAgPSBhd2FpdChGb2xkZXIuZ2V0QnlJZChmb2xkZXJJZCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
