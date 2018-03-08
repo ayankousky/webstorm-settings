@@ -146,11 +146,11 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1520318625675">
-        <mark key="[" line="447" column="0" />
-        <mark key="]" line="447" column="0" />
-        <mark key="^" line="49" column="63" />
-        <mark key="." line="447" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1520507789049">
+        <mark key="[" line="325" column="18" />
+        <mark key="]" line="325" column="19" />
+        <mark key="^" line="325" column="19" />
+        <mark key="." line="325" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/kd.js" timestamp="1518039614021">
         <mark key="[" line="0" column="0" />
@@ -306,11 +306,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/create_folder.json" timestamp="1518647705781">
-        <mark key="[" line="33" column="32" />
-        <mark key="]" line="33" column="32" />
-        <mark key="^" line="33" column="32" />
-        <mark key="." line="33" column="32" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/create_folder.json" timestamp="1520507954031">
+        <mark key="'" line="8" column="12" />
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="25" />
+        <mark key="^" line="2" column="25" />
+        <mark key="." line="2" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/offers.js" timestamp="1519513306335">
         <mark key="[" line="78" column="0" />
@@ -382,11 +383,11 @@
       <file name="/Dummy.txt" timestamp="1520465043814">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1520504911941">
-        <mark key="[" line="62" column="43" />
-        <mark key="]" line="62" column="49" />
-        <mark key="^" line="62" column="49" />
-        <mark key="." line="62" column="49" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1520508088874">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="129" column="24" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/index.js" timestamp="1519682515418">
         <mark key="[" line="26" column="0" />
@@ -454,7 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="515" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="516" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="488" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="521" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
@@ -554,13 +554,14 @@
       <jump line="94" column="15" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" />
       <jump line="15" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="44" column="169" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
+      <jump line="9" column="12" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/create_folder.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dmlkZW8g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjaGFubmVsKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmlkZW8g</text>
+        <text>channelId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcm5cPg==</text>
@@ -569,43 +570,40 @@
         <text encoding="base64">CiAgbGV0IHJlc3VsdCA9IGF3YWl0IE1vZGVsLnVwZGF0ZSh7X2lkOiBpZH0sIHskaW5jOiB7cmVlX2NvdW50OiAxfX0pOwogIGNvbnNvbGUubG9nKCdyZXN1bHQnKQogIGNvbnNvbGUubG9nKHJlc3VsdCkKICBjb3VudGVyID0gYXdhaXQgTW9kZWwuZmluZEJ5SWQoaWQpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHJ1ZQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjaGFubmVsKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICogICAgICAgICAgIGlzUHVibGljOgogKiAgICAgICAgICAgICB0eXBlOiBib29sZWFuCiAqICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBkZWZpbmVzIHdoZXRoZXIgdGhlIHZpZGVvIGlzIHB1YmxpYyBvciBwcml2YXRlIChvdmVycmlkZGVuIGZyb20gdGhlIGNoYW5uZWwgaWYgbm90IHNwZWNpZmllZCkKICogICAgICAgICAgICAgZXhhbXBsZTogdHJ1ZQogKiAgICAgICAgICAgdHlwZToKICogICAgICAgICAgICAgdHlwZTogc3RyaW5nCiAqICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAidmlkZW8gdHlwZS4gJ2Z2cCcgaWYgbm90IHNwZWNpZmllZCIKICogICAgICAgICAgICAgZXhhbXBsZTogZnZwCiAqICAgICAgICAgICBjb21tZW50c0Rpc2FibGVkOgogKiAgICAgICAgICAgICB0eXBlOiBzdHJpbmcKICogICAgICAgICAgICAgZGVzY3JpcHRpb246IHNldCB0byB0cnVlLiBJZiB5b3UgZG9uJ3Qgd2FudCBjb21tZW50cyBmb3IgdGhlIHZpZGVvCiAqICAgICAgICAgICAgIGV4YW1wbGU6IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJjaGFubmVsSWQiOiAiMiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogICAgICAgICAgIGRlc2NyaXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICwgY2hhbm5lbCA9IGF3YWl0KENoYW5uZWwuZ2V0QnlJZChjaGFubmVsSWQpKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>:
- *             type: string
- *             description: description for video
- *             example: Hello, here are my song clips</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZvbGRlciAgPSBhd2FpdChGb2xkZXIuZ2V0QnlMb2NhbFBhdGgoY2hhbm5lbElkLCBvbGRMb2NhbFBhdGgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogICAgICAgICAgIHRpdGxlZWxlVkVWTwo=</text>
+        <text encoding="base64">ICAgIGZvbGRlciAgPSBhd2FpdChGb2xkZXIuZ2V0QnlJZChmb2xkZXJJZCkpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>:
- *             type: string
- *             description: title for video
- *             example: Ad</text>
+      <register name="6" type="2">
+        <text encoding="base64">dHJ1ZQo=</text>
       </register>
       <register name="v" type="4">
         <text>xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydGVyLmV4ZWN1dGVSZXBvcnQoJ3N1YmlkX2Nvc3QnLCB7fSwge2NzdjogdHJ1ZX0pOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICogICAgICAgICAgIGlzUHVibGljOgogKiAgICAgICAgICAgICB0eXBlOiBib29sZWFuCiAqICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBkZWZpbmVzIHdoZXRoZXIgdGhlIHZpZGVvIGlzIHB1YmxpYyBvciBwcml2YXRlIChvdmVycmlkZGVuIGZyb20gdGhlIGNoYW5uZWwgaWYgbm90IHNwZWNpZmllZCkKICogICAgICAgICAgICAgZXhhbXBsZTogdHJ1ZQogKiAgICAgICAgICAgdHlwZToKICogICAgICAgICAgICAgdHlwZTogc3RyaW5nCiAqICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAidmlkZW8gdHlwZS4gJ2Z2cCcgaWYgbm90IHNwZWNpZmllZCIKICogICAgICAgICAgICAgZXhhbXBsZTogZnZwCiAqICAgICAgICAgICBjb21tZW50c0Rpc2FibGVkOgogKiAgICAgICAgICAgICB0eXBlOiBzdHJpbmcKICogICAgICAgICAgICAgZGVzY3JpcHRpb246IHNldCB0byB0cnVlLiBJZiB5b3UgZG9uJ3Qgd2FudCBjb21tZW50cyBmb3IgdGhlIHZpZGVvCiAqICAgICAgICAgICAgIGV4YW1wbGU6IA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydGVyLmV4ZWN1dGVSZXBvcnQoJ3JhZV9kYWlseScsIHt9LCB7Y3N2OiB0cnVlfSk7Cg==</text>
+        <text encoding="base64">ICogICAgICAgICAgIGRlc2NyaXB0aW9uCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydGVyLnNldEV4cG9ydFByb3ZpZGVyKG5ldyBFbWFpbFByb3ZpZGVyKCdheWFua291c2t5QHlhaG9vLmNvbScpKTsK</text>
+      <register name="9" type="4">
+        <text>:
+ *             type: string
+ *             description: description for video
+ *             example: Hello, here are my song clips</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
