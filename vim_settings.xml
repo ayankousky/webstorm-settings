@@ -42,11 +42,11 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1520513367473">
-        <mark key="[" line="139" column="8" />
-        <mark key="]" line="139" column="21" />
-        <mark key="^" line="139" column="21" />
-        <mark key="." line="139" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1520515453426">
+        <mark key="[" line="128" column="30" />
+        <mark key="]" line="128" column="64" />
+        <mark key="^" line="128" column="64" />
+        <mark key="." line="128" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/phrase.js" timestamp="1519682762205">
         <mark key="[" line="16" column="0" />
@@ -356,11 +356,11 @@
       <file name="/JavaScript Console" timestamp="1518733769204">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/update_folder.json" timestamp="1520511566654">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/update_folder.json" timestamp="1520515019561">
         <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="28" />
+        <mark key="]" line="2" column="27" />
         <mark key="^" line="3" column="27" />
-        <mark key="." line="2" column="28" />
+        <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/update.json" timestamp="1519686901974">
         <mark key="[" line="60" column="80" />
@@ -564,10 +564,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>inner1</text>
+        <text>recursively</text>
       </register>
       <register name="-" type="4">
-        <text>inner1</text>
+        <text>recursively</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcm5cPg==</text>
@@ -576,38 +576,41 @@
         <text encoding="base64">CiAgbGV0IHJlc3VsdCA9IGF3YWl0IE1vZGVsLnVwZGF0ZSh7X2lkOiBpZH0sIHskaW5jOiB7cmVlX2NvdW50OiAxfX0pOwogIGNvbnNvbGUubG9nKCdyZXN1bHQnKQogIGNvbnNvbGUubG9nKHJlc3VsdCkKICBjb3VudGVyID0gYXdhaXQgTW9kZWwuZmluZEJ5SWQoaWQpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJmb2xkZXJJZCI6ICI4Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>,
-    &quot;channelId&quot;: &quot;2&quot;,</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coZm9sZGVycykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZm9yIChsZXQgaSBpbiAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZgo=</text>
+      <register name="5" type="4">
+        <text>folders){
+        console.log(i)
+        // console.log(folders[i])
+      }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJmb2xkZXJJZCI6ICI4Igo=</text>
       </register>
       <register name="v" type="4">
         <text>xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>,
+    &quot;channelId&quot;: &quot;2&quot;,</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
