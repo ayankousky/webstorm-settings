@@ -42,11 +42,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1520515453426">
-        <mark key="[" line="128" column="30" />
-        <mark key="]" line="128" column="64" />
-        <mark key="^" line="128" column="64" />
-        <mark key="." line="128" column="64" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1520560815530">
+        <mark key="'" line="133" column="32" />
+        <mark key="[" line="308" column="6" />
+        <mark key="]" line="308" column="18" />
+        <mark key="^" line="308" column="18" />
+        <mark key="." line="308" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/mail/index.js" timestamp="1518038708899">
         <mark key="[" line="36" column="0" />
@@ -201,11 +202,12 @@
         <mark key="." line="34" column="69" />
         <mark key="^" line="34" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless/CloudFormation/Resources/dynamodb/videosTable.yml" timestamp="1515451169424">
-        <mark key="[" line="35" column="21" />
-        <mark key="]" line="37" column="21" />
-        <mark key="^" line="37" column="21" />
-        <mark key="." line="37" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless/CloudFormation/Resources/dynamodb/videosTable.yml" timestamp="1520560537214">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="15" column="21" />
+        <mark key="^" line="15" column="21" />
+        <mark key="." line="15" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1519691214492">
         <mark key="[" line="117" column="6" />
@@ -384,7 +386,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520558753046">
+      <file name="/Dummy.txt" timestamp="1520560859771">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1520558798906">
@@ -448,11 +450,15 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="28" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1520560870720">
+        <mark key="'" line="542" column="8" />
+        <mark key="[" line="871" column="22" />
+        <mark key="]" line="871" column="23" />
+        <mark key="^" line="872" column="7" />
+        <mark key="." line="871" column="23" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="488" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
-      <jump line="521" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
-      <jump line="2" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="525" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="162" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/s3.js" />
       <jump line="82" column="31" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/offers.js" />
@@ -550,13 +556,16 @@
       <jump line="44" column="169" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="9" column="12" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/create_folder.json" />
       <jump line="411" column="18" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" />
+      <jump line="133" column="32" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless/CloudFormation/Resources/dynamodb/videosTable.yml" />
+      <jump line="542" column="8" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>folderId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>folderId</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcm5cPg==</text>
@@ -565,38 +574,41 @@
         <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5ib2R5LmVycm9yLmNvZGUuc2hvdWxkLmJlLmVxKDQwMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmb2xkZXIuZGVsZXRlKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgY2hhbm5lbElkID0gZXZlbnQucXVlcnkuY2hhbm5lbElkCg==</text>
+        <text encoding="base64">ICAgICAgLSBBdHRyaWJ1dGVOYW1lOiAiY0RhdGUK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Lwo=</text>
+      <register name="3" type="4">
+        <text>&quot;
+        KeyType: RANGE</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGNvbnNvbGUubG9nKHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgICAgICByYW5nZUtleTogJ2NEYXRlJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGAvdmlkZW9zLyR7c2Vjb25kVmlkZW8uaWR9YCkK</text>
+        <text encoding="base64">ICAgICAgICByYW5nZUtleTogJ2NEYXRlJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaW5kZXgK</text>
       </register>
       <register name="v" type="4">
         <text>xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG1haW5Vc2VyVG9rZW4pCg==</text>
+      <register name="7" type="4">
+        <text>await(Folder
+        .query('channelId').eq(channelId)
+        .where('id').gt('0')
+        .exec());</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGAvdmlkZW9zLyR7Zmlyc3RWaWRlby5pZH0/c2hhcmVMaW5rPXRydWVgKQo=</text>
+        <text encoding="base64">ICBmb2xkZXIuZGVsZXRlKCkK</text>
       </register>
-      <register name="9" type="4">
-        <text>videos/${firstVideo.id}?shareLink=true`)
-          console.log(mainUserToken)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBsZXQgY2hhbm5lbElkID0gZXZlbnQucXVlcnkuY2hhbm5lbElkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
