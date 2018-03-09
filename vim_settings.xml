@@ -383,11 +383,11 @@
         <mark key="^" line="503" column="40" />
         <mark key="." line="505" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/clicks_counter.js" timestamp="1520374210247">
-        <mark key="[" line="145" column="31" />
-        <mark key="]" line="145" column="31" />
-        <mark key="^" line="145" column="31" />
-        <mark key="." line="145" column="31" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/clicks_counter.js" timestamp="1520600782667">
+        <mark key="[" line="83" column="24" />
+        <mark key="]" line="83" column="25" />
+        <mark key="^" line="86" column="3" />
+        <mark key="." line="83" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/channel/get_folders.json" timestamp="1520517296862">
         <mark key="[" line="31" column="0" />
@@ -571,8 +571,8 @@
       <jump line="14" column="53" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>method</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>method</text>
@@ -584,25 +584,25 @@
         <text encoding="base64">CQkJY29uc3QgVmlkZW8gPSBkeW5hbW9vc2UubW9kZWwoY29uZmlnLkREQi50YWJsZXMudmlkZW9zLm5hbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmb2xkZXJQYXRoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmb2xkZXJQYXRoKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvLyBjaGVjayBpZiBmb2xkZXIgd2l0aAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IGxvY2FsUGF0aCBhbmQgY2hhbm5lbElkIGFscmVhZHkgZXhpc3RzCiAgICAgICAgaWYoZXhpc3RpbmdGb2xkZXIpIHJldHVybiBleGlzdGluZ0ZvbGRlcjsKICAgICAgICAgIGF3YWl0KGZvbGRlci5zYXZlKCkpOwogICAgICAgICAgY29uc29sZS5sb2coZSkKICAgICAgICB9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvbGRlci5zYXZlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -628,13 +628,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZm9sZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZvbGRlci5zYXZlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoKGUpewo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZm9sZGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoKGUpewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
