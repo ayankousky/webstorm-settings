@@ -42,12 +42,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1520594990032">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1520596157966">
         <mark key="'" line="133" column="32" />
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="0" />
-        <mark key="^" line="215" column="23" />
-        <mark key="." line="229" column="0" />
+        <mark key="[" line="347" column="0" />
+        <mark key="]" line="348" column="76" />
+        <mark key="^" line="348" column="76" />
+        <mark key="." line="348" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/mail/index.js" timestamp="1518038708899">
         <mark key="[" line="36" column="0" />
@@ -252,11 +252,11 @@
         <mark key="^" line="125" column="25" />
         <mark key="." line="125" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1520520146288">
-        <mark key="[" line="1174" column="0" />
-        <mark key="]" line="1174" column="111" />
-        <mark key="." line="1174" column="0" />
-        <mark key="^" line="254" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1520596639122">
+        <mark key="[" line="96" column="124" />
+        <mark key="]" line="96" column="123" />
+        <mark key="." line="96" column="123" />
+        <mark key="^" line="96" column="123" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/folder/delete.json" timestamp="1520568051387">
         <mark key="[" line="35" column="18" />
@@ -571,11 +571,11 @@
       <jump line="14" column="53" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmb2xkZXJQYXRoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>method</text>
       </register>
       <register name="-" type="4">
-        <text>localPath</text>
+        <text>method</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcm5cPg==</text>
@@ -584,25 +584,25 @@
         <text encoding="base64">CQkJY29uc3QgVmlkZW8gPSBkeW5hbW9vc2UubW9kZWwoY29uZmlnLkREQi50YWJsZXMudmlkZW9zLm5hbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmb2xkZXJQYXRoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmb2xkZXJQYXRoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMSkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjaGVjayBpZiBmb2xkZXIgd2l0aAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygxMTExKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGxvY2FsUGF0aCBhbmQgY2hhbm5lbElkIGFscmVhZHkgZXhpc3RzCiAgICAgICAgaWYoZXhpc3RpbmdGb2xkZXIpIHJldHVybiBleGlzdGluZ0ZvbGRlcjsKICAgICAgICAgIGF3YWl0KGZvbGRlci5zYXZlKCkpOwogICAgICAgICAgY29uc29sZS5sb2coZSkKICAgICAgICB9</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgLy8gbGV0IHZpZGVvcz0gYXdhaXQoVmlkZW8KICAvLyAgIC5xdWVyeSgnY2hhbm5lbElkJykuZXEoJzEnKQogIC8vICAgLndoZXJlKCdpZCcpLmd0KCcwJykKICAvLyAgIC5leGVjKCkpCiAgLy8gY29uc29sZS5sb2codmlkZW9zKQogIC8vIGF3YWl0KFByb21pc2UuYWxsKHZpZGVvcy5tYXAodj0+ewogIC8vICAgY29uc29sZS5sb2coYXdhaXQodi5kZWxldGUoKSkpCiAgLy8gfSkpKQoKICBsZXQgY2hhbm5lbDIgPSBhd2FpdChDaGFubmVsLmdldEJ5SWQoJzInKSk7CiAgLy8gY29uc29sZS5sb2coY2hhbm5lbDIpCiAgbGV0IHZpZGVvczIgPSBhd2FpdChjaGFubmVsMi5nZXRWaWRlb3NGb3JVc2VyKCc3OCcsIHtmdWxmaWxsRm9sZGVyczogdHJ1ZX0pKQogIGNvbnNvbGUubG9nKHZpZGVvczIpCiAgLy8gbGV0IGNoYW5uZWwxID0gYXdhaXQoQ2hhbm5lbC5nZXRCeUlkKCcxJykpOwogIC8vIGNvbnNvbGUubG9nKGNoYW5uZWwxKQogIC8vIGxldCB2aWRlb3MxID0gYXdhaXQoY2hhbm5lbDEuZ2V0VmlkZW9zRm9yVXNlcigpKQogIC8vIGNvbnNvbGUubG9nKHZpZGVvczEpCiAgLy8gbGV0IGFsbFZpZGVvcyA9IFsuLi52aWRlb3MyLCAuLi52aWRlb3MxXQogIC8vIGxldCBmb2xkZXJJZHMgPSBfLnVuaXFCeShhbGxWaWRlb3MsIHYgPT4gdi5mb2xkZXJJZCkKICAvLyAgIC5tYXAodiA9PiB7CiAgLy8gICAgIHJldHVybiB7Y2hhbm5lbElkOiB2LmNoYW5uZWxJZCwgaWQ6IHYuZm9sZGVySWR9CiAgLy8gICB9KTsKICAvLyBsZXQgZm9sZGVycyA9IGF3YWl0KEZvbGRlci5iYXRjaEdldChmb2xkZXJJZHMpKQogIC8vIGNvbnNvbGUubG9nKGZvbGRlcnMp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZvbGRlci5zYXZlCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -628,13 +628,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZm9sZGVyCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgICAgICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoKGUpewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
