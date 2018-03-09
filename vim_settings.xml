@@ -384,14 +384,15 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520527795453">
+      <file name="/Dummy.txt" timestamp="1520558753046">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1520518715216">
-        <mark key="[" line="406" column="37" />
-        <mark key="]" line="406" column="35" />
-        <mark key="." line="406" column="35" />
-        <mark key="^" line="406" column="35" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1520558798906">
+        <mark key="'" line="411" column="18" />
+        <mark key="[" line="438" column="13" />
+        <mark key="]" line="438" column="14" />
+        <mark key="." line="438" column="14" />
+        <mark key="^" line="438" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/index.js" timestamp="1519682515418">
         <mark key="[" line="26" column="0" />
@@ -449,7 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="516" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="488" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="521" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="2" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
@@ -549,13 +549,14 @@
       <jump line="15" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="44" column="169" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="9" column="12" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/create_folder.json" />
+      <jump line="411" column="18" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGNvbnNvbGUubG9nKHJlc3VsdCkK</text>
+      <register name="&quot;" type="4">
+        <text>folderId</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>folderId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcm5cPg==</text>
@@ -564,38 +565,38 @@
         <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5ib2R5LmVycm9yLmNvZGUuc2hvdWxkLmJlLmVxKDQwMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGNvbnNvbGUubG9nKHJlc3VsdCkK</text>
+        <text encoding="base64">ICBmb2xkZXIuZGVsZXRlKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGAvdmlkZW9zLyR7c2Vjb25kVmlkZW8uaWR9YCkK</text>
+        <text encoding="base64">ICBsZXQgY2hhbm5lbElkID0gZXZlbnQucXVlcnkuY2hhbm5lbElkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Lwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG1haW5Vc2VyVG9rZW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGNvbnNvbGUubG9nKHJlc3VsdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGAvdmlkZW9zLyR7Zmlyc3RWaWRlby5pZH0/c2hhcmVMaW5rPXRydWVgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGAvdmlkZW9zLyR7c2Vjb25kVmlkZW8uaWR9YCkK</text>
       </register>
-      <register name="6" type="4">
-        <text>videos/${firstVideo.id}?shareLink=true`)
-          console.log(mainUserToken)</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG1haW5Vc2VyVG9rZW4pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGAvdmlkZW9zLyR7Zmlyc3RWaWRlby5pZH0/c2hhcmVMaW5rPXRydWVgKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKQo=</text>
+      <register name="9" type="4">
+        <text>videos/${firstVideo.id}?shareLink=true`)
+          console.log(mainUserToken)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
