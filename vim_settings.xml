@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/Dockerfile" timestamp="1520719857607">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/email.js" timestamp="1520465525525">
         <mark key="[" line="32" column="69" />
         <mark key="]" line="32" column="69" />
@@ -29,6 +35,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/deep/deeper/docker-compose.yml" timestamp="1520720388051">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="19" column="13" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/reports/rae_daily.js" timestamp="1520463084817">
         <mark key="[" line="43" column="67" />
@@ -82,10 +94,11 @@
       <file name="util.js" timestamp="1518732719406">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/test_ecr/docker-compose.test.yml" timestamp="1520715154835">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/test_ecr/docker-compose.test.yml" timestamp="1520717803766">
+        <mark key="[" line="4" column="70" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/file.js" timestamp="1518038543659">
         <mark key="[" line="5" column="2" />
@@ -365,11 +378,11 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" timestamp="1520713989889">
-        <mark key="[" line="40" column="62" />
-        <mark key="]" line="40" column="76" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" timestamp="1520720493124">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
         <mark key="^" line="40" column="76" />
-        <mark key="." line="40" column="76" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1520436311716">
         <mark key="[" line="41" column="148" />
@@ -416,7 +429,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520713780780">
+      <file name="/Dummy.txt" timestamp="1520718752714">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1520630552794">
@@ -444,6 +457,7 @@
         <mark key="." line="27" column="170" />
         <mark key="^" line="27" column="170" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/test_ecr/docker-compose.yml" timestamp="1520717793380" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/tmp/split_video/ffmpeg_run.sh" timestamp="1515624101929">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="21" />
@@ -468,6 +482,10 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/Dockerfile" timestamp="1520719841229">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/logger/index.js" timestamp="1516396638118">
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="18" />
@@ -479,6 +497,12 @@
         <mark key="]" line="20" column="27" />
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/deep/deeper/docker-compose.dev.yml" timestamp="1520718916168">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/geolocation/index.js" timestamp="1516396340555">
         <mark key="[" line="28" column="30" />
@@ -603,46 +627,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxpbmtzbW9kdWxlcy9vZmZlcnMtaW1wb3J0ZXI6L3Vzci9zcmMvb2ZmZXJzLWltcG9ydGVyCg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50ZXJyaWRlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>media</text>
+        <text>offers-importer</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcm5cPg==</text>
+        <text encoding="base64">XDxtb25nb2RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJY29uc3QgVmlkZW8gPSBkeW5hbW9vc2UubW9kZWwoY29uZmlnLkREQi50YWJsZXMudmlkZW9zLm5hbWUpCg==</text>
+        <text encoding="base64">Q09QWSAuIC91c3Ivc3JjL29mZmVycy1pbXBvcnRlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpbmtzbW9kdWxlcy9vZmZlcnMtaW1wb3J0ZXI6L3Vzci9zcmMvb2ZmZXJzLWltcG9ydGVyCg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50ZXJyaWRlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
         <text>:
-      - db:db
-    volumes:
-      - ./</text>
+      - NODE_ENV=override
+      - GOOGLE_ANALYTICS_TID=ov</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkZXJmaWxlOiAuL0RvY2tlcmZpbGUK</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZV9BTkFMWVRJQ1NfVElEPW92ZXJyaWRlCg==</text>
       </register>
       <register name="4" type="4">
-        <text>:
-      context: ./modules/offers-importer
-      dock</text>
+        <text>nt:
+      - NODE_ENV=override
+      - GOOGLE</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZDogbW9uZ29kIC0tcHJvZmlsZSAxIC0tc2xvd21zIDUwMAo=</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50ZXJyaWRlCg==</text>
       </register>
       <register name="6" type="4">
-        <text>es:
-      - ../data:/data/db
-    ports:
-      - '27017:27017'
-    comman</text>
+        <text>:
+      - NODE_ENV=override
+      - GOOGLE_ANALYTICS_TID=ov</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -668,32 +689,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkZXJmaWxlOiAuL0RvY2tlcmZpbGUK</text>
+        <text encoding="base64">ICAgIGNvbW1hbmQ6IHNsZWVwIDEwMDAwMAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>:
-      context: ./modules/database
-      dock</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGVudmlybG9nczovdXNyL3NyYy9tZWRpYS9sb2dzCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">bW9uZ29kIC0tcHJvZmlsZSAxIC0tc2xvd21zIDUwMAogIGRiOgogICAgaW1hZ2U6IDAxODg0MDc1MTAyNS5ka3IuZWNyLnVzLXdlc3QtMS5hbWF6b25hd3MuY29tL2thbGFkLWRiOmxhdGVzdAogICAgcG9ydHM6CiAgICAgIC0gJzI3MDE3OjI3MDE3JwogICAgY29tbWFuZDog</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcm5cPg==</last-search>
+      <last-search encoding="base64">XDxtb25nb2RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcm5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtb25nb2RcPg==</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
-      <last-substitute>rsC</last-substitute>
+      <last-substitute encoding="base64">XDxhcm5cPg==</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>eu-west</entry>
         <entry>ima</entry>
         <entry encoding="base64">dmFyIA==</entry>
         <entry encoding="base64">XDxkYXRlXD4=</entry>
@@ -713,6 +731,7 @@
         <entry encoding="base64">XDx3Y19vcmRlcl81OTcxMGU3YjE1MzA4XD4=</entry>
         <entry encoding="base64">XDx3Y19vcmRlcm9zXzU5NzEwZTdiMTUzMDhcPg==</entry>
         <entry encoding="base64">XDxhcm5cPg==</entry>
+        <entry encoding="base64">XDxtb25nb2RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
