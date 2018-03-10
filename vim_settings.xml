@@ -360,6 +360,12 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" timestamp="1520711423922">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="73" />
+        <mark key="^" line="19" column="73" />
+        <mark key="." line="19" column="73" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1520436311716">
         <mark key="[" line="41" column="148" />
         <mark key="]" line="41" column="172" />
@@ -592,10 +598,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>path</text>
+        <text>ayankousky/kalad_media</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>ayankousky/kalad_media</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcm5cPg==</text>
