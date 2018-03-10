@@ -82,6 +82,11 @@
       <file name="util.js" timestamp="1518732719406">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/test_ecr/docker-compose.test.yml" timestamp="1520715154835">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/file.js" timestamp="1518038543659">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="10" column="46" />
@@ -597,8 +602,8 @@
       <jump line="14" column="53" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>media</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxpbmtzbW9kdWxlcy9vZmZlcnMtaW1wb3J0ZXI6L3Vzci9zcmMvb2ZmZXJzLWltcG9ydGVyCg==</text>
       </register>
       <register name="-" type="4">
         <text>media</text>
@@ -610,25 +615,34 @@
         <text encoding="base64">CQkJY29uc3QgVmlkZW8gPSBkeW5hbW9vc2UubW9kZWwoY29uZmlnLkREQi50YWJsZXMudmlkZW9zLm5hbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJsb2NhbFBhdGgiOiAiL2xvY2FsL2ZvbGRlcjEiCg==</text>
+        <text encoding="base64">ICAgIGxpbmtzbW9kdWxlcy9vZmZlcnMtaW1wb3J0ZXI6L3Vzci9zcmMvb2ZmZXJzLWltcG9ydGVyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJmb2xkZXJJZCI6ICIzOSIK</text>
+      <register name="2" type="4">
+        <text>:
+      - db:db
+    volumes:
+      - ./</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZm9sZGVyID0gCg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkZXJmaWxlOiAuL0RvY2tlcmZpbGUK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text>:
+      context: ./modules/offers-importer
+      dock</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsb2NhbFBhdGgpCg==</text>
+        <text encoding="base64">ICAgIHZvbHVtZDogbW9uZ29kIC0tcHJvZmlsZSAxIC0tc2xvd21zIDUwMAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGZvbGRlcikK</text>
+      <register name="6" type="4">
+        <text>es:
+      - ../data:/data/db
+    ports:
+      - '27017:27017'
+    comman</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -654,13 +668,15 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgImxvY2FsUGF0aCI6ICIvc3VwZXJiYXNlL2ZvbGRlcjEiCg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkZXJmaWxlOiAuL0RvY2tlcmZpbGUK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gbGV0IGZvbGRlclBhdGggPSAoJyAnICsgbG9jYWxQYXRoKS5zbGljZSgxKTsgLy8K</text>
+      <register name="8" type="4">
+        <text>:
+      context: ./modules/database
+      dock</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbFBhdGggPSBmb2xkZXJQYXRoOwo=</text>
+        <text encoding="base64">ICAgIGVudmlybG9nczovdXNyL3NyYy9tZWRpYS9sb2dzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
