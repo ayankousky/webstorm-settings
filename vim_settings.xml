@@ -360,11 +360,11 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" timestamp="1520711423922">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="73" />
-        <mark key="^" line="19" column="73" />
-        <mark key="." line="19" column="73" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" timestamp="1520713989889">
+        <mark key="[" line="40" column="62" />
+        <mark key="]" line="40" column="76" />
+        <mark key="^" line="40" column="76" />
+        <mark key="." line="40" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1520436311716">
         <mark key="[" line="41" column="148" />
@@ -411,7 +411,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520629653270">
+      <file name="/Dummy.txt" timestamp="1520713780780">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1520630552794">
@@ -598,10 +598,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ayankousky/kalad_media</text>
+        <text>media</text>
       </register>
       <register name="-" type="4">
-        <text>ayankousky/kalad_media</text>
+        <text>media</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcm5cPg==</text>
