@@ -317,6 +317,11 @@
         <mark key="." line="123" column="21" />
         <mark key="^" line="123" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/package.json" timestamp="1520772686976">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.component.css" timestamp="1515372378259">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -430,7 +435,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520718752714">
+      <file name="/Dummy.txt" timestamp="1520772655031">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1520630552794">
@@ -457,12 +462,6 @@
         <mark key="]" line="27" column="170" />
         <mark key="." line="27" column="170" />
         <mark key="^" line="27" column="170" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/Dockerfile" timestamp="1520771201144">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/test_ecr/docker-compose.yml" timestamp="1520717793380" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/tmp/split_video/ffmpeg_run.sh" timestamp="1515624101929">
@@ -634,73 +633,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3VkbyA=</text>
+        <text>concurrently</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3VkbyA=</text>
+        <text>concurrently</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb2RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q09QWSAuIC91c3Ivc3JjL29mZmVycy1pbXBvcnRlcgo=</text>
+        <text encoding="base64">ICAgICJjb25jdXJyZW50bHkiOiAiXjMuNS4xIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I1JVTiBucG0gaW5zdGFsbCBub2RlbW9uIC1nCg==</text>
+        <text encoding="base64">IGFwdC1nZXQgdXBkYXRlICYmIGFwdC1nZXQgaW5zdGFsbCB5YXJuCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiNSVU4gYXB0LWdldCBpbnN0YWxsIGFwdC10cmFuc3BvcnQtaHR0cHMKI1JVTiBjdXJsIC1zUyBodHRwczovL2RsLnlhcm5wa2cuY29tL2RlYmlhbi9wdWJrZXkuZ3BnIHwgYXB0LWtleSBhZGQgLQojUlVOIGVjaG8gImRlYiBodHRwczovL2RsLnlhcm5wa2cuY29tL2RlYmlhbi8gc3RhYmxlIG1haW4iIHwgdGVlIC9ldGMvYXB0L3NvdXJjZXMubGlzdC5kL3lhcm4ubGlzdAojUlVO</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZXJ2ZXIgCg==</text>
+        <text encoding="base64">ICAgICJjb25jdXJyZW50bHkiOiAiXjMuNS4xIiwK</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-    listen 80;
-    listen [::]:80;
-
-    server_name kalad.cc;
-
-    if ($request_method = 'OPTIONS') {
-      return 200;
-    }
-
-    root /var/www/html;
-
-    index index.html;
-
-    # To allow POST on static pages
-    error_page  405     =200 $uri;
-
-    location / {
-      proxy_pass http://media;
-      proxy_http_version 1.1;
-      proxy_set_header Upgrade $http_upgrade;
-      proxy_set_header Connection 'upgrade';
-      proxy_set_header Host $host;
-      proxy_set_header X-Forwarded-For $remote_addr;
-      proxy_cache_bypass $http_upgrade;
-      break;
-    }
-
-    location ~* \.(eot|otf|ttf|woff|woff2)$ {
-      add_header Access-Control-Allow-Origin *;
-    }
-
-    location /health-check {
-      return 200;
-      access_log off;
-    }
-  }</text>
+      <register name="6" type="2">
+        <text encoding="base64">UlVOCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -725,14 +688,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBpZiAoJHJlcXVlc3RfbWV0aG9kID0gJ09QVElPTlMnKSB7CiAgICAgIHJldHVybiAyMDA7CiAgICB9CgogICAgcm9vdCAvdmFyL3d3dy9odG1sOwoKICAgIGluZGV4IGluZGV4Lmh0bWw7CgogICAgIyBUbyBhbGxvdyBQT1NUIG9uIHN0YXRpYyBwYWdlcwogICAgZXJyb3JfcGFnZSAgNDA1ICAgICA9MjAwICR1cmk7Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">I1JVTiBucG0gaW5zdGFsbCBub2RlbW9uIC1nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBsb2NhdGlvbiB+KiBcLihlb3R8b3RmfHR0Znx3b2ZmfHdvZmYyKSQgewogICAgICBhZGRfaGVhZGVyIEFjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbiAqOwogICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
