@@ -82,11 +82,11 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/nginx/conf.prod.nginx" timestamp="1515628546770">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="15" column="16" />
-        <mark key="^" line="15" column="16" />
-        <mark key="." line="15" column="16" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/nginx/conf.prod.nginx" timestamp="1520795531125">
+        <mark key="[" line="28" column="3" />
+        <mark key="]" line="32" column="2" />
+        <mark key="^" line="32" column="2" />
+        <mark key="." line="32" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/redirect_page.pug" timestamp="1518463353302">
         <mark key="[" line="4" column="20" />
@@ -159,11 +159,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/rae_rules.js" timestamp="1520793551613">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/rae_rules.js" timestamp="1520795724733">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
         <mark key="^" line="51" column="18" />
-        <mark key="." line="55" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app-routing.module.ts" timestamp="1514533680921">
         <mark key="[" line="29" column="0" />
@@ -184,12 +184,7 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1520776493864">
-        <mark key="[" line="74" column="44" />
-        <mark key="]" line="74" column="49" />
-        <mark key="^" line="74" column="49" />
-        <mark key="." line="74" column="49" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1520776493864" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/auth/auth.controller.js" timestamp="1520789647297">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -224,10 +219,11 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/config/config.js" timestamp="1520792759911">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/config/config.js" timestamp="1520795625669">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+        <mark key="^" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1520630552794">
         <mark key="'" line="415" column="18" />
@@ -543,12 +539,12 @@
         <mark key="." line="113" column="82" />
         <mark key="^" line="113" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/nginx/conf.dev.nginx" timestamp="1520784704219">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/nginx/conf.dev.nginx" timestamp="1520795580302">
         <mark key="'" line="36" column="18" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="76" column="46" />
+        <mark key="[" line="75" column="16" />
+        <mark key="]" line="75" column="21" />
+        <mark key="." line="75" column="21" />
+        <mark key="^" line="75" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1520793640166">
         <mark key="[" line="0" column="0" />
@@ -703,11 +699,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LmNvdW50ICogY291bnRlci5yZWVfY291bnQgPiBjb3VudGVyLnJhZV9jb3VudDs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LmNvdW50ICogY291bnRlci5yZWVfY291bnQgPiBjb3VudGVyLnJhZV9jb3VudDs=</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb2RcPg==</text>
@@ -716,22 +712,22 @@
         <text encoding="base64">ICAgICJjb25jdXJyZW50bHkiOiAiXjMuNS4xIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyYWVSdWxlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpZCkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLnJlZGlyZWN0c0NvdW50KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb3VudGVyKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyYWVDb3VudCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygxMTExMSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWVDb3VudCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyYWVSdWxlKQo=</text>
+        <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAnZGV2JzsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhyYWVSdWxlKQo=</text>
@@ -760,14 +756,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpZCkK</text>
       </register>
-      <register name="8" type="4">
-        <text>onsole.log({
-    merchantUrl: fields.store_url,
-    networkId  : fields.networkId,
-    region     : fields.region,
-  })</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb3VudGVyKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZygxMTExMSkK</text>
