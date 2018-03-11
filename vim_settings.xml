@@ -423,7 +423,12 @@
         <mark key="^" line="86" column="3" />
         <mark key="." line="83" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/nginx/conf.dev.nginx" timestamp="1520757657450" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/nginx/conf.dev.nginx" timestamp="1520761835094">
+        <mark key="[" line="38" column="18" />
+        <mark key="]" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="38" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/channel/get_folders.json" timestamp="1520517296862">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -525,7 +530,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="31" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/offers.js" />
       <jump line="83" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/offers.js" />
       <jump line="67" column="15" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/offers.js" />
       <jump line="91" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" />
@@ -625,13 +629,14 @@
       <jump line="51" column="125" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" />
       <jump line="140" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" />
       <jump line="14" column="53" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/nginx/conf.dev.nginx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZWxlZXAgMTAwMDAwCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>offers-importer</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb2RcPg==</text>
@@ -640,28 +645,61 @@
         <text encoding="base64">Q09QWSAuIC91c3Ivc3JjL29mZmVycy1pbXBvcnRlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZWxlZXAgMTAwMDAwCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>nt:
-      - NODE_ENV=override
-      - GOOGLE_ANALYTICS_TID=override
-    command: s</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBzZXJ2ZXIgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBHT09HTEVfQU5BTFlUSUNTX1RJRD1vdmVycmlkZQo=</text>
+      <register name="3" type="4">
+        <text>{
+    listen 80;
+    listen [::]:80;
+
+    server_name kalad.cc;
+
+    if ($request_method = 'OPTIONS') {
+      return 200;
+    }
+
+    root /var/www/html;
+
+    index index.html;
+
+    # To allow POST on static pages
+    error_page  405     =200 $uri;
+
+    location / {
+      proxy_pass http://media;
+      proxy_http_version 1.1;
+      proxy_set_header Upgrade $http_upgrade;
+      proxy_set_header Connection 'upgrade';
+      proxy_set_header Host $host;
+      proxy_set_header X-Forwarded-For $remote_addr;
+      proxy_cache_bypass $http_upgrade;
+      break;
+    }
+
+    location ~* \.(eot|otf|ttf|woff|woff2)$ {
+      add_header Access-Control-Allow-Origin *;
+    }
+
+    location /health-check {
+      return 200;
+      access_log off;
+    }
+  }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBOT0RFX0VOVj1vdmVycmlkZQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBpZiAoJHJlcXVlc3RfbWV0aG9kID0gJ09QVElPTlMnKSB7CiAgICAgIHJldHVybiAyMDA7CiAgICB9CgogICAgcm9vdCAvdmFyL3d3dy9odG1sOwoKICAgIGluZGV4IGluZGV4Lmh0bWw7CgogICAgIyBUbyBhbGxvdyBQT1NUIG9uIHN0YXRpYyBwYWdlcwogICAgZXJyb3JfcGFnZSAgNDA1ICAgICA9MjAwICR1cmk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50ZXJyaWRlCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBsb2NhdGlvbiB+KiBcLihlb3R8b3RmfHR0Znx3b2ZmfHdvZmYyKSQgewogICAgICBhZGRfaGVhZGVyIEFjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbiAqOwogICAgfQ==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -686,18 +724,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>:
-      - NODE_ENV=override
-      - GOOGLE_ANALYTICS_TID=ov</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcHJveHlfcGFzcwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZV9BTkFMWVRJQ1NfVElEPW92ZXJyaWRlCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGh0dHA6Ly9tZWRpYTsKICAgICAgcHJveHlfaHR0cF92ZXJzaW9uIDEuMTsKICAgICAgcHJveHlfc2V0X2hlYWRlciBVcGdyYWRlICRodHRwX3VwZ3JhZGU7CiAgICAgIHByb3h5X3NldF9oZWFkZXIgQ29ubmVjdGlvbiAndXBncmFkZSc7CiAgICAgIHByb3h5X3NldF9oZWFkZXIgSG9zdCAkaG9zdDsKICAgICAgcHJveHlfc2V0X2hlYWRlciBYLUZvcndhcmRlZC1Gb3IgJHJlbW90ZV9hZGRyOwogICAgICBwcm94eV9jYWNoZV9ieXBhc3MgJGh0dHBfdXBncmFkZTsKICAgICAgYnJlYWs7</text>
       </register>
-      <register name="9" type="4">
-        <text>nt:
-      - NODE_ENV=override
-      - GOOGLE</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGVudmlyb25tZWxlZXAgMTAwMDAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -754,8 +788,8 @@
         <entry>%s/ayankousky/950372854860.dkr.ecr.eu-west-2.amazonaws.com/g</entry>
         <entry>%s/eu-west/us-west/g</entry>
         <entry>%s/var /let /g</entry>
-        <entry>w</entry>
         <entry>. kek</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
