@@ -366,7 +366,7 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1520465212168">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1520776493864">
         <mark key="[" line="74" column="44" />
         <mark key="]" line="74" column="49" />
         <mark key="^" line="74" column="49" />
@@ -384,12 +384,12 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" timestamp="1520769231124">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.yml" timestamp="1520776973550">
         <mark key="'" line="24" column="30" />
-        <mark key="[" line="53" column="39" />
-        <mark key="]" line="53" column="49" />
-        <mark key="^" line="53" column="49" />
-        <mark key="." line="53" column="49" />
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="53" column="18" />
+        <mark key="^" line="53" column="13" />
+        <mark key="." line="53" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/traffic.js" timestamp="1520436311716">
         <mark key="[" line="41" column="148" />
@@ -436,8 +436,14 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520772655031">
+      <file name="/Dummy.txt" timestamp="1520776414879">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/config/config.js" timestamp="1520776570159">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+        <mark key="^" line="6" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1520630552794">
         <mark key="'" line="415" column="18" />
@@ -463,6 +469,12 @@
         <mark key="]" line="27" column="170" />
         <mark key="." line="27" column="170" />
         <mark key="^" line="27" column="170" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/Dockerfile" timestamp="1520776987047">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/test_ecr/docker-compose.yml" timestamp="1520717793380" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/tmp/split_video/ffmpeg_run.sh" timestamp="1515624101929">
@@ -634,10 +646,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>concurrently</text>
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>concurrently</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb2RcPg==</text>
@@ -646,25 +658,25 @@
         <text encoding="base64">ICAgICJjb25jdXJyZW50bHkiOiAiXjMuNS4xIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I1JVTiBjZCBjbGllbnQgJiYgeWFybiAmJiBjZCAuLi8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IGFwdC1nZXQgdXBkYXRlICYmIGFwdC1nZXQgaW5zdGFsbCB5YXJuCg==</text>
+        <text encoding="base64">I1JVTiB5YXJuCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiNSVU4gYXB0LWdldCBpbnN0YWxsIGFwdC10cmFuc3BvcnQtaHR0cHMKI1JVTiBjdXJsIC1zUyBodHRwczovL2RsLnlhcm5wa2cuY29tL2RlYmlhbi9wdWJrZXkuZ3BnIHwgYXB0LWtleSBhZGQgLQojUlVOIGVjaG8gImRlYiBodHRwczovL2RsLnlhcm5wa2cuY29tL2RlYmlhbi8gc3RhYmxlIG1haW4iIHwgdGVlIC9ldGMvYXB0L3NvdXJjZXMubGlzdC5kL3lhcm4ubGlzdAojUlVO</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJjb25jdXJyZW50bHkiOiAiXjMuNS4xIiwK</text>
+      <register name="4" type="2">
+        <text encoding="base64">IGFwdC1nZXQgdXBkYXRlICYmIGFwdC1nZXQgaW5zdGFsbCB5YXJuCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiNSVU4gYXB0LWdldCBpbnN0YWxsIGFwdC10cmFuc3BvcnQtaHR0cHMKI1JVTiBjdXJsIC1zUyBodHRwczovL2RsLnlhcm5wa2cuY29tL2RlYmlhbi9wdWJrZXkuZ3BnIHwgYXB0LWtleSBhZGQgLQojUlVOIGVjaG8gImRlYiBodHRwczovL2RsLnlhcm5wa2cuY29tL2RlYmlhbi8gc3RhYmxlIG1haW4iIHwgdGVlIC9ldGMvYXB0L3NvdXJjZXMubGlzdC5kL3lhcm4ubGlzdAojUlVO</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -690,13 +702,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I1JVTiBucG0gaW5zdGFsbCBub2RlbW9uIC1nCg==</text>
+        <text encoding="base64">ICAgICJjb25jdXJyZW50bHkiOiAiXjMuNS4xIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsCg==</text>
+        <text encoding="base64">UlVOCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">I1JVTiBucG0gaW5zdGFsbCBub2RlbW9uIC1nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
