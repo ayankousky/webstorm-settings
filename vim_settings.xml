@@ -36,7 +36,7 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/deep/deeper/docker-compose.yml" timestamp="1520720388051">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/deep/deeper/docker-compose.yml" timestamp="1520720656459">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="19" column="13" />
@@ -423,6 +423,7 @@
         <mark key="^" line="86" column="3" />
         <mark key="." line="83" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/nginx/conf.dev.nginx" timestamp="1520757657450" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/channel/get_folders.json" timestamp="1520517296862">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -627,7 +628,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZWxlZXAgMTAwMDAwCg==</text>
       </register>
       <register name="-" type="4">
         <text>offers-importer</text>
@@ -639,31 +640,28 @@
         <text encoding="base64">Q09QWSAuIC91c3Ivc3JjL29mZmVycy1pbXBvcnRlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZWxlZXAgMTAwMDAwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>:
-      - NODE_ENV=override
-      - GOOGLE_ANALYTICS_TID=ov</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZV9BTkFMWVRJQ1NfVElEPW92ZXJyaWRlCg==</text>
-      </register>
-      <register name="4" type="4">
         <text>nt:
       - NODE_ENV=override
-      - GOOGLE</text>
+      - GOOGLE_ANALYTICS_TID=override
+    command: s</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLSBHT09HTEVfQU5BTFlUSUNTX1RJRD1vdmVycmlkZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLSBOT0RFX0VOVj1vdmVycmlkZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
       </register>
-      <register name="6" type="4">
-        <text>:
-      - NODE_ENV=override
-      - GOOGLE_ANALYTICS_TID=ov</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGVudmlyb25tZW50ZXJyaWRlCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -688,14 +686,18 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQ6IHNsZWVwIDEwMDAwMAo=</text>
+      <register name="7" type="4">
+        <text>:
+      - NODE_ENV=override
+      - GOOGLE_ANALYTICS_TID=ov</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZV9BTkFMWVRJQ1NfVElEPW92ZXJyaWRlCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bW9uZ29kIC0tcHJvZmlsZSAxIC0tc2xvd21zIDUwMAogIGRiOgogICAgaW1hZ2U6IDAxODg0MDc1MTAyNS5ka3IuZWNyLnVzLXdlc3QtMS5hbWF6b25hd3MuY29tL2thbGFkLWRiOmxhdGVzdAogICAgcG9ydHM6CiAgICAgIC0gJzI3MDE3OjI3MDE3JwogICAgY29tbWFuZDog</text>
+        <text>nt:
+      - NODE_ENV=override
+      - GOOGLE</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
