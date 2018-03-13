@@ -27,11 +27,11 @@
         <mark key="^" line="19" column="13" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/reports/rae_daily.js" timestamp="1520967267462">
-        <mark key="[" line="79" column="43" />
-        <mark key="]" line="79" column="44" />
-        <mark key="^" line="79" column="43" />
-        <mark key="." line="79" column="44" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/reports/rae_daily.js" timestamp="1520969288552">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="39" />
+        <mark key="^" line="71" column="38" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.json" timestamp="1516142140705">
         <mark key="[" line="0" column="44" />
@@ -191,12 +191,12 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1520967417781">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1520968027727">
         <mark key="'" line="73" column="2" />
-        <mark key="[" line="27" column="32" />
-        <mark key="]" line="27" column="34" />
-        <mark key="." line="27" column="34" />
-        <mark key="^" line="27" column="34" />
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="27" column="40" />
+        <mark key="." line="27" column="40" />
+        <mark key="^" line="27" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/auth/auth.controller.js" timestamp="1520789647297">
         <mark key="[" line="3" column="0" />
@@ -707,41 +707,38 @@
       <jump line="2" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>db</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNyZWF0ZWRBdDogeyRndGU6IGxvd2VyRGF0ZX0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>db</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb2RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJjb25jdXJyZW50bHkiOiAiXjMuNS4xIiwK</text>
+        <text encoding="base64">ICAgICAgICAgIGNyZWF0ZWRBdDogeyRndGU6IGxvd2VyRGF0ZX0sCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gVG9EbzogbWFrZSBjb3VudGVycyBhdG9taWMgKHVzZSBtb25nbyAkaW5jKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBpZiAoIWNvdW50ZXIpewogICAgICBjb25zb2xlLmxvZyhydWxlKQogICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ly8gbGV0IGNzdkZpZWxkcyA9IFsnc3RvcmVfdXJsJywgJ25ldHdvcmtJZCcsICdyZWdpb24nLCAncmVlX2NvdW50JywgJ3JhZV9jb3VudCcsICdtdWx0aXBsaWVyJ10KICAvLyBsZXQgY3N2RGF0YSA9IGFsbFJ1bGVzLm1hcChydWxlID0+IHsKICAvLyAgIGxldCBkYXRhID0ge307CiAgLy8gICBkYXRhLnN0b3JlX3VybCA9IHJ1bGUubWVyY2hhbnRVcmw7CiAgLy8gICBkYXRhLm5ldHdvcmtJZCA9IHJ1bGUubmV0d29ya0lkOwogIC8vICAgZGF0YS5yZWdpb24gICAgPSBydWxlLnJlZ2lvbjsKICAvLyB9KTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIHN0b3JlX3VybDogcnVsZS5tZXJjaGFudFVybCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvdW50ZXIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb3NvbGUubG9nKCJSdW4gZGFpbHkgcmVwb3J0czogIiArIG5ldyBEYXRlKCkpOwo=</text>
+        <text encoding="base64">ICBjc3ZEYXRhID0gWy4uLmNzdkRhdGEsIC4uLm1lcmNoYW50RmllbGRzXTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>nst dailyReportRule= new scheduler.RecurrenceRule()
-  dailyReportRule.hour = ['0'];
-  dailyReportRule.minute = ['10'];
-  con</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -752,13 +749,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBkYWlseVJlcG9ydFJ1bGU9IG5ldyBzY2hlZHVsZXIuUmVjdXJyZW5jZVJ1bGUoKQo=</text>
+        <text encoding="base64">Ly8gVG9EbzogbWFrZSBjb3VudGVycyBhdG9taWMgKHVzZSBtb25nbyAkaW5jKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Ly8gbGV0IGNzdkZpZWxkcyA9IFsnc3RvcmVfdXJsJywgJ25ldHdvcmtJZCcsICdyZWdpb24nLCAncmVlX2NvdW50JywgJ3JhZV9jb3VudCcsICdtdWx0aXBsaWVyJ10KICAvLyBsZXQgY3N2RGF0YSA9IGFsbFJ1bGVzLm1hcChydWxlID0+IHsKICAvLyAgIGxldCBkYXRhID0ge307CiAgLy8gICBkYXRhLnN0b3JlX3VybCA9IHJ1bGUubWVyY2hhbnRVcmw7CiAgLy8gICBkYXRhLm5ldHdvcmtJZCA9IHJ1bGUubmV0d29ya0lkOwogIC8vICAgZGF0YS5yZWdpb24gICAgPSBydWxlLnJlZ2lvbjsKICAvLyB9KTs=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgY29uc3QgZGFpbHlSZXBvcnRSdWxlPSBuZXcgc2NoZWR1bGVyLlJlY3VycmVuY2VSdWxlKCkKICBkYWlseVJlcG9ydFJ1bGUuaG91ciA9IFsnMCddOwogIGRhaQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
