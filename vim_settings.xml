@@ -27,11 +27,11 @@
         <mark key="^" line="19" column="13" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/reports/rae_daily.js" timestamp="1520971389439">
-        <mark key="[" line="149" column="38" />
-        <mark key="]" line="149" column="37" />
-        <mark key="^" line="149" column="37" />
-        <mark key="." line="149" column="37" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/reports/rae_daily.js" timestamp="1520974434663">
+        <mark key="[" line="153" column="4" />
+        <mark key="]" line="153" column="4" />
+        <mark key="^" line="153" column="4" />
+        <mark key="." line="153" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.json" timestamp="1516142140705">
         <mark key="[" line="0" column="44" />
@@ -44,6 +44,12 @@
         <mark key="]" line="5" column="24" />
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1520625067720">
+        <mark key="'" line="133" column="32" />
+        <mark key="[" line="233" column="7" />
+        <mark key="]" line="233" column="7" />
+        <mark key="." line="233" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/.gitignore" timestamp="1520789688938">
         <mark key="'" line="0" column="0" />
@@ -191,12 +197,11 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1520968027727">
-        <mark key="'" line="73" column="2" />
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="27" column="40" />
-        <mark key="." line="27" column="40" />
-        <mark key="^" line="27" column="40" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" timestamp="1520974418217">
+        <mark key="'" line="64" column="2" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/auth/auth.controller.js" timestamp="1520789647297">
         <mark key="[" line="3" column="0" />
@@ -707,38 +712,38 @@
       <jump line="2" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_redirects_daily</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aXQgcmVwb3J0ZXIuZXhlY3V0ZVJlcG9ydCgncmFlX2RhaWx5Jyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_redirects_daily</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb2RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNyZWF0ZWRBdDogeyRndGU6IGxvd2VyRGF0ZX0sCg==</text>
+        <text encoding="base64">ICAgIGlmIChkYXRhLnJlZV9jb3VudCA8IDEwKSByZXR1cm47IC8vIGlzIHRvIGxvdwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLwo=</text>
+        <text encoding="base64">aXQgcmVwb3J0ZXIuZXhlY3V0ZVJlcG9ydCgncmFlX2RhaWx5Jyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGxldCBnbG9iYWxSdWxlcyA9IGF3YWl0IFJhZVJ1bGVzLmZpbmQoe21lcmNoYW50VXJsOiAnJ30pOwogIC8vIGNvbnNvbGUubG9nKGdsb2JhbFJ1bGVzKTsKICAvLwogIC8vIGxldCBub3RGdWxmaWxsZWRDb3VudGVycyA9IGF3YWl0IENsaWNrc0NvdW50ZXIuZmluZCh7CiAgLy8gICAvLyBjcmVhdGVkQXQ6IHskZ3RlOiBJU09EYXRlKCcyMDE4LTAzLTEzJyl9LAogIC8vICAgY3JlYXRlZEF0OiB7JGd0ZTogbG93ZXJEYXRlLCAkbHRlOiB1cHBlckRhdGV9LAogIC8vICAgcmFlX2VuYWJsZWQ6IHRydWUKICAvLyB9KTsKICAvLw==</text>
+        <text encoding="base64">CiAgbGV0IHJlcG9ydGVyID0gc2VydmljZXMucmVwb3J0ZXIKICAgICwgRW1haWxQcm92aWRlciA9IHJlcXVpcmUoJy4vc2VydmljZXMvcmVwb3J0ZXIvcHJvdmlkZXJzL2VtYWlsJykKICAgICwgZW1haWxQcm92aWRlciA9IG5ldyBFbWFpbFByb3ZpZGVyKG5ldyBzZXJ2aWNlcy5NYWlsKCkpCiAgZW1haWxQcm92aWRlci5zZXRFbWFpbHMoWwogICAgJ2F5YW5rb3Vza3lAeWFob28uY29tJywKICBdKTsKICByZXBvcnRlci5zZXRFeHBvcnRQcm92aWRlcihlbWFpbFByb3ZpZGVyKTsKICBhd2E=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgLy8gY29uc29sZS5sb2coY3N2RGF0YSk7CiAgY3N2RGF0YS5mb3JFYWNoKGQgPT57CiAgICBpZiAoZC5uZXR3b3JrSWQgPT09ICdjb21wcmlnbycpIGNvbnNvbGUubG9nKGQpCiAgfSk=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGRhdGEucmVlX2NvdW50ICA9IGNvdW50ZXIgPyBjb3VudGVyLnJlZV9jb3VudCA6IDA7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGRhdGEucmFlX2NvdW50ICA9IGNvdW50ZXIgPyBjb3VudGVyLnJhZV9jb3VudCA6IDA7Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhjc3ZEYXRhKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">OwogIGNzdkRhdGEuZm9yRWFjaChkID0+ewogICAgaWYgKGQubmV0d29ya0lkID09PSAnY29tcHJpZ28nKSBjb25zb2xlLmxvZyhkKQogIH0p</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -749,13 +754,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgY3N2RmllbGRzID0gCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBpZiAoIWNvdW50ZXIpewogICAgICBjb25zb2xlLmxvZyhydWxlKQogICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBsZXQgY3N2RmllbGRzID0gWydzdG9yZV91cmwnLCAnbmV0d29ya0lkJywgJ3JlZ2lvbicsICdyZWVfY291bnQnLCAncmFlX2NvdW50JywgJ211bHRpcGxpZXInXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0b3JlX3VybDogcnVsZS5tZXJjaGFudFVybCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
