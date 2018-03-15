@@ -311,6 +311,7 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/index.js" timestamp="1521061787769" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/email.js" timestamp="1520966778179">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="32" column="69" />
@@ -377,6 +378,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1521133240107">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="24" />
+        <mark key="." line="31" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/kd.js" timestamp="1518039614021">
         <mark key="[" line="0" column="0" />
@@ -470,11 +476,6 @@
         <mark key="." line="35" column="20" />
         <mark key="^" line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/config/mongoose.js" timestamp="1520787269472">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/zoom.js" timestamp="1519692610970">
         <mark key="[" line="12" column="40" />
         <mark key="]" line="12" column="40" />
@@ -565,8 +566,21 @@
         <mark key="." line="75" column="21" />
         <mark key="^" line="75" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520967380707">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/config/express.js" timestamp="1521133435871">
+        <mark key="'" line="37" column="36" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="37" />
+        <mark key="^" line="36" column="37" />
+        <mark key="." line="36" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1521133407736">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521133473014">
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="16" column="66" />
+        <mark key="^" line="16" column="66" />
+        <mark key="." line="16" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/reports/subid_cost.js" timestamp="1520462943432">
         <mark key="[" line="44" column="68" />
@@ -616,7 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
       <jump line="67" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
       <jump line="106" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
       <jump line="497" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
@@ -716,13 +729,14 @@
       <jump line="64" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/email.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/docker-compose.dev.yml" />
+      <jump line="36" column="36" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/config/express.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aXQgcmVwb3J0ZXIuZXhlY3V0ZVJlcG9ydCgncmFlX2RhaWx5Jyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb2RcPg==</text>
@@ -731,25 +745,25 @@
         <text encoding="base64">ICAgIGlmIChkYXRhLnJlZV9jb3VudCA8IDEwKSByZXR1cm47IC8vIGlzIHRvIGxvdwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aXQgcmVwb3J0ZXIuZXhlY3V0ZVJlcG9ydCgncmFlX2RhaWx5Jyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsKY29uc3QgYm9keVBhcnNlciA9IHJlcXVpcmUoJ2JvZHktcGFyc2VyJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">aXQgcmVwb3J0ZXIuZXhlY3V0ZVJlcG9ydCgncmFlX2RhaWx5Jyk7Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgbGV0IHJlcG9ydGVyID0gc2VydmljZXMucmVwb3J0ZXIKICAgICwgRW1haWxQcm92aWRlciA9IHJlcXVpcmUoJy4vc2VydmljZXMvcmVwb3J0ZXIvcHJvdmlkZXJzL2VtYWlsJykKICAgICwgZW1haWxQcm92aWRlciA9IG5ldyBFbWFpbFByb3ZpZGVyKG5ldyBzZXJ2aWNlcy5NYWlsKCkpCiAgZW1haWxQcm92aWRlci5zZXRFbWFpbHMoWwogICAgJ2F5YW5rb3Vza3lAeWFob28uY29tJywKICBdKTsKICByZXBvcnRlci5zZXRFeHBvcnRQcm92aWRlcihlbWFpbFByb3ZpZGVyKTsKICBhd2E=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhjc3ZEYXRhKQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">OwogIGNzdkRhdGEuZm9yRWFjaChkID0+ewogICAgaWYgKGQubmV0d29ya0lkID09PSAnY29tcHJpZ28nKSBjb25zb2xlLmxvZyhkKQogIH0p</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -759,14 +773,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgY3N2RmllbGRzID0gCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">OwogIGNzdkRhdGEuZm9yRWFjaChkID0+ewogICAgaWYgKGQubmV0d29ya0lkID09PSAnY29tcHJpZ28nKSBjb25zb2xlLmxvZyhkKQogIH0p</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgY3N2RmllbGRzID0gWydzdG9yZV91cmwnLCAnbmV0d29ya0lkJywgJ3JlZ2lvbicsICdyZWVfY291bnQnLCAncmFlX2NvdW50JywgJ211bHRpcGxpZXInXQo=</text>
+        <text encoding="base64">ICBsZXQgY3N2RmllbGRzID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgY3N2RmllbGRzID0gWydzdG9yZV91cmwnLCAnbmV0d29ya0lkJywgJ3JlZ2lvbicsICdyZWVfY291bnQnLCAncmFlX2NvdW50JywgJ211bHRpcGxpZXInXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
