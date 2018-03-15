@@ -269,11 +269,11 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1521134636660">
-        <mark key="[" line="34" column="46" />
-        <mark key="]" line="34" column="46" />
-        <mark key="^" line="34" column="46" />
-        <mark key="." line="34" column="46" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1521137384952">
+        <mark key="[" line="40" column="14" />
+        <mark key="]" line="41" column="3" />
+        <mark key="^" line="41" column="3" />
+        <mark key="." line="41" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/folder/update_folder.json" timestamp="1520602735246">
         <mark key="[" line="2" column="28" />
@@ -292,6 +292,12 @@
         <mark key="]" line="4" column="20" />
         <mark key="^" line="2" column="9" />
         <mark key="." line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/index.js" timestamp="1521137334234">
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+        <mark key="^" line="27" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/auth/auth.routes.js" timestamp="1520786943404">
         <mark key="[" line="4" column="0" />
@@ -346,7 +352,7 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/network.js" timestamp="1521136403817">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/network.js" timestamp="1521137575176">
         <mark key="[" line="133" column="14" />
         <mark key="]" line="133" column="15" />
         <mark key="^" line="133" column="15" />
@@ -360,6 +366,12 @@
       </file>
       <file name="util.js" timestamp="1518732719406">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/category.js" timestamp="1521137634401">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="18" column="11" />
+        <mark key="^" line="44" column="5" />
+        <mark key="." line="18" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/test_ecr/docker-compose.test.yml" timestamp="1520717803766">
         <mark key="[" line="4" column="70" />
@@ -482,12 +494,12 @@
         <mark key="^" line="23" column="54" />
         <mark key="." line="23" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1521136656549">
-        <mark key="'" line="368" column="4" />
-        <mark key="[" line="449" column="29" />
-        <mark key="]" line="450" column="32" />
-        <mark key="^" line="450" column="32" />
-        <mark key="." line="450" column="32" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1521137694983">
+        <mark key="'" line="369" column="4" />
+        <mark key="[" line="459" column="45" />
+        <mark key="]" line="460" column="7" />
+        <mark key="^" line="460" column="7" />
+        <mark key="." line="460" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/index.js" timestamp="1520436335838">
         <mark key="[" line="128" column="20" />
@@ -757,11 +769,13 @@
       <jump line="368" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{
+
+        }</text>
       </register>
       <register name="-" type="4">
-        <text>Merchants</text>
+        <text>categoryArr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb2RcPg==</text>
@@ -769,26 +783,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaW5wdXQ6IHJlcXVlc3QuZ2V0KHt1cmw6IGZlZWRzLnNob3BzQmFzZS51cmwsIGhlYWRlcnM6IHtBdXRob3JpemF0aW9uOiB0aGlzLmF1dGhIZWFkZXJ9fSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+
+        }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLmFkZE1lcmNoYW50Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKGNhdGVnb3J5QXJyWzJdICE9PSAnVHJ1ZScpIHsgLy8gc2tpcCBtZXJjaGFudCBpZiBub3Qgb25saW5lCiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQ==</text>
+        <text>Func({
+        //   merchantId: `${this.network._id}:${getHost(categoryArr[9])}:${this.network.region}`,
+        //   store_name: categoryArr[1],
+        //   store_url : getHost(categoryArr[9]),
+        //   networkId : this.network._id,
+        //   region    : this.network.region,
+        //   mid       : categoryArr[0]
+        // });</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLCAgbmV3TWVyY2hhbnRzQ291bnQgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhdGVnb3J5SWQ6IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG9pZCAgICAgICAgICAgOiBjYXRlZ29yeUFycltjYXRlZ29yaWVzTWFwcGluZy5vZmZlcklkXSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlYWRlcnM6IHtBdXRob3JpemF0aW9uOiBhdXRoSGVhZGVyfX0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1pZCAgICAgICAgICAgOiBjYXRlZ29yeUFycltjYXRlZ29yaWVzTWFwcGluZy5taWRdLAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -798,15 +821,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>url: `${this.network.mappings.dailyReportUrl}${latestDate}.csv.gz`, 
-        h</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHVybCAgICAgICAgICAgOiBjYXRlZ29yeUFycltjYXRlZ29yaWVzTWFwcGluZy51cmxdLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLCBmaW5kQ2F0ZWdvcmllc0Jhc2UgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgIGN1cnJlbmN5ICAgICAgOiBjYXRlZ29yeUFycltjYXRlZ29yaWVzTWFwcGluZy5jdXJyZW5jeV0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzLmVudi5VU0lOR19ET0NLRVIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlZ3VsYXJfcHJpY2UgOiBjYXRlZ29yeUFycltjYXRlZ29yaWVzTWFwcGluZy5yZWd1bGFyX3ByaWNlXSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
