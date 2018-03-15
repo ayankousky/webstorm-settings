@@ -365,11 +365,11 @@
       <file name="util.js" timestamp="1518732719406">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/category.js" timestamp="1521137634401">
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="18" column="11" />
-        <mark key="^" line="44" column="5" />
-        <mark key="." line="18" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/category.js" timestamp="1521148888725">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="11" />
+        <mark key="^" line="39" column="36" />
+        <mark key="." line="11" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/test_ecr/docker-compose.test.yml" timestamp="1520717803766">
         <mark key="[" line="4" column="70" />
@@ -497,12 +497,12 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1521140206802">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1521149899070">
         <mark key="'" line="375" column="4" />
-        <mark key="[" line="273" column="48" />
-        <mark key="]" line="273" column="48" />
-        <mark key="." line="273" column="48" />
-        <mark key="^" line="274" column="45" />
+        <mark key="[" line="475" column="30" />
+        <mark key="]" line="475" column="29" />
+        <mark key="." line="475" column="29" />
+        <mark key="^" line="475" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/index.js" timestamp="1520436335838">
         <mark key="[" line="128" column="20" />
@@ -771,8 +771,8 @@
       <jump line="368" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhvZmZlcikK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGNvdW50</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -787,7 +787,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IGNvdW50</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb2RcPg==</text>
@@ -796,25 +796,25 @@
         <text encoding="base64">ICAgICAgaW5wdXQ6IHJlcXVlc3QuZ2V0KHt1cmw6IGZlZWRzLnNob3BzQmFzZS51cmwsIGhlYWRlcnM6IHtBdXRob3JpemF0aW9uOiB0aGlzLmF1dGhIZWFkZXJ9fSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhvZmZlcikK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGVsZXRlUmVzdWx0LnJlc3VsdCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXdhaXQgdGhpcy5DYXRlZ29yeS5jb3VudCh7fSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvZmZlcikK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXdhaXQgdGhpcy5DYXRlZ29yeS5jb3VudCh7fSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltYWdlX3VybF9sYXJnZTogZGF0YS5pbWFnZV91cmxfbGFyZ2UsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRzKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">b2ZmZXJBcnIuZm9yRWFjaCgoZWwsIGlkeCk9PnsKICAgICAgICAgIGNvbnNvbGUubG9nKGVsICsgJyAgICAgJyArIGlkeCkKICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -838,13 +838,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aWYgKG4gPiA1KXsKICAgICAgICAgIHJldHVybiBsaW5lUmVhZGVyLmNsb3NlKCkKICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhjYXRlZ29yeSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAvLyBsZXQgZGVsZXRlZE1lcmNoYW50c0NvdW50ID0gbWVyY2hhbnRzRGVsZXRlUmVzICAmJiBtZXJjaGFudHNEZWxldGVSZXMucmVzdWx0ICYmIG1lcmNoYW50c0RlbGV0ZVJlcy5yZXN1bHQubjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
