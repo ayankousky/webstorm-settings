@@ -9,11 +9,11 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1521309975012">
-        <mark key="[" line="77" column="24" />
-        <mark key="]" line="77" column="36" />
-        <mark key="^" line="77" column="36" />
-        <mark key="." line="77" column="36" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1521313190254">
+        <mark key="[" line="159" column="20" />
+        <mark key="]" line="159" column="18" />
+        <mark key="^" line="159" column="18" />
+        <mark key="." line="159" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/request.js" timestamp="1520517404289">
         <mark key="[" line="39" column="49" />
@@ -744,7 +744,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>r</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -759,37 +759,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKU09OXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQgQ2xpY2tTdGF0ICAgICA9IERCLm1vZGVsKCdjbGlja19zdGF0cycpCg==</text>
+        <text encoding="base64">ICAjIyMgU2V0dXAgbWVkaWEgc2VydmVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhvZmZlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gVG9EbzogdGhlcmUgYXJlIHRvbyBzbWFsbCBhbW91bnQgb2YgdG9wIGNhdGVnb3JpZXMgd2l0aCBvZmZlcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBUb0RvOiByZWZhY3RvciAoZXh0cmVtZWx5IGhhcmQgdG8gcmVhZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>$and: [
-      {image_url_small: {$ne: ''}},
-      {image_url_small: {$ne: null}},
-    ]</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICQK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhvZmZlcikK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -805,20 +802,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>and: [
-      {image_url_small: {$ne: ''}},
-      {image_url_small: {$ne: null}},
-    ]</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gVG9EbzogdGhlcmUgYXJlIHRvbyBzbWFsbCBhbW91bnQgb2YgdG9wIGNhdGVnb3JpZXMgd2l0aCBvZmZlcnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRhCg==</text>
+        <text encoding="base64">ICAvLyBUb0RvOiByZWZhY3RvciAoZXh0cmVtZWx5IGhhcmQgdG8gcmVhZCkK</text>
       </register>
-      <register name="9" type="4">
-        <text>nd: [
-      {image_url_small: {$ne: ''}},
-      {image_url_small: {$ne: null}},
-    ]</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
