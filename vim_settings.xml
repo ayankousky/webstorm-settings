@@ -357,11 +357,11 @@
       <file name="util.js" timestamp="1518732719406">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/category.js" timestamp="1521276207678">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="62" column="16" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/category.js" timestamp="1521277028009">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="57" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/test_ecr/docker-compose.test.yml" timestamp="1520717803766">
         <mark key="[" line="4" column="70" />
@@ -779,7 +779,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY3VycmVudCA9IGNhdGVnb3JpZXNbY3VycmVudC5jYXRlZ29yeUlkXQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -803,25 +803,25 @@
         <text encoding="base64">ICBsZXQgQ2xpY2tTdGF0ICAgICA9IERCLm1vZGVsKCdjbGlja19zdGF0cycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY3VycmVudCA9IGNhdGVnb3JpZXNbY3VycmVudC5jYXRlZ29yeUlkXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2NoZW1hLmluZGV4KHsgbmV0d29ya0lkOiAxLCBjYXRlZ29yeV9pZDogMSB9KTsK</text>
+        <text encoding="base64">CiAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2NoZW1hLmluZGV4KHsgbmV0d29ya0lkOiAxLCBjYXRlZ29yeV9pZDogMSB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzLmVudi5JVl9zZWNyZXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gby51cmwgPSBoZWxwZXJzLmNvbW1vbi5lbmNyeXB0VGV4dChvLl9pZCwgcHJvY2Vzcy5lbnYuc2VjcmV0S2V5LCBwcm9jZXNzLmVudi5JVikK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzLmVudi5JVl9zZWNyZXQpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -845,13 +845,13 @@
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLy8gby51cmwgPSBoZWxwZXJzLmNvbW1vbi5lbmNyeXB0VGV4dChvLl9pZCwgcHJvY2Vzcy5lbnYuc2VjcmV0S2V5LCBwcm9jZXNzLmVudi5JVikK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICByZXMuc2VuZCgK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">YAogICAgPGh0bWw+PHNjcmlwdD53aW5kb3cubG9jYXRpb24uaHJlZiA9ICIke2NsaWNrLnJVcmx9Ijwvc2NyaXB0PjwvaHRtbD4KICBgKQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBsZXQgY2xpY2sgPSBhd2FpdCAoQ2xpY2tTdGF0LmZpbmRPbmUoe19pZDogY2xpY2tJZH0pKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
