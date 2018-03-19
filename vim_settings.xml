@@ -216,12 +216,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1521439563915">
-        <mark key="'" line="415" column="18" />
-        <mark key="[" line="422" column="78" />
-        <mark key="]" line="422" column="78" />
-        <mark key="." line="422" column="78" />
-        <mark key="^" line="422" column="78" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1521440581952">
+        <mark key="'" line="416" column="18" />
+        <mark key="[" line="350" column="44" />
+        <mark key="]" line="350" column="53" />
+        <mark key="." line="350" column="53" />
+        <mark key="^" line="350" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/index.js" timestamp="1519682515418">
         <mark key="[" line="26" column="0" />
@@ -751,7 +751,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>channelId</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -766,7 +766,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>channelId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKU09OXD4=</text>
