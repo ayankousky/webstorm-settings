@@ -271,6 +271,11 @@
         <mark key="." line="27" column="18" />
         <mark key="^" line="27" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitmodules" timestamp="1521477344401">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/index.js" timestamp="1514499505386">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="20" column="27" />
@@ -472,6 +477,11 @@
         <mark key="]" line="168" column="7" />
         <mark key="." line="168" column="7" />
         <mark key="^" line="279" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/server.js" timestamp="1521477538060">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/index.js" timestamp="1520436335838">
         <mark key="[" line="128" column="20" />
@@ -744,7 +754,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>channelId</text>
+        <text>*</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -759,7 +769,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>channelId</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKU09OXD4=</text>
@@ -768,7 +778,7 @@
         <text encoding="base64">ICAjIyMgU2V0dXAgbWVkaWEgc2VydmVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZXhwcmVzcykK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -777,16 +787,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W3N1Ym1vZHVsZSAibW9kdWxlcy93ZWJzaXRlIl0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXBhdGggPSBtb2R1bGVzL3dlYnNpdGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">CXVybCA9IGh0dHA6Ly9ZYW5rb3Vza3lAZ2l0bGFiLmVsaW5leHQuY29tL0thbGFkL3dlYnNpdGUuZ2l0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhvZmZlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -803,13 +813,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gVG9EbzogdGhlcmUgYXJlIHRvbyBzbWFsbCBhbW91bnQgb2YgdG9wIGNhdGVnb3JpZXMgd2l0aCBvZmZlcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBUb0RvOiByZWZhY3RvciAoZXh0cmVtZWx5IGhhcmQgdG8gcmVhZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
