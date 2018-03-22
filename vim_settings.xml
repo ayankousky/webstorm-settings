@@ -308,11 +308,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/connexity.js" timestamp="1521758258610">
-        <mark key="[" line="264" column="0" />
-        <mark key="]" line="264" column="0" />
-        <mark key="^" line="269" column="23" />
-        <mark key="." line="264" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/connexity.js" timestamp="1521760320171">
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
+        <mark key="." line="219" column="0" />
+        <mark key="^" line="219" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/index.js" timestamp="1514499505386">
         <mark key="[" line="20" column="27" />
@@ -392,7 +392,7 @@
       <file name="util.js" timestamp="1518732719406">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/category.js" timestamp="1521758434260">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/category.js" timestamp="1521758576689">
         <mark key="[" line="61" column="5" />
         <mark key="]" line="61" column="5" />
         <mark key="." line="61" column="5" />
@@ -857,10 +857,8 @@
       <jump line="118" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{
-    
-  }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -875,7 +873,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IG51bGw=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xkZXJzXD4=</text>
@@ -883,10 +881,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGNhdGVnb3JpZXNbY2F0ZWdvcnlJZF1bJ2x2bCcgKyBwcmV2THZsICsnX2lkJ10gPSBwYXJlbnQuY2F0ZWdvcnlfaWQ7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-    
-  }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -894,18 +890,17 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAvLyBhd2FpdCBQcm9taXNlLmFsbChjYXRlZ29yaWVzRGF0YS5tZXJjaGFudC5tYXAoYXN5bmMgbSA9PiB7CiAgICAvLyAgIGxldCBzdG9yZV91cmwgPSBnZXRIb3N0KG0ubWVyY2hhbnRJbmZvLm1lcmNoYW50VXJsKTsKICAgIC8vICAgYXdhaXQgdGhpcy5hZGRNZXJjaGFudEZ1bmMoewogICAgLy8gICAgIG1lcmNoYW50SWQ6IGAke3RoaXMubmV0d29yay5faWR9OiR7c3RvcmVfdXJsfToke3RoaXMubmV0d29yay5yZWdpb259YCwKICAgIC8vICAgICBzdG9yZV9uYW1lOiBtLm1lcmNoYW50SW5mby5uYW1lLAogICAgLy8gICAgIHN0b3JlX3VybCA6IHN0b3JlX3VybCwKICAgIC8vICAgICBuZXR3b3JrSWQgOiB0aGlzLm5ldHdvcmsuX2lkLAogICAgLy8gICAgIHJlZ2lvbiAgICA6IHRoaXMubmV0d29yay5yZWdpb24sCiAgICAvLyAgICAgbWlkICAgICAgIDogbS5taWQsCiAgICAvLyAgIH0pOwogICAgLy8gICBtZXJjaGFudHNDb3VudGVyKys7CiAgICAvLyB9KSk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGNhdGVnb3JpZXNEYXRhLnRheG9ub215LmNhdGVnb3JpZXMuY2F0ZWdvcnkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRVcGRhdGVEYXRlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvYXRlZ29yaWVzID0gdGhpcy5DYXRlZ29yeS5zZXRMZXZlbHMoY2F0ZWdvcmllcyk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChmZWVkLmNhdGVnb3JpZXMpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>r (let cId in categories){
-      c</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWQuY2F0ZWdvcmllcykK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -920,13 +915,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGx2bCAgICAgICAgOiBsdmwsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRVcGRhdGVEYXRlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsZXQgcHJldkx2bCA9IGx2bAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IC0gMTsKICAgICAgICAvLyBpZiAocGFyZW50KXsKICAgICAgICAvLyAgIGNhdGVnb3JpZXNbY2F0ZWdvcnlJZF1bJ2x2bCcgKyBwcmV2THZsICsnX2lkJ10gPSBwYXJlbnQuY2F0ZWdvcnlfaWQ7CiAgICAgICAgLy8gfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
