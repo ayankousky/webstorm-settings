@@ -154,6 +154,12 @@
         <mark key="." line="13" column="33" />
         <mark key="^" line="13" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1521698882607">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+        <mark key="^" line="14" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/index.html" timestamp="1518239816325">
         <mark key="[" line="7" column="47" />
         <mark key="]" line="7" column="47" />
@@ -438,7 +444,7 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" timestamp="1521697762368">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" timestamp="1521698322470">
         <mark key="'" line="118" column="6" />
         <mark key="[" line="116" column="59" />
         <mark key="]" line="116" column="68" />
@@ -649,11 +655,11 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="113" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1521668587529">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1521698816247">
         <mark key="'" line="83" column="52" />
-        <mark key="[" line="296" column="102" />
+        <mark key="[" line="297" column="15" />
         <mark key="]" line="297" column="16" />
-        <mark key="^" line="297" column="16" />
+        <mark key="^" line="296" column="15" />
         <mark key="." line="297" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/output.html" timestamp="1521663145167">
@@ -662,7 +668,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521668574014">
+      <file name="/Dummy.txt" timestamp="1521698524963">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
@@ -846,7 +852,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>yankousky@yahoo.com'</text>
+        <text>folders for videos (from backup channel)</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -861,34 +867,44 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>yankousky@yahoo.com'</text>
+        <text>folders for videos (from backup channel)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxWVUxDQU1cPg==</text>
+        <text encoding="base64">XDxmb2xkZXJzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXNlbmRFbWFpbFJlc3VsdCA9IGF3YWl0KGVtYWlsU2VydmljZS5zZW5kVmVyaWZpY2F0aW9uRW1haWwoZW1haWwsIHRva2VuLCB1c2VyLmNvbmZpcm1Db2RlKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Zm9sZGVycyBmb3IgdmlkZW9zIChmcm9tIGJhY2t1cCBjaGFubmVsKQogICAgMykgQWRkIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCSwgY2xlYXJQYXNzd29yZCA9IG51bGwK</text>
+        <text encoding="base64">ICogICAgICAgICAgIGdvb2dsZVRva2VueWEyOS5HbUNGQlVVeTlhdWI1eE9GX0FudE1lZ1gyZVFEaTB1dDB5WUJqS3NKU3hWeWx1ajE1RjJHMEZBVWFWTTdxbGxPVEZObnNmZDJjaVlxYlZjY0lRaGlXM3MxNGdKSVRIMDhGWU1tQTZya3ZTcXc4SVZmT04zWTlrYzVCNmxxa2kyYUpZUSIK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjbGVhclBhc3N3b3JkKQo=</text>
+      <register name="3" type="4">
+        <text>:
+ *             type: string
+ *             description: |
+ *             	 token from google app. Should has access to user email (preferable to name as well).
+ *             	 Password from dev.vulcam.tv (VULCAM.tv) will be send on email
+ *             example: &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJnVG9rZW4iOiAieWEyOS5HbUNGQlVMeTFRT1ZBSHNOMU5KWUFEWDdlYnFvbjBTRUNnbG9ZTEpMSmpYTjNNcW9lSDg0ZDBMUVZpajJsV3BGSU1ybVMyYTlQeFk1WXFpLXdHb0pqeUJRTHlZZ01nVXVQYjJIVVVXUmF3WHpfVmJMRUd2RVBQRllQN1NneGN6a25uTSIK</text>
+        <text encoding="base64">ICoJCQkJCSBnb29nbGVUb2tlbgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzZW5kRW1haWxSZXN1bHQgPSBhdy8gfQo=</text>
+      <register name="5" type="4">
+        <text>:
+ *             type: string
+ *             description: |
+ *             	 token from google app. Should has access to user email (preferable to name as well).
+ *             	 Password from dev.vulcam.tv (VULCAM.tv) will be send on email
+ *             example: &quot;ya29.GmCFBUUy9aub5xOF_AntMegX2eQDi0ut0yYBjKsJSxVyluj15F2G0FAUaVM7qllOTFNnsfd2ciYqbVccIQhiW3s14gJITH08FYMmA6rkvSqw8IVfON3Y9kc5B6lqki2aJYQ&quot;</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">YWl0KHNlcy5zZW5kRW1haWwoewogICAgICAgIC8vICAgU291cmNlOiBjb25maWcuRU1BSUxfU09VUkNFLAogICAgICAgIC8vICAgRGVzdGluYXRpb246IHsKICAgICAgICAvLyAgICAgVG9BZGRyZXNzZXM6IFsKICAgICAgICAvLyAgICAgICBlbWFpbAogICAgICAgIC8vICAgICBdCiAgICAgICAgLy8gICB9LAogICAgICAgIC8vICAgTWVzc2FnZTogewogICAgICAgIC8vICAgICBTdWJqZWN0OiB7CiAgICAgICAgLy8gICAgICAgRGF0YTogc3ViamVjdAogICAgICAgIC8vICAgICB9LAogICAgICAgIC8vICAgICBCb2R5OiB7CiAgICAgICAgLy8gICAgICAgSHRtbDogewogICAgICAgIC8vICAgICAgICAgRGF0YTogJzxodG1sPjxoZWFkPicKICAgICAgICAvLyAgICAgICAgICsgJzxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PVVURi04IiAvPicKICAgICAgICAvLyAgICAgICAgICsgJzx0aXRsZT4nICsgc3ViamVjdCArICc8L3RpdGxlPicKICAgICAgICAvLyAgICAgICAgICsgJzwvaGVhZD48Ym9keT4nCiAgICAgICAgLy8gICAgICAgICArICdQbGVhc2UgPGEgaHJlZj0iJyArIHZlcmlmaWNhdGlvbkxpbmsgKyAnIj5jbGljayBoZXJlIHRvIHZlcmlmeSB5b3VyIGVtYWlsIGFkZHJlc3M8L2E+IG9yIGNvcHkgJiBwYXN0ZSB0aGUgZm9sbG93aW5nIGxpbmsgaW4gYSBicm93c2VyJwogICAgICAgIC8vICAgICAgICAgKyAnPGJyPicKICAgICAgICAvLyAgICAgICAgICsgJ29yIHVzZSB0aGlzIGNvZGU6ICcgKyBjb25maXJtQ29kZQogICAgICAgIC8vICAgICAgICAgKyAnPC9ib2R5PjwvaHRtbD4nCiAgICAgICAgLy8gICAgICAgfQogICAgICAgIC8vICAgICB9CiAgICAgICAgLy8gICB9CiAgICAgICAgLw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -903,22 +919,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">CQkJCSwgY2xlYXJQYXNzd29yZCA9IG51bGwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAuCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjbGVhclBhc3N3b3JkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYShocmVmPSN7Y29uZmlybUNvZGV9IHJlbD0ibm9mb2xsb3ciIHN0eWxlPSJjb2xvcjojMzUzNTNmO2ZvbnQtd2VpZ2h0Om5vcm1hbDt0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiB0YXJnZXQ9Il9ibGFuayIgZGF0YS1zYWZlcmVkaXJlY3R1cmw9Imh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vdXJsP2hsPWVuJnE9aHR0cHM6Ly92dWxjYW0udHYvbXktYWNjb3VudC8mc291cmNlPWdtYWlsJnVzdD0xNTIxNzQ3NTI5MTY2MDAwJnVzZz1BRlFqQ05GVTYtd3hkTVU1emNEaXFXWFozYVoyeUp5cFVRIikgaHR0cHM6Ly8je3NpdGVVcmx9L215LWFjY291bnQvCg==</text>
+        <text encoding="base64">ICAgICJnVG9rZW4iOiAieWEyOS5HbUNGQlVMeTFRT1ZBSHNOMU5KWUFEWDdlYnFvbjBTRUNnbG9ZTEpMSmpYTjNNcW9lSDg0ZDBMUVZpajJsV3BGSU1ybVMyYTlQeFk1WXFpLXdHb0pqeUJRTHlZZ01nVXVQYjJIVVVXUmF3WHpfVmJMRUd2RVBQRllQN1NneGN6a25uTSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxWVUxDQU1cPg==</last-search>
+      <last-search encoding="base64">XDxmb2xkZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxWVUxDQU1cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmb2xkZXJzXD4=</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute encoding="base64">XDxWVUxDQU1cPg==</last-substitute>
       <last-dir>-1</last-dir>
@@ -926,7 +942,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRlXD4=</entry>
         <entry>5000</entry>
         <entry>10</entry>
         <entry>.log</entry>
@@ -946,6 +961,7 @@
         <entry encoding="base64">XDxtb25nb2RcPg==</entry>
         <entry encoding="base64">XDxKU09OXD4=</entry>
         <entry encoding="base64">XDxWVUxDQU1cPg==</entry>
+        <entry encoding="base64">XDxmb2xkZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
@@ -1002,6 +1018,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
