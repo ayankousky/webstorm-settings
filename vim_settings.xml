@@ -10,10 +10,10 @@
         <mark key="^" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1521490204762">
-        <mark key="[" line="212" column="27" />
-        <mark key="]" line="212" column="28" />
-        <mark key="^" line="212" column="28" />
-        <mark key="." line="212" column="28" />
+        <mark key="[" line="43" column="27" />
+        <mark key="]" line="43" column="28" />
+        <mark key="^" line="43" column="28" />
+        <mark key="." line="43" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/request.js" timestamp="1520517404289">
         <mark key="[" line="39" column="49" />
@@ -266,11 +266,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1521152706899">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/streamVideo.js" timestamp="1521499077265" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1521754783333">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="39" />
+        <mark key="." line="17" column="39" />
+        <mark key="^" line="17" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/README.md" timestamp="1521055485064">
         <mark key="[" line="17" column="2" />
@@ -306,6 +307,12 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/connexity.js" timestamp="1521758258610">
+        <mark key="[" line="264" column="0" />
+        <mark key="]" line="264" column="0" />
+        <mark key="^" line="269" column="23" />
+        <mark key="." line="264" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/index.js" timestamp="1514499505386">
         <mark key="[" line="20" column="27" />
@@ -385,11 +392,11 @@
       <file name="util.js" timestamp="1518732719406">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/category.js" timestamp="1521287910800">
-        <mark key="[" line="76" column="11" />
-        <mark key="]" line="76" column="13" />
-        <mark key="." line="76" column="13" />
-        <mark key="^" line="76" column="13" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/category.js" timestamp="1521758434260">
+        <mark key="[" line="61" column="5" />
+        <mark key="]" line="61" column="5" />
+        <mark key="." line="61" column="5" />
+        <mark key="^" line="61" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/test_ecr/docker-compose.test.yml" timestamp="1520717803766">
         <mark key="[" line="4" column="70" />
@@ -498,6 +505,7 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="64" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/src/containers/ResultsPage/ResultsPage.jsx" timestamp="1521488796407" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/common.js" timestamp="1521665414611">
         <mark key="[" line="27" column="16" />
         <mark key="]" line="27" column="25" />
@@ -533,6 +541,13 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1521757572225">
+        <mark key="'" line="375" column="4" />
+        <mark key="[" line="168" column="7" />
+        <mark key="]" line="168" column="7" />
+        <mark key="." line="168" column="7" />
+        <mark key="^" line="279" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/index.js" timestamp="1520436335838">
         <mark key="[" line="128" column="20" />
         <mark key="]" line="128" column="25" />
@@ -544,11 +559,6 @@
         <mark key="]" line="35" column="20" />
         <mark key="." line="35" column="20" />
         <mark key="^" line="35" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/categories.js" timestamp="1521294570837">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/zoom.js" timestamp="1519692610970">
         <mark key="[" line="12" column="40" />
@@ -611,10 +621,10 @@
         <mark key="^" line="17" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/Dockerfile" timestamp="1521488966217">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="18" />
-        <mark key="^" line="11" column="18" />
-        <mark key="." line="11" column="18" />
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/internal.js" timestamp="1520372065937">
         <mark key="[" line="146" column="13" />
@@ -662,15 +672,10 @@
         <mark key="^" line="296" column="15" />
         <mark key="." line="297" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/output.html" timestamp="1521663145167">
-        <mark key="'" line="5" column="11" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1521698524963">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/build/index.html" timestamp="1521480791106" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="16" column="10" />
@@ -747,6 +752,7 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="28" column="34" />
       </file>
+      <file name="$USER_HOME$/Desktop/connexity_categories.json" timestamp="1521757390380" />
     </filemarks>
     <jumps>
       <jump line="25" column="3" filename="$USER_HOME$/Documents/Projects/tmp/leha/index.html" />
@@ -852,7 +858,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>folders for videos (from backup channel)</text>
+        <text>{
+    
+  }</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -867,44 +875,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>folders for videos (from backup channel)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xkZXJzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXNlbmRFbWFpbFJlc3VsdCA9IGF3YWl0KGVtYWlsU2VydmljZS5zZW5kVmVyaWZpY2F0aW9uRW1haWwoZW1haWwsIHRva2VuLCB1c2VyLmNvbmZpcm1Db2RlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhdGVnb3JpZXNbY2F0ZWdvcnlJZF1bJ2x2bCcgKyBwcmV2THZsICsnX2lkJ10gPSBwYXJlbnQuY2F0ZWdvcnlfaWQ7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Zm9sZGVycyBmb3IgdmlkZW9zIChmcm9tIGJhY2t1cCBjaGFubmVsKQogICAgMykgQWRkIA==</text>
+        <text>{
+    
+  }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogICAgICAgICAgIGdvb2dsZVRva2VueWEyOS5HbUNGQlVVeTlhdWI1eE9GX0FudE1lZ1gyZVFEaTB1dDB5WUJqS3NKU3hWeWx1ajE1RjJHMEZBVWFWTTdxbGxPVEZObnNmZDJjaVlxYlZjY0lRaGlXM3MxNGdKSVRIMDhGWU1tQTZya3ZTcXc4SVZmT04zWTlrYzVCNmxxa2kyYUpZUSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>:
- *             type: string
- *             description: |
- *             	 token from google app. Should has access to user email (preferable to name as well).
- *             	 Password from dev.vulcam.tv (VULCAM.tv) will be send on email
- *             example: &quot;</text>
+        <text encoding="base64">CiAgICAvLyBhd2FpdCBQcm9taXNlLmFsbChjYXRlZ29yaWVzRGF0YS5tZXJjaGFudC5tYXAoYXN5bmMgbSA9PiB7CiAgICAvLyAgIGxldCBzdG9yZV91cmwgPSBnZXRIb3N0KG0ubWVyY2hhbnRJbmZvLm1lcmNoYW50VXJsKTsKICAgIC8vICAgYXdhaXQgdGhpcy5hZGRNZXJjaGFudEZ1bmMoewogICAgLy8gICAgIG1lcmNoYW50SWQ6IGAke3RoaXMubmV0d29yay5faWR9OiR7c3RvcmVfdXJsfToke3RoaXMubmV0d29yay5yZWdpb259YCwKICAgIC8vICAgICBzdG9yZV9uYW1lOiBtLm1lcmNoYW50SW5mby5uYW1lLAogICAgLy8gICAgIHN0b3JlX3VybCA6IHN0b3JlX3VybCwKICAgIC8vICAgICBuZXR3b3JrSWQgOiB0aGlzLm5ldHdvcmsuX2lkLAogICAgLy8gICAgIHJlZ2lvbiAgICA6IHRoaXMubmV0d29yay5yZWdpb24sCiAgICAvLyAgICAgbWlkICAgICAgIDogbS5taWQsCiAgICAvLyAgIH0pOwogICAgLy8gICBtZXJjaGFudHNDb3VudGVyKys7CiAgICAvLyB9KSk7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICoJCQkJCSBnb29nbGVUb2tlbgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>:
- *             type: string
- *             description: |
- *             	 token from google app. Should has access to user email (preferable to name as well).
- *             	 Password from dev.vulcam.tv (VULCAM.tv) will be send on email
- *             example: &quot;ya29.GmCFBUUy9aub5xOF_AntMegX2eQDi0ut0yYBjKsJSxVyluj15F2G0FAUaVM7qllOTFNnsfd2ciYqbVccIQhiW3s14gJITH08FYMmA6rkvSqw8IVfON3Y9kc5B6lqki2aJYQ&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZvYXRlZ29yaWVzID0gdGhpcy5DYXRlZ29yeS5zZXRMZXZlbHMoY2F0ZWdvcmllcyk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>r (let cId in categories){
+      c</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -919,13 +920,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCSwgY2xlYXJQYXNzd29yZCA9IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgIGx2bCAgICAgICAgOiBsdmwsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjbGVhclBhc3N3b3JkKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBsZXQgcHJldkx2bCA9IGx2bAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICJnVG9rZW4iOiAieWEyOS5HbUNGQlVMeTFRT1ZBSHNOMU5KWUFEWDdlYnFvbjBTRUNnbG9ZTEpMSmpYTjNNcW9lSDg0ZDBMUVZpajJsV3BGSU1ybVMyYTlQeFk1WXFpLXdHb0pqeUJRTHlZZ01nVXVQYjJIVVVXUmF3WHpfVmJMRUd2RVBQRllQN1NneGN6a25uTSIK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IC0gMTsKICAgICAgICAvLyBpZiAocGFyZW50KXsKICAgICAgICAvLyAgIGNhdGVnb3JpZXNbY2F0ZWdvcnlJZF1bJ2x2bCcgKyBwcmV2THZsICsnX2lkJ10gPSBwYXJlbnQuY2F0ZWdvcnlfaWQ7CiAgICAgICAgLy8gfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
