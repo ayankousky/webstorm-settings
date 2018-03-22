@@ -438,12 +438,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" timestamp="1521668418145">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" timestamp="1521697762368">
         <mark key="'" line="118" column="6" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="110" column="11" />
+        <mark key="[" line="116" column="59" />
+        <mark key="]" line="116" column="68" />
+        <mark key="." line="116" column="68" />
+        <mark key="^" line="116" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/registration_success_without_password.pug" timestamp="1521665507079">
         <mark key="[" line="42" column="0" />
@@ -845,8 +845,8 @@
       <jump line="118" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>yankousky@yahoo.com'</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -861,7 +861,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>yankousky@yahoo.com'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWVUxDQU1cPg==</text>
