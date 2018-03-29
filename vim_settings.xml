@@ -163,6 +163,12 @@
         <mark key="." line="96" column="123" />
         <mark key="^" line="96" column="123" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1522358275910">
+        <mark key="[" line="156" column="34" />
+        <mark key="]" line="157" column="26" />
+        <mark key="." line="157" column="26" />
+        <mark key="^" line="157" column="26" />
+      </file>
       <file name="$USER_HOME$/Desktop/207758_part001.json" timestamp="1519161783339">
         <mark key="[" line="0" column="1850" />
         <mark key="]" line="0" column="1848" />
@@ -175,11 +181,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1521668121924">
-        <mark key="[" line="56" column="25" />
-        <mark key="]" line="56" column="23" />
-        <mark key="." line="56" column="23" />
-        <mark key="^" line="56" column="23" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1522357483084">
+        <mark key="[" line="56" column="23" />
+        <mark key="]" line="56" column="31" />
+        <mark key="." line="56" column="31" />
+        <mark key="^" line="56" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/rae_rules.js" timestamp="1520795724733">
         <mark key="[" line="65" column="0" />
@@ -521,6 +527,7 @@
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/categories.js" timestamp="1521889996369">
         <mark key="'" line="50" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/folder/accept_folder_sharing.json" timestamp="1522357817741" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/zoom.js" timestamp="1519692610970">
         <mark key="[" line="12" column="40" />
         <mark key="]" line="12" column="40" />
@@ -630,7 +637,7 @@
         <mark key="'" line="83" column="52" />
         <mark key="^" line="296" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522066755689">
+      <file name="/Dummy.txt" timestamp="1522356731456">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
@@ -804,7 +811,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQkJICBjb25zb2xlLmxvZyhzdWIuc3Vic2NyaXB0aW9uLmxpbmVfaXRlbXMpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -819,7 +826,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>yahoo</text>
       </register>
       <register name="/" type="4">
         <text>categories</text>
@@ -828,25 +835,25 @@
         <text encoding="base64">ICAgICAgICBsZXQgY2F0ZWdvcnkgPSBjYXRlZ29yaWVzW29mZmVyLmNhdGVnb3J5X2lkXSB8fCBhd2FpdCB0aGlzLkNhdGVnb3J5LmZpbmRPbmUoe25ldHdvcmtJZDogdGhpcy5uZXR3b3JrLl9pZCwgY2F0ZWdvcnlfaWQ6IG9mZmVyLmNhdGVnb3J5X2lkfSkgfHwge307Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQkJICBjb25zb2xlLmxvZyhzdWIuc3Vic2NyaXB0aW9uLmxpbmVfaXRlbXMpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRlZ29yaWVzW2NJZF0ucGFyZW50ID0gY2F0ZWdvcmllc1tjYXRlZ29yaWVzW2NJZF0ucGFyZW50SWRdOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0LnN1YnNjcmlwdGlvbnMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGNvbnNvbGUubG9nKG5ldHdvcmtPZmZlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2F0ZWdvcmllcykK</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2cocmVzdWx0LnN1YnNjcmlwdGlvbnMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2F0ZWhvCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9mZmVyTWFwcGluZykK</text>
+        <text encoding="base64">ICAgICAgICBjYXRlZ29yaWVzW2NJZF0ucGFyZW50ID0gY2F0ZWdvcmllc1tjYXRlZ29yaWVzW2NJZF0ucGFyZW50SWRdOwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -856,14 +863,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAvLyBsZXQgbmV0d29ya09mZmVyID0gewogICAgICAgICAgLy8gICByYXdVcmwgICAgICA6IHJvd1swXSwKICAgICAgICAgIC8vICAgdGl0bGUgICAgICAgOiByb3dbOV0sCiAgICAgICAgICAvLyAgIGRlc2NyaXB0aW9uIDogcm93WzE3XSwKICAgICAgICAgIC8vICAgcmVndWxhclByaWNlOiAocm93WzEyXSAtIDApIC8gMTAwLAogICAgICAgICAgLy8gICB1cmwgICAgICAgICA6IHJvd1s2XSwKICAgICAgICAgIC8vICAgY3BjICAgICAgICAgOiAocm93WzI4XSAtIDApIC8gMTAwLAogICAgICAgICAgLy8gICBvaWQgICAgICAgICA6IHJvd1s3XSwKICAgICAgICAgIC8vIH07</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIGNvbnNvbGUubG9nKG5ldHdvcmtPZmZlcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2F0ZWdvcmllcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2F0ZWhvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
