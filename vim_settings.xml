@@ -70,11 +70,11 @@
         <mark key="^" line="26" column="50" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1522359757623">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="^" line="140" column="55" />
-        <mark key="." line="137" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1522360951088">
+        <mark key="[" line="134" column="96" />
+        <mark key="]" line="134" column="130" />
+        <mark key="^" line="134" column="130" />
+        <mark key="." line="134" column="130" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/Dockerfile" timestamp="1521134198148">
         <mark key="[" line="13" column="14" />
@@ -148,11 +148,11 @@
         <mark key="." line="13" column="33" />
         <mark key="^" line="13" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1521698882607">
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="14" column="33" />
-        <mark key="." line="14" column="33" />
-        <mark key="^" line="14" column="33" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1522361517376">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="26" />
+        <mark key="." line="15" column="26" />
+        <mark key="^" line="15" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/index.html" timestamp="1518239816325">
         <mark key="[" line="7" column="47" />
@@ -166,11 +166,11 @@
         <mark key="." line="96" column="123" />
         <mark key="^" line="96" column="123" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1522358967977">
-        <mark key="[" line="207" column="63" />
-        <mark key="]" line="207" column="63" />
-        <mark key="^" line="207" column="63" />
-        <mark key="." line="207" column="63" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1522361217552">
+        <mark key="[" line="125" column="28" />
+        <mark key="]" line="126" column="33" />
+        <mark key="^" line="126" column="33" />
+        <mark key="." line="126" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/207758_part001.json" timestamp="1519161783339">
         <mark key="[" line="0" column="1850" />
@@ -184,11 +184,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1522357483084">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1522360820724">
         <mark key="[" line="56" column="23" />
-        <mark key="]" line="56" column="31" />
-        <mark key="." line="56" column="31" />
-        <mark key="^" line="56" column="31" />
+        <mark key="]" line="56" column="23" />
+        <mark key="." line="56" column="23" />
+        <mark key="^" line="55" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/rae_rules.js" timestamp="1520795724733">
         <mark key="[" line="65" column="0" />
@@ -636,14 +636,14 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="113" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1522359862230">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1522360643421">
         <mark key="'" line="83" column="52" />
-        <mark key="[" line="218" column="78" />
-        <mark key="]" line="218" column="78" />
-        <mark key="^" line="218" column="78" />
-        <mark key="." line="218" column="78" />
+        <mark key="[" line="220" column="52" />
+        <mark key="]" line="220" column="52" />
+        <mark key="." line="220" column="52" />
+        <mark key="^" line="220" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522359187016">
+      <file name="/Dummy.txt" timestamp="1522360525541">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
@@ -817,7 +817,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">c3Vic2NyaXB0b2luIA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -832,7 +832,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">c3Vic2NyaXB0b2luIA==</text>
       </register>
       <register name="/" type="4">
         <text>categories</text>
@@ -841,41 +841,25 @@
         <text encoding="base64">ICAgICAgICBsZXQgY2F0ZWdvcnkgPSBjYXRlZ29yaWVzW29mZmVyLmNhdGVnb3J5X2lkXSB8fCBhd2FpdCB0aGlzLkNhdGVnb3J5LmZpbmRPbmUoe25ldHdvcmtJZDogdGhpcy5uZXR3b3JrLl9pZCwgY2F0ZWdvcnlfaWQ6IG9mZmVyLmNhdGVnb3J5X2lkfSkgfHwge307Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogICAgICAgICBleGFtcGxlOiBWVUxDQU0gU2luZ2xlIFVzZXIgTW9udGhseSBMaWNlbnNlCg==</text>
+        <text encoding="base64">ICogICAgICAgICAgICAgICBpdGVtczoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogICAgICAgICBleGFtcGxlOiAxCg==</text>
+        <text encoding="base64">ICogICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogb25seSBpZiAic3Vic2NyaXB0aW9ucyIgcGFyYW1ldGVyIGluIHF1ZXJ5IGlzIHNwZWNpZmllZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogICAgIGV4YW1wbGUK</text>
+        <text encoding="base64">ICogICAgICAgICAgICAgICB0eXBlOiBvYmoK</text>
       </register>
-      <register name="4" type="4">
-        <text>:
- *       - id: 1478
- *         order_number: 1478
- *         order_key: &quot;wc_order_59710e7b15308&quot;
- *         created_at: &quot;2017-07-20T20:11:38Z&quot;
- *         updated_at: &quot;2018-02-20T21:50:39Z&quot;
- *         status: &quot;active&quot;
- *         currency: &quot;EUR&quot;
- *         total: &quot;0.00&quot;
- *       - id: 1471
- *         order_number: 1471
- *         order_key: &quot;wc_order_59710e7b15308&quot;
- *         created_at: &quot;2017-07-20T20:11:38Z&quot;
- *         updated_at: &quot;2018-02-20T21:50:39Z&quot;
- *         status: &quot;active&quot;
- *         currency: &quot;EUR&quot;
- *         total: &quot;0.00&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICogICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogb25seSBpZiAic3Vic2NyaXB0aW9ucyIgcGFyYW1ldGVyIGluIHF1ZXJ5IGlzIHNwZWNpZmllZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogICAgICAgICB0eXBlOiBvYmplY3QK</text>
+        <text encoding="base64">ICogICAgICAgICBleGFtcGxlOiBWVUxDQU0gU2luZ2xlIFVzZXIgTW9udGhseSBMaWNlbnNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogICAgIGV4YW1wbGU6Cg==</text>
+        <text encoding="base64">ICogICAgICAgICBleGFtcGxlOiAxCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -913,13 +897,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogICAgICAK</text>
+        <text encoding="base64">ICogICAgIGV4YW1wbGUK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogICAgICAgIHR5cGU6Cg==</text>
+      <register name="8" type="4">
+        <text>:
+ *       - id: 1478
+ *         order_number: 1478
+ *         order_key: &quot;wc_order_59710e7b15308&quot;
+ *         created_at: &quot;2017-07-20T20:11:38Z&quot;
+ *         updated_at: &quot;2018-02-20T21:50:39Z&quot;
+ *         status: &quot;active&quot;
+ *         currency: &quot;EUR&quot;
+ *         total: &quot;0.00&quot;
+ *       - id: 1471
+ *         order_number: 1471
+ *         order_key: &quot;wc_order_59710e7b15308&quot;
+ *         created_at: &quot;2017-07-20T20:11:38Z&quot;
+ *         updated_at: &quot;2018-02-20T21:50:39Z&quot;
+ *         status: &quot;active&quot;
+ *         currency: &quot;EUR&quot;
+ *         total: &quot;0.00&quot;</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBuYW1lOgogKiAgICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICogICAgICAgICB0eXBlOiBvYmplY3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
