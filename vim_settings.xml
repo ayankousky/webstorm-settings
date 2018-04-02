@@ -148,11 +148,11 @@
         <mark key="^" line="58" column="30" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/clicks_counter.js" timestamp="1522628575309">
-        <mark key="[" line="53" column="44" />
-        <mark key="]" line="53" column="44" />
-        <mark key="^" line="84" column="23" />
-        <mark key="." line="53" column="44" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/clicks_counter.js" timestamp="1522648635123">
+        <mark key="[" line="75" column="29" />
+        <mark key="]" line="75" column="28" />
+        <mark key="^" line="75" column="28" />
+        <mark key="." line="75" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/bin/init_s3.sh" timestamp="1516662335981">
         <mark key="[" line="73" column="54" />
@@ -238,7 +238,6 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/public/index.html" timestamp="1522469231538" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/update_folder.json" timestamp="1520516185653">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
@@ -597,7 +596,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/fvpVideo.js" timestamp="1522425068258" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1520563332185">
         <mark key="[" line="230" column="0" />
         <mark key="]" line="230" column="66" />
@@ -848,7 +846,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:${subid}</text>
+        <text encoding="base64">IHx8ICcnLA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -863,7 +861,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:${subid}</text>
+        <text encoding="base64">IHx8ICcnLA==</text>
       </register>
       <register name="/" type="4">
         <text>categories</text>
