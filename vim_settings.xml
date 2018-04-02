@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" timestamp="1522624736161">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" timestamp="1522625047506">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
         <mark key="^" line="114" column="25" />
-        <mark key="." line="111" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/Dockerfile" timestamp="1520719857607">
         <mark key="[" line="3" column="16" />
@@ -148,11 +148,11 @@
         <mark key="^" line="58" column="30" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/clicks_counter.js" timestamp="1522624789964">
-        <mark key="[" line="171" column="2" />
-        <mark key="]" line="172" column="12" />
-        <mark key="^" line="172" column="12" />
-        <mark key="." line="172" column="12" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/clicks_counter.js" timestamp="1522626611045">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="^" line="135" column="39" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/bin/init_s3.sh" timestamp="1516662335981">
         <mark key="[" line="73" column="54" />
@@ -848,7 +848,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZV91cmw6IHskbmU6ICcnfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -863,7 +863,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>counter.store_url</text>
+        <text encoding="base64">c3RvcmVfdXJsIA==</text>
       </register>
       <register name="/" type="4">
         <text>categories</text>
@@ -872,25 +872,25 @@
         <text encoding="base64">ICAgICAgICBsZXQgY2F0ZWdvcnkgPSBjYXRlZ29yaWVzW29mZmVyLmNhdGVnb3J5X2lkXSB8fCBhd2FpdCB0aGlzLkNhdGVnb3J5LmZpbmRPbmUoe25ldHdvcmtJZDogdGhpcy5uZXR3b3JrLl9pZCwgY2F0ZWdvcnlfaWQ6IG9mZmVyLmNhdGVnb3J5X2lkfSkgfHwge307Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZV91cmw6IHskbmU6ICcnfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gY291bnRlcjsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyYWVSdWxlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb3VudGVyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmFuZG9tQ0MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBkb21haW5Db3VudGVyID0gYXdhaXQgTW9kZWwuZmluZEJ5SWQoZG9tYWluSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZV91cmw6IHskbmU6ICcnfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICByZXR1cm4gY291bnRlcjsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -928,15 +928,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBjb3VudGVyLnJhZV9jb3VudCArPSAxOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>if (!counter){
-    return undefined;
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGxldCBkb21haW5Db3VudGVyID0gYXdhaXQgTW9kZWwuZmluZEJ5SWQoZG9tYWluSWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
