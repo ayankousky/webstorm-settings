@@ -533,12 +533,6 @@
         <mark key="^" line="23" column="54" />
         <mark key="." line="23" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1521762477041">
-        <mark key="'" line="375" column="4" />
-        <mark key="[" line="479" column="0" />
-        <mark key="]" line="479" column="0" />
-        <mark key="." line="479" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/index.js" timestamp="1520436335838">
         <mark key="[" line="128" column="20" />
         <mark key="]" line="128" column="25" />
@@ -671,6 +665,12 @@
         <mark key="]" line="220" column="52" />
         <mark key="." line="220" column="52" />
         <mark key="^" line="220" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/index.js" timestamp="1522816741802">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="11" column="25" />
       </file>
       <file name="/Dummy.txt" timestamp="1522624737672">
         <mark key="[" line="0" column="0" />
@@ -846,7 +846,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHx8ICcnLA==</text>
+        <text>folder_sharing</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -861,7 +861,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8ICcnLA==</text>
+        <text>folder_sharing</text>
       </register>
       <register name="/" type="4">
         <text>categories</text>
