@@ -225,6 +225,12 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1522880706176">
+        <mark key="[" line="29" column="36" />
+        <mark key="]" line="29" column="9" />
+        <mark key="^" line="29" column="9" />
+        <mark key="." line="29" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/.env" timestamp="1521489820080">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="1" column="34" />
@@ -561,7 +567,7 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1520568679765">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1522881027896">
         <mark key="[" line="674" column="2" />
         <mark key="]" line="674" column="3" />
         <mark key="^" line="674" column="3" />
@@ -845,8 +851,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>stream_video</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -870,29 +876,29 @@
         <text encoding="base64">ICAgICAgICBsZXQgY2F0ZWdvcnkgPSBjYXRlZ29yaWVzW29mZmVyLmNhdGVnb3J5X2lkXSB8fCBhd2FpdCB0aGlzLkNhdGVnb3J5LmZpbmRPbmUoe25ldHdvcmtJZDogdGhpcy5uZXR3b3JrLl9pZCwgY2F0ZWdvcnlfaWQ6IG9mZmVyLmNhdGVnb3J5X2lkfSkgfHwge307Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICBjb25zb2xlLmxvZygxMTExMTExKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CSAgICBjb25zb2xlLmxvZygxMTExMTExKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CSAgICBjb25zb2xlLmxvZyhzZWFyY2hUZXh0KQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>)
 	    console.log(1111111)</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NlYXJjaEJvZHknCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>)
       console.log('searchBody')
       console.log('searchBody')
       console.log('searchBody')</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRvbWFpbkNvdW50ZXIpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -930,13 +936,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gVG9EbzogbWFrZSBjb3VudGVycyBhdG9taWMgKHVzZSBtb25nbyAkaW5jKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRvbWFpbkNvdW50ZXIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gVG9EbzogbWFrZSBjb3VudGVycyBhdG9taWMgKHVzZSBtb25nbyAkaW5jKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Cm1lcmNoYW50U2NoZW1hLnN0YXRpY3MuZ2V0UmFuZG9tRnJvbU5ldHdvcmsgPSBhc3luYyBmdW5jdGlvbihyZWdpb24sIG5ldHdvcmtJZCl7CiAgaWYgKCFyZWdpb24pIHsKICAgIGNvbnNvbGUubG9nKCdSZWdpb24gaXMgdW5kZWZpbmVkLCBjaGVjayB5b3VyIHNldHRpbmdzLi4uJykKICAgIHJldHVybiB1bmRlZmluZWQ7CiAgfQoKICAvLyBnZXQgb25lIG9mIHRoZSBsYXRlc3QgZW50cmllcwogIGxldCB0b3RhbEVudHJpZXNDb3VudCA9IGF3YWl0IE1vZGVsLmNvdW50KHsKICAgIHJlZ2lvbjogcmVnaW9uLAogICAgbmV0d29ya0lkOiBuZXR3b3JrSWQKICB9KQogICAgLCBza2lwQ291bnQgPSBNYXRoLnJhbmRvbSgpICogdG90YWxFbnRyaWVzQ291bnQgLSAxOwoKICAvLyBhdm9pZCBlcnJvcnMKICBpZihza2lwQ291bnQgPCAwKSB7CiAgICBza2lwQ291bnQgPSAwOwogIH0KCiAgLy8gc2tpcENvdW50ICYmIGNvbnNvbGUubG9nKGBTa2lwIG9mZmVyczogJHtza2lwQ291bnR9IGZvcjogJHtkb21haW5Ib3N0fToke3JlZ2lvbn1gKTsKCiAgbGV0IHJlc3VsdCA9IGF3YWl0IE1vZGVsLmZpbmRPbmUoCiAgICB7CiAgICAgIHJlZ2lvbjogcmVnaW9uLAogICAgICBuZXR3b3JrSWQ6IG5ldHdvcmtJZAogICAgfSkKICAgIC5zb3J0KHt1cGRhdGVkQXQ6IC0xfSkKICAgIC5za2lwKHNraXBDb3VudCk7CgogIHJldHVybiByZXN1bHQ7Cn07</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
