@@ -357,10 +357,10 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/searchPublic.json" timestamp="1522878355126">
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="31" column="55" />
-        <mark key="." line="31" column="55" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/searchPublic.json" timestamp="1522883093917">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
         <mark key="^" line="31" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/base.js" timestamp="1517979329471">
@@ -566,12 +566,6 @@
         <mark key="]" line="5" column="62" />
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1522882004681">
-        <mark key="[" line="455" column="8" />
-        <mark key="]" line="455" column="8" />
-        <mark key="^" line="455" column="8" />
-        <mark key="." line="455" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1520370466670">
         <mark key="[" line="123" column="12" />
@@ -851,7 +845,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICJzZWFyY2hUeXBlIjogInB1YmxpY1VzZXIiLAo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -875,25 +869,26 @@
         <text encoding="base64">ICAgICAgICBsZXQgY2F0ZWdvcnkgPSBjYXRlZ29yaWVzW29mZmVyLmNhdGVnb3J5X2lkXSB8fCBhd2FpdCB0aGlzLkNhdGVnb3J5LmZpbmRPbmUoe25ldHdvcmtJZDogdGhpcy5uZXR3b3JrLl9pZCwgY2F0ZWdvcnlfaWQ6IG9mZmVyLmNhdGVnb3J5X2lkfSkgfHwge307Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICJzZWFyY2hUeXBlIjogInB1YmxpY1VzZXIiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2VhcmNoQm9keSkK</text>
+        <text encoding="base64">ICAgICJlZW1haWwiOiAiYXlhbmtza3kiCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXNFbnRpdHkpCg==</text>
+      <register name="3" type="4">
+        <text>ousky&quot;,
+    &quot;ename&quot;: &quot;ayankou</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJysrKysrJykK</text>
+        <text encoding="base64">ICAgICJ2aWRlb0lkIjogIjM1MiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTExMTExMTExMSkK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmlkZW8pCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2VhcmNoQm9keSkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -931,13 +926,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXNFbnRpdHkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICBjb25zb2xlLmxvZygxMTExMTExKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJysrKysrJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAgICBjb25zb2xlLmxvZyhzZWFyY2hUZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTExMTExMTExMSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
