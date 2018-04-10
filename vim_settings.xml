@@ -274,11 +274,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1522621772204">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="38" />
-        <mark key="." line="17" column="38" />
-        <mark key="^" line="17" column="38" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1523382488605">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="35" />
+        <mark key="." line="18" column="35" />
+        <mark key="^" line="18" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/README.md" timestamp="1521055485064">
         <mark key="[" line="17" column="2" />
@@ -364,6 +364,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="31" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yieldKit.js" timestamp="1523381050657" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/base.js" timestamp="1517979329471">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="8" column="29" />
@@ -858,8 +859,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">eWllbGQg</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -874,7 +875,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">eWllbGQg</text>
       </register>
       <register name="/" type="4">
         <text>categories</text>
@@ -1043,7 +1044,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -1079,7 +1080,6 @@
         <entry>categories</entry>
       </history-search>
       <history-cmd>
-        <entry>1</entry>
         <entry>19</entry>
         <entry>e</entry>
         <entry>14</entry>
@@ -1099,6 +1099,7 @@
         <entry>%s/var /let /g</entry>
         <entry>. kek</entry>
         <entry>w</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
