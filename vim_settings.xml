@@ -220,11 +220,11 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1523344644638">
-        <mark key="[" line="49" column="68" />
-        <mark key="]" line="49" column="67" />
-        <mark key="." line="49" column="67" />
-        <mark key="^" line="49" column="67" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1523346807769">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="44" />
+        <mark key="." line="25" column="44" />
+        <mark key="^" line="25" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/.env" timestamp="1521489820080">
         <mark key="[" line="0" column="15" />
@@ -340,10 +340,11 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1523343831871">
-        <mark key="[" line="489" column="5" />
-        <mark key="]" line="489" column="5" />
-        <mark key="." line="489" column="5" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1523346794063">
+        <mark key="[" line="489" column="0" />
+        <mark key="]" line="489" column="0" />
+        <mark key="." line="489" column="0" />
+        <mark key="^" line="477" column="92" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/offer/offer.routes.js" timestamp="1520787050374">
         <mark key="[" line="6" column="16" />
@@ -845,8 +846,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -861,7 +862,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">cmVjdXJzaXZlIA==</text>
       </register>
       <register name="/" type="4">
         <text>categories</text>
@@ -869,8 +870,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICBpZiAoczNrZXlBcnJheVtzM2tleUFycmF5Lmxlbmd0aCAtIDFdLmVuZHNXaXRoKCcuZnZwJykpIHsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAvLyBhd2FpdCAoVmlkZW8udXBkYXRlKHtjaGFubmVsSWQ6IHZpZGVvLmNoYW5uZWxJZCwgaWQ6IHZpZGVvLmlkfSwge2lzVXBsb2FkZWQ6ICdmYWxzZSd9KSk7CgkJfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -878,17 +879,17 @@
       <register name="2" type="4">
         <text encoding="base64">IGVsc2UgewogICAgICAvLyBhd2FpdCAoVmlkZW8udXBkYXRlKHtjaGFubmVsSWQ6IHZpZGVvLmNoYW5uZWxJZCwgaWQ6IHZpZGVvLmlkfSwge2lzVXBsb2FkZWQ6ICdmYWxzZSd9KSk7CgkJfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAvLyBhd2FpdCAoVmlkZW8udXBkYXRlKHtjaGFubmVsSWQ6IHZpZGVvLmNoYW5uZWxJZCwgaWQ6IHZpZGVvLmlkfSwge2lzVXBsb2FkZWQ6ICdmYWxzZSd9KSk7CgkJfQ==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZWtla2VrZWsnKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgYwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZWtla2VrZWsnKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -925,15 +926,14 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">CiAgYwo=</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">b25zb2xlLmxvZyhzM2tleUFycmF5KQogIA==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2luZGV4T05Qcm9wcykK</text>
-      </register>
-      <register name="9" type="4">
-        <text>JSONProps');
-      console.log(indexJS</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
