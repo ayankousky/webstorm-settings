@@ -69,10 +69,11 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1523564021943">
-        <mark key="[" line="244" column="3" />
-        <mark key="]" line="244" column="3" />
-        <mark key="." line="244" column="3" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1523569621255">
+        <mark key="[" line="246" column="2" />
+        <mark key="]" line="246" column="19" />
+        <mark key="." line="246" column="19" />
+        <mark key="^" line="246" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/client/package.json" timestamp="1520785715373">
         <mark key="[" line="22" column="4" />
@@ -255,11 +256,11 @@
         <mark key="^" line="24" column="27" />
         <mark key="." line="24" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/sharings/delete.json" timestamp="1523566440088">
-        <mark key="[" line="31" column="15" />
-        <mark key="]" line="31" column="16" />
-        <mark key="." line="31" column="16" />
-        <mark key="^" line="32" column="42" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/sharings/delete.json" timestamp="1523570811118">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
+        <mark key="^" line="12" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/channel/get_folders.json" timestamp="1520517296862">
         <mark key="[" line="31" column="0" />
@@ -351,11 +352,11 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1523563132272">
-        <mark key="[" line="211" column="6" />
-        <mark key="]" line="211" column="19" />
-        <mark key="^" line="211" column="19" />
-        <mark key="." line="211" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1523569634063">
+        <mark key="[" line="518" column="16" />
+        <mark key="]" line="518" column="22" />
+        <mark key="^" line="518" column="22" />
+        <mark key="." line="518" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/offer/offer.routes.js" timestamp="1520787050374">
         <mark key="[" line="6" column="16" />
@@ -447,7 +448,7 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1523566575252">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1523568651743">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="462" column="53" />
         <mark key="]" line="462" column="65" />
@@ -538,7 +539,7 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/sharings/create_sharing.json" timestamp="1523565365800">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/sharings/create_sharing.json" timestamp="1523570122606">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
@@ -586,11 +587,11 @@
         <mark key="^" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1523566593491">
-        <mark key="[" line="316" column="48" />
-        <mark key="]" line="316" column="48" />
-        <mark key="^" line="316" column="44" />
-        <mark key="." line="316" column="48" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1523570685716">
+        <mark key="[" line="316" column="21" />
+        <mark key="]" line="316" column="22" />
+        <mark key="." line="316" column="22" />
+        <mark key="^" line="316" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/index.html" timestamp="1521659886559">
         <mark key="[" line="5" column="4" />
@@ -876,7 +877,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>A</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -891,36 +892,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>categories</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQgc2hhcmluZyA9IGF3YWl0IChDb250ZW50U2hhcmluZy5nZXQoe2VtYWlsOiBlbWFpbFRvLCBpZDogaWR9KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaGFyaW5nSXRlbSA9IGF3YWl0IChmb2xkZXIudXBkYXRlU2hhcmVkU3RhdHVzKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICwgZW1haWxzICAgPSBldmVudC5ib2R5LmNoYW5uZWxJZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>ody.emails
-    , channelId = event.b</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2hhcmluZykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgImF5YW5rb3Vza3lAeWFob28uY29tIiwK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2tla2VrJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgImF5YW5rb3Vza3lAZ21haWwuY29tIiIK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2hhcmluZykK</text>
       </register>
-      <register name="6" type="4">
-        <text>,
-      &quot;ayankousky@elilink.com</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -958,13 +957,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhuZXdTaGFyaW5ncykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2hhcmluZ0l0ZW0gPSBmb2xkZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB1cGQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
