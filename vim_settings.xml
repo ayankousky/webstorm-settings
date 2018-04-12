@@ -340,6 +340,12 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1523563132272">
+        <mark key="[" line="211" column="6" />
+        <mark key="]" line="211" column="19" />
+        <mark key="^" line="211" column="19" />
+        <mark key="." line="211" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/offer/offer.routes.js" timestamp="1520787050374">
         <mark key="[" line="6" column="16" />
         <mark key="]" line="6" column="16" />
@@ -561,6 +567,11 @@
         <mark key="]" line="12" column="40" />
         <mark key="^" line="12" column="40" />
         <mark key="." line="12" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1523563198504">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/index.html" timestamp="1521659886559">
         <mark key="[" line="5" column="4" />
@@ -845,8 +856,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c01d39b6-e8e6-48aa-9baa-cd6b2116986e.m3u8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ld1NoYXJpbmdzKQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -870,25 +881,25 @@
         <text encoding="base64">ICBpZiAoczNrZXlBcnJheVtzM2tleUFycmF5Lmxlbmd0aCAtIDFdLmVuZHNXaXRoKCcuZnZwJykpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vICwgczNrZXkgPSAndGVzdF9obHMvMU0vZmlyc3RfMU0ubTN1OCcK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ld1NoYXJpbmdzKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vICwgczNrZXkgPSAndGVzdF9obHMvaW5kZXguaHRtbCcK</text>
+        <text encoding="base64">ICAgIC8vICwgczNrZXkgPSAndGVzdF9obHMvMU0vZmlyc3RfMU0ubTN1OCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygna2VrJykK</text>
+        <text encoding="base64">ICAgIC8vICwgczNrZXkgPSAndGVzdF9obHMvaW5kZXguaHRtbCcK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygna2VrJykK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICBzc2wgb247CiAgICBzc2xfY2VydGlmaWNhdGUgL2V0Yy9uZ2lueC9jZXJ0cy9mdWxsY2hhaW4ucGVtOwogICAgc3NsX2NlcnRpZmljYXRlX2tleSAvZXRjL25naW54L2NlcnRzL3ByaXZrZXkucGVtOwogICAgc3NsX3Nlc3Npb25fdGltZW91dCA1bTsKICAgIHNzbF9wcm90b2NvbHMgVExTdjEgVExTdjEuMSBUTFN2MS4yOwogICAgc3NsX2NpcGhlcnMgIkVDREhFLUVDRFNBLUNIQUNIQTIwLVBPTFkxMzA1OkVDREhFLVJTQS1DSEFDSEEyMC1QT0xZMTMwNTpFQ0RIRS1FQ0RTQS1BRVMxMjgtR0NNLVNIQTI1NjpFQ0RIRS1SU0EtQUVTMTI4LUdDTS1TSEEyNTY6RUNESEUtRUNEU0EtQUVTMjU2LUdDTS1TSEEzODQ6RUNESEUtUlNBLUFFUzI1Ni1HQ00tU0hBMzg0OkRIRS1SU0EtQUVTMTI4LUdDTS1TSEEyNTY6REhFLVJTQS1BRVMyNTYtR0NNLVNIQTM4NDpFQ0RIRS1FQ0RTQS1BRVMxMjgtU0hBMjU2OkVDREhFLVJTQS1BRVMxMjgtU0hBMjU2OkVDREhFLUVDRFNBLUFFUzEyOC1TSEE6RUNESEUtUlNBLUFFUzI1Ni1TSEEzODQ6RUNESEUtUlNBLUFFUzEyOC1TSEE6RUNESEUtRUNEU0EtQUVTMjU2LVNIQTM4NDpFQ0RIRS1FQ0RTQS1BRVMyNTYtU0hBOkVDREhFLVJTQS1BRVMyNTYtU0hBOkRIRS1SU0EtQUVTMTI4LVNIQTI1NjpESEUtUlNBLUFFUzEyOC1TSEE6REhFLVJTQS1BRVMyNTYtU0hBMjU2OkRIRS1SU0EtQUVTMjU2LVNIQTpFQ0RIRS1FQ0RTQS1ERVMtQ0JDMy1TSEE6RUNESEUtUlNBLURFUy1DQkMzLVNIQTpFREgtUlNBLURFUy1DQkMzLVNIQTpBRVMxMjgtR0NNLVNIQTI1NjpBRVMyNTYtR0NNLVNIQTM4NDpBRVMxMjgtU0hBMjU2OkFFUzI1Ni1TSEEyNTY6QUVTMTI4LVNIQTpBRVMyNTYtU0hBOkRFUy1DQkMzLVNIQTohRFNTIjsKICAgIHNzbF9wcmVmZXJfc2VydmVyX2NpcGhlcnMgb247Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBzZXJ2ZXIgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -925,7 +936,10 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICBzZXJ2ZXIgCg==</text>
+      </register>
+      <register name="8" type="4">
         <text>{
     listen 80;
     listen [::]:80;
@@ -933,56 +947,8 @@
     server_name kalad.cc;
   }</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAK</text>
-      </register>
-      <register name="9" type="4">
-        <text>server {
-    listen 443;
-    listen [::]:443;
-
-    server_name admin.kalad.cc;
-
-    ssl on;
-    ssl_certificate /etc/nginx/certs/fullchain.pem;
-    ssl_certificate_key /etc/nginx/certs/privkey.pem;
-    ssl_session_timeout 5m;
-    ssl_protocols TLSv1 TLSv1.1 TLSv1.2;
-    ssl_ciphers &quot;ECDHE-ECDSA-CHACHA20-POLY1305:ECDHE-RSA-CHACHA20-POLY1305:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384:DHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES128-SHA256:ECDHE-RSA-AES128-SHA256:ECDHE-ECDSA-AES128-SHA:ECDHE-RSA-AES256-SHA384:ECDHE-RSA-AES128-SHA:ECDHE-ECDSA-AES256-SHA384:ECDHE-ECDSA-AES256-SHA:ECDHE-RSA-AES256-SHA:DHE-RSA-AES128-SHA256:DHE-RSA-AES128-SHA:DHE-RSA-AES256-SHA256:DHE-RSA-AES256-SHA:ECDHE-ECDSA-DES-CBC3-SHA:ECDHE-RSA-DES-CBC3-SHA:EDH-RSA-DES-CBC3-SHA:AES128-GCM-SHA256:AES256-GCM-SHA384:AES128-SHA256:AES256-SHA256:AES128-SHA:AES256-SHA:DES-CBC3-SHA:!DSS&quot;;
-    ssl_prefer_server_ciphers on;
-
-
-    if ($request_method = 'OPTIONS') {
-      return 200;
-    }
-
-    root /var/www/html;
-
-    index index.html;
-
-    # To allow POST on static pages
-    error_page  405     =200 $uri;
-
-    location / {
-      proxy_pass http://admin-panel;
-      proxy_http_version 1.1;
-      proxy_set_header Upgrade $http_upgrade;
-      proxy_set_header Connection 'upgrade';
-      proxy_set_header Host $host;
-      proxy_set_header X-Forwarded-For $remote_addr;
-      proxy_cache_bypass $http_upgrade;
-      break;
-    }
-
-    location ~* \.(eot|otf|ttf|woff|woff2)$ {
-      add_header Access-Control-Allow-Origin *;
-    }
-
-    location /health-check {
-      return 200;
-      access_log off;
-    }
-  }</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
