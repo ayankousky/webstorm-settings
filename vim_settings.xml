@@ -140,12 +140,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1523344065236">
-        <mark key="'" line="576" column="0" />
-        <mark key="[" line="510" column="13" />
-        <mark key="]" line="510" column="13" />
-        <mark key="^" line="510" column="13" />
-        <mark key="." line="510" column="13" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1523565654085">
+        <mark key="'" line="586" column="0" />
+        <mark key="[" line="453" column="24" />
+        <mark key="]" line="453" column="24" />
+        <mark key="^" line="453" column="35" />
+        <mark key="." line="453" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -525,6 +525,12 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/sharings/create_sharing.json" timestamp="1523565365800">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/iam/s3/multipart_upload_role_trust.json" timestamp="1521502084822">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="57" />
@@ -567,11 +573,11 @@
         <mark key="^" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1523564097207">
-        <mark key="[" line="162" column="15" />
-        <mark key="]" line="162" column="17" />
-        <mark key="." line="162" column="17" />
-        <mark key="^" line="162" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1523565491968">
+        <mark key="[" line="302" column="15" />
+        <mark key="]" line="302" column="21" />
+        <mark key="." line="302" column="21" />
+        <mark key="^" line="302" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/index.html" timestamp="1521659886559">
         <mark key="[" line="5" column="4" />
@@ -684,7 +690,7 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523563251509">
+      <file name="/Dummy.txt" timestamp="1523565632240">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
@@ -856,8 +862,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -872,7 +878,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>categories</text>
@@ -881,25 +887,26 @@
         <text encoding="base64">ICBpZiAoczNrZXlBcnJheVtzM2tleUFycmF5Lmxlbmd0aCAtIDFdLmVuZHNXaXRoKCcuZnZwJykpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImF5YW5rb3Vza3lAeWFob28uY29tIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1cGQK</text>
+        <text encoding="base64">ICAgICAgImF5YW5rb3Vza3lAZ21haWwuY29tIiIK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">YXRlKGZpZWxkcyA9IHt9KXsKICAgIHJldHVybiBhc3luYygoKT0+ewogICAgICBsZXQgbmVlZFVwZGF0ZSA9IGZhbHNlOwoKICAgICAgaWYgKGZpZWxkcy5pc1NoYXJlZCkgewogICAgICAgIHRoaXMuaXNTaGFyZWQgPSB0cnVlOwogICAgICAgIG5lZWRVcGRhdGUgPSB0cnVlOwogICAgICB9CgogICAgICBpZiAobmVlZFVwZGF0ZSl7CiAgICAgICAgYXdhaXQgKHRoaXMuc2F2ZSgpKTsKICAgICAgfQogICAgICAKICAgICAgcmV0dXJuIHRoaXM7CiAgICB9KSgpOwogIH0=</text>
+        <text>,
+      &quot;ayankousky@elilink.com</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVzLmlzU2hhcmVkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -937,13 +944,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHVwZGF0ZVJlc3VsdDsKICAgICAgaWYgKE9iamVjdC5rZXlzKHVwZGF0ZXMpLmxlbmd0aCA+IDApewogICAgICAgIGoKICAgICAgfQo=</text>
+        <text encoding="base64">ICB1cGQK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFZpZGVvLnVwZGF0ZQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">YXRlKGZpZWxkcyA9IHt9KXsKICAgIHJldHVybiBhc3luYygoKT0+ewogICAgICBsZXQgbmVlZFVwZGF0ZSA9IGZhbHNlOwoKICAgICAgaWYgKGZpZWxkcy5pc1NoYXJlZCkgewogICAgICAgIHRoaXMuaXNTaGFyZWQgPSB0cnVlOwogICAgICAgIG5lZWRVcGRhdGUgPSB0cnVlOwogICAgICB9CgogICAgICBpZiAobmVlZFVwZGF0ZSl7CiAgICAgICAgYXdhaXQgKHRoaXMuc2F2ZSgpKTsKICAgICAgfQogICAgICAKICAgICAgcmV0dXJuIHRoaXM7CiAgICB9KSgpOwogIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ld1NoYXJpbmdzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
