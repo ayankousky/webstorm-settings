@@ -141,12 +141,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524425990281">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524426761385">
         <mark key="'" line="315" column="12" />
-        <mark key="[" line="183" column="18" />
-        <mark key="]" line="183" column="20" />
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
         <mark key="^" line="183" column="20" />
-        <mark key="." line="183" column="20" />
+        <mark key="." line="185" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -190,12 +190,12 @@
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1524425535357">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1524427325703">
         <mark key="'" line="599" column="9" />
-        <mark key="[" line="599" column="9" />
-        <mark key="]" line="599" column="9" />
-        <mark key="." line="599" column="9" />
-        <mark key="^" line="599" column="9" />
+        <mark key="[" line="1270" column="18" />
+        <mark key="]" line="1271" column="20" />
+        <mark key="." line="1271" column="20" />
+        <mark key="^" line="1271" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1524416477296" />
       <file name="$USER_HOME$/Desktop/207758_part001.json" timestamp="1519161783339">
@@ -383,6 +383,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
         <mark key="^" line="31" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/iam/lambda_policy.json" timestamp="1524427746596">
+        <mark key="[" line="92" column="38" />
+        <mark key="]" line="92" column="51" />
+        <mark key="^" line="92" column="51" />
+        <mark key="." line="92" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/base.js" timestamp="1517979329471">
         <mark key="[" line="6" column="1" />
@@ -720,7 +726,7 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524425567519">
+      <file name="/Dummy.txt" timestamp="1524427679688">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
@@ -888,8 +894,8 @@
       <jump line="599" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>patch</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGF1dGhvcml6ZXI6IGF1dGhvcml6ZXJGdW5jCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -913,25 +919,25 @@
         <text>newPassword</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGV2ZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGF1dGhvcml6ZXI6IGF1dGhvcml6ZXJGdW5jCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGV2ZW50KSk7Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKGV2ZW50KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGV2ZW50KSk7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQl1cGRhdGVkOiB0cnVlLAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CglsZXQgYm9keVZhbGlkYXRlUmVzdWx0ID0gcmVxdWVzdEhlbHBlci52YWxpZGF0ZUJvZHkoZXZlbnQuYm9keSwgQ2xvdWRVc2VyLmdldFJlcUJvZHlDb25zdHJhaW50cygndXBkYXRlUGFzc3dvcmQnKSk7CiAgaWYgKCFib2R5VmFsaWRhdGVSZXN1bHQuaXNWYWxpZCl7CiAgICAgIHJldHVybiByZXFFbmQoewogICAgICAgICAgdXBkYXRlZDogZmFsc2UsCiAgICAgICAgICBlcnJvcjogbmV3IEFwcEVycm9ycy5CYWRSZXF1ZXN0KGJvZHlWYWxpZGF0ZVJlc3VsdC5tZXNzYWdlKQogICAgICB9KTsKICB9CgogIGxldCBvbGRQYXNzd29yZCAgICAgPSBldmVudC5ib2R5Lm9sZFBhc3N3b3JkCiAgICAsIG5ld1Bhc3N3b3JkICAgICA9IGV2ZW50LmJvZHkubmV3UGFzc3dvcmQKICAgICwgcGFzc3dvcmRDb25maXJtID0gZXZlbnQuYm9keS5wYXNzd29yZENvbmZpcm0KCglpZiAobmV3UGFzc3dvcmQgIT09IHBhc3N3b3JkQ29uZmlybSl7CiAgCXJldHVybiByZXFFbmQoewoJCQl1cGRhdGVkOiBmYWxzZSwKCQkJZXJyb3I6IG5ldyBBcHBFcnJvcnMuQmFzZUVycm9yKFNlcnZpY2VzLlRyYW5zbGF0b3IuY3JlYXRlUGhyYXNlKCd1c2Vycy5lcnJvcnMucGFzc3dvcmRfZG9udF9tYXRjaCcpLCBTdGF0dXNDb2Rlcy5QYXNzd29yZHNEb250TWF0Y2gpCgkJfSkKCX0KCglsZXQgYXV0aFNlcnZpY2UgPSBuZXcgQXV0aFNlcnZpY2UoZXZlbnQuaGVhZGVycy5BdXRob3JpemF0aW9uKTsKCWxldCBjdXJyVXNlcklkID0gYXV0aFNlcnZpY2UucGF5bG9hZC51c2VySWQ7CgoJbGV0IGNsb3VkVXNlciA9IGF3YWl0IChDbG91ZFVzZXIuZ2V0QnlJZChjdXJyVXNlcklkKSk7CiAgbGV0IHVzZXIgPSBhd2FpdCAoVXNlci5sb2dpbihjbG91ZFVzZXIuZW1haWwsIG9sZFBhc3N3b3JkKSk7CiAgaWYgKHVzZXIgaW5zdGFuY2VvZiBBcHBFcnJvcnMuQmFzZUVycm9yKXsKICAgIHJldHVybiByZXFFbmQoewogICAgICB1cGRhdGVkOiBmYWxzZSwKICAgICAgZXJyb3I6IG5ldyBBcHBFcnJvcnMuQmFzZUVycm9yKFNlcnZpY2VzLlRyYW5zbGF0b3IuY3JlYXRlUGhyYXNlKCd1c2Vycy5lcnJvcnMud3JvbmdfcGFzc3dvcmQnKSwgU3RhdHVzQ29kZXMuV3JvbmdQYXNzd29yZCkKICAgIH0pOwogIH0KCiAgbGV0IHVwZGF0ZVBhc3NSZXN1bHQgPSBhd2FpdCAoVXNlci51cGRhdGVQYXNzd29yZChjdXJyVXNlcklkLCBuZXdQYXNzd29yZCkpOwogIGlmICh1cGRhdGVQYXNzUmVzdWx0IGluc3RhbmNlb2YgQXBwRXJyb3JzLkJhc2VFcnJvcil7CiAgICByZXR1cm4gcmVxRW5kKHsKICAgICAgdXBkYXRlZDogZmFsc2UsCiAgICAgIGVycm9yOiBuZXcgQXBwRXJyb3JzLlVuZXhwZWN0ZWQoKQogICAgfSk7CiAgfQ==</text>
-      </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAqICAgICAgICAgc2NoZW1hOgogKiAgICAgICAgICAgdHlwZTogb2JqZWN0CiAqICAgICAgICAgICBwcm9wZXJ0aWVzOgogKiAgICAgICAgICAgICB1cGRhdGU6CiAqICAgICAgICAgICAgICAgdHlwZTogYm9vbGVhbgogKiAgICAgICAgICAgICAgIGV4YW1wbGU6IHRydWUKICogICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogaW5kaWNhdGVzIGlmIHBhc3N3b3JkIGhhcyBiZWVuIHVwZGF0ZWQKICogICAgICAgICAgICAgZXJyb3I6CiAqICAgICAgICAgICAgICAgJHJlZjogJyMvZGVmaW5pdGlvbnMvQmFzZUVycm9yJw==</text>
+        <text encoding="base64">CglsZXQgYm9keVZhbGlkYXRlUmVzdWx0ID0gcmVxdWVzdEhlbHBlci52YWxpZGF0ZUJvZHkoZXZlbnQuYm9keSwgQ2xvdWRVc2VyLmdldFJlcUJvZHlDb25zdHJhaW50cygndXBkYXRlUGFzc3dvcmQnKSk7CiAgaWYgKCFib2R5VmFsaWRhdGVSZXN1bHQuaXNWYWxpZCl7CiAgICAgIHJldHVybiByZXFFbmQoewogICAgICAgICAgdXBkYXRlZDogZmFsc2UsCiAgICAgICAgICBlcnJvcjogbmV3IEFwcEVycm9ycy5CYWRSZXF1ZXN0KGJvZHlWYWxpZGF0ZVJlc3VsdC5tZXNzYWdlKQogICAgICB9KTsKICB9CgogIGxldCBvbGRQYXNzd29yZCAgICAgPSBldmVudC5ib2R5Lm9sZFBhc3N3b3JkCiAgICAsIG5ld1Bhc3N3b3JkICAgICA9IGV2ZW50LmJvZHkubmV3UGFzc3dvcmQKICAgICwgcGFzc3dvcmRDb25maXJtID0gZXZlbnQuYm9keS5wYXNzd29yZENvbmZpcm0KCglpZiAobmV3UGFzc3dvcmQgIT09IHBhc3N3b3JkQ29uZmlybSl7CiAgCXJldHVybiByZXFFbmQoewoJCQl1cGRhdGVkOiBmYWxzZSwKCQkJZXJyb3I6IG5ldyBBcHBFcnJvcnMuQmFzZUVycm9yKFNlcnZpY2VzLlRyYW5zbGF0b3IuY3JlYXRlUGhyYXNlKCd1c2Vycy5lcnJvcnMucGFzc3dvcmRfZG9udF9tYXRjaCcpLCBTdGF0dXNDb2Rlcy5QYXNzd29yZHNEb250TWF0Y2gpCgkJfSkKCX0KCglsZXQgYXV0aFNlcnZpY2UgPSBuZXcgQXV0aFNlcnZpY2UoZXZlbnQuaGVhZGVycy5BdXRob3JpemF0aW9uKTsKCWxldCBjdXJyVXNlcklkID0gYXV0aFNlcnZpY2UucGF5bG9hZC51c2VySWQ7CgoJbGV0IGNsb3VkVXNlciA9IGF3YWl0IChDbG91ZFVzZXIuZ2V0QnlJZChjdXJyVXNlcklkKSk7CiAgbGV0IHVzZXIgPSBhd2FpdCAoVXNlci5sb2dpbihjbG91ZFVzZXIuZW1haWwsIG9sZFBhc3N3b3JkKSk7CiAgaWYgKHVzZXIgaW5zdGFuY2VvZiBBcHBFcnJvcnMuQmFzZUVycm9yKXsKICAgIHJldHVybiByZXFFbmQoewogICAgICB1cGRhdGVkOiBmYWxzZSwKICAgICAgZXJyb3I6IG5ldyBBcHBFcnJvcnMuQmFzZUVycm9yKFNlcnZpY2VzLlRyYW5zbGF0b3IuY3JlYXRlUGhyYXNlKCd1c2Vycy5lcnJvcnMud3JvbmdfcGFzc3dvcmQnKSwgU3RhdHVzQ29kZXMuV3JvbmdQYXNzd29yZCkKICAgIH0pOwogIH0KCiAgbGV0IHVwZGF0ZVBhc3NSZXN1bHQgPSBhd2FpdCAoVXNlci51cGRhdGVQYXNzd29yZChjdXJyVXNlcklkLCBuZXdQYXNzd29yZCkpOwogIGlmICh1cGRhdGVQYXNzUmVzdWx0IGluc3RhbmNlb2YgQXBwRXJyb3JzLkJhc2VFcnJvcil7CiAgICByZXR1cm4gcmVxRW5kKHsKICAgICAgdXBkYXRlZDogZmFsc2UsCiAgICAgIGVycm9yOiBuZXcgQXBwRXJyb3JzLlVuZXhwZWN0ZWQoKQogICAgfSk7CiAgfQ==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -969,14 +975,14 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAqICAgICBwYXJhbWV0ZXJzOgogKiAgICAgLSBpbjogYm9keQogKiAgICAgICBuYW1lOiBib2R5CiAqICAgICAgIGRlc2NyaXB0aW9uOiBmaWVsZHMgcmVxdWlyZWQgZm9yIHBhc3N3b3JkIHVwZGF0ZQogKiAgICAgICBzY2hlbWE6CiAqICAgICAgICAgdHlwZTogb2JqZWN0CiAqICAgICAgICAgcHJvcGVydGllczoKICogICAgICAgICAgIG9sZFBhc3N3b3JkOgogKiAgICAgICAgICAgICB0eXBlOiBzdHJpbmcKICogICAgICAgICAgICAgZXhhbXBsZTogcXdlcnR5MTIzNAogKiAgICAgICAgICAgbmV3UGFzc3dvcmQ6CiAqICAgICAgICAgICAgIHR5cGU6IHN0cmluZwogKiAgICAgICAgICAgICBleGFtcGxlOiAxMjM0MTIzNAogKiAgICAgICAgICAgcGFzc3dvcmRDb25maXJtOgogKiAgICAgICAgICAgICB0eXBlOiBzdHJpbmcKICogICAgICAgICAgICAgZXhhbXBsZTogMTIzNDEyMzQ=</text>
+        <text encoding="base64">CiAqICAgICAgICAgc2NoZW1hOgogKiAgICAgICAgICAgdHlwZTogb2JqZWN0CiAqICAgICAgICAgICBwcm9wZXJ0aWVzOgogKiAgICAgICAgICAgICB1cGRhdGU6CiAqICAgICAgICAgICAgICAgdHlwZTogYm9vbGVhbgogKiAgICAgICAgICAgICAgIGV4YW1wbGU6IHRydWUKICogICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogaW5kaWNhdGVzIGlmIHBhc3N3b3JkIGhhcyBiZWVuIHVwZGF0ZWQKICogICAgICAgICAgICAgZXJyb3I6CiAqICAgICAgICAgICAgICAgJHJlZjogJyMvZGVmaW5pdGlvbnMvQmFzZUVycm9yJw==</text>
       </register>
       <register name="8" type="4">
+        <text encoding="base64">CiAqICAgICBwYXJhbWV0ZXJzOgogKiAgICAgLSBpbjogYm9keQogKiAgICAgICBuYW1lOiBib2R5CiAqICAgICAgIGRlc2NyaXB0aW9uOiBmaWVsZHMgcmVxdWlyZWQgZm9yIHBhc3N3b3JkIHVwZGF0ZQogKiAgICAgICBzY2hlbWE6CiAqICAgICAgICAgdHlwZTogb2JqZWN0CiAqICAgICAgICAgcHJvcGVydGllczoKICogICAgICAgICAgIG9sZFBhc3N3b3JkOgogKiAgICAgICAgICAgICB0eXBlOiBzdHJpbmcKICogICAgICAgICAgICAgZXhhbXBsZTogcXdlcnR5MTIzNAogKiAgICAgICAgICAgbmV3UGFzc3dvcmQ6CiAqICAgICAgICAgICAgIHR5cGU6IHN0cmluZwogKiAgICAgICAgICAgICBleGFtcGxlOiAxMjM0MTIzNAogKiAgICAgICAgICAgcGFzc3dvcmRDb25maXJtOgogKiAgICAgICAgICAgICB0eXBlOiBzdHJpbmcKICogICAgICAgICAgICAgZXhhbXBsZTogMTIzNDEyMzQ=</text>
+      </register>
+      <register name="9" type="4">
         <text>User sends old password, new password and confirmation password to update his current password
  *       Token refresh doesn't required (for now)</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICogICAgICAgICAgICAgdXNlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
