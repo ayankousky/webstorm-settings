@@ -141,12 +141,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524418524539">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524421829541">
         <mark key="'" line="315" column="12" />
-        <mark key="[" line="173" column="18" />
-        <mark key="]" line="173" column="22" />
-        <mark key="^" line="173" column="22" />
-        <mark key="." line="173" column="22" />
+        <mark key="[" line="174" column="29" />
+        <mark key="]" line="174" column="34" />
+        <mark key="^" line="174" column="34" />
+        <mark key="." line="174" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -706,12 +706,12 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="113" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1524418637458">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1524421510712">
         <mark key="'" line="370" column="3" />
-        <mark key="[" line="971" column="5" />
-        <mark key="]" line="971" column="9" />
-        <mark key="^" line="971" column="9" />
-        <mark key="." line="971" column="9" />
+        <mark key="[" line="1008" column="0" />
+        <mark key="]" line="1008" column="0" />
+        <mark key="^" line="1007" column="67" />
+        <mark key="." line="1008" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/index.js" timestamp="1522816741802">
         <mark key="[" line="10" column="11" />
@@ -887,8 +887,8 @@
       <jump line="370" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>put</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogICAgICAgICAgICAgdXNlcgo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -903,34 +903,36 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>put</text>
+        <text>user has been updated</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CgovKioKICogQHN3YWdnZXIKICogL3VzZXIvdXBkYXRlL3t1c2VySWR9OgogKiAgIHB1dDoKICogICAgIHRhZ3M6CiAqICAgICAtIFVzZXJzCiAqICAgICBzdW1tYXJ5OiBVcGRhdGUgdXNlcgogKiAgICAgZGVzY3JpcHRpb246IFVwZGF0ZSB1c2VyIGZpZWxkcy4gRm9yIG5vdyB1c2VyIGlzIHBvc3NpYmxlIHRvIHVwZGF0ZSBvbmx5IGhpcyBvd24gcHJvZmlsZQogKiAgICAgY29uc3VtZXM6CiAqICAgICAtIGFwcGxpY2F0aW9uL2pzb24KICogICAgIHByb2R1Y2VzOgogKiAgICAgLSBhcHBsaWNhdGlvbi9qc29uCiAqICAgICBwYXJhbWV0ZXJzOgogKiAgICAgLSBuYW1lOiB1c2VySWQKICogICAgICAgaW46IHBhdGgKICogICAgICAgZGVzY3JpcHRpb246IHVzZXIgdG8gdXBkYXRlIChmb3Igbm93IOKAlCBsb2dnZWQgdXNlcidzIGlkKQogKiAgICAgICByZXF1aXJlZDogdHJ1ZQogKiAgICAgICB0eXBlOiBzdHJpbmcKICogICAgIC0gaW46IGJvZHkKICogICAgICAgbmFtZTogYm9keQogKiAgICAgICBkZXNjcmlwdGlvbjogRWRpdGVkIHVzZXIncyBmaWVsZHMKICogICAgICAgc2NoZW1hOgogKiAgICAgICAgIHR5cGU6IG9iamVjdAogKiAgICAgICAgIHByb3BlcnRpZXM6CiAqICAgICAgICAgICBuYW1lOgogKiAgICAgICAgICAgICB0eXBlOiBzdHJpbmcKICogICAgICAgICAgICAgZXhhbXBsZTogQWxleCBTbWl0aAogKiAgICAgICAgICAgbm90aWZpY2F0aW9uU2V0dGluZ3M6CiAqICAgICAgICAgICAgICRyZWY6ICcjL2RlZmluaXRpb25zL05vdGlmaWNhdGlvblNldHRpbmdzJwogKiAgICAgICAgICAgdGFnczoKICogICAgICAgICAgICAgJHJlZjogJyMvZGVmaW5pdGlvbnMvVXNlclRhZ3MnCiAqICAgICByZXNwb25zZXM6CiAqICAgICAgIDIwMDoKICogICAgICAgICBkZXNjcmlwdGlvbjogcmV0dXJuIHVzZXIgaWYgc3VjY2Vzcy4gQW5kIGVycm9yIGlmIG5vdAogKiAgICAgICAgIHNjaGVtYToKICogICAgICAgICAgIHR5cGU6IG9iamVjdAogKiAgICAgICAgICAgcHJvcGVydGllczoKICogICAgICAgICAgICAgdXBkYXRlOgogKiAgICAgICAgICAgICAgIHR5cGU6IGJvb2xlYW4KICogICAgICAgICAgICAgICBleGFtcGxlOiB0cnVlCiAqICAgICAgICAgICAgICAgZGVzY3JpcHRpb246IGluZGljYXRlcyBpZiB1c2VyIGhhcyBiZWVuIHVwZGF0ZWQKICogICAgICAgICAgICAgdXNlcjoKICogICAgICAgICAgICAgICAkcmVmOiAnIy9kZWZpbml0aW9ucy9Vc2VyJwogKiAgICAgICAgICAgICBlcnJvcjoKICogICAgICAgICAgICAgICAkcmVmOiAnIy9kZWZpbml0aW9ucy9CYXNlRXJyb3InCiAqICAgICAgIDQwMDoKICogICAgICAgICBkZXNjcmlwdGlvbjogaWYgY2xpZW50IGFwcCBzZW5kcyBtYWxmb3JtZWQgZGF0YQogKiAgICAgICAgIHNjaGVtYToKICogICAgICAgICAgIHR5cGU6IG9iamVjdAogKiAgICAgICAgICAgcHJvcGVydGllczoKICogICAgICAgICAgICAgZXJyb3I6CiAqICAgICAgICAgICAgICAgJHJlZjogJyMvZGVmaW5pdGlvbnMvQmFkUmVxdWVzdEVycm9yJwogKiAgICAgICA0MDE6CiAqICAgICAgICAgZGVzY3JpcHRpb246IGlmIHRva2VuIGlzIG5vdCBjb3JyZWN0IG9yIGV4cGlyZWQKICogICAgICAgICBzY2hlbWE6CiAqICAgICAgICAgICB0eXBlOiBvYmplY3QKICogICAgICAgICAgIHByb3BlcnRpZXM6CiAqICAgICAgICAgICAgIG1lc3NhZ2U6CiAqICAgICAgICAgICAgICAgdHlwZTogc3RyaW5nCiAqICAgICAgICAgICAgICAgZXhhbXBsZTogdW5hdXRob3JpemVkCiAqICAgICBzZWN1cml0eToKICogICAgIC0gdG9rZW46IFtdCiAqLw==</text>
+        <text>newPassword</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAqICAgICAtIG5hbWU6IHVzZXJJZAogKiAgICAgICBpbjogcGF0aAogKiAgICAgICBkZXNjcmlwdGlvbjogdXNlciB0byB1cGRhdGUgKGZvciBub3cg4oCUIGxvZ2dlZCB1c2VyJ3MgaWQpCiAqICAgICAgIHJlcXVpcmVkOiB0cnVlCiAqICAgICAgIHR5cGU6IHN0cmluZw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICogICAgICAgICAgICAgdXNlcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>:
+ *               $ref: '#/definitions/User'</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ci8vKipUb0RvKio6IHVwZGF0ZSBkb2N1bWVudGF0aW9uIAo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICogICAgICAgICAgICAgJHJlZjogJyMvZGVmaW5pdGlvbnMvVXNlclRhZ3MnCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICogICAgICAgICAgICAgdHlwZTogc3RyaW5zL05vdGlmaWNhdGlvblNldHRpbmdzJwo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>g
+ *             $ref: '#/definition</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQl1c2VyOiB1cGRhdGVQYXNzUmVzdWx0LAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgLy8gbGV0IG5ld1VzZXJJZCA9IGF3YWl0IChVc2VyLmNyZWF0ZSh7CiAgLy8gICBlbWFpbDogY2xvdWRVc2VyLmVtYWlsLAogIC8vICAgbmFtZTogY2xvdWRVc2VyLm5hbWUsCiAgLy8gICBwYXNzd29yZEhhc2g6IGNsb3VkVXNlci5wYXNzd29yZCwKICAvLyB9KSk7CgogIC8vIG5vdGlmaWNhdGlvblNldHRpbmdzCiAgLy8gbGV0IHBhc3N3b3JkSGFzaCA9IGF3YWl0KFVzZXIuZ2V0UGFzc3dvcmRIYXNoKGNsZWFyUGFzc3dvcmQpKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -967,14 +969,14 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICwgbmV3UGFzc3dvcmQgICAgID0gZXZlbnQuYm9keS5uZXdQYXNzd29yZAogICAgLCBwYXNzd29yZENvbmZpcm0gPSBldmVudC5ib2R5LnBhc3N3b3JkQ29uZmlybQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3I6IG5ldyBBcHBFcnJvcnMuQmFzZUVycm9yKCkK</text>
+        <text encoding="base64">ICogICAgICAgICAgIAogIGxldCBvbGRQYXNzd29yZCAgICAgPSBldmVudC5ib2R5Lm9sZFBhc3N3b3JkCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAqICAgICAtIG5hbWU6IHVzZXJJZAogKiAgICAgICBpbjogcGF0aAogKiAgICAgICBkZXNjcmlwdGlvbjogdXNlciB0byB1cGRhdGUgKGZvciBub3cg4oCUIGxvZ2dlZCB1c2VyJ3MgaWQpCiAqICAgICAgIHJlcXVpcmVkOiB0cnVlCiAqICAgICAgIHR5cGU6IHN0cmluZw==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
