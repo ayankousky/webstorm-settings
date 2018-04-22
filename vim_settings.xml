@@ -87,7 +87,7 @@
         <mark key="^" line="26" column="50" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1524414987603">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1524416705567">
         <mark key="[" line="464" column="18" />
         <mark key="]" line="464" column="25" />
         <mark key="^" line="464" column="25" />
@@ -129,11 +129,11 @@
         <mark key="^" line="381" column="6" />
         <mark key="." line="358" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1522074268932">
-        <mark key="[" line="22" column="35" />
-        <mark key="]" line="22" column="36" />
-        <mark key="^" line="22" column="36" />
-        <mark key="." line="22" column="36" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1524416889918">
+        <mark key="[" line="23" column="36" />
+        <mark key="]" line="23" column="37" />
+        <mark key="^" line="23" column="31" />
+        <mark key="." line="23" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/asdf.js" timestamp="1518042917577">
         <mark key="[" line="15" column="15" />
@@ -141,12 +141,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524414655861">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524418524539">
         <mark key="'" line="315" column="12" />
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="14" column="86" />
-        <mark key="." line="4" column="14" />
+        <mark key="[" line="173" column="18" />
+        <mark key="]" line="173" column="22" />
+        <mark key="^" line="173" column="22" />
+        <mark key="." line="173" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -196,6 +196,7 @@
         <mark key="." line="599" column="9" />
         <mark key="^" line="599" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1524416477296" />
       <file name="$USER_HOME$/Desktop/207758_part001.json" timestamp="1519161783339">
         <mark key="[" line="0" column="1850" />
         <mark key="]" line="0" column="1848" />
@@ -415,6 +416,12 @@
         <mark key="^" line="7" column="49" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/updatePassword.json" timestamp="1524418264738">
+        <mark key="[" line="63" column="30" />
+        <mark key="]" line="63" column="30" />
+        <mark key="^" line="61" column="28" />
+        <mark key="." line="63" column="30" />
+      </file>
       <file name="util.js" timestamp="1518732719406">
         <mark key="[" line="0" column="0" />
       </file>
@@ -484,6 +491,12 @@
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" timestamp="1524418038127">
+        <mark key="[" line="285" column="0" />
+        <mark key="]" line="285" column="0" />
+        <mark key="^" line="288" column="24" />
+        <mark key="." line="285" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/docker-compose.test.yml" timestamp="1523373159006">
         <mark key="[" line="62" column="20" />
@@ -563,11 +576,11 @@
         <mark key="^" line="11" column="48" />
         <mark key="." line="11" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/en.json" timestamp="1519683152597">
-        <mark key="[" line="23" column="51" />
-        <mark key="]" line="23" column="54" />
-        <mark key="^" line="23" column="54" />
-        <mark key="." line="23" column="54" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/en.json" timestamp="1524418173006">
+        <mark key="[" line="49" column="37" />
+        <mark key="]" line="49" column="37" />
+        <mark key="." line="49" column="37" />
+        <mark key="^" line="49" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/index.js" timestamp="1520436335838">
         <mark key="[" line="128" column="20" />
@@ -660,11 +673,6 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/internal.js" timestamp="1523341848963">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/google_analytics.js" timestamp="1514534776349">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="10" />
@@ -698,12 +706,12 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="113" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1524415055225">
-        <mark key="'" line="435" column="24" />
-        <mark key="[" line="978" column="6" />
-        <mark key="]" line="978" column="12" />
-        <mark key="^" line="978" column="12" />
-        <mark key="." line="978" column="12" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1524418637458">
+        <mark key="'" line="370" column="3" />
+        <mark key="[" line="971" column="5" />
+        <mark key="]" line="971" column="9" />
+        <mark key="^" line="971" column="9" />
+        <mark key="." line="971" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/index.js" timestamp="1522816741802">
         <mark key="[" line="10" column="11" />
@@ -711,7 +719,7 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524414801261">
+      <file name="/Dummy.txt" timestamp="1524416912784">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
@@ -744,11 +752,12 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/ru.json" timestamp="1519683305782">
-        <mark key="[" line="22" column="73" />
-        <mark key="]" line="22" column="73" />
-        <mark key="^" line="22" column="73" />
-        <mark key="." line="22" column="73" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/ru.json" timestamp="1524418149668">
+        <mark key="'" line="34" column="3" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="50" />
+        <mark key="^" line="48" column="48" />
+        <mark key="." line="48" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/index.js" timestamp="1521667558271">
         <mark key="[" line="62" column="22" />
@@ -761,11 +770,6 @@
         <mark key="]" line="3" column="1" />
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" timestamp="1522882293795">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="." line="164" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/logger/index.js" timestamp="1516396638118">
         <mark key="[" line="11" column="14" />
@@ -781,12 +785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" />
-      <jump line="134" column="12" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" />
-      <jump line="67" column="60" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" />
-      <jump line="1082" column="33" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
-      <jump line="87" column="19" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" />
       <jump line="82" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" />
       <jump line="49" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" />
       <jump line="20" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" />
@@ -881,10 +879,16 @@
       <jump line="301" column="12" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="318" column="33" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
       <jump line="435" column="24" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="991" column="36" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="1001" column="32" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="68" column="38" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/ru.json" />
+      <jump line="34" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/ru.json" />
+      <jump line="370" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>created</text>
+        <text>put</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -899,89 +903,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>created</text>
+        <text>put</text>
       </register>
       <register name="/" type="4">
-        <text>categories</text>
+        <text>user</text>
       </register>
       <register name="0" type="4">
-        <text>return {
-					email: {
-						presence: {
-              message: Translator.createPhrase('req_constraints.errors.email_presence')
-            },
-						email: {
-              message: Translator.createPhrase('req_constraints.errors.invalid_email')
-            },
-					},
-					name: {
-						presence: {
-              message: Translator.createPhrase('req_constraints.errors.name_presence')
-            },
-					},
-					password: {
-						presence: {
-              message: Translator.createPhrase('req_constraints.errors.password_presence')
-            },
-						length: {
-							minimum: 6,
-							message: Translator.createPhrase('req_constraints.errors.password_length')
-						}
-					},
-				};</text>
+        <text encoding="base64">CgovKioKICogQHN3YWdnZXIKICogL3VzZXIvdXBkYXRlL3t1c2VySWR9OgogKiAgIHB1dDoKICogICAgIHRhZ3M6CiAqICAgICAtIFVzZXJzCiAqICAgICBzdW1tYXJ5OiBVcGRhdGUgdXNlcgogKiAgICAgZGVzY3JpcHRpb246IFVwZGF0ZSB1c2VyIGZpZWxkcy4gRm9yIG5vdyB1c2VyIGlzIHBvc3NpYmxlIHRvIHVwZGF0ZSBvbmx5IGhpcyBvd24gcHJvZmlsZQogKiAgICAgY29uc3VtZXM6CiAqICAgICAtIGFwcGxpY2F0aW9uL2pzb24KICogICAgIHByb2R1Y2VzOgogKiAgICAgLSBhcHBsaWNhdGlvbi9qc29uCiAqICAgICBwYXJhbWV0ZXJzOgogKiAgICAgLSBuYW1lOiB1c2VySWQKICogICAgICAgaW46IHBhdGgKICogICAgICAgZGVzY3JpcHRpb246IHVzZXIgdG8gdXBkYXRlIChmb3Igbm93IOKAlCBsb2dnZWQgdXNlcidzIGlkKQogKiAgICAgICByZXF1aXJlZDogdHJ1ZQogKiAgICAgICB0eXBlOiBzdHJpbmcKICogICAgIC0gaW46IGJvZHkKICogICAgICAgbmFtZTogYm9keQogKiAgICAgICBkZXNjcmlwdGlvbjogRWRpdGVkIHVzZXIncyBmaWVsZHMKICogICAgICAgc2NoZW1hOgogKiAgICAgICAgIHR5cGU6IG9iamVjdAogKiAgICAgICAgIHByb3BlcnRpZXM6CiAqICAgICAgICAgICBuYW1lOgogKiAgICAgICAgICAgICB0eXBlOiBzdHJpbmcKICogICAgICAgICAgICAgZXhhbXBsZTogQWxleCBTbWl0aAogKiAgICAgICAgICAgbm90aWZpY2F0aW9uU2V0dGluZ3M6CiAqICAgICAgICAgICAgICRyZWY6ICcjL2RlZmluaXRpb25zL05vdGlmaWNhdGlvblNldHRpbmdzJwogKiAgICAgICAgICAgdGFnczoKICogICAgICAgICAgICAgJHJlZjogJyMvZGVmaW5pdGlvbnMvVXNlclRhZ3MnCiAqICAgICByZXNwb25zZXM6CiAqICAgICAgIDIwMDoKICogICAgICAgICBkZXNjcmlwdGlvbjogcmV0dXJuIHVzZXIgaWYgc3VjY2Vzcy4gQW5kIGVycm9yIGlmIG5vdAogKiAgICAgICAgIHNjaGVtYToKICogICAgICAgICAgIHR5cGU6IG9iamVjdAogKiAgICAgICAgICAgcHJvcGVydGllczoKICogICAgICAgICAgICAgdXBkYXRlOgogKiAgICAgICAgICAgICAgIHR5cGU6IGJvb2xlYW4KICogICAgICAgICAgICAgICBleGFtcGxlOiB0cnVlCiAqICAgICAgICAgICAgICAgZGVzY3JpcHRpb246IGluZGljYXRlcyBpZiB1c2VyIGhhcyBiZWVuIHVwZGF0ZWQKICogICAgICAgICAgICAgdXNlcjoKICogICAgICAgICAgICAgICAkcmVmOiAnIy9kZWZpbml0aW9ucy9Vc2VyJwogKiAgICAgICAgICAgICBlcnJvcjoKICogICAgICAgICAgICAgICAkcmVmOiAnIy9kZWZpbml0aW9ucy9CYXNlRXJyb3InCiAqICAgICAgIDQwMDoKICogICAgICAgICBkZXNjcmlwdGlvbjogaWYgY2xpZW50IGFwcCBzZW5kcyBtYWxmb3JtZWQgZGF0YQogKiAgICAgICAgIHNjaGVtYToKICogICAgICAgICAgIHR5cGU6IG9iamVjdAogKiAgICAgICAgICAgcHJvcGVydGllczoKICogICAgICAgICAgICAgZXJyb3I6CiAqICAgICAgICAgICAgICAgJHJlZjogJyMvZGVmaW5pdGlvbnMvQmFkUmVxdWVzdEVycm9yJwogKiAgICAgICA0MDE6CiAqICAgICAgICAgZGVzY3JpcHRpb246IGlmIHRva2VuIGlzIG5vdCBjb3JyZWN0IG9yIGV4cGlyZWQKICogICAgICAgICBzY2hlbWE6CiAqICAgICAgICAgICB0eXBlOiBvYmplY3QKICogICAgICAgICAgIHByb3BlcnRpZXM6CiAqICAgICAgICAgICAgIG1lc3NhZ2U6CiAqICAgICAgICAgICAgICAgdHlwZTogc3RyaW5nCiAqICAgICAgICAgICAgICAgZXhhbXBsZTogdW5hdXRob3JpemVkCiAqICAgICBzZWN1cml0eToKICogICAgIC0gdG9rZW46IFtdCiAqLw==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJbGVuZ3RoOiAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAqICAgICAtIG5hbWU6IHVzZXJJZAogKiAgICAgICBpbjogcGF0aAogKiAgICAgICBkZXNjcmlwdGlvbjogdXNlciB0byB1cGRhdGUgKGZvciBub3cg4oCUIGxvZ2dlZCB1c2VyJ3MgaWQpCiAqICAgICAgIHJlcXVpcmVkOiB0cnVlCiAqICAgICAgIHR5cGU6IHN0cmluZw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>{
-							minimum: 6,
-							message: Translator.createPhrase('req_constraints.errors.password_length')
-						}</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCX0sCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ci8vKipUb0RvKio6IHVwZGF0ZSBkb2N1bWVudGF0aW9uIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CWVtYWlsOiB7CgkJCQkJCXByZXNlbmNlOiB7CiAgICAgICAgICAgICAgbWVzc2FnZTogVHJhbnNsYXRvci5jcmVhdGVQaHJhc2UoJ3JlcV9jb25zdHJhaW50cy5lcnJvcnMuZW1haWxfcHJlc2VuY2UnKQogICAgICAgICAgICB9LAoJCQkJCQllbWFpbDogewogICAgICAgICAgICAgIG1lc3NhZ2U6IFRyYW5zbGF0b3IuY3JlYXRlUGhyYXNlKCdyZXFfY29uc3RyYWludHMuZXJyb3JzLmludmFsaWRfZW1haWwnKQogICAgICAgICAgICB9LAoJCQkJCX0sCgkJCQkJbmFtZTogewoJCQkJCQlwcmVzZW5jZTogewogICAgICAgICAgICAgIG1lc3NhZ2U6IFRyYW5zbGF0b3IuY3JlYXRlUGhyYXNlKCdyZXFfY29uc3RyYWludHMuZXJyb3JzLm5hbWVfcHJlc2VuY2UnKQogICAgICAgICAgICB9LAoJCQkJCQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>return {
-					oldPassword: {
-						presence: {
-              message: Translator.createPhrase('req_constraints.errors.name_presence')
-            },
-						length: {
-              minimum : 4,
-              maximum : 100,
-              tooShort: Translator.createPhrase('default', {
-              	phrase: 'req_constraints.errors.too_short_name',
-								options: {
-              		length: 4
-                }
-              }),
-              tooLong: Translator.createPhrase('default', {
-              	phrase: 'req_constraints.errors.too_long_name',
-								options: {
-              		length: 100
-                }
-              }),
-            },
-					},
-					phone: {
-						format: {
-							pattern: '^[\\+]?[(]?[0-9]{3}[)]?[-\\s\\.]?[0-9]{3}[-\\s\\.]?[0-9]{4,6}$',
-							flags: 'i',
-							message: Translator.createPhrase('req_constraints.errors.phone')
-						}
-					}
-				};</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQl1c2VyOiB1cGRhdGVQYXNzUmVzdWx0LAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">KSkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgLy8gbGV0IG5ld1VzZXJJZCA9IGF3YWl0IChVc2VyLmNyZWF0ZSh7CiAgLy8gICBlbWFpbDogY2xvdWRVc2VyLmVtYWlsLAogIC8vICAgbmFtZTogY2xvdWRVc2VyLm5hbWUsCiAgLy8gICBwYXNzd29yZEhhc2g6IGNsb3VkVXNlci5wYXNzd29yZCwKICAvLyB9KSk7CgogIC8vIG5vdGlmaWNhdGlvblNldHRpbmdzCiAgLy8gbGV0IHBhc3N3b3JkSGFzaCA9IGF3YWl0KFVzZXIuZ2V0UGFzc3dvcmRIYXNoKGNsZWFyUGFzc3dvcmQpKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1018,23 +967,23 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmNvbnN0IHNwbGl0c3RhY2tQbHVnaW4gPSByZXF1aXJlKCdzZXJ2ZXJsZXNzLXBsdWdpbi1zcGxpdC1zdGFja3MnKTsKY29uc29sZS5sb2coT2JqZWN0LmtleXMoc3BsaXRzdGFja1BsdWdpbg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgc3RhY2tzTWFwID0gcmVxdWlyZSgnc2VydmVybGVzcy1wbHVnaW4tc3BsaXQtc3RhY2tzJykuc3RhY2tzTWFwOwo=</text>
+        <text encoding="base64">ICAgICAgZXJyb3I6IG5ldyBBcHBFcnJvcnMuQmFzZUVycm9yKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>categories</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>categories</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute encoding="base64">XDxWVUxDQU1cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1042,8 +991,6 @@
     </search>
     <history>
       <history-search>
-        <entry>10</entry>
-        <entry>.log</entry>
         <entry>mid</entry>
         <entry>importOf</entry>
         <entry>rsC</entry>
@@ -1062,6 +1009,8 @@
         <entry encoding="base64">XDxWVUxDQU1cPg==</entry>
         <entry encoding="base64">XDxmb2xkZXJzXD4=</entry>
         <entry>categories</entry>
+        <entry>BaseErr</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
