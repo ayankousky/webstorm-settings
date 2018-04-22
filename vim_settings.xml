@@ -123,11 +123,11 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/bin/_functions.sh" timestamp="1524429669236">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/bin/_functions.sh" timestamp="1524430972663">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
-        <mark key="^" line="52" column="30" />
+        <mark key="^" line="57" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1520172696232">
         <mark key="[" line="358" column="0" />
@@ -390,11 +390,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="31" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/iam/lambda_policy.json" timestamp="1524429330987">
-        <mark key="[" line="92" column="38" />
-        <mark key="]" line="92" column="51" />
-        <mark key="^" line="92" column="51" />
-        <mark key="." line="92" column="51" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/iam/lambda_policy.json" timestamp="1524431201009">
+        <mark key="[" line="74" column="40" />
+        <mark key="]" line="74" column="39" />
+        <mark key="^" line="74" column="39" />
+        <mark key="." line="74" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/base.js" timestamp="1517979329471">
         <mark key="[" line="6" column="1" />
@@ -732,7 +732,7 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524429618688">
+      <file name="/Dummy.txt" timestamp="1524431061550">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
@@ -783,6 +783,11 @@
         <mark key="]" line="3" column="1" />
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/bin/es/_functions.sh" timestamp="1524431060119">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/logger/index.js" timestamp="1516396638118">
         <mark key="[" line="11" column="14" />
@@ -900,8 +905,12 @@
       <jump line="599" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">byAkTEFNQkRBX0VYRUNfUk9MRV9OQU1FCg==</text>
+      <register name="&quot;" type="8">
+        <text>us-west-2
+us-west-2
+us-west-2
+us-west-2
+us-west-2</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -916,34 +925,45 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>patch</text>
+        <text>vulcanvision-dev</text>
       </register>
       <register name="/" type="4">
         <text>\.down</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJExBTUJEQV9FWEVDX1JPTEVfTkFNRQo=</text>
+      <register name="0" type="4">
+        <text>ES_SERVICE_NAME</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">byAkTEFNQkRBX0VYRUNfUk9MRV9OQU1FCg==</text>
+      <register name="1" type="8">
+        <text>us-west-2
+us-west-2
+us-west-2
+us-west-2
+us-west-2</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBlY2hvICRMQU1CREFfRVhFQ19ST0xFX05BTUUKICAgIGVjaG8gJExBTUJEQV9FWEVDX1JPTEVfTkFNRQogICAgZWNobyAkTEFNQkRBX0VYRUNfUk9MRV9OQU1FCiAgICBlY2hvICRMQU1CREFfRVhFQ19ST0xFX05BTUUKICAgIGVjaG8gJExBTUJEQV9FWEVDX1JPTEVfTkFNRQogICAgZWNo</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEVTX1NFUlZJQ0VfTkFNRT1gZWNobyAkKGVjaG8gJENGRyB8IGpxIC1yICcuc2VydmVybGVzcy5zZXJ2aWNlJyktJChlY2hvICRDRkcgfCBqcSAtciAnLnNlcnZlcmxlc3Muc3RhZ2UnKSB8IHRyICdbOnVwcGVyOl0nICdbOmxvd2VyOl0nYCAjIGNvbnZlcnQgdG8gbG93ZXIgY2FzZQp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJEVTX1NFUlZJQ0VfTkFNCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICBlY2hvICRTRVJWSUNFX05BTUUKICAgIGVjaG8gJFNFUlZJQ0VfTkFNRQogICAgZWNobyAkU0VSVklDRV9OQU1FCiAgICBlY2hvICRTRVJWSUNFX05BTUUKICAgIGVjaG8gJFNFUlZJQ0VfTkFNRQogICAgZWNobyAkU0VSVklDRV9OQU1FCiAgICBlY2hvICRTRVJWSUNFX05BTUU=</text>
+        <text>E
+    echo $ES_SERVICE_NAME
+    echo $ES_SERVICE_NAME
+    echo $ES_SERVICE_NAME
+    echo $ES_SERVICE_NAME
+    echo $ES_SERVICE_NAME
+    echo $ES_SERVICE_NAME
+    echo $ES_SERVICE_NAME</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF1dGhvcml6ZXI6IGF1dGhvcml6ZXJGdW5jCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGV2ZW50KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -980,14 +1000,15 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGV2ZW50KSk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiMgICAgZWNobyAiJFNFUlZJQ0VfTkFNRS0kU1RBR0UiCiMgICAgZWNobyAiJFNFUlZJQ0VfTkFNRS0kU1RBR0UiCiMgICAgZWNobyAiJFNFUlZJQ0VfTkFNRS0kU1RBR0UiCiMgICAgZWNobyAiJFNFUlZJQ0VfTkFNRS0kU1RBR0UiCmVjaG8gJEJVQ0tFVAplY2hvICRCVUNLRVQKZWNobyAkQlVDS0VUCmVjaG8gJEJVQ0tFVAplY2hvICRCVUNLRVQKZWNobyAkQlVDS0VUCmVjaG8gJEJVQ0tFVA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text>vulcanvision-api-dev
+vulcanvision-api-dev</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl1cGRhdGVkOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgIGVjaG8gIiRTRVJWSUNFX05BTUUtJChTVEFHR0UpIgo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
