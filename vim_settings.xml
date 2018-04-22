@@ -141,12 +141,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524421829541">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524424351354">
         <mark key="'" line="315" column="12" />
-        <mark key="[" line="174" column="29" />
-        <mark key="]" line="174" column="34" />
-        <mark key="^" line="174" column="34" />
-        <mark key="." line="174" column="34" />
+        <mark key="[" line="182" column="29" />
+        <mark key="]" line="182" column="33" />
+        <mark key="^" line="182" column="33" />
+        <mark key="." line="182" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -887,8 +887,8 @@
       <jump line="370" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogICAgICAgICAgICAgdXNlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>w</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -903,7 +903,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>user has been updated</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
