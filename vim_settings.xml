@@ -87,11 +87,11 @@
         <mark key="^" line="26" column="50" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1522416009859">
-        <mark key="[" line="137" column="23" />
-        <mark key="]" line="138" column="53" />
-        <mark key="^" line="138" column="53" />
-        <mark key="." line="138" column="53" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1524414987603">
+        <mark key="[" line="464" column="18" />
+        <mark key="]" line="464" column="25" />
+        <mark key="^" line="464" column="25" />
+        <mark key="." line="464" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/Dockerfile" timestamp="1521134198148">
         <mark key="[" line="13" column="14" />
@@ -141,7 +141,7 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524412445011">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524414655861">
         <mark key="'" line="315" column="12" />
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="17" />
@@ -698,13 +698,20 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="113" column="82" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1524415055225">
+        <mark key="'" line="435" column="24" />
+        <mark key="[" line="978" column="6" />
+        <mark key="]" line="978" column="12" />
+        <mark key="^" line="978" column="12" />
+        <mark key="." line="978" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/index.js" timestamp="1522816741802">
         <mark key="[" line="10" column="11" />
         <mark key="]" line="10" column="25" />
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523572781953">
+      <file name="/Dummy.txt" timestamp="1524414801261">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
@@ -774,8 +781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="41" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/email.js" />
-      <jump line="61" column="23" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" />
       <jump line="134" column="12" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" />
@@ -874,10 +879,12 @@
       <jump line="762" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="301" column="12" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
+      <jump line="318" column="33" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="435" column="24" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>created</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -892,34 +899,89 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>created</text>
       </register>
       <register name="/" type="4">
         <text>categories</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>return {
+					email: {
+						presence: {
+              message: Translator.createPhrase('req_constraints.errors.email_presence')
+            },
+						email: {
+              message: Translator.createPhrase('req_constraints.errors.invalid_email')
+            },
+					},
+					name: {
+						presence: {
+              message: Translator.createPhrase('req_constraints.errors.name_presence')
+            },
+					},
+					password: {
+						presence: {
+              message: Translator.createPhrase('req_constraints.errors.password_presence')
+            },
+						length: {
+							minimum: 6,
+							message: Translator.createPhrase('req_constraints.errors.password_length')
+						}
+					},
+				};</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KSkK</text>
+        <text encoding="base64">CQkJCQkJbGVuZ3RoOiAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CmNvbnN0IHNwbGl0c3RhY2tQbHVnaW4gPSByZXF1aXJlKCdzZXJ2ZXJsZXNzLXBsdWdpbi1zcGxpdC1zdGFja3MnKTsKY29uc29sZS5sb2coT2JqZWN0LmtleXMoc3BsaXRzdGFja1BsdWdpbg==</text>
+        <text>{
+							minimum: 6,
+							message: Translator.createPhrase('req_constraints.errors.password_length')
+						}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3Qgc3RhY2tzTWFwID0gcmVxdWlyZSgnc2VydmVybGVzcy1wbHVnaW4tc3BsaXQtc3RhY2tzJykuc3RhY2tzTWFwOwo=</text>
+        <text encoding="base64">CQkJCX0sCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CWVtYWlsOiB7CgkJCQkJCXByZXNlbmNlOiB7CiAgICAgICAgICAgICAgbWVzc2FnZTogVHJhbnNsYXRvci5jcmVhdGVQaHJhc2UoJ3JlcV9jb25zdHJhaW50cy5lcnJvcnMuZW1haWxfcHJlc2VuY2UnKQogICAgICAgICAgICB9LAoJCQkJCQllbWFpbDogewogICAgICAgICAgICAgIG1lc3NhZ2U6IFRyYW5zbGF0b3IuY3JlYXRlUGhyYXNlKCdyZXFfY29uc3RyYWludHMuZXJyb3JzLmludmFsaWRfZW1haWwnKQogICAgICAgICAgICB9LAoJCQkJCX0sCgkJCQkJbmFtZTogewoJCQkJCQlwcmVzZW5jZTogewogICAgICAgICAgICAgIG1lc3NhZ2U6IFRyYW5zbGF0b3IuY3JlYXRlUGhyYXNlKCdyZXFfY29uc3RyYWludHMuZXJyb3JzLm5hbWVfcHJlc2VuY2UnKQogICAgICAgICAgICB9LAoJCQkJCQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgImF5YW5rb3Vza3lAZWxpbGluay5jb20iCg==</text>
+      <register name="5" type="4">
+        <text>return {
+					oldPassword: {
+						presence: {
+              message: Translator.createPhrase('req_constraints.errors.name_presence')
+            },
+						length: {
+              minimum : 4,
+              maximum : 100,
+              tooShort: Translator.createPhrase('default', {
+              	phrase: 'req_constraints.errors.too_short_name',
+								options: {
+              		length: 4
+                }
+              }),
+              tooLong: Translator.createPhrase('default', {
+              	phrase: 'req_constraints.errors.too_long_name',
+								options: {
+              		length: 100
+                }
+              }),
+            },
+					},
+					phone: {
+						format: {
+							pattern: '^[\\+]?[(]?[0-9]{3}[)]?[-\\s\\.]?[0-9]{3}[-\\s\\.]?[0-9]{4,6}$',
+							flags: 'i',
+							message: Translator.createPhrase('req_constraints.errors.phone')
+						}
+					}
+				};</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgImF5YW5rb3Vza3lAZ21haWwuY29tIiwK</text>
+        <text encoding="base64">KSkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -956,14 +1018,14 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgImF5YW5rb3Vza3lAeWFob28uY29tIiwK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CmNvbnN0IHNwbGl0c3RhY2tQbHVnaW4gPSByZXF1aXJlKCdzZXJ2ZXJsZXNzLXBsdWdpbi1zcGxpdC1zdGFja3MnKTsKY29uc29sZS5sb2coT2JqZWN0LmtleXMoc3BsaXRzdGFja1BsdWdpbg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBpc1NoYXJlZDogewogICAgICB0eXBlOiBCb29sZWFuCiAgICB9LA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3Qgc3RhY2tzTWFwID0gcmVxdWlyZSgnc2VydmVybGVzcy1wbHVnaW4tc3BsaXQtc3RhY2tzJykuc3RhY2tzTWFwOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAqICAgICAgIGlzU2hhcmVkOgogKiAgICAgICAgIHR5cGU6IGJvb2xlYW4KICogICAgICAgICBkZXNjcmlwdGlvbjogfAogKiAgICAgICAgICAgaW5kaWNhdGVzIGlmIGl0ZW0gaGFzIGJlZW4gc2hhcmVkIHRvIGFueW9uZS4gU28geW91IGNhbiBmaW5kIHRoZSBzaGFyZWQgY29udGVudCBmcm9tIHlvdSBjaGFubmVscwogKiAgICAgICAgIGV4YW1wbGU6IHRydWU=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
