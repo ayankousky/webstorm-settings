@@ -152,12 +152,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524439693515">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524440516813">
         <mark key="'" line="315" column="12" />
-        <mark key="[" line="14" column="152" />
-        <mark key="]" line="14" column="152" />
-        <mark key="^" line="14" column="152" />
-        <mark key="." line="14" column="152" />
+        <mark key="[" line="14" column="137" />
+        <mark key="]" line="14" column="146" />
+        <mark key="^" line="14" column="146" />
+        <mark key="." line="14" column="146" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -667,7 +667,7 @@
         <mark key="." line="17" column="35" />
         <mark key="^" line="17" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/bin/run_serverless.sh" timestamp="1524438976374">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/bin/run_serverless.sh" timestamp="1524440525942">
         <mark key="'" line="25" column="94" />
         <mark key="[" line="26" column="128" />
         <mark key="]" line="26" column="173" />
@@ -906,7 +906,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>apiExecutionRole</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -921,7 +921,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>apiExecutionRole</text>
       </register>
       <register name="/" type="4">
         <text>\.down</text>
