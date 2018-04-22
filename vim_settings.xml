@@ -141,12 +141,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524409550353">
-        <mark key="'" line="314" column="12" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="27" column="58" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524412445011">
+        <mark key="'" line="315" column="12" />
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="14" column="86" />
+        <mark key="." line="4" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -877,7 +877,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>require('serverless-plugin-split-stacks')</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -892,13 +892,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>categories</text>
       </register>
       <register name="0" type="4">
-        <text>require('serverless-plugin-split-stacks')</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">KSkK</text>
