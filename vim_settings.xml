@@ -123,6 +123,12 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/bin/_functions.sh" timestamp="1524429669236">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="52" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1520172696232">
         <mark key="[" line="358" column="0" />
         <mark key="]" line="358" column="0" />
@@ -384,7 +390,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="31" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/iam/lambda_policy.json" timestamp="1524427746596">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/iam/lambda_policy.json" timestamp="1524429330987">
         <mark key="[" line="92" column="38" />
         <mark key="]" line="92" column="51" />
         <mark key="^" line="92" column="51" />
@@ -726,7 +732,7 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524427679688">
+      <file name="/Dummy.txt" timestamp="1524429618688">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
@@ -895,7 +901,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF1dGhvcml6ZXI6IGF1dGhvcml6ZXJGdW5jCg==</text>
+        <text encoding="base64">byAkTEFNQkRBX0VYRUNfUk9MRV9OQU1FCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -915,29 +921,29 @@
       <register name="/" type="4">
         <text>\.down</text>
       </register>
-      <register name="0" type="4">
-        <text>newPassword</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJExBTUJEQV9FWEVDX1JPTEVfTkFNRQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF1dGhvcml6ZXI6IGF1dGhvcml6ZXJGdW5jCg==</text>
+        <text encoding="base64">byAkTEFNQkRBX0VYRUNfUk9MRV9OQU1FCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGV2ZW50KQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBlY2hvICRMQU1CREFfRVhFQ19ST0xFX05BTUUKICAgIGVjaG8gJExBTUJEQV9FWEVDX1JPTEVfTkFNRQogICAgZWNobyAkTEFNQkRBX0VYRUNfUk9MRV9OQU1FCiAgICBlY2hvICRMQU1CREFfRVhFQ19ST0xFX05BTUUKICAgIGVjaG8gJExBTUJEQV9FWEVDX1JPTEVfTkFNRQogICAgZWNo</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGV2ZW50KSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQl1cGRhdGVkOiB0cnVlLAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBlY2hvICRTRVJWSUNFX05BTUUKICAgIGVjaG8gJFNFUlZJQ0VfTkFNRQogICAgZWNobyAkU0VSVklDRV9OQU1FCiAgICBlY2hvICRTRVJWSUNFX05BTUUKICAgIGVjaG8gJFNFUlZJQ0VfTkFNRQogICAgZWNobyAkU0VSVklDRV9OQU1FCiAgICBlY2hvICRTRVJWSUNFX05BTUU=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CglsZXQgYm9keVZhbGlkYXRlUmVzdWx0ID0gcmVxdWVzdEhlbHBlci52YWxpZGF0ZUJvZHkoZXZlbnQuYm9keSwgQ2xvdWRVc2VyLmdldFJlcUJvZHlDb25zdHJhaW50cygndXBkYXRlUGFzc3dvcmQnKSk7CiAgaWYgKCFib2R5VmFsaWRhdGVSZXN1bHQuaXNWYWxpZCl7CiAgICAgIHJldHVybiByZXFFbmQoewogICAgICAgICAgdXBkYXRlZDogZmFsc2UsCiAgICAgICAgICBlcnJvcjogbmV3IEFwcEVycm9ycy5CYWRSZXF1ZXN0KGJvZHlWYWxpZGF0ZVJlc3VsdC5tZXNzYWdlKQogICAgICB9KTsKICB9CgogIGxldCBvbGRQYXNzd29yZCAgICAgPSBldmVudC5ib2R5Lm9sZFBhc3N3b3JkCiAgICAsIG5ld1Bhc3N3b3JkICAgICA9IGV2ZW50LmJvZHkubmV3UGFzc3dvcmQKICAgICwgcGFzc3dvcmRDb25maXJtID0gZXZlbnQuYm9keS5wYXNzd29yZENvbmZpcm0KCglpZiAobmV3UGFzc3dvcmQgIT09IHBhc3N3b3JkQ29uZmlybSl7CiAgCXJldHVybiByZXFFbmQoewoJCQl1cGRhdGVkOiBmYWxzZSwKCQkJZXJyb3I6IG5ldyBBcHBFcnJvcnMuQmFzZUVycm9yKFNlcnZpY2VzLlRyYW5zbGF0b3IuY3JlYXRlUGhyYXNlKCd1c2Vycy5lcnJvcnMucGFzc3dvcmRfZG9udF9tYXRjaCcpLCBTdGF0dXNDb2Rlcy5QYXNzd29yZHNEb250TWF0Y2gpCgkJfSkKCX0KCglsZXQgYXV0aFNlcnZpY2UgPSBuZXcgQXV0aFNlcnZpY2UoZXZlbnQuaGVhZGVycy5BdXRob3JpemF0aW9uKTsKCWxldCBjdXJyVXNlcklkID0gYXV0aFNlcnZpY2UucGF5bG9hZC51c2VySWQ7CgoJbGV0IGNsb3VkVXNlciA9IGF3YWl0IChDbG91ZFVzZXIuZ2V0QnlJZChjdXJyVXNlcklkKSk7CiAgbGV0IHVzZXIgPSBhd2FpdCAoVXNlci5sb2dpbihjbG91ZFVzZXIuZW1haWwsIG9sZFBhc3N3b3JkKSk7CiAgaWYgKHVzZXIgaW5zdGFuY2VvZiBBcHBFcnJvcnMuQmFzZUVycm9yKXsKICAgIHJldHVybiByZXFFbmQoewogICAgICB1cGRhdGVkOiBmYWxzZSwKICAgICAgZXJyb3I6IG5ldyBBcHBFcnJvcnMuQmFzZUVycm9yKFNlcnZpY2VzLlRyYW5zbGF0b3IuY3JlYXRlUGhyYXNlKCd1c2Vycy5lcnJvcnMud3JvbmdfcGFzc3dvcmQnKSwgU3RhdHVzQ29kZXMuV3JvbmdQYXNzd29yZCkKICAgIH0pOwogIH0KCiAgbGV0IHVwZGF0ZVBhc3NSZXN1bHQgPSBhd2FpdCAoVXNlci51cGRhdGVQYXNzd29yZChjdXJyVXNlcklkLCBuZXdQYXNzd29yZCkpOwogIGlmICh1cGRhdGVQYXNzUmVzdWx0IGluc3RhbmNlb2YgQXBwRXJyb3JzLkJhc2VFcnJvcil7CiAgICByZXR1cm4gcmVxRW5kKHsKICAgICAgdXBkYXRlZDogZmFsc2UsCiAgICAgIGVycm9yOiBuZXcgQXBwRXJyb3JzLlVuZXhwZWN0ZWQoKQogICAgfSk7CiAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGF1dGhvcml6ZXI6IGF1dGhvcml6ZXJGdW5jCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWNvbnNvbGUubG9nKGV2ZW50KQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -974,15 +980,14 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAqICAgICAgICAgc2NoZW1hOgogKiAgICAgICAgICAgdHlwZTogb2JqZWN0CiAqICAgICAgICAgICBwcm9wZXJ0aWVzOgogKiAgICAgICAgICAgICB1cGRhdGU6CiAqICAgICAgICAgICAgICAgdHlwZTogYm9vbGVhbgogKiAgICAgICAgICAgICAgIGV4YW1wbGU6IHRydWUKICogICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogaW5kaWNhdGVzIGlmIHBhc3N3b3JkIGhhcyBiZWVuIHVwZGF0ZWQKICogICAgICAgICAgICAgZXJyb3I6CiAqICAgICAgICAgICAgICAgJHJlZjogJyMvZGVmaW5pdGlvbnMvQmFzZUVycm9yJw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">CWNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGV2ZW50KSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAqICAgICBwYXJhbWV0ZXJzOgogKiAgICAgLSBpbjogYm9keQogKiAgICAgICBuYW1lOiBib2R5CiAqICAgICAgIGRlc2NyaXB0aW9uOiBmaWVsZHMgcmVxdWlyZWQgZm9yIHBhc3N3b3JkIHVwZGF0ZQogKiAgICAgICBzY2hlbWE6CiAqICAgICAgICAgdHlwZTogb2JqZWN0CiAqICAgICAgICAgcHJvcGVydGllczoKICogICAgICAgICAgIG9sZFBhc3N3b3JkOgogKiAgICAgICAgICAgICB0eXBlOiBzdHJpbmcKICogICAgICAgICAgICAgZXhhbXBsZTogcXdlcnR5MTIzNAogKiAgICAgICAgICAgbmV3UGFzc3dvcmQ6CiAqICAgICAgICAgICAgIHR5cGU6IHN0cmluZwogKiAgICAgICAgICAgICBleGFtcGxlOiAxMjM0MTIzNAogKiAgICAgICAgICAgcGFzc3dvcmRDb25maXJtOgogKiAgICAgICAgICAgICB0eXBlOiBzdHJpbmcKICogICAgICAgICAgICAgZXhhbXBsZTogMTIzNDEyMzQ=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>User sends old password, new password and confirmation password to update his current password
- *       Token refresh doesn't required (for now)</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQl1cGRhdGVkOiB0cnVlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
