@@ -153,12 +153,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524443066025">
-        <mark key="'" line="315" column="12" />
-        <mark key="[" line="574" column="21" />
-        <mark key="]" line="574" column="22" />
-        <mark key="^" line="573" column="57" />
-        <mark key="." line="574" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524462218020">
+        <mark key="'" line="166" column="17" />
+        <mark key="[" line="518" column="10" />
+        <mark key="]" line="518" column="9" />
+        <mark key="^" line="518" column="9" />
+        <mark key="." line="518" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -805,7 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/index.js" />
       <jump line="73" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
       <jump line="40" column="20" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" />
       <jump line="51" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" />
@@ -905,10 +904,31 @@
       <jump line="25" column="94" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/bin/run_serverless.sh" />
       <jump line="15" column="16" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/iam/lambda_policy.json" />
       <jump line="11" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/iam/lambda_policy.json" />
+      <jump line="166" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>table/Vulcam-Users-dev/stream/2018-03-21T12:55:18.501&quot;</text>
+        <text>integration: lambda
+          authorizer: authorizerFunc
+  commentAction:
+    handler: lib/controllers/comment.commentAction
+    warmup: true
+    events:
+      - http:
+          cors: true
+          path: videos/{videoId}/comments/{commentId}
+          method: get
+          integration: lambda
+          authorizer: authorizerFunc
+  extraConfig:
+    handler: lib/controllers/extra.config
+    warmup: true
+    events:
+      - http:
+          cors: true
+          path: config
+          method: get
+          integration</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -931,13 +951,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc3RyZWFtQVJOOiBhcm46YXdzOmR5bmFtb2RiOnVzLXdlc3QtMjozNzQxODAwOTk0MDk6dGFibGUvVnVsY2FtLVVzZXJzLWRldi9zdHJlYW0vMjAxOC0wMy0yMVQxMjo1NToxOC41MDEK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>integration: lambda
+          authorizer: authorizerFunc
+  commentAction:
+    handler: lib/controllers/comment.commentAction
+    warmup: true
+    events:
+      - http:
+          cors: true
+          path: videos/{videoId}/comments/{commentId}
+          method: get
+          integration: lambda
+          authorizer: authorizerFunc
+  extraConfig:
+    handler: lib/controllers/extra.config
+    warmup: true
+    events:
+      - http:
+          cors: true
+          path: config
+          method: get
+          integration</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
         <text>ES_SERVICE_NAME=`echo $(echo $CFG | jq -r '.serverless.service')-$(echo $CFG | jq -r '.serverless.stage') | tr '[:upper:]' '[:lower:]'` # convert to lower case
 
     echo &quot;arn:aws:es:${REGION}:${AWS_ACCOUNT_ID}:domain/${ES_SERVICE_NAME}/*&quot;
@@ -945,17 +988,14 @@
     echo &quot;arn:aws:es:${REGION}:${AWS_ACCOUNT_ID}:domain/${ES_SERVICE_NAME}/*&quot;
 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">LAogICAgewogICAgICAiQWN0aW9uIjogInMzOioiLAogICAgICAiUmVzb3VyY2UiOiBbCiAgICAgICAgImFybjphd3M6czM6Ojo8QlVDS0VUPi8qIiwKICAgICAgICAiYXJuOmF3czpzMzo6OjxCVUNLRVQ+IgogICAgICBdLAogICAgICAiRWZmZWN0IjogIkFsbG93IgogICAgfSwKICAgIHsKICAgICAgIkFjdGlvbiI6ICJsYW1iZGE6SW52b2tlRnVuY3Rpb24iLAogICAgICAiUmVzb3VyY2UiOiAiYXJuOmF3czpsYW1iZGE6PFJFR0lPTj46PEFXU19BQ0NPVU5UX0lEPjpmdW5jdGlvbjo8U0VSVklDRV9OQU1FPi08U1RBR0U+LSoiLAogICAgICAiRWZmZWN0IjogIkFsbG93IgogICAgfSwKICAgIHsKICAgICAgIkFjdGlvbiI6ICJlczoqIiwKICAgICAgIlJlc291cmNlIjogImFybjphd3M6ZXM6PFJFR0lPTj46PEFXU19BQ0NPVU5UX0lEPjpkb21haW4vPEVTX1NFUlZJQ0VfTkFNRT4vKiIsCiAgICAgICJFZmZlY3QiOiAiQWxsb3ciCiAgICB9LAogICAgewogICAgICAiQWN0aW9uIjogWwogICAgICAgICJjbG91ZGZyb250OioiCiAgICAgIF0sCiAgICAgICJSZXNvdXJjZSI6ICIqIiwKICAgICAgIkVmZmVjdCI6ICJBbGxvdyIKICAgIH0sCiAgICB7CiAgICAgICJBY3Rpb24iOiBbCiAgICAgICAgImR5bmFtb2RiOkdldFJlY29yZHMiLAogICAgICAgICJkeW5hbW9kYjpHZXRTaGFyZEl0ZXJhdG9yIiwKICAgICAgICAiZHluYW1vZGI6RGVzY3JpYmVTdHJlYW0iLAogICAgICAgICJkeW5hbW9kYjpMaXN0U3RyZWFtcyIKICAgICAgXSwKICAgICAgIlJlc291cmNlIjogWwogICAgICAgICJhcm46YXdzOmR5bmFtb2RiOnVzLXdlc3QtMjo8QVdTX0FDQ09VTlRfSUQ+OnRhYmxlL1Z1bGNhbS1WaWRlb3MtZGV2L3N0cmVhbS8yMDE3LTA5LTE4VDEzOjMyOjMwLjMzNCIKICAgICAgXSwKICAgICAgIkVmZmVjdCI6ICJBbGxvdyIKICAgIH0sCiAgICB7CiAgICAgICJBY3Rpb24iOiBbCiAgICAgICAgImR5bmFtb2RiOkdldFJlY29yZHMiLAogICAgICAgICJkeW5hbW9kYjpHZXRTaGFyZEl0ZXJhdG9yIiwKICAgICAgICAiZHluYW1vZGI6RGVzY3JpYmVTdHJlYW0iLAogICAgICAgICJkeW5hbW9kYjpMaXN0U3RyZWFtcyIKICAgICAgXSwKICAgICAgIlJlc291cmNlIjogWwogICAgICAgICJhcm46YXdzOmR5bmFtb2RiOnVzLXdlc3QtMjo8QVdTX0FDQ09VTlRfSUQ+OnRhYmxlL1Z1bGNhbS1Vc2Vycy1kZXYvc3RyZWFtLzIwMTgtMDMtMjFUMTI6NTU6MTguNTAxIgogICAgICBdLAogICAgICAiRWZmZWN0IjogIkFsbG93IgogICAgfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ewogICAgICAiRWZmZWN0IjogIkFsbG93IiwKICAgICAgIkFjdGlvbiI6IFsKICAgICAgICAibG9nczpDcmVhdGVMb2dHcm91cCIsCiAgICAgICAgImxvZ3M6Q3JlYXRlTG9nU3RyZWFtIiwKICAgICAgICAibG9nczpQdXRMb2dFdmVudHMiLAogICAgICAgICJlYzI6Q3JlYXRlTmV0d29ya0ludGVyZmFjZSIsCiAgICAgICAgImVjMjpEZXNjcmliZU5ldHdvcmtJbnRlcmZhY2VzIiwKICAgICAgICAiZWMyOkRlbGV0ZU5ldHdvcmtJbnRlcmZhY2UiCiAgICAgIF0sCiAgICAgICJSZXNvdXJjZSI6ICIqIgogICAgfSwKICAgIHsKICAgICAgIkFjdGlvbiI6IFsKICAgICAgICAiZHluYW1vZGI6UXVlcnkiLAogICAgICAgICJkeW5hbW9kYjpTY2FuIiwKICAgICAgICAiZHluYW1vZGI6R2V0SXRlbSIsCiAgICAgICAgImR5bmFtb2RiOlB1dEl0ZW0iLAogICAgICAgICJkeW5hbW9kYjpVcGRhdGVJdGVtIiwKICAgICAgICAiZHluYW1vZGI6RGVsZXRlSXRlbSIsCiAgICAgICAgImR5bmFtb2RiOkNyZWF0ZVRhYmxlIiwKICAgICAgICAiZHluYW1vZGI6TGlzdFRhYmxlcyIsCiAgICAgICAgImR5bmFtb2RiOkRlc2NyaWJlVGFibGUiLAogICAgICAgICJkeW5hbW9kYjpCYXRjaEdldEl0ZW0iLAogICAgICAgICJkeW5hbW9kYjpCYXRjaFdyaXRlSXRlbSIKICAgICAgXSwKICAgICAgIlJlc291cmNlIjogImFybjphd3M6ZHluYW1vZGI6PFJFR0lPTj46PEFXU19BQ0NPVU5UX0lEPjoqIiwKICAgICAgIkVmZmVjdCI6ICJBbGxvdyIKICAgIH0s</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyAgcm9sZT0iJHtyb2xlJS4qfSIK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -993,13 +1033,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgcm9sZT0iJHtyb2xlJS4qfSIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
