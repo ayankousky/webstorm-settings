@@ -154,12 +154,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524602322603">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524603150599">
         <mark key="'" line="166" column="17" />
-        <mark key="[" line="438" column="0" />
-        <mark key="]" line="446" column="0" />
-        <mark key="^" line="446" column="0" />
-        <mark key="." line="446" column="0" />
+        <mark key="[" line="612" column="20" />
+        <mark key="]" line="612" column="53" />
+        <mark key="^" line="612" column="44" />
+        <mark key="." line="612" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -934,8 +934,8 @@
       <jump line="488" column="1" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>my-custom-bucket-name</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -950,13 +950,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>my-custom-bucket-name</text>
       </register>
       <register name="/" type="4">
         <text>\.down</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LyoqKlRvRG8qKio6IGRlcHJlY2F0ZWQgbWV0aG9kLiBOb3QgdXNpbmcgaXQgYW55bW9yZQo=</text>
+      <register name="0" type="4">
+        <text>${self:custom.main_config.BUCKET}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
