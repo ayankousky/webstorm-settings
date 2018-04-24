@@ -75,11 +75,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1523572742560">
-        <mark key="[" line="93" column="6" />
-        <mark key="]" line="93" column="6" />
-        <mark key="." line="93" column="6" />
-        <mark key="^" line="93" column="5" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1524597128734">
+        <mark key="'" line="301" column="30" />
+        <mark key="[" line="180" column="36" />
+        <mark key="]" line="180" column="37" />
+        <mark key="." line="180" column="37" />
+        <mark key="^" line="180" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/client/package.json" timestamp="1520785715373">
         <mark key="[" line="22" column="4" />
@@ -288,6 +289,9 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="33" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1524597045867">
+        <mark key="'" line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/index.js" timestamp="1519682515418">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -483,6 +487,13 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1523601938795">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="475" column="53" />
+        <mark key="]" line="475" column="65" />
+        <mark key="." line="475" column="65" />
+        <mark key="^" line="475" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.test.nginx" timestamp="1523372998307">
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
@@ -627,6 +638,13 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1523572698515">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="526" column="88" />
+        <mark key="]" line="526" column="88" />
+        <mark key="." line="526" column="88" />
+        <mark key="^" line="526" column="88" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1520370466670">
         <mark key="[" line="123" column="12" />
         <mark key="]" line="123" column="21" />
@@ -721,7 +739,7 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="113" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1524425888450">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1524596749271">
         <mark key="'" line="997" column="27" />
         <mark key="[" line="1111" column="35" />
         <mark key="]" line="1111" column="36" />
@@ -805,8 +823,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
-      <jump line="40" column="20" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" />
       <jump line="51" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/app.js" />
       <jump line="3023" column="1823" filename="$USER_HOME$/Desktop/207758_part001.json" />
       <jump line="101" column="25" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/connexity.js" />
@@ -905,10 +921,12 @@
       <jump line="15" column="16" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/iam/lambda_policy.json" />
       <jump line="11" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/iam/lambda_policy.json" />
       <jump line="166" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
+      <jump line="0" column="10" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" />
+      <jump line="300" column="30" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text>this</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -923,7 +941,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>\.down</text>
