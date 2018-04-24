@@ -154,12 +154,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524603150599">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524604328782">
         <mark key="'" line="166" column="17" />
-        <mark key="[" line="612" column="20" />
-        <mark key="]" line="612" column="53" />
-        <mark key="^" line="612" column="44" />
-        <mark key="." line="612" column="20" />
+        <mark key="[" line="609" column="12" />
+        <mark key="]" line="609" column="15" />
+        <mark key="^" line="609" column="15" />
+        <mark key="." line="609" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -935,7 +935,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>my-custom-bucket-name</text>
+        <text>s</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -950,7 +950,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>my-custom-bucket-name</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>\.down</text>
