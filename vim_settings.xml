@@ -153,12 +153,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524545612907">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524548191752">
         <mark key="'" line="166" column="17" />
-        <mark key="[" line="547" column="0" />
-        <mark key="]" line="547" column="0" />
-        <mark key="^" line="518" column="9" />
-        <mark key="." line="547" column="0" />
+        <mark key="[" line="15" column="93" />
+        <mark key="]" line="15" column="93" />
+        <mark key="^" line="15" column="92" />
+        <mark key="." line="15" column="93" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -907,8 +907,8 @@
       <jump line="166" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF1dGhvcml6ZXI6IGF1dGhvcml6ZXJGdW5jCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGFybjphd3M6aWFtOjoke3NlbGY6Y3VzdG9tLm1haW5fY29uZmlnLkFXU19BQ0NPVU5UX0lEfTpyb2xlLyR7c2VsZjpzZXJ2aWNlfS0ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9LSR7c2VsZjpwcm92aWRlci5yZWdpb259LWxhbWJkYVJvbGU=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -923,13 +923,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>table/Vulcam-Users-dev/stream/2018-03-21T12:55:18.501&quot;</text>
+        <text encoding="base64">IGFybjphd3M6aWFtOjoke3NlbGY6Y3VzdG9tLm1haW5fY29uZmlnLkFXU19BQ0NPVU5UX0lEfTpyb2xlLyR7c2VsZjpzZXJ2aWNlfS0ke3NlbGY6cHJvdmlkZXIuc3RhZ2V9LSR7c2VsZjpwcm92aWRlci5yZWdpb259LWxhbWJkYVJvbGU=</text>
       </register>
       <register name="/" type="4">
         <text>\.down</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc3RyZWFtQVJOOiBhcm46YXdzOmR5bmFtb2RiOnVzLXdlc3QtMjozNzQxODAwOTk0MDk6dGFibGUvVnVsY2FtLVVzZXJzLWRldi9zdHJlYW0vMjAxOC0wMy0yMVQxMjo1NToxOC41MDEK</text>
+        <text encoding="base64">ICBpYW1Sb2xlQVJOOiBhcm46YXdzOmlhbTo6JHtzZWxmOmN1c3RvbS5tYWluX2NvbmZpZy5BV1NfQUNDT1VOVF9JRH06cm9sZS8ke3NlbGY6c2VydmljZX0tJHtzZWxmOnByb3ZpZGVyLnN0YWdlfS0ke3NlbGY6cHJvdmlkZXIucmVnaW9ufS1sYW1iZGFSb2xlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIGF1dGhvcml6ZXI6IGF1dGhvcml6ZXJGdW5jCg==</text>
