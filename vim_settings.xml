@@ -154,12 +154,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524630104695">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524631784128">
         <mark key="'" line="166" column="17" />
-        <mark key="[" line="15" column="137" />
-        <mark key="]" line="15" column="152" />
+        <mark key="[" line="416" column="0" />
+        <mark key="]" line="416" column="0" />
         <mark key="^" line="15" column="152" />
-        <mark key="." line="15" column="152" />
+        <mark key="." line="416" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -691,12 +691,12 @@
         <mark key="." line="17" column="35" />
         <mark key="^" line="17" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/bin/run_serverless.sh" timestamp="1524548229537">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/bin/run_serverless.sh" timestamp="1524631840700">
         <mark key="'" line="25" column="94" />
-        <mark key="[" line="3" column="55" />
-        <mark key="]" line="3" column="60" />
-        <mark key="^" line="3" column="60" />
-        <mark key="." line="3" column="60" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/index.js" timestamp="1522416819367">
         <mark key="[" line="113" column="61" />
@@ -935,8 +935,8 @@
       <jump line="488" column="1" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>lambdaRole</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -960,22 +960,22 @@
         <text encoding="base64">ICBpYW1Sb2xlQVJOOiBhcm46YXdzOmlhbTo6JHtzZWxmOmN1c3RvbS5tYWluX2NvbmZpZy5BV1NfQUNDT1VOVF9JRH06cm9sZS8ke3NlbGY6c2VydmljZX0tJHtzZWxmOnByb3ZpZGVyLnN0YWdlfS0ke3NlbGY6cHJvdmlkZXIucmVnaW9ufS1sYW1iZGFSb2xlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFMzQnVja2VldE5hbWU6ICR7c2VsZjpjdXN0b20ubWFpbl9jb25maWcuQlVDS0VUfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIFMzQnVja2VldE5hbWU6ICR7c2VsZjpjdXN0b20ubWFpbl9jb25maWcuQlVDS0VUfQo=</text>
+      </register>
+      <register name="3" type="4">
         <text>tData:
       Type: AWS::S3::Bucket
       Properties:
         Buck</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVmOiBTM0J1Y2tldERhdGEK</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVmOiBTM0J1Y2tldERhdGEK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1025,10 +1025,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF1dGhvcml6ZXI6IGF1dGhvcml6ZXJGdW5jCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
