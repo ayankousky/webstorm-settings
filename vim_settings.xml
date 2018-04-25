@@ -378,11 +378,11 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1523572895798">
-        <mark key="[" line="217" column="5" />
-        <mark key="]" line="217" column="5" />
-        <mark key="^" line="76" column="23" />
-        <mark key="." line="217" column="5" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1524633573270">
+        <mark key="[" line="619" column="37" />
+        <mark key="]" line="619" column="105" />
+        <mark key="." line="619" column="37" />
+        <mark key="^" line="619" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/offer/offer.routes.js" timestamp="1520787050374">
         <mark key="[" line="6" column="16" />
@@ -519,11 +519,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" timestamp="1524418038127">
-        <mark key="[" line="285" column="0" />
-        <mark key="]" line="285" column="0" />
-        <mark key="^" line="288" column="24" />
-        <mark key="." line="285" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" timestamp="1524633933172">
+        <mark key="'" line="285" column="0" />
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+        <mark key="." line="23" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/docker-compose.test.yml" timestamp="1523373159006">
         <mark key="[" line="62" column="20" />
@@ -762,7 +763,7 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524464363739">
+      <file name="/Dummy.txt" timestamp="1524633875477">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
@@ -820,11 +821,6 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/bin/es/_functions.sh" timestamp="1524433769510">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="163" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/logger/index.js" timestamp="1516396638118">
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="18" />
@@ -839,7 +835,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="25" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/connexity.js" />
       <jump line="89" column="37" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/connexity.js" />
       <jump line="102" column="11" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/connexity.js" />
       <jump line="149" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/connexity.js" />
@@ -939,11 +934,11 @@
       <jump line="300" column="30" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
       <jump line="488" column="1" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/internal.js" />
+      <jump line="285" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>else {
-      }</text>
+        <text>s</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -958,36 +953,36 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>console.log('Folder not found!')</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>\.down</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBpYW1Sb2xlQVJOOiBhcm46YXdzOmlhbTo6JHtzZWxmOmN1c3RvbS5tYWluX2NvbmZpZy5BV1NfQUNDT1VOVF9JRH06cm9sZS8ke3NlbGY6c2VydmljZX0tJHtzZWxmOnByb3ZpZGVyLnN0YWdlfS0ke3NlbGY6cHJvdmlkZXIucmVnaW9ufS1sYW1iZGFSb2xlCg==</text>
+      <register name="0" type="4">
+        <text>`/${config.BUCKET}/${video.s3key}unzipped/${indexJson.id}/thumb.jpg`</text>
       </register>
-      <register name="1" type="4">
-        <text>else {
-      }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNoYW5uZWxzLzEzL3ZpZGVvcy85MzYvdW56aXBwZWQvNTRlNWJkMzktMDFkNS00ZGU2LWEzZDEtMjM1YTdmMDU3MDc0L3RodW1iLmpwZwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>else {
+      }</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgfSBlbAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>se {
       }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib2R5LmxQYXRoPSAnJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1028,13 +1023,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBib2R5LmxQYXRoPSAnJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFMzQnVja2VldE5hbWU6ICR7c2VsZjpjdXN0b20ubWFpbl9jb25maWcuQlVDS0VUfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
