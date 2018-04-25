@@ -154,12 +154,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524628718133">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524630104695">
         <mark key="'" line="166" column="17" />
-        <mark key="[" line="416" column="0" />
-        <mark key="]" line="416" column="267" />
-        <mark key="^" line="416" column="199" />
-        <mark key="." line="611" column="0" />
+        <mark key="[" line="15" column="137" />
+        <mark key="]" line="15" column="152" />
+        <mark key="^" line="15" column="152" />
+        <mark key="." line="15" column="152" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -935,8 +935,8 @@
       <jump line="488" column="1" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqIERvbid0IHJlbW92ZSB0aGlzIGV2ZW50IG5ldmVyLiBZb3UnbGwgbm90IGJlIGFibGUgYWRkIGV2ZW50IGJhY2sgdG8gdGhpcyBidWNrZXQgZHVlIHRvIGNsb3VkZnJvbWF0aW9uIGNhbm5vdCBhY2Nlc3MgZXhpc3RpbmcgcmVzb3VyY2UqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiojCg==</text>
+      <register name="&quot;" type="4">
+        <text>lambdaRole</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -951,13 +951,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>lambdaRole</text>
       </register>
       <register name="/" type="4">
         <text>\.down</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqIERvbid0IHJlbW92ZSB0aGlzIGV2ZW50IG5ldmVyLiBZb3UnbGwgbm90IGJlIGFibGUgYWRkIGV2ZW50IGJhY2sgdG8gdGhpcyBidWNrZXQgZHVlIHRvIGNsb3VkZnJvbWF0aW9uIGNhbm5vdCBhY2Nlc3MgZXhpc3RpbmcgcmVzb3VyY2UqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiojCg==</text>
+        <text encoding="base64">ICBpYW1Sb2xlQVJOOiBhcm46YXdzOmlhbTo6JHtzZWxmOmN1c3RvbS5tYWluX2NvbmZpZy5BV1NfQUNDT1VOVF9JRH06cm9sZS8ke3NlbGY6c2VydmljZX0tJHtzZWxmOnByb3ZpZGVyLnN0YWdlfS0ke3NlbGY6cHJvdmlkZXIucmVnaW9ufS1sYW1iZGFSb2xlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFMzQnVja2VldE5hbWU6ICR7c2VsZjpjdXN0b20ubWFpbl9jb25maWcuQlVDS0VUfQo=</text>
