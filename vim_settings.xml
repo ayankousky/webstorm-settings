@@ -146,6 +146,7 @@
         <mark key="^" line="23" column="31" />
         <mark key="." line="23" column="37" />
       </file>
+      <file name="/serverless.yml" timestamp="1524727439454" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/asdf.js" timestamp="1518042917577">
         <mark key="[" line="15" column="15" />
         <mark key="]" line="15" column="34" />
@@ -153,11 +154,11 @@
         <mark key="^" line="15" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1524722141981">
-        <mark key="'" line="595" column="0" />
-        <mark key="[" line="604" column="0" />
-        <mark key="]" line="604" column="0" />
+        <mark key="'" line="644" column="0" />
+        <mark key="[" line="654" column="0" />
+        <mark key="]" line="654" column="0" />
         <mark key="^" line="15" column="152" />
-        <mark key="." line="604" column="0" />
+        <mark key="." line="654" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -663,10 +664,10 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/serverless-plugin-warmup/src/index.js" timestamp="1524725483497">
-        <mark key="[" line="53" column="38" />
-        <mark key="]" line="53" column="38" />
-        <mark key="." line="53" column="38" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/serverless-plugin-warmup/src/index.js" timestamp="1524727811051">
+        <mark key="[" line="51" column="330" />
+        <mark key="]" line="51" column="330" />
+        <mark key="." line="51" column="330" />
         <mark key="^" line="53" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1520563332185">
@@ -940,8 +941,8 @@
       <jump line="595" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -956,7 +957,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>warmu</text>
