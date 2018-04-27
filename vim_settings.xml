@@ -252,6 +252,13 @@
         <mark key="." line="25" column="44" />
         <mark key="^" line="25" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/sharings/save.json" timestamp="1524866698348">
+        <mark key="'" line="31" column="47" />
+        <mark key="[" line="43" column="56" />
+        <mark key="]" line="43" column="57" />
+        <mark key="." line="43" column="57" />
+        <mark key="^" line="2" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/.env" timestamp="1521489820080">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="1" column="34" />
@@ -492,6 +499,9 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1523601938795">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.test.nginx" timestamp="1523372998307">
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
@@ -632,13 +642,20 @@
         <mark key="." line="12" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1524597583302">
-        <mark key="'" line="496" column="1" />
+        <mark key="'" line="506" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/index.html" timestamp="1521659886559">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="62" />
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1523572698515">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="526" column="88" />
+        <mark key="]" line="526" column="88" />
+        <mark key="." line="526" column="88" />
+        <mark key="^" line="526" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1520370466670">
         <mark key="[" line="123" column="12" />
@@ -664,7 +681,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/serverless-plugin-warmup/src/index.js" timestamp="1524727811051">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/serverless-plugin-warmup/src/index.js" timestamp="1524773303534">
         <mark key="[" line="51" column="330" />
         <mark key="]" line="51" column="330" />
         <mark key="." line="51" column="330" />
@@ -839,10 +856,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="26" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
-      <jump line="63" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/category.js" />
-      <jump line="70" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/category.js" />
-      <jump line="240" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" />
       <jump line="769" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
       <jump line="83" column="52" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
       <jump line="130" column="11" filename="$USER_HOME$/Desktop/output.html" />
@@ -939,10 +952,14 @@
       <jump line="586" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="588" column="10" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="595" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/sharings/save.json" />
+      <jump line="43" column="54" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/sharings/save.json" />
+      <jump line="2" column="54" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/sharings/save.json" />
+      <jump line="31" column="47" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/sharings/save.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>4</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -957,10 +974,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>warmu</text>
+        <text>934</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBvbGljeS5Qcm9wZXJ0aWVzLkFzc3VtZVJvbGVQb2xpY3lEb2N1bWVudAo=</text>
@@ -1003,9 +1020,9 @@
       </register>
     </registers>
     <search>
-      <last-search>warmu</last-search>
+      <last-search>934</last-search>
       <last-offset />
-      <last-pattern>warmu</last-pattern>
+      <last-pattern>934</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute encoding="base64">XDxWVUxDQU1cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1013,7 +1030,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rsC</entry>
         <entry>upload</entry>
         <entry>update</entry>
         <entry>arn</entry>
@@ -1033,6 +1049,7 @@
         <entry>user</entry>
         <entry>\.down</entry>
         <entry>warmu</entry>
+        <entry>934</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
