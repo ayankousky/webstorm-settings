@@ -241,10 +241,10 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/mock/index.js" timestamp="1524635330507">
-        <mark key="[" line="5" column="50" />
-        <mark key="]" line="5" column="50" />
-        <mark key="." line="5" column="50" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/mock/index.js" timestamp="1524991150035">
+        <mark key="[" line="10" column="50" />
+        <mark key="]" line="10" column="50" />
+        <mark key="." line="10" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1523346807769">
         <mark key="[" line="25" column="23" />
@@ -967,8 +967,8 @@
       <jump line="108" column="42" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3VsdC5ib2R5LnZ1bGNhbUF1dGhDb29raWUpLnRvLmJlLm5vdC51bmRlZmluZWQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -983,7 +983,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.body</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
