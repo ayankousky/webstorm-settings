@@ -201,12 +201,11 @@
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1524427325703">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1524999201006">
         <mark key="'" line="599" column="9" />
-        <mark key="[" line="1270" column="18" />
-        <mark key="]" line="1271" column="20" />
-        <mark key="." line="1271" column="20" />
-        <mark key="^" line="1271" column="20" />
+        <mark key="[" line="1447" column="0" />
+        <mark key="]" line="1447" column="0" />
+        <mark key="." line="1447" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/207758_part001.json" timestamp="1519161783339">
         <mark key="[" line="0" column="1850" />
@@ -382,11 +381,12 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1524997748214">
-        <mark key="[" line="850" column="29" />
-        <mark key="]" line="850" column="29" />
-        <mark key="." line="850" column="29" />
-        <mark key="^" line="619" column="36" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1524999079378">
+        <mark key="'" line="334" column="21" />
+        <mark key="[" line="340" column="0" />
+        <mark key="]" line="340" column="10" />
+        <mark key="." line="340" column="10" />
+        <mark key="^" line="861" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/offer/offer.routes.js" timestamp="1520787050374">
         <mark key="[" line="6" column="16" />
@@ -399,12 +399,6 @@
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/searchPublic.json" timestamp="1522883093917">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="31" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/iam/lambda_policy.json" timestamp="1524442257190">
         <mark key="'" line="11" column="4" />
@@ -862,7 +856,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="40" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/default_light_theme.pug" />
       <jump line="24" column="139" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/default_light_theme.pug" />
       <jump line="118" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" />
       <jump line="29" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/categories.js" />
@@ -962,10 +955,11 @@
       <jump line="87" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="108" column="42" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/.gitignore" />
+      <jump line="334" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dmlkZW8ubGFzdFVwZGF0ZURhdGUgfHwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -980,47 +974,47 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmlkZW8ubGFzdFVwZGF0ZURhdGUgfHwg</text>
+        <text>video</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuYm9keS52aWRlbykK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMjIyMjIyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3VsdC5ib2R5LnZ1bGNhbUF1dGhDb29raWUpLnRvLmJlLm5vdC51bmRlZmluZWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKCdzZWFyY2hCb2R5JykKICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoc2VhcmNoQm9keSkp</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgY29uc29sZS5sb2coJ3Jlc3VsdHMnKTsKICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXN1bHRzKSkK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHRzLmhpdHMuaGl0cykK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgotLS0Kc2VydmVybGVzczoKICBzZXJ2aWNlOiBWdWxjYW5WaXNpb24tQWxleAogIHN0YWdlOiBpYW0KQVdTX0FDQ09VTlRfSUQ6ICczNzQxODAwOTk0MDknCkNMSV9QUk9GSUxFOiBWdWxjYW5WaXNpb24KUkVHSU9OOiB1cy13ZXN0LTIKRU1BSUxfU09VUkNFOiBzdXBwb3J0QHZ1bGNhbS50dgpEREI6CiAgYmFja3VwczoKICAgIGVuYWJsZWQ6IGZhbHNlCiAgdGFibGVzOgogICAgdXNlcnM6CiAgICAgIG5hbWU6IFZ1bGNhbS1Vc2Vycy0KICAgICAgc3RyZWFtQVJOOiBhcm46YXdzOmR5bmFtb2RiOnVzLXdlc3QtMjozNzQxODAwOTk0MDk6dGFibGUvVnVsY2FtLVVzZXJzLWRldi9zdHJlYW0vMjAxOC0wMy0yMVQxMjo1NToxOC41MDEKICAgIGNoYW5uZWxzOgogICAgICBuYW1lOiBWdWxjYW0tQ2hhbm5lbHMtCiAgICB2aWRlb3M6CiAgICAgIG5hbWU6IFZ1bGNhbS1WaWRlb3MtCiAgICAgIHN0cmVhbUFSTjogYXJuOmF3czpkeW5hbW9kYjp1cy13ZXN0LTI6Mzc0MTgwMDk5NDA5OnRhYmxlL1Z1bGNhbS1WaWRlb3MtZGV2L3N0cmVhbS8yMDE3LTA5LTE4VDEzOjMyOjMwLjMzNAogICAgY2hhbm5lbF9zaGFyaW5nOgogICAgICBuYW1lOiBWdWxjYW0tQ2hhbm5lbFNoYXJpbmdzLQogICAgdmlkZW9fc2hhcmluZzoKICAgICAgbmFtZTogVnVsY2FtLVZpZGVvU2hhcmluZ3MtCiAgICB1cmxfc3RvcmFnZToKICAgICAgbmFtZTogVnVsY2FtLVVybHMtCiAgICAgIGNpcGhlcjogamZBZURMY0MKICAgIGNvbW1lbnRzOgogICAgICBuYW1lOiBWdWxjYW0tVXNlckNvbW1lbnRzLQogICAgbGlrZXNUYWJsZToKICAgICAgbmFtZTogVnVsY2FtLUNvbW1lbnRMaWtlcy0KICAgIGZvbGRlcnM6CiAgICAgIG5hbWU6IFZ1bGNhbS1Gb2xkZXJzLQogICAgZm9sZGVyX3NoYXJpbmc6CiAgICAgIG5hbWU6IFZ1bGNhbS1Gb2xkZXJTaGFyaW5ncy0KICAgICAgc3RyZWFtQVJOOiBhcm46YXdzOmR5bmFtb2RiOnVzLXdlc3QtMjozNzQxODAwOTk0MDk6dGFibGUvVnVsY2FtLUZvbGRlclNoYXJpbmdzLWRldi9zdHJlYW0vMjAxOC0wMi0yNlQxMTozMzo1Ni41NTAKICAgIGNvbnRlbnRfc2hhcmluZzoKICAgICAgbmFtZTogVnVsY2FtLVNoYXJpbmdzLQogICAgICBzdHJlYW1BUk46IGFybjphd3M6ZHluYW1vZGI6dXMtd2VzdC0yOjM3NDE4MDA5OTQwOTp0YWJsZS9WdWxjYW0tU2hhcmluZ3MtZGV2L3N0cmVhbS8yMDE4LTA0LTEyVDE0OjAwOjU4Ljc1NwogICAgdXNlcl9maWx0ZXI6CiAgICAgIG5hbWU6IFZ1bGNhbS1Vc2VyRmlsdGVycy0KQlVDS0VUOiB2dWxjYW52aXNpb24tYXBpLQpzMzoKICBtYXhfZmlsZV9zaXplOiAyMDAwICNtYgogIENETjoKICAgIGRpc3RyaWJ1dGlvbklkOiBSM1AxQzVGSVUxVTVVUgogICAgZG9tYWluOiByMWZhemM0Zjlpd3ppZC5jbG91ZGZyb250Lm5ldAogICAga2V5cGFpcklkOiBBUEtBSkNGRzU1TzVORU1aRFJaQQogICAga2V5cGFpcjogfAogICAgICAtLS0tLUJFR0lOIFJTQSBQUklWQVRFIEtFWS0tLS0tCiAgICAgIE1JSUVvd0lCQUFLQ0FRRUFuVDZVR2pSaEpwTThhbXVZOFNtdzZWR3h3KzREY04ySWEvTU85YlBtUThxRW9naHMKICAgICAgWHdjT1JtN3UxT3dTTjRIR054Y2pSOVltOVdNU284Ty84VWc1aktEQkdUQnFkdW15amtaMHNQeE9hTTRGR3p3cQogICAgICBFV25BdWRMcVFSM1cwaEcrV0l6NGkwcGV1RTh5VFd5UC80YUNoVVNaOVozV1Z0V2QxOENzckZRZXpPckhmRUlwCiAgICAgIEd0V0hrbm9QUTdUeklhSEpsa1B4WkI3Q0lTd1lVbk1DSmtydVNaV0xiV2JsTlZNNkhYb3NoWE9jQVdwZm5EZ0IKICAgICAgZ3puaERFNjRtSUJETTBkbE5aVEVrTmNJZm9weEFTMEsrcnNjdkgyR2lGQmtLTU10SFV0NDZhcEhIU2VNejA4RgogICAgICBpU0Q2Q29xY2xnWWhxWjZVOWdYNWZ4M3Jqb3FZZTExbEVsTklrUUlEQVFBQkFvSUJBUUNOeUlCWVJJU1krTWZRCiAgICAgIEdXYlZoVWNjaW1va2hiZWFqRlpYSjltRVdJczI4eU8yeXF1VTM5TFNWWEtLa0xZNFVJNisyK0VYQkJVcXpBTmgKICAgICAgb0w2d3UvUVFSbDcyN0g0QzdPUHdmN3oyWFBvQ2JFbVViaUpzZ3hPaE9ubTQ3MFBsTk5TU0djSitMamZNTHJUbgogICAgICB0UXorVlhYWTNxdUlHYUxMdDEvVXk4bW10VTcwYXdkZnFwTEozQ2FOY3JqSi9hVVNJdlQyWklsb1duNzROZWVwCiAgICAgIFpTQWNwY1hlTzBFUHlycWZTODBFeUxSOVNvZDBwS1l6blhrMlBlNTl3ZFkzbDFKeWkvYjZkZ3hCRE5jbS92N2IKICAgICAgZnpmSmpQeFhUZzhaTXhCOWZGS3dKdmMxdXF0ZThqdTF0aHVUVnIwMi9sR2JHa3BrR3VyWm84eGtGeVUwRVZVagogICAgICA0QnJnS3JsRkFvR0JBUHFFcEo2dDNWcStNazhoNzliWWxGcktWamhFTms1MFNsd3ZjZGhNMHhRK01kOGRnTzFwCiAgICAgIFF6K3pWMjd4NStKNThvRzJWWjN5ZTFPN3g1azJpR1drd1VvaXVUVHdrb1BnYUpweHNnc2xIY01abUJ2M2ZVUXoKICAgICAgV204Nms0TndqbTJsK01iTDhuQzlHZk4rODU3ajFPK1diNFMvRjhVYUF1VlZVeXl5NGxtUEoxeHJBb0dCQUtDdgogICAgICBidXFHSXB0VjVzZE9wUlpCaGVlK2w1SUpQUDh0SWFTMkkyL3gyWnZneURaa0FsTU81SW5PYmp4ZGsyT3YwVVVuCiAgICAgIFc0cnUxRmJ1RjFndUFZc1hKUzBGR2x0YWxhUWVGT3VYU0VnV1RJMDFtQnR6WjRMWnhWUHFLK0NKZjNNWk1hb2UKICAgICAgWG54ejRsSTNWeEFwaHJGZm91amdUbVpuNDRsc0FBRFNRdmRnRjIzekFvR0FBTVdyNURsUTkxaWl1dysxdDRuUAogICAgICBXMEJJWjcvK0V0dlU1dGZXbC80VW9IbFltZ0Z6UmtnT3h3RjhnWUVKWCs5VVNnWVAyWDdIMW9nN28wTkJ4RjV2CiAgICAgIG9oVGRVVVowalNlQjZ3Znlyb29jdjE4eTB0TStkWmxhN0FEWU40MS9RdU5DRXdySjRvTVNzMmR1eE15YStXb1QKICAgICAgU2V0MDNVeXBPWis3cytXUlFRbHA2NlVDZ1lBWmlJY0pnVk1TZCszNkVjY3Q2QytOQ2I0d0dJTzIwTWNkMDB1QwogICAgICBTRjRaNVBncm5HeTZJZzJ5MERpNEl1NSswcnRnVDhhK0p3RmE1dTZTdG96TU8xdE84aGFrR1pyWnYyWDNvY3g4CiAgICAgIGwvNkdHZFFYMkpqRU5ES2xDUHI3N1IxeGZybGpuUHZLcnVkeHhSVnluZ2FuUE5rNFJCeHhMV1Q4dTBxczFyeUoKICAgICAgYnAyS2ZRS0JnSEtWKzJ5ZkladFdWNlJFVXVkZlAzQmt1aWVXakxCUzBjVjdPa0NHZTBpT0h6NnlZQ0d5YTF5NwogICAgICBNdEZETEdQVnYrcGR0ZCsydE42Q0tucWV3TiszUENmOWQwc2R4eW5hTkw4N2RReGdGanBtb0FRamYrRTdmdXdwCiAgICAgIE8yWitqaStyZlZDQ1h6by9yc2RwVzRFOHViSTNxUnF0TUZiK2lIYUJGMklVM2dzMXRNUGQKICAgICAgLS0tLS1FTkQgUlNBIFBSSVZBVEUgS0VZLS0tLS0KZWxhc3RpY3NlYXJjaDoKICBlbmFibGVkOiBmYWxzZQogIGVuZHBvaW50OiBzZWFyY2gtdnVsY2FudmlzaW9uLWRldi1iZm94NXk2N2V0MzJrYjV2bW03eDNtNmpiYS51cy13ZXN0LTIuZXMuYW1hem9uYXdzLmNvbQp2cGM6CiAgY2xvdWQ6CiAgICBzZWN1cml0eUdyb3VwSWRzOgogICAgLSBzZy1hZThjYmJjOAogICAgc3VibmV0SWRzOgogICAgLSBzdWJuZXQtN2MxNWJhMzQKICAgIC0gc3VibmV0LTU1M2NiMjMzCmFwaToKICB2ZXJzaW9uOiAwLjMuMAogIGJhc2VfdXJsOiB0ZXN0LnZ1bGNhbS50dgogIGJhc2VfcGF0aDogIi8iCmZiOgogIGFwcF9pZDogJzQ5OTcwNzU5Mzc1MjY0MicKd2Vic2l0ZToKICBiYXNlX3VybDogZGV2LnZ1bGNhbS50dgogIGRiOgogICAgbXlzcWw6CiMgICAgICB1c2VyOiB2dWxjYW52aXNpb25fY2xvdWRfZGV2CiMgICAgICBwYXNzd29yZDogWVdlNDlwaWU5S1FqMkRCTgogICAgICB1c2VyOiByb290CiAgICAgIHBhc3N3b3JkOiBZdzQyaHdkMk04alUKICAgICAgaG9zdDogNTQuOTMuMjIxLjIxNQogICAgICBwb3J0OiAnMzMwNicKICAgICAgZGJOYW1lOiBiaXRuYW1pX3dvcmRwcmVzcwogIHZ1dl9hcGlfa2V5OiBjRmJIOVRjdFFaNUlKVXhzSzNXVwogIHdjX2NvbnN1bWVyX2tleTogY2tfYjliYmRjZGM0NmI5NmZkMjFhMmJhOGQ1MTY3YjUwYWMwZGI2Y2QyMAogIHdjX2NvbnN1bWVyX3NlY3JldDogY3NfZDU1NjUyNWFjZTE2NTJkNDE2ZjU4ZjY1ZjY3YzhlNTRlOGI0NjZiYgpBUFBfU0VDUkVUOiBzZWNyZXQ=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnRfc2hhcmluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
-      <register name="7" type="4">
-        <text>:
-      name: Vulcam-Sharings-</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTExCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>)
+      console.log(obj)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgb25zb2xlLmxvZygna2VrZWtlaycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
