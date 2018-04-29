@@ -146,7 +146,6 @@
         <mark key="^" line="23" column="31" />
         <mark key="." line="23" column="37" />
       </file>
-      <file name="/serverless.yml" timestamp="1524727439454" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/asdf.js" timestamp="1518042917577">
         <mark key="[" line="15" column="15" />
         <mark key="]" line="15" column="34" />
@@ -209,8 +208,6 @@
         <mark key="." line="1271" column="20" />
         <mark key="^" line="1271" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/bin/clean.sh" timestamp="1524627508464" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1524416477296" />
       <file name="$USER_HOME$/Desktop/207758_part001.json" timestamp="1519161783339">
         <mark key="[" line="0" column="1850" />
         <mark key="]" line="0" column="1848" />
@@ -334,7 +331,6 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/deploy.sh" timestamp="1524441443296" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1521286616168">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -480,7 +476,6 @@
         <mark key="^" line="52" column="28" />
         <mark key="." line="52" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless/CloudFormation/Resources/elasticsearch.yml" timestamp="1524441229739" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/index.js" timestamp="1517171769244">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="22" />
@@ -759,10 +754,10 @@
         <mark key="." line="54" column="9" />
         <mark key="^" line="54" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1524987540413">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1524995093208">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="38" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/clicks_counter.js" timestamp="1520967010024">
         <mark key="[" line="56" column="0" />
@@ -974,8 +969,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuYm9keS52aWRlbykK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -996,7 +991,7 @@
         <text>save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBvbGljeS5Qcm9wZXJ0aWVzLkFzc3VtZVJvbGVQb2xpY3lEb2N1bWVudAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuYm9keS52aWRlbykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3VsdC5ib2R5LnZ1bGNhbUF1dGhDb29raWUpLnRvLmJlLm5vdC51bmRlZmluZWQ7Cg==</text>
