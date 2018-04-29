@@ -754,7 +754,12 @@
         <mark key="." line="54" column="9" />
         <mark key="^" line="54" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1525018175075" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1525022391981">
+        <mark key="[" line="262" column="66" />
+        <mark key="]" line="264" column="29" />
+        <mark key="." line="264" column="29" />
+        <mark key="^" line="264" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/clicks_counter.js" timestamp="1520967010024">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -966,7 +971,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>k</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -981,7 +986,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
