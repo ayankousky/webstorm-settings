@@ -298,9 +298,6 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1524597045867">
-        <mark key="'" line="0" column="10" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/index.js" timestamp="1519682515418">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -385,10 +382,10 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1524633573270">
-        <mark key="[" line="619" column="37" />
-        <mark key="]" line="619" column="105" />
-        <mark key="." line="619" column="37" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1524997748214">
+        <mark key="[" line="850" column="29" />
+        <mark key="]" line="850" column="29" />
+        <mark key="." line="850" column="29" />
         <mark key="^" line="619" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/offer/offer.routes.js" timestamp="1520787050374">
@@ -476,6 +473,7 @@
         <mark key="^" line="52" column="28" />
         <mark key="." line="52" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/video.js" timestamp="1524997675468" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/index.js" timestamp="1517171769244">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="22" />
@@ -493,9 +491,6 @@
         <mark key="]" line="14" column="20" />
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1523601938795">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.test.nginx" timestamp="1523372998307">
         <mark key="[" line="122" column="0" />
@@ -778,7 +773,7 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524867607485">
+      <file name="/Dummy.txt" timestamp="1524995719097">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
@@ -969,8 +964,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuYm9keS52aWRlbykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dmlkZW8ubGFzdFVwZGF0ZURhdGUgfHwg</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -985,7 +980,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">dmlkZW8ubGFzdFVwZGF0ZURhdGUgfHwg</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
