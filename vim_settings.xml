@@ -468,11 +468,11 @@
         <mark key="." line="52" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/video.js" timestamp="1524997675468" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/_functions.js" timestamp="1525075799374">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="16" column="17" />
-        <mark key="^" line="20" column="3" />
-        <mark key="." line="16" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/_functions.js" timestamp="1525113176184">
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="36" />
+        <mark key="^" line="19" column="36" />
+        <mark key="." line="19" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/index.js" timestamp="1517171769244">
         <mark key="[" line="9" column="12" />
@@ -751,11 +751,11 @@
         <mark key="." line="54" column="9" />
         <mark key="^" line="54" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1525104668141">
-        <mark key="[" line="238" column="22" />
-        <mark key="]" line="239" column="32" />
-        <mark key="^" line="239" column="32" />
-        <mark key="." line="239" column="32" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1525113228393">
+        <mark key="[" line="238" column="11" />
+        <mark key="]" line="238" column="11" />
+        <mark key="^" line="239" column="27" />
+        <mark key="." line="238" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/clicks_counter.js" timestamp="1520967010024">
         <mark key="[" line="56" column="0" />
@@ -968,7 +968,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>yandex</text>
+        <text>async</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -983,7 +983,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>yandex</text>
+        <text>async</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2Nrc1w+</text>
