@@ -644,12 +644,12 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1523572698515">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1525072492346">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="526" column="88" />
-        <mark key="]" line="526" column="88" />
-        <mark key="." line="526" column="88" />
-        <mark key="^" line="526" column="88" />
+        <mark key="[" line="458" column="0" />
+        <mark key="]" line="458" column="0" />
+        <mark key="." line="458" column="0" />
+        <mark key="^" line="455" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1520370466670">
         <mark key="[" line="123" column="12" />
@@ -978,7 +978,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -993,7 +993,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -1002,41 +1002,38 @@
         <text encoding="base64">CWNvbnNvbGUubG9nKCdrZWsnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0gewo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmlkZW8pCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgaXQoJ0Rvd25sb2FkIGZpbGUgZnJvbSBwcml2YXRlIGxpbmsgc2hhcmluZyBwYWdlJywgYXN5bmMoKCkgPT4gewogICAgICAgICAgbGV0IHJlc3VsdAogICAgICAgICAgICAsIHJlcU9wdGlvbnMKICAgICAgICAgICAgLCBkb3dubG9hZExpbmsgPSBzaGFyZUxpbmsgKyAnP2RpcmVjdD10cnVlJzsKICAgICAgICAgIC8vIGdldCByZWRpcmVjdCB1cmwgdG8gdmlkZW8KICAgICAgICAgIHJlcU9wdGlvbnMgPSB7CiAgICAgICAgICAgIHVyaTogZG93bmxvYWRMaW5rLAogICAgICAgICAgICBmb2xsb3dSZWRpcmVjdDogdHJ1ZSwKICAgICAgICAgICAgcmVzb2x2ZVdpdGhGdWxsUmVzcG9uc2U6IHRydWUsCiAgICAgICAgICAgIGpzb246IHRydWUsCiAgICAgICAgICAgIGVuY29kaW5nOiBudWxsLAogICAgICAgICAgfTsKICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIHJlc3VsdCA9IGF3YWl0KHJwKHJlcU9wdGlvbnMpKTsKICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgcmVzdWx0ID0gZTsKICAgICAgICAgIH0KICAgICAgICAgIGlmIChyZXN1bHQuc3RhdHVzQ29kZSA9PT0gMzA3KSB7IC8vYW1hem9uIG1ha2VzIGludGVybmFsIHJlZGlyZWN0IGl0IG9jY3VycyB1bnByZWRpY3RhYmx5CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCczMDcgcmVkaXJlY3Qgb24gInNpZ25lZCB1cmwiIGRvd25sb2FkJykKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJlc3VsdC5oZWFkZXJzWydjb250ZW50LWRpc3Bvc2l0aW9uJ10uc2hvdWxkLmJlLmVxKGBhdHRhY2htZW50OyBmaWxlbmFtZT0ke2ZpcnN0VmlkZW8udGl0bGV9LmZ2cGApOwogICAgICAgICAgICAocmVzdWx0LmhlYWRlcnNbJ2NvbnRlbnQtbGVuZ3RoJ10gLSAwKS5zaG91bGQuYmUuZ3RlKDEpOwogICAgICAgICAgfQogICAgICAgIH0pKTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh2aWRlb3MuSXRlbXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGtlayA9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>;
-            kek.should.be.eq(1)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0gewo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgaXQoJ0Rvd25sb2FkIGZpbGUgZnJvbSBwcml2YXRlIGxpbmsgc2hhcmluZyBwYWdlJywgYXN5bmMoKCkgPT4gewogICAgICAgICAgbGV0IHJlc3VsdAogICAgICAgICAgICAsIHJlcU9wdGlvbnMKICAgICAgICAgICAgLCBkb3dubG9hZExpbmsgPSBzaGFyZUxpbmsgKyAnP2RpcmVjdD10cnVlJzsKICAgICAgICAgIC8vIGdldCByZWRpcmVjdCB1cmwgdG8gdmlkZW8KICAgICAgICAgIHJlcU9wdGlvbnMgPSB7CiAgICAgICAgICAgIHVyaTogZG93bmxvYWRMaW5rLAogICAgICAgICAgICBmb2xsb3dSZWRpcmVjdDogdHJ1ZSwKICAgICAgICAgICAgcmVzb2x2ZVdpdGhGdWxsUmVzcG9uc2U6IHRydWUsCiAgICAgICAgICAgIGpzb246IHRydWUsCiAgICAgICAgICAgIGVuY29kaW5nOiBudWxsLAogICAgICAgICAgfTsKICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIHJlc3VsdCA9IGF3YWl0KHJwKHJlcU9wdGlvbnMpKTsKICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgcmVzdWx0ID0gZTsKICAgICAgICAgIH0KICAgICAgICAgIGlmIChyZXN1bHQuc3RhdHVzQ29kZSA9PT0gMzA3KSB7IC8vYW1hem9uIG1ha2VzIGludGVybmFsIHJlZGlyZWN0IGl0IG9jY3VycyB1bnByZWRpY3RhYmx5CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCczMDcgcmVkaXJlY3Qgb24gInNpZ25lZCB1cmwiIGRvd25sb2FkJykKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJlc3VsdC5oZWFkZXJzWydjb250ZW50LWRpc3Bvc2l0aW9uJ10uc2hvdWxkLmJlLmVxKGBhdHRhY2htZW50OyBmaWxlbmFtZT0ke2ZpcnN0VmlkZW8udGl0bGV9LmZ2cGApOwogICAgICAgICAgICAocmVzdWx0LmhlYWRlcnNbJ2NvbnRlbnQtbGVuZ3RoJ10gLSAwKS5zaG91bGQuYmUuZ3RlKDEpOwogICAgICAgICAgfQogICAgICAgIH0pKTs=</text>
       </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXdDbG91ZFVzZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGtlayA9IDEK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdrZWsnCg==</text>
+      <register name="8" type="4">
+        <text>;
+            kek.should.be.eq(1)</text>
       </register>
-      <register name="9" type="4">
-        <text>)
-  console.log('kek')
-  console.log('kek')
-  console.log('kek')</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
