@@ -274,12 +274,12 @@
         <mark key="." line="60" column="80" />
         <mark key="^" line="60" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1525222640048">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1525223910247">
         <mark key="'" line="649" column="56" />
-        <mark key="[" line="682" column="18" />
-        <mark key="]" line="682" column="17" />
-        <mark key="^" line="682" column="17" />
-        <mark key="." line="682" column="17" />
+        <mark key="[" line="702" column="0" />
+        <mark key="]" line="702" column="0" />
+        <mark key="^" line="697" column="59" />
+        <mark key="." line="702" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/index.js" timestamp="1520462062710">
         <mark key="[" line="24" column="27" />
@@ -976,8 +976,8 @@
       <jump line="649" column="56" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sharingBody</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNoYXJpbmcpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -992,27 +992,33 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sharingBody</text>
+        <text>eq(firstVideo.lastUpdateDate);</text>
       </register>
       <register name="/" type="4">
         <text>async(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5ib2R5Lm5ld1NoYXJpbmdzWzBdLmNyZWF0aW9uRGF0ZS5zaG91bGQuYmUubm90Lm51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgIHNoYXJpbmcuY29udGVudC5jcmVhdGlvbkRhdGUuc2hvdWxkLmJlLmVxKGZpcnN0VmlkZW8uY3JlYXRpb25EYXRlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5ib2R5Lm5ld1NoYXJpbmdzLmxlbmd0aC5zaG91bGQuYmUuZXEoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNoYXJpbmcpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICBsZXQgc2hhcmluZ0JvZHkgPSB7CiAgICAgICAgICAgICJ2aWRlb0lkIjogZmlyc3RWaWRlby5pZCwKICAgICAgICAgICAgIm1lc3NhZ2UiOiBmaXJzdFZpZGVvU2hhcmluZ01lc3NhZ2UsCiAgICAgICAgICAgICJwZXJtaXNzaW9ucyI6IDEsCiAgICAgICAgICAgICJlbWFpbHMiOiBbCiAgICAgICAgICAgICAgbW9ja3MudXNlci5nZXRMb2dpbkZpZWxkcygnc2Vjb25kJykuZW1haWwKICAgICAgICAgICAgXQogICAgICAgICAgfTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5ib2R5Lm5ld1NoYXJpbmdzWzBdLmVtYWlsLnNob3VsZC5iZS5lcShtb2Nrcy51c2VyLmdldExvZ2luRmllbGRzKCdzZWNvbmQnKS5lbWFpbCkK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5ib2R5Lm5ld1NoYXJpbmdzLmxlbmd0aC5zaG91bGQuYmUuZXEoMCk7Cg==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICBsZXQgc2hhcmluZ0JvZHkgPSB7CiAgICAgICAgICAgICJ2aWRlb0lkIjogZmlyc3RWaWRlby5pZCwKICAgICAgICAgICAgIm1lc3NhZ2UiOiBmaXJzdFZpZGVvU2hhcmluZ01lc3NhZ2UsCiAgICAgICAgICAgICJwZXJtaXNzaW9ucyI6IDEsCiAgICAgICAgICAgICJlbWFpbHMiOiBbCiAgICAgICAgICAgICAgbW9ja3MudXNlci5nZXRMb2dpbkZpZWxkcygnc2Vjb25kJykuZW1haWwKICAgICAgICAgICAgXQogICAgICAgICAgfTs=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5ib2R5Lm5ld1NoYXJpbmdzWzBdLmVtYWlsLnNob3VsZC5iZS5lcShtb2Nrcy51c2VyLmdldExvZ2luRmllbGRzKCdzZWNvbmQnKS5lbWFpbCkK</text>
+      </register>
+      <register name="6" type="4">
         <text>;
           result.body.newSharings[0].channelId.should.be.eq(firstVideo.channelId)
           result.body.newSharings[0].videoId.should.be.eq(firstVideo.id)
@@ -1022,23 +1028,17 @@
           result.body.newSharings[0].creationDate.should.be.not.null
           result.body.newSharings[0].lastUpdateDate.should.be.not.null</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5KQo=</text>
-      </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5ib2R5LmNvbnRlbnQubGVuZ3RoLnNob3VsZC5iZS5lcSgwKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5KQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5ib2R5LmNvbnRlbnQubGVuZ3RoLnNob3VsZC5iZS5lcSgwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
