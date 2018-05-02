@@ -274,11 +274,11 @@
         <mark key="." line="60" column="80" />
         <mark key="^" line="60" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1525218830097">
-        <mark key="[" line="618" column="51" />
-        <mark key="]" line="618" column="113" />
-        <mark key="^" line="618" column="113" />
-        <mark key="." line="618" column="113" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1525221791467">
+        <mark key="[" line="644" column="13" />
+        <mark key="]" line="644" column="16" />
+        <mark key="^" line="644" column="16" />
+        <mark key="." line="644" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/index.js" timestamp="1520462062710">
         <mark key="[" line="24" column="27" />
@@ -975,8 +975,8 @@
       <jump line="178" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5KQo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -991,48 +991,48 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>async(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdFZpZGVvLmNyZWF0aW9uRGF0ZS5zaG91bGQuYmUubm90Lm51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IGZyaXN0VmlkZW9TaGFyaW5nTWVzc2FnZSA9ICdNZXNzYWdlIGZvciB0aGUgZmlyc3QgdmlkZW8gc2hhcmluZyEnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5ib2R5LmNvbnRlbnQubGVuZ3RoLnNob3VsZC5iZS5lcSgwKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChyZXN1bHQuYm9keS52aWRlb3MubGVuZ3RoID4gMCkgCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>{
-            result.body.videos[0].id.should.be.not.eq(secondVideo.id)
-          }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqIERFUFJFQ0FURUQgKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5KQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy8gL2NoYW5uZWxzL2ZvbGRlcnMvY29udGVudAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5ib2R5LnZpZW9zLmxlbmd0aC5zaG91bGQuYmUuZXEoMCk7IC8vIG90aGVyIHVzZXJzIGNhbm5vdCBnZXQgdmlkZW9zIGZyb20gYW55b25lJ3MgYmFja3VwcyBjaGFubmVsCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGl0KCdTaG91bGQgYmUgYWJsZSB0byBkb3dubG9hZCApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5KQo=</text>
       </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aW5kZXguanNvbicsIGFzeW5jICgpID0+IHsKICAgICAgICAgICAgbGV0IHJlcVJlc3VsdAogICAgICAgICAgICAgICwgcmVxT3B0aW9ucwoKICAgICAgICAgICAgLy8gZ2V0IHJlZGlyZWN0IHVybCB0byB2aWRlbwogICAgICAgICAgICByZXFPcHRpb25zID0gewogICAgICAgICAgICAgIHVyaSAgICAgICAgICAgICAgICAgICAgOiBtb2Nrcy5nZXRTZXJ2ZXJVcmwoKSArIGAvdmlkZW9zLyR7Zmlyc3RWaWRlby5pZH0vZG93bmxvYWQ/bWV0YWRhdGE9dHJ1ZWAsCiAgICAgICAgICAgICAgZm9sbG93UmVkaXJlY3QgICAgICAgICA6IHRydWUsCiAgICAgICAgICAgICAgcmVzb2x2ZVdpdGhGdWxsUmVzcG9uc2U6IHRydWUsCiAgICAgICAgICAgICAganNvbiAgICAgICAgICAgICAgICAgICA6IHRydWUsCiAgICAgICAgICAgICAgZW5jb2RpbmcgICAgICAgICAgICAgICA6IG51bGwsCiAgICAgICAgICAgICAgaGVhZGVycyAgICAgICAgICAgICAgICA6IHsKICAgICAgICAgICAgICAgICdBdXRob3JpemF0aW9uJzogbWFpblVzZXJUb2tlbgogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfTsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICByZXFSZXN1bHQgPSBhd2FpdCBycChyZXFPcHRpb25zKTsKICAgICAgICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgICAgICAgIHJlcVJlc3VsdCA9IGU7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJlcVJlc3VsdC5zdGF0dXNDb2RlLnNob3VsZC5iZS5lcSgyMDApOwogICAgICAgICAgICByZXFSZXN1bHQuYm9keS5zaG91bGQuYmUubm90Lm51bGw7CiAgICAgICAgICAgIHJlcVJlc3VsdC5ib2R5LmlkLnNob3VsZC5iZS5ub3QubnVsbDsKICAgICAgICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmIChyZXN1bHQuYm9keS52aWRlb3MubGVuZ3RoID4gMCkgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>{
+            result.body.videos[0].id.should.be.not.eq(secondVideo.id)
+          }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGl0KCdTaG91bGQgYmUgYWJsZSB0byBkb3dubG9hZCBpbmRleC5qc29uJywgYXN5bmMgKCkgPT4gKTsK</text>
+        <text encoding="base64">ICAgIC8qKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqIERFUFJFQ0FURUQgKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
