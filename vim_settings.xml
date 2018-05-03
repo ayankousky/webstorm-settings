@@ -201,6 +201,9 @@
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1525106321598">
+        <mark key="'" line="599" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1525378331051">
         <mark key="[" line="143" column="0" />
         <mark key="]" line="143" column="0" />
@@ -297,6 +300,9 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="33" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1524597045867">
+        <mark key="'" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/index.js" timestamp="1519682515418">
         <mark key="[" line="26" column="0" />
@@ -493,6 +499,9 @@
         <mark key="]" line="14" column="20" />
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1523601938795">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.test.nginx" timestamp="1523372998307">
         <mark key="[" line="122" column="0" />
@@ -705,12 +714,7 @@
         <mark key="." line="17" column="35" />
         <mark key="^" line="17" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/index.js" timestamp="1525378713605">
-        <mark key="[" line="108" column="23" />
-        <mark key="]" line="108" column="30" />
-        <mark key="." line="108" column="30" />
-        <mark key="^" line="108" column="30" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/index.js" timestamp="1525380222095" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/package.json" timestamp="1525001035894">
         <mark key="[" line="15" column="19" />
         <mark key="]" line="15" column="20" />
@@ -767,12 +771,8 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="113" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1525378628359">
-        <mark key="'" line="1005" column="27" />
-        <mark key="[" line="768" column="60" />
-        <mark key="]" line="768" column="79" />
-        <mark key="^" line="768" column="79" />
-        <mark key="." line="768" column="79" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1525379902086">
+        <mark key="'" line="1002" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/index.js" timestamp="1522816741802">
         <mark key="[" line="10" column="11" />
@@ -972,7 +972,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtKQo=</text>
+        <text encoding="base64">ICAvLyBsZXQgc3Vic2NyaXB0aW9ucyA9IGF3YWl0KFZ1bGNhbUJhY2tlbmQuZ2V0U3Vic2NyaXB0aW9ucygnYXlhbmtvdXNreUB5YWhvby5jb20nKSk7Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -993,7 +993,7 @@
         <text>async(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQgc3Vic2NyaXB0aW9ucyA9IGF3YWl0KFZ1bGNhbUJhY2tlbmQuZ2V0U3Vic2NyaXB0aW9ucygnYXNrb0B2dWxjYW52aXNpb24uY29tJykpOwo=</text>
+        <text encoding="base64">ICAvLyBsZXQgc3Vic2NyaXB0aW9ucyA9IGF3YWl0KFZ1bGNhbUJhY2tlbmQuZ2V0U3Vic2NyaXB0aW9ucygnYXlhbmtvdXNreUB5YWhvby5jb20nKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtKQo=</text>
