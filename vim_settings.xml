@@ -624,11 +624,11 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1525549042651">
-        <mark key="[" line="584" column="0" />
-        <mark key="]" line="584" column="0" />
-        <mark key="." line="584" column="0" />
-        <mark key="^" line="581" column="5" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1525551174420">
+        <mark key="[" line="568" column="34" />
+        <mark key="]" line="569" column="51" />
+        <mark key="." line="569" column="51" />
+        <mark key="^" line="569" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/index.js" timestamp="1520436335838">
         <mark key="[" line="128" column="20" />
@@ -967,7 +967,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -982,7 +982,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDogdW5kZWZpbmVkOw==</text>
+        <text>mapFields(categories[cId])</text>
       </register>
       <register name="/" type="4">
         <text>bill</text>
@@ -991,43 +991,43 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlLndyaXRlRXJyb3JzWzBdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>} catch(e){
-        console.log('kekeke')
-        console.log(Object.keys(e))
-        console.log(e.writeErrors[0].toString())
-        console.log(e.writeErrors[1].toString())
-      }</text>
+        <text encoding="base64">IAogICAgICAgICAgICAKICAgICAgICAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhd2FpdCB0aGlzLkNhdGVnb3J5LmFkZE9uZShjYXRlZ29yaWVzW2NJZF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc28K</text>
+      <register name="4" type="4">
+        <text>{
+            &quot;upsert&quot;: true,
+            filter: {
+              _id: `${categories[cId].networkId}:${categories[cId].categoryId}`,
+            },
+            replacement:</text>
       </register>
-      <register name="5" type="4">
-        <text>le.log(bulkArray)
-      // try {}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZW1lbnQ6IG1hcEZpZWxkcyhjYXRlZ29yaWVzW2NJZF0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgJHtjYXRlZ29yaWVzW2NJZF0ubmV0d29ya0lkfToke2NhdGVnb3JpZXNbY0lkXS5jYXRlZ29yeUlkfWApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKDUpCiAgICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKCkpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlZ2lvbiAgICAgICAgOiBkYXRhLnJlZ2lvbiwK</text>
+      <register name="9" type="4">
+        <text>e.log(1)
+    consolk</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
