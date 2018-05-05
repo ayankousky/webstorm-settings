@@ -458,7 +458,7 @@
       <file name="util.js" timestamp="1518732719406">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/category.js" timestamp="1521758576689">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/category.js" timestamp="1525546614989">
         <mark key="[" line="61" column="5" />
         <mark key="]" line="61" column="5" />
         <mark key="." line="61" column="5" />
@@ -624,11 +624,11 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1525545294119">
-        <mark key="[" line="542" column="0" />
-        <mark key="]" line="542" column="0" />
-        <mark key="." line="542" column="0" />
-        <mark key="^" line="558" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1525547493488">
+        <mark key="[" line="571" column="66" />
+        <mark key="]" line="571" column="77" />
+        <mark key="." line="571" column="77" />
+        <mark key="^" line="571" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/index.js" timestamp="1520436335838">
         <mark key="[" line="128" column="20" />
@@ -966,8 +966,8 @@
       <jump line="15" column="63" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>offer.offerId</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -982,48 +982,81 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IENQQw==</text>
+        <text>offer.offerId</text>
       </register>
       <register name="/" type="4">
         <text>bill</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdJbXBvcnQgQ1BDJykK</text>
+        <text encoding="base64">ICAgICAgICBidWxrQXJyYXkucHVzaChtYXBGaWVsZHMoY2F0ZWdvcmllc1tjSWRdKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBidWxrQXJyYXkucHVzaChtYXBGaWVsZHMoY2F0ZWdvcmllc1tjSWRdKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgIA==</text>
+        <text>{
+              networkId      : this.network._id,
+              _id            : offer.offerId,
+              // offerId        : offer.offerId,
+              title          : offer.title,
+              description    : offer.description,
+              regular_price  : offer.regular_price,
+              url            : offer.url,
+              merchantId     : `${offer.networkId}:${offer.store_url}:${offer.region}`,
+              // store_name     : offer.store_name,
+              store_url      : offer.store_url,
+              oid            : offer.oid,
+              image_url_small: offer.image_url_small,
+              image_url_large: offer.image_url_large,
+              category_id    : offer.category_id,
+              lvl1_category_id: category.lvl1_id,
+              lvl2_category_id: category.lvl2_id,
+              lvl3_category_id: category.lvl3_id,
+              de_category_id  : category.de_id,
+              region          : offer.region,
+              createdAt       : startDate,
+              updatedAt       : startDate,
+            }</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKDUpCiAgICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKCkpCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtYXBGaWVsZHMoY2F0ZWdvcmllc1tjSWRdKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgb25zb2xlLmxvZyhuZXcgRGF0ZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJlbnQgICAgICAgIDogLAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>console.log(3)
-      c</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b25zb2xlLmxvZyhuZXcgRGF0ZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBhcmVudCAgICAgICAgOiBkYXRhLnBhcmVudCA/IG1hcEZpZWxkcyhkYXRhLnBhcmVudCkgOiBudWxsLAo=</text>
       </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygyKQogICAgYw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9uc29sZS5sb2cobmV3IERhdGUoKSkK</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgdGhpcy5DYXRlZ29yeS5kZWxldGUoKQo=</text>
       </register>
       <register name="9" type="4">
-        <text>console.log(1)
-    c</text>
+        <text>{
+          _id           : `${categories[cId].networkId}:${categories[cId].categoryId}`,
+          category_id   : categories[cId].categoryId,
+          name          : categories[cId].name,
+          parent_id     : categories[cId].parentId,
+          networkId     : categories[cId].networkId,
+          region        : categories[cId].region,
+          type          : categories[cId].type,
+          lvl1_id       : categories[cId].lvl1_id,
+          lvl2_id       : categories[cId].lvl2_id,
+          lvl3_id       : categories[cId].lvl3_id,
+          parent        : categories[cId].parent ? mapFields(categories[cId].parent) : null,
+          de_id         : categories[cId].de_id,
+        }</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
