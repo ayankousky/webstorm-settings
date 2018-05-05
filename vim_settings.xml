@@ -322,12 +322,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1525554800429">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1525555559154">
         <mark key="'" line="15" column="63" />
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="34" />
-        <mark key="." line="19" column="34" />
-        <mark key="^" line="19" column="34" />
+        <mark key="[" line="80" column="30" />
+        <mark key="]" line="80" column="37" />
+        <mark key="." line="80" column="37" />
+        <mark key="^" line="80" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/README.md" timestamp="1521055485064">
         <mark key="[" line="17" column="2" />
@@ -966,8 +966,8 @@
       <jump line="15" column="63" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>billigerNet</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -982,7 +982,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>connexityNet</text>
+        <text>billigerNet</text>
       </register>
       <register name="/" type="4">
         <text>bill</text>
