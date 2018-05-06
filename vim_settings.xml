@@ -617,21 +617,21 @@
         <mark key="." line="49" column="37" />
         <mark key="^" line="49" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/offers.js" timestamp="1525602422131">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/offers.js" timestamp="1525613278003">
         <mark key="'" line="34" column="4" />
         <mark key="[" line="116" column="42" />
-        <mark key="]" line="116" column="56" />
-        <mark key="." line="116" column="56" />
+        <mark key="]" line="116" column="42" />
+        <mark key="." line="116" column="42" />
         <mark key="^" line="116" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1525609252385">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1525613754721">
         <mark key="'" line="221" column="5" />
-        <mark key="[" line="197" column="15" />
+        <mark key="[" line="205" column="8" />
         <mark key="k" line="198" column="55" />
-        <mark key="]" line="197" column="19" />
+        <mark key="]" line="205" column="18" />
         <mark key="m" line="198" column="55" />
-        <mark key="^" line="197" column="19" />
-        <mark key="." line="197" column="19" />
+        <mark key="^" line="205" column="18" />
+        <mark key="." line="205" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/index.js" timestamp="1520436335838">
         <mark key="[" line="128" column="20" />
@@ -951,7 +951,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGZhbHNl</text>
+        <text>update</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -966,7 +966,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZhbHNl</text>
+        <text>update</text>
       </register>
       <register name="/" type="4">
         <text>compr</text>
