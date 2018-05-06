@@ -624,11 +624,11 @@
         <mark key="." line="116" column="56" />
         <mark key="^" line="116" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1525601586508">
-        <mark key="[" line="311" column="37" />
-        <mark key="]" line="311" column="45" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1525602956002">
+        <mark key="[" line="275" column="0" />
+        <mark key="]" line="275" column="0" />
         <mark key="^" line="311" column="45" />
-        <mark key="." line="311" column="45" />
+        <mark key="." line="275" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/index.js" timestamp="1520436335838">
         <mark key="[" line="128" column="20" />
@@ -948,7 +948,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -972,37 +972,56 @@
         <text>1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>// this.addOfferFunc({
+        //   networkId      : offer.networkId,
+        //   region         : offer.region,
+        //   offerId        : offer.offerId,
+        //   title          : offer.title,
+        //   description    : offer.description,
+        //   regular_price  : offer.regular_price,
+        //   url            : offer.url,
+        //   merchantId     : `${offer.networkId}:${offer.store_url}:${offer.region}`,
+        //   // store_name    : offer.store_name,
+        //   store_url      : offer.store_url,
+        //   oid            : offer.oid,
+        //   image_url_small: offer.image_url_small,
+        //   image_url_large: offer.image_url_large,
+        //   category_id    : offer.category_id,
+        //   lvl1_category_id: category.lvl1_id,
+        //   lvl2_category_id: category.lvl2_id,
+        //   lvl3_category_id: category.lvl3_id,
+        //   de_category_id  : category.de_id,
+        // });</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nMjEpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc/Pz8/PycpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nMjEpCg==</text>
       </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdGFydCBjb25uZXhpdHkgY2F0ZWdvcmllcyB1cGRhdGUnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygxKQogICAgY29uc29sZS5sb2cobmV3IERhdGUoKSk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc/Pz8/PycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdGFydCBjb25uZXhpdHkgY2F0ZWdvcmllcyB1cGRhdGUnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
