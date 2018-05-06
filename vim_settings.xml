@@ -111,6 +111,11 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/zoom.js" timestamp="1525644314538">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/nginx/conf.prod.nginx" timestamp="1520795531125">
         <mark key="[" line="28" column="3" />
         <mark key="]" line="32" column="2" />
@@ -317,12 +322,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1525602574391">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1525646353834">
         <mark key="'" line="115" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="1" />
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+        <mark key="^" line="19" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/README.md" timestamp="1521055485064">
         <mark key="[" line="17" column="2" />
@@ -330,11 +335,11 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1525598724571">
-        <mark key="[" line="48" column="34" />
-        <mark key="]" line="49" column="3" />
-        <mark key="." line="49" column="3" />
-        <mark key="^" line="49" column="3" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1525646376186">
+        <mark key="[" line="47" column="70" />
+        <mark key="]" line="48" column="20" />
+        <mark key="." line="48" column="20" />
+        <mark key="^" line="48" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/registration_success_with_password.pug" timestamp="1521665383774">
         <mark key="[" line="42" column="102" />
@@ -617,21 +622,21 @@
         <mark key="." line="49" column="37" />
         <mark key="^" line="49" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/offers.js" timestamp="1525614578739">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/offers.js" timestamp="1525644359688">
         <mark key="'" line="34" column="4" />
-        <mark key="[" line="116" column="57" />
-        <mark key="]" line="116" column="71" />
-        <mark key="." line="116" column="71" />
-        <mark key="^" line="116" column="71" />
+        <mark key="[" line="116" column="44" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
+        <mark key="^" line="117" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1525627242166">
-        <mark key="'" line="221" column="5" />
-        <mark key="[" line="202" column="18" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1525646457751">
+        <mark key="'" line="72" column="45" />
+        <mark key="[" line="249" column="11" />
         <mark key="k" line="198" column="55" />
-        <mark key="]" line="202" column="24" />
+        <mark key="]" line="250" column="16" />
         <mark key="m" line="198" column="55" />
-        <mark key="^" line="202" column="24" />
-        <mark key="." line="202" column="24" />
+        <mark key="^" line="250" column="16" />
+        <mark key="." line="250" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/index.js" timestamp="1520436335838">
         <mark key="[" line="128" column="20" />
@@ -848,7 +853,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="85" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="93" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="102" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
@@ -948,10 +952,11 @@
       <jump line="116" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
       <jump line="34" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/offers.js" />
       <jump line="221" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="72" column="45" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>keke</text>
+        <text encoding="base64">dHJ1ZSB8fCA=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -966,46 +971,47 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>keke</text>
+        <text encoding="base64">dHJ1ZSB8fCA=</text>
       </register>
       <register name="/" type="4">
         <text>compr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm9pZCIgOiAiODExMzY2NCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnb25lIG9mIGVycm9ycycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnRXJTdHJpbmcoKS5zbGljZSgwLCAyMDApKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>rors count first update (billiger): ');
+              console.log(e.to</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnb25lIG9mIGVycm9ycycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1bGtBcnJheS5wdXNoKCkK</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLm1lcmNoYW50c1ttaWRdLm9mZmVyc0NvdW50ID4gNDAwMCkgY29uc29sZS5sb2codGhpcy5tZXJjaGFudHNbbWlkXS5vZmZlcnNDb3VudCkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ewogICAgICByZXBsYWNlT25lOiB7CiAgICAgICAgdXBzZXJ0OiBmYWxzZSwKICAgICAgICBmaWx0ZXI6IHsiX2lkIiA6ICJiaWxsaWdlcjpraXJzdGVpbi5kZTpERTozNzU4In0sCiAgICAgICAgcmVwbGFjZW1lbnQ6IHsKICAgICAgICAgICJfaWQiIDogImJpbGxpZ2VyOmtpcnN0ZWluLmRlOkRFOjM3NTgiLAogICAgICAgICAgIm5ldHdvcmtJZCIgOiAiYmlsbGlnZXIiLAogICAgICAgICAgInRpdGxlIiA6ICJFdXJvbGl0ZSBTQi02NS8xOSBDRUUtU3Ryb212ZXJ0ZWlsZXIgMTlcIlwiIiwKICAgICAgICAgICJkZXNjcmlwdGlvbiIgOiAiNiBTY2h1dHprb250YWt0c3RlY2tkb3NlbiBhdWYgZGVyIFLDvGNrc2VpdGUsIFNwYW5udW5nc3ZlcnNvcmd1bmc6IDM4MC00MDAgViBBQywgNTAgSHogfiwgTWF4LiBOZW5ubGVpc3R1bmcvS2FuYWwgKFNjaHV0emtvbnRha3QpOiAzNjgwIFcsIE1heC4sIE5lbm5zdHJvbS9LYW5hbCAoU2NodXR6a29udGFrdCk6IDE2IEEsIEjDtmhlOiAyIEhFLCIsCiAgICAgICAgICAicmVndWxhcl9wcmljZSIgOiAiNzYuOTAiLAogICAgICAgICAgInVybCIgOiAiaHR0cHM6Ly93d3cuYmlsbGlnZXIuZGUvY29tbW9uL21vZHVsZXMvYXBpL2Ntb2R1bD9wPUp2RzNsbG1udTVvYWFxWjRDM252WHRTbjZXdUtpVVRNdVVUbURzZ3drUzZVWXlpUS1tWGRzdVItX2wyY3MzdmM2Z0dfc2kxdG9FbTB6VWNNNDVIbzJhYnpXYkstU242cTdyOEctTTZPOGw5LUhlRkZGVEpldkVrelFnSjN0OVJvdyZpZD04MTEzNjY0Jm1jPTRPMjJyb1VhRktIaiZ0cz0yMDE4MDUwMiIsCiAgICAgICAgICAibWVyY2hhbnRJZCIgOiAiYmlsbGlnZXI6a2lyc3RlaW4uZGU6REUiLAogICAgICAgICAgInN0b3JlX25hbWUiIDogImtpcnN0ZWluLmRlIiwKICAgICAgICAgICJzdG9yZV91cmwiIDogImtpcnN0ZWluLmRlIiwKICAgICAgICAgICJvaWQiIDogIjgxMTM2NjQiLAogICAgICAgICAgImltYWdlX3VybF9zbWFsbCIgOiAiaHR0cHM6Ly9jZG4uYmlsbGlnZXIuY29tL2EvMTU1NS84MTEzNjY0LmpwZyIsCiAgICAgICAgICAiaW1hZ2VfdXJsX2xhcmdlIiA6ICJodHRwczovL2Nkbi5iaWxsaWdlci5jb20vZGZhIHNlYS8xNTU1LzgxMTM2NjRfTC5qcGciLAogICAgICAgICAgImNhdGVnb3J5X2lkIiA6ICIxMTczOCIsCiAgICAgICAgICAibHZsMV9jYXRlZ29yeV9pZCIgOiAiMTE3MzgiLAogICAgICAgICAgImx2bDJfY2F0ZWdvcnlfaWQiIDogbnVsbCwKICAgICAgICAgICJsdmwzX2NhdGVnb3J5X2lkIiA6IG51bGwsCiAgICAgICAgICAiZGVfY2F0ZWdvcnlfaWQiIDogIlNvbnN0aWdlcyIsCiAgICAgICAgICAicmVnaW9uIiA6ICJERSIsCiAgICAgICAgICAiY3JlYXRlZEF0IiA6IG5ldyBEYXRlKCksCiAgICAgICAgICAidXBkYXRlZEF0IiA6IG5ldyBEYXRlKCksCiAgICAgICAgfQogICAgICB9CiAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkb2N1bWVudDogewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB1cGRhdGU6IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gaW5zZXJ0T25lOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2hhbmRsZWQgZXJyb3InKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gdXBkYXRlT25lOiB7Cg==</text>
+        <text encoding="base64">cmV0dXJuOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
