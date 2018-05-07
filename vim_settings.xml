@@ -322,12 +322,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1525646353834">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1525651498804">
         <mark key="'" line="115" column="0" />
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="38" />
-        <mark key="." line="19" column="38" />
-        <mark key="^" line="19" column="38" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="1" />
+        <mark key="^" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/README.md" timestamp="1521055485064">
         <mark key="[" line="17" column="2" />
@@ -955,8 +955,8 @@
       <jump line="68" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/network.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N0YXJ0IGRlbHRhIGltcG9ydCcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>yieldKit</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -971,7 +971,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHJ1ZSB8fCA=</text>
+        <text>yieldKit</text>
       </register>
       <register name="/" type="4">
         <text>bill</text>
