@@ -272,11 +272,11 @@
         <mark key="." line="60" column="80" />
         <mark key="^" line="60" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1525795808692">
-        <mark key="[" line="2362" column="10" />
-        <mark key="]" line="2817" column="12" />
-        <mark key="." line="2817" column="12" />
-        <mark key="^" line="2817" column="12" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1525798061641">
+        <mark key="[" line="2363" column="40" />
+        <mark key="]" line="2363" column="56" />
+        <mark key="." line="2363" column="56" />
+        <mark key="^" line="2363" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/index.js" timestamp="1520462062710">
         <mark key="[" line="24" column="27" />
@@ -927,8 +927,8 @@
       <jump line="196" column="58" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/network.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICwgCg==</text>
+      <register name="&quot;" type="4">
+        <text>FolderSharing</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -943,7 +943,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>arn:aws:dynamodb:us-west-2:374180099409:table/Vulcam-FolderSharings-dev/stream/2018-02-26T11:33:56.550</text>
+        <text>FolderSharing</text>
       </register>
       <register name="/" type="4">
         <text>zoom</text>
@@ -952,39 +952,146 @@
         <text encoding="base64">ICAgICAgc3RyZWFtQVJOOiBhcm46YXdzOmR5bmFtb2RiOnVzLXdlc3QtMjozNzQxODAwOTk0MDk6dGFibGUvVnVsY2FtLUZvbGRlclNoYXJpbmdzLWRldi9zdHJlYW0vMjAxOC0wMi0yNlQxMTozMzo1Ni41NTAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICwgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmJvZHkubmV3U2hhcmluZ3MubGVuZ3RoLnNob3VsZC5iZS5lcSgxKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>before(async function(){
+          
+
+        });</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>{
+            // create first video
+            let fields = mocks.video.getFields(firstVideoProps);
+            let result = await chai
+              .request(mocks.getServerUrl())
+              .post('/videos')
+              .set('Authorization', mainUserToken)
+              .set('Content-Type', 'application/json')
+              .send(fields);
+
+            firstVideo = result.body.video;
+            result = await(chai
+              .request(mocks.getServerUrl())
+              .put(`/videos/${firstVideo.id}/upload`)
+              .set('Authorization', mainUserToken)
+              .send());
+            let uploadingUrl = result.body.uploadingUrl;
+
+            let body = fs.readFileSync(__dirname + '/../mock/videos/backup_video.fvp');
+            await(rp({
+              method: &quot;PUT&quot;,
+              url: uploadingUrl,
+              body: body,
+            }));
+            await(mocks.helper.waitAsync(3000));
+
+            let sharingBody = {
+              &quot;videoId&quot;    : firstVideo.id,
+              &quot;message&quot;    : firstVideoSharingMessage,
+              &quot;permissions&quot;: 1,
+              &quot;emails&quot;     : [
+                mocks.user.getLoginFields('second').email,
+              ],
+            };
+            result = await(chai
+              .request(mocks.getServerUrl())
+              .post(`/sharings`)
+              .set('Authorization', mainUserToken)
+              .send(sharingBody))
+
+            firstVideoSharing = result.body.newSharings[0];
+
+            // create second video
+            fields = mocks.video.getFields(secondVideoProps);
+            result = await chai
+              .request(mocks.getServerUrl())
+              .post('/videos')
+              .set('Authorization', mainUserToken)
+              .set('Content-Type', 'application/json')
+              .send(fields);
+
+            secondVideo = result.body.video;
+            result = await(chai
+              .request(mocks.getServerUrl())
+              .put(`/videos/${secondVideo.id}/upload`)
+              .set('Authorization', mainUserToken)
+              .send());
+            uploadingUrl = result.body.uploadingUrl;
+
+            body = fs.readFileSync(__dirname + '/../mock/videos/backup_video.fvp');
+            await(rp({
+              method: &quot;PUT&quot;,
+              url: uploadingUrl,
+              body: body,
+            }));
+            await(mocks.helper.waitAsync(3000));
+
+            sharingBody = {
+              &quot;videoId&quot;    : secondVideo.id,
+              &quot;message&quot;    : firstVideoSharingMessage,
+              &quot;permissions&quot;: 0,
+              &quot;emails&quot;     : [
+                mocks.user.getLoginFields('second').email,
+              ],
+            };
+            result = await(chai
+              .request(mocks.getServerUrl())
+              .post(`/sharings`)
+              .set('Authorization', mainUserToken)
+              .send(sharingBody))
+
+            secondVideoSharing = result.body.newSharings[0]
+          }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAsIHBhcnNlciAgICAgICA9IHJlcXVpcmUoJ3htbDJqc29uJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJ4bWwyanNvbiI6ICJeMC4xMS4wIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGF3YWl0KG1vY2tzLmhlbHBlci53YWl0QXN5bmMoMTAwMCkpOyAvLyBsZXQgZHluYW1vZGIgdHJpZ2dlciBldmVudHMK</text>
       </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
-      <register name="7" type="4">
-        <text>if (!startDate){
-        startDate = new Date()
-      }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>//create video without access for second user
+          fields = mocks.video.getFields(videoWithNoAccessProps);
+          result = await chai
+            .request(mocks.getServerUrl())
+            .post('/videos')
+            .set('Authorization', mainUserToken)
+            .set('Content-Type', 'application/json')
+            .send(fields);
+
+          result.body.success.should.be.eq(true);
+          videoWithNoAccess = result.body.video;
+
+          result = await(chai
+            .request(mocks.getServerUrl())
+            .put(`/videos/${videoWithNoAccess.id}/upload`)
+            .set('Authorization', mainUserToken)
+            .send());
+          uploadingUrl = result.body.uploadingUrl;
+
+          body = fs.readFileSync(__dirname + '/../mock/videos/backup_video.fvp');
+          await(rp({
+            method: &quot;PUT&quot;,
+            url: uploadingUrl,
+            body: body,
+          }));</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
