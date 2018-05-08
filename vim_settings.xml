@@ -257,12 +257,6 @@
         <mark key="." line="25" column="44" />
         <mark key="^" line="25" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/sharings/save.json" timestamp="1525816090492">
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="19" />
-        <mark key="." line="23" column="19" />
-        <mark key="^" line="23" column="19" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/.env" timestamp="1521489820080">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="1" column="34" />
@@ -281,11 +275,12 @@
         <mark key="." line="60" column="80" />
         <mark key="^" line="60" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1525816816888">
-        <mark key="[" line="2844" column="29" />
-        <mark key="]" line="2844" column="30" />
-        <mark key="." line="2844" column="30" />
-        <mark key="^" line="2457" column="63" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1525819399076">
+        <mark key="'" line="2382" column="25" />
+        <mark key="[" line="2487" column="27" />
+        <mark key="]" line="2487" column="27" />
+        <mark key="." line="2487" column="27" />
+        <mark key="^" line="2487" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/index.js" timestamp="1520462062710">
         <mark key="[" line="24" column="27" />
@@ -505,12 +500,12 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1525816455239">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1525819122378">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="251" column="0" />
-        <mark key="." line="251" column="0" />
-        <mark key="^" line="250" column="25" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="0" />
+        <mark key="." line="226" column="0" />
+        <mark key="^" line="226" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.test.nginx" timestamp="1523372998307">
         <mark key="[" line="122" column="0" />
@@ -654,11 +649,10 @@
         <mark key="^" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1525815638520">
-        <mark key="[" line="689" column="52" />
-        <mark key="]" line="689" column="64" />
-        <mark key="." line="689" column="64" />
-        <mark key="^" line="689" column="64" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1525818149805">
+        <mark key="[" line="662" column="0" />
+        <mark key="]" line="662" column="0" />
+        <mark key="." line="662" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/index.html" timestamp="1521659886559">
         <mark key="[" line="5" column="4" />
@@ -827,7 +821,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="111" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="120" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="129" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
@@ -927,10 +920,11 @@
       <jump line="72" column="45" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
       <jump line="68" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/network.js" />
       <jump line="196" column="58" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/network.js" />
+      <jump line="2381" column="25" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3VyZmFjZVZpZGVvIA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -945,55 +939,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">c3VyZmFjZVZpZGVvIA==</text>
       </register>
       <register name="/" type="4">
-        <text>zoom</text>
+        <text>firstVi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgRm9sZGVyID0gZHluYW1vb3NlLm1vZGVsKGNvbmZpZy5EREIudGFibGVzLmZvbGRlcnMubmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5nZXRUeXBlKCkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2coc2hhcmVkRm9sZGVyKQogICAgICAgIGNvbnNvbGUubG9nKHZpZGVvRm9sZGVyKQogICAgICAgIGNvbnNvbGUubG9nKGlzUGFyZW50KQogICAgICAgIC8vIGNvbnNvbGUubG9nKHRoaXMp</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzaGFyaW5nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBGb2xkZXIgPSBkeW5hbW9vc2UubW9kZWwoY29uZmlnLkREQi50YWJsZXMuZm9sZGVycy5uYW1lKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsZXQgbmV3VmlkZW8gPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2coc2hhcmVkRm9sZGVyKQogICAgICAgIGNvbnNvbGUubG9nKHZpZGVvRm9sZGVyKQogICAgICAgIGNvbnNvbGUubG9nKGlzUGFyZW50KQogICAgICAgIC8vIGNvbnNvbGUubG9nKHRoaXMp</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIFZpZGVvCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBGb2xkZXIgPSBkeW5hbW9vc2UubW9kZWwoY29uZmlnLkREQi50YWJsZXMuZm9sZGVycy5uYW1lKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBsZXQgbmV3VmlkZW8gPSAK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>zoom</last-search>
+      <last-search>firstVi</last-search>
       <last-offset />
-      <last-pattern>zoom</last-pattern>
+      <last-pattern>firstVi</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute encoding="base64">XDxWVUxDQU1cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1001,7 +995,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcmRlcl9udW9zbWJlclw+</entry>
         <entry encoding="base64">XDx3Y19vcmRlcl81OTcxMGU3YjE1MzA4XD4=</entry>
         <entry encoding="base64">XDx3Y19vcmRlcm9zXzU5NzEwZTdiMTUzMDhcPg==</entry>
         <entry encoding="base64">XDxhcm5cPg==</entry>
@@ -1021,6 +1014,7 @@
         <entry>compr</entry>
         <entry>bill</entry>
         <entry>zoom</entry>
+        <entry>firstVi</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
