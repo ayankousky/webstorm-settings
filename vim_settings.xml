@@ -275,12 +275,12 @@
         <mark key="." line="60" column="80" />
         <mark key="^" line="60" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1525821013031">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1525822105579">
         <mark key="'" line="903" column="18" />
-        <mark key="[" line="2504" column="48" />
-        <mark key="]" line="2504" column="48" />
-        <mark key="^" line="2504" column="48" />
-        <mark key="." line="2504" column="48" />
+        <mark key="[" line="2519" column="48" />
+        <mark key="]" line="2519" column="59" />
+        <mark key="^" line="2519" column="59" />
+        <mark key="." line="2519" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/index.js" timestamp="1520462062710">
         <mark key="[" line="24" column="27" />
@@ -403,13 +403,6 @@
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/iam/lambda_policy.json" timestamp="1524442257190">
-        <mark key="'" line="11" column="4" />
-        <mark key="[" line="96" column="53" />
-        <mark key="]" line="96" column="54" />
-        <mark key="^" line="96" column="54" />
-        <mark key="." line="96" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yieldKit.js" timestamp="1525555851248" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/base.js" timestamp="1517979329471">
@@ -537,13 +530,6 @@
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" timestamp="1524633933172">
-        <mark key="'" line="285" column="0" />
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="22" />
-        <mark key="^" line="23" column="22" />
-        <mark key="." line="23" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/docker-compose.test.yml" timestamp="1523373159006">
         <mark key="[" line="62" column="20" />
@@ -751,13 +737,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1525587389377" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1525215779913">
-        <mark key="'" line="177" column="9" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="70" column="16" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/clicks_counter.js" timestamp="1520967010024">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -796,13 +775,6 @@
         <mark key="]" line="30" column="17" />
         <mark key="." line="30" column="17" />
         <mark key="^" line="30" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/.gitignore" timestamp="1524994811752">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="262" column="29" />
-        <mark key="]" line="262" column="29" />
-        <mark key="^" line="262" column="29" />
-        <mark key="." line="262" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/tmp/split_video/ffmpeg_run.sh" timestamp="1515624101929">
         <mark key="[" line="7" column="18" />
@@ -952,7 +924,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2aWRlb0ZvbGRlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -976,37 +948,37 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpc1BhcmVudCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2aWRlb0ZvbGRlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzaGFyZWRGb2xkZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpc1BhcmVudCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2hhcmVkRm9sZGVyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2aWRlb0ZvbGRlcikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzaGFyZWRGb2xkZXIpCg==</text>
       </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpc1BhcmVudCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
