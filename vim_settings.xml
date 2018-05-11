@@ -93,7 +93,6 @@
         <mark key="^" line="26" column="50" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/comprigo.js" timestamp="1525680058757" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1524416705567">
         <mark key="[" line="464" column="18" />
         <mark key="]" line="464" column="25" />
@@ -275,11 +274,11 @@
         <mark key="^" line="60" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1525845613246">
-        <mark key="'" line="2935" column="18" />
-        <mark key="[" line="3175" column="0" />
-        <mark key="]" line="3175" column="0" />
-        <mark key="^" line="2694" column="57" />
-        <mark key="." line="3175" column="0" />
+        <mark key="'" line="2993" column="18" />
+        <mark key="[" line="3233" column="0" />
+        <mark key="]" line="3233" column="0" />
+        <mark key="^" line="2752" column="57" />
+        <mark key="." line="3233" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/index.js" timestamp="1520462062710">
         <mark key="[" line="24" column="27" />
@@ -403,7 +402,6 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yieldKit.js" timestamp="1525555851248" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/base.js" timestamp="1517979329471">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="8" column="29" />
@@ -467,7 +465,6 @@
         <mark key="^" line="52" column="28" />
         <mark key="." line="52" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/video.js" timestamp="1524997675468" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/_functions.js" timestamp="1525207447363">
         <mark key="[" line="20" column="4" />
         <mark key="]" line="174" column="6" />
@@ -486,7 +483,6 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/node_modules/concurrently/src/main.js" timestamp="1525656746438" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/package.json" timestamp="1525680394494">
         <mark key="[" line="29" column="24" />
         <mark key="]" line="29" column="22" />
@@ -660,6 +656,9 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1526021235151">
+        <mark key="'" line="536" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1520370466670">
         <mark key="[" line="123" column="12" />
         <mark key="]" line="123" column="21" />
@@ -708,7 +707,6 @@
         <mark key="." line="17" column="35" />
         <mark key="^" line="17" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/index.js" timestamp="1525380222095" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/Dockerfile" timestamp="1521488966217">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="18" />
@@ -736,7 +734,6 @@
       <file name="/JavaScript Console" timestamp="1518733769204">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1525587389377" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/clicks_counter.js" timestamp="1520967010024">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -821,7 +818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/.gitignore" />
       <jump line="334" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/_functions.js" />
       <jump line="662" column="53" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" />
@@ -921,6 +917,7 @@
       <jump line="3064" column="18" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="2992" column="20" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="2932" column="18" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
+      <jump line="536" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
