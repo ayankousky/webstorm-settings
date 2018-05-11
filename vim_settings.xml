@@ -159,12 +159,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1525800371757">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1526074955450">
         <mark key="'" line="87" column="0" />
-        <mark key="[" line="612" column="0" />
-        <mark key="]" line="612" column="0" />
-        <mark key="^" line="15" column="152" />
-        <mark key="." line="612" column="0" />
+        <mark key="[" line="316" column="0" />
+        <mark key="]" line="316" column="0" />
+        <mark key="^" line="315" column="28" />
+        <mark key="." line="316" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -932,8 +932,8 @@
       <jump line="536" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHVidW50dTIwMTgtMDUtMDEgMTE6MzQ6NTcK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -954,40 +954,40 @@
         <text encoding="base64">XDxjb25zb2xlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKDEpCg==</text>
+        <text encoding="base64">ICAgIHRpbWVvdXQ6IDQ1Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaXNQYXJlbnQgPSBGb2xkZXIuaXNQYXJlbnQoc2hhcmVkRm9sZGVyLmxvY2FsUGF0aCwgdmlkZW9Gb2xkZXIubG9jYWxQYXRoKQo=</text>
+        <text encoding="base64">ICAgIHVidW50dTIwMTgtMDUtMDEgMTE6MzQ6NTcK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzaGFyaW5nKQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgaXNQYXJlbnQgPSBGb2xkZXIuaXNQYXJlbnQoc2hhcmVkRm9sZGVyLmxvY2FsUGF0aCwgdmlkZW9Gb2xkZXIubG9jYWxQYXRoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzaGFyaW5nKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRlbGV0ZVJlcy5ib2R5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRlbGV0ZVJlcy5ib2R5KQo=</text>
       </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRlbGV0ZVJlcy5ib2R5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRlbGV0ZVJlcy5ib2R5KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvc25vbmxlLmxvZyhkZWxldGVSZXMuYm9keSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRlbGV0ZVJlcy5ib2R5KQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
