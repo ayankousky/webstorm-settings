@@ -201,6 +201,12 @@
         <mark key="." line="15" column="26" />
         <mark key="^" line="15" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/reporter/reports/rae_daily.js" timestamp="1526072269939">
+        <mark key="[" line="134" column="50" />
+        <mark key="]" line="134" column="56" />
+        <mark key="." line="134" column="56" />
+        <mark key="^" line="134" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/index.html" timestamp="1518239816325">
         <mark key="[" line="7" column="47" />
         <mark key="]" line="7" column="47" />
@@ -926,8 +932,8 @@
       <jump line="536" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaXNQYXJlbnQgPSBGb2xkZXIuaXNQYXJlbnQoc2hhcmVkRm9sZGVyLmxvY2FsUGF0aCwgdmlkZW9Gb2xkZXIubG9jYWxQYXRoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -942,7 +948,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zb2xlXD4=</text>
