@@ -99,6 +99,12 @@
         <mark key="^" line="26" column="50" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/nginx/app/index.html" timestamp="1526204867666">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1524416705567">
         <mark key="[" line="464" column="18" />
         <mark key="]" line="464" column="25" />
@@ -194,6 +200,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="^" line="34" column="1" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/nginx/config.nginx" timestamp="1526205400888">
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="6" column="55" />
+        <mark key="^" line="6" column="55" />
+        <mark key="." line="6" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1521151591109">
         <mark key="[" line="13" column="33" />
@@ -629,15 +641,6 @@
         <mark key="." line="117" column="0" />
         <mark key="^" line="117" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1525686357305">
-        <mark key="'" line="72" column="45" />
-        <mark key="k" line="197" column="55" />
-        <mark key="[" line="382" column="0" />
-        <mark key="m" line="197" column="55" />
-        <mark key="]" line="382" column="32" />
-        <mark key="." line="382" column="0" />
-        <mark key="^" line="335" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/index.js" timestamp="1520436335838">
         <mark key="[" line="128" column="20" />
         <mark key="]" line="128" column="25" />
@@ -945,7 +948,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>adblocker.website</text>
+        <text>client</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -960,7 +963,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>adblocker.website</text>
+        <text>client</text>
       </register>
       <register name="/" type="4">
         <text>adblocker.website</text>

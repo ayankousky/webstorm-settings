@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="docker" type="Dockerfile" />
       <mapping ext="dockerfile" type="Dockerfile" />
+      <mapping pattern="access_log" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="4" type="YAML" />
