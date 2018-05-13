@@ -471,10 +471,11 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/req.sh" timestamp="1526142278104">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/req.sh" timestamp="1526142701554">
+        <mark key="'" line="0" column="490" />
+        <mark key="[" line="0" column="490" />
+        <mark key="]" line="0" column="490" />
+        <mark key="." line="0" column="490" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/click_stat.js" timestamp="1518040191357">
         <mark key="[" line="51" column="26" />
@@ -841,7 +842,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/_functions.js" />
       <jump line="662" column="53" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" />
       <jump line="88" column="7" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" />
@@ -941,10 +941,11 @@
       <jump line="2992" column="20" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="2932" column="18" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="536" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="0" column="490" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/req.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>adblocker.website</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -962,7 +963,7 @@
         <text>adblocker.website</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zb2xlXD4=</text>
+        <text>adblocker.website</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRpbWVvdXQ6IDQ1Cg==</text>
@@ -1005,17 +1006,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zb2xlXD4=</last-search>
+      <last-search>adblocker.website</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zb2xlXD4=</last-pattern>
+      <last-pattern>adblocker.website</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute encoding="base64">XDxWVUxDQU1cPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxKU09OXD4=</entry>
         <entry encoding="base64">XDxWVUxDQU1cPg==</entry>
         <entry encoding="base64">XDxmb2xkZXJzXD4=</entry>
         <entry>categories</entry>
@@ -1035,6 +1035,7 @@
         <entry>sharingBody</entry>
         <entry>console.log(</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
+        <entry>adblocker.website</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
