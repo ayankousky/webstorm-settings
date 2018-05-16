@@ -171,7 +171,7 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1526332721416">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1526504691078">
         <mark key="'" line="87" column="0" />
         <mark key="[" line="315" column="0" />
         <mark key="]" line="315" column="15" />
@@ -273,6 +273,12 @@
         <mark key="]" line="25" column="44" />
         <mark key="." line="25" column="44" />
         <mark key="^" line="25" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/sharings/save.json" timestamp="1526504676200">
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="19" />
+        <mark key="." line="30" column="19" />
+        <mark key="^" line="30" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/.env" timestamp="1521489820080">
         <mark key="[" line="0" column="15" />
@@ -649,8 +655,12 @@
         <mark key="^" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1526502682799">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1526504735032">
         <mark key="'" line="628" column="24" />
+        <mark key="[" line="679" column="0" />
+        <mark key="]" line="680" column="20" />
+        <mark key="^" line="680" column="20" />
+        <mark key="." line="680" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/index.html" timestamp="1521659886559">
         <mark key="[" line="5" column="4" />
@@ -922,8 +932,8 @@
       <jump line="242" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgL3ZpZGVvcy8ke3ZpZGVvVG9QdWJsaXNoLmlkfS9wdWJsaXNoP2NoYW5uZWxJZD0ke21haW5Vc2VyUHVibGlzaENoYW5uZWwuaWR9YCkK</text>
+      <register name="&quot;" type="4">
+        <text>2212</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -938,7 +948,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>client</text>
+        <text>2212</text>
       </register>
       <register name="/" type="4">
         <text>adblocker.website</text>
