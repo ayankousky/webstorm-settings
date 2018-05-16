@@ -292,12 +292,6 @@
         <mark key="." line="60" column="80" />
         <mark key="^" line="60" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1526365254130">
-        <mark key="'" line="2604" column="6" />
-        <mark key="[" line="1176" column="0" />
-        <mark key="]" line="1176" column="0" />
-        <mark key="." line="1176" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/index.js" timestamp="1520462062710">
         <mark key="[" line="24" column="27" />
         <mark key="]" line="24" column="27" />
@@ -400,13 +394,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1525815742220">
-        <mark key="'" line="334" column="21" />
-        <mark key="[" line="465" column="0" />
-        <mark key="]" line="465" column="68" />
-        <mark key="." line="340" column="10" />
-        <mark key="^" line="861" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/offer/offer.routes.js" timestamp="1520787050374">
         <mark key="[" line="6" column="16" />
@@ -513,12 +500,12 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1525846075686">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="239" column="68" />
-        <mark key="]" line="239" column="68" />
-        <mark key="." line="239" column="68" />
-        <mark key="^" line="239" column="68" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1526502771887">
+        <mark key="'" line="245" column="0" />
+        <mark key="[" line="162" column="5" />
+        <mark key="]" line="164" column="18" />
+        <mark key="^" line="164" column="18" />
+        <mark key="." line="164" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.test.nginx" timestamp="1523372998307">
         <mark key="[" line="122" column="0" />
@@ -662,11 +649,8 @@
         <mark key="^" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1525846038057">
-        <mark key="[" line="695" column="0" />
-        <mark key="]" line="695" column="0" />
-        <mark key="." line="695" column="0" />
-        <mark key="^" line="615" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1526502682799">
+        <mark key="'" line="628" column="24" />
       </file>
       <file name="$USER_HOME$/Desktop/index.html" timestamp="1521659886559">
         <mark key="[" line="5" column="4" />
@@ -755,7 +739,6 @@
         <mark key="." line="33" column="111" />
         <mark key="^" line="33" column="111" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1526325626130" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/clicks_counter.js" timestamp="1520967010024">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -837,8 +820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="662" column="53" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" />
-      <jump line="88" column="7" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" />
       <jump line="196" column="5" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" />
       <jump line="232" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" />
       <jump line="423" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" />
@@ -937,6 +918,8 @@
       <jump line="536" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="0" column="490" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/req.sh" />
       <jump line="2604" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
+      <jump line="628" column="24" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" />
+      <jump line="242" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
