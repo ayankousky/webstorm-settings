@@ -292,12 +292,12 @@
         <mark key="." line="60" column="80" />
         <mark key="^" line="60" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1526508445643">
-        <mark key="'" line="3962" column="0" />
-        <mark key="[" line="1890" column="0" />
-        <mark key="]" line="1890" column="0" />
-        <mark key="." line="1890" column="0" />
-        <mark key="^" line="3167" column="56" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1526663959910">
+        <mark key="'" line="4507" column="17" />
+        <mark key="[" line="66" column="13" />
+        <mark key="]" line="66" column="14" />
+        <mark key="." line="66" column="14" />
+        <mark key="^" line="66" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/index.js" timestamp="1520462062710">
         <mark key="[" line="24" column="27" />
@@ -323,6 +323,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="33" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1526544076925" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/index.js" timestamp="1519682515418">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -768,7 +769,7 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526507760057">
+      <file name="/Dummy.txt" timestamp="1526544034969">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
@@ -840,11 +841,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
-      <jump line="34" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/offers.js" />
-      <jump line="221" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
-      <jump line="72" column="45" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
-      <jump line="68" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/network.js" />
       <jump line="196" column="58" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/network.js" />
       <jump line="2381" column="25" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="2481" column="22" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
@@ -940,10 +936,15 @@
       <jump line="233" column="12" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
       <jump line="249" column="12" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
       <jump line="253" column="23" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="1655" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
+      <jump line="4464" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
+      <jump line="66" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
+      <jump line="553" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
+      <jump line="4507" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -958,10 +959,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>offersCounter</text>
+        <text>timeo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGxpbmVSZWFkZXIucGF1c2UoKTsK</text>
@@ -1004,9 +1005,9 @@
       </register>
     </registers>
     <search>
-      <last-search>offersCounter</last-search>
+      <last-search>timeo</last-search>
       <last-offset />
-      <last-pattern>offersCounter</last-pattern>
+      <last-pattern>timeo</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute encoding="base64">XDxWVUxDQU1cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1014,8 +1015,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\.down</entry>
-        <entry>warmu</entry>
         <entry>934</entry>
         <entry>save</entry>
         <entry encoding="base64">XDxtb2Nrc1w+</entry>
@@ -1034,6 +1033,8 @@
         <entry>await</entry>
         <entry>needMoreOffer</entry>
         <entry>offersCounter</entry>
+        <entry>setT</entry>
+        <entry>timeo</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
