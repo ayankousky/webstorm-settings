@@ -171,7 +171,7 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1526824905798">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1526827673398">
         <mark key="'" line="441" column="13" />
         <mark key="[" line="274" column="0" />
         <mark key="]" line="274" column="0" />
@@ -674,7 +674,7 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1526825579805">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1526825605259">
         <mark key="'" line="812" column="6" />
         <mark key="[" line="4" column="2" />
         <mark key="k" line="862" column="0" />
@@ -946,8 +946,8 @@
       <jump line="812" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -971,37 +971,37 @@
         <text encoding="base64">ICAgICAgczNsaW5rOiBwdWJsaXNoaW5nVmlkZW8uczNsaW5rIHx8IHB1Ymxpc2hpbmdWaWRlby5zM2tleSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzM2xpbms6IHZpZGVvU291cmNlLnMza2V5LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJpbXBvcnQiLAo=</text>
+        <text encoding="base64">ICAgICAgICBzM2xpbms6IHZpZGVvU291cmNlLnMza2V5LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGtlayA9IDM7Cg==</text>
+        <text encoding="base64">ICAgICJpbXBvcnQiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGtrZSgpOwo=</text>
+        <text encoding="base64">ICAgIGtlayA9IDM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGtrZSgpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
