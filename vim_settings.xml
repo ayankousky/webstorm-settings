@@ -244,6 +244,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1526851060162">
+        <mark key="[" line="57" column="6" />
+        <mark key="]" line="57" column="6" />
+        <mark key="." line="57" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/rae_rules.js" timestamp="1520795724733">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -542,6 +547,12 @@
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" timestamp="1526851465023">
+        <mark key="[" line="145" column="138" />
+        <mark key="]" line="145" column="149" />
+        <mark key="^" line="145" column="149" />
+        <mark key="." line="145" column="149" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/docker-compose.test.yml" timestamp="1523373159006">
         <mark key="[" line="62" column="20" />
@@ -950,8 +961,8 @@
       <jump line="812" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Iwo=</text>
+      <register name="&quot;" type="4">
+        <text>.type(large)</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -966,13 +977,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.type(large)</text>
       </register>
       <register name="/" type="4">
         <text>timeo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgczNsaW5rOiBwdWJsaXNoaW5nVmlkZW8uczNsaW5rIHx8IHB1Ymxpc2hpbmdWaWRlby5zM2tleSwK</text>
+        <text encoding="base64">ICAgICAgCWNvbnNvbGUubG9nKDExMTEpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Iwo=</text>
