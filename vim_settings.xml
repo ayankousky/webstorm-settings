@@ -244,7 +244,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1526851060162">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1526879914722">
         <mark key="[" line="57" column="6" />
         <mark key="]" line="57" column="6" />
         <mark key="." line="57" column="6" />
@@ -548,11 +548,11 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" timestamp="1526851465023">
-        <mark key="[" line="145" column="138" />
-        <mark key="]" line="145" column="149" />
-        <mark key="^" line="145" column="149" />
-        <mark key="." line="145" column="149" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" timestamp="1526880390241">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="^" line="184" column="21" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/docker-compose.test.yml" timestamp="1523373159006">
         <mark key="[" line="62" column="20" />
@@ -961,8 +961,8 @@
       <jump line="812" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.type(large)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCWNvbnNvbGUubG9nKGZicHJvcHMucGljdHVyZS5kYXRhLnVybCkK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -977,7 +977,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.type(large)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>timeo</text>
@@ -986,37 +986,37 @@
         <text encoding="base64">ICAgICAgCWNvbnNvbGUubG9nKDExMTEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgICAgCWNvbnNvbGUubG9nKGZicHJvcHMucGljdHVyZS5kYXRhLnVybCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCWNvbnNvbGUubG9nKGZicHJvcHMucGljdHVyZS5kYXRhLnVybCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzM2xpbms6IHZpZGVvU291cmNlLnMza2V5LAo=</text>
+        <text encoding="base64">CQkJCWZicHJvcHMgPSBKU09OLnBhcnNlKGZiUmVzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJpbXBvcnQiLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMTExKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGtlayA9IDM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMTExKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGtrZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMTExKQo=</text>
       </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCWNvbnNvbGUubG9nKDExMTEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
