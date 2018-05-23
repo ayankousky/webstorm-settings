@@ -393,6 +393,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1527102468213">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+        <mark key="^" line="19" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/README.md" timestamp="1521055485064">
         <mark key="[" line="17" column="2" />
         <mark key="]" line="17" column="3" />
@@ -422,6 +428,11 @@
         <mark key="]" line="27" column="18" />
         <mark key="." line="27" column="18" />
         <mark key="^" line="27" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/connexity.js" timestamp="1527102615445">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/analytics/index.js" timestamp="1514499505386">
         <mark key="[" line="20" column="27" />
@@ -478,7 +489,6 @@
         <mark key="." line="44" column="48" />
         <mark key="^" line="44" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/playback-server/vulcam-base/base/playback-server/config/env/dev.json" timestamp="1526988948358" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/test/dev_tests.js" timestamp="1517877773072">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="21" />
@@ -641,7 +651,6 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/playback-server/vulcam-base/base/playback-server/services/UdpExplorer/index.js" timestamp="1526993629828" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/iam/s3/multipart_upload_role_trust.json" timestamp="1521502084822">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="57" />
@@ -982,8 +991,8 @@
       <jump line="816" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRVcGRhdGVEYXRlKQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -998,7 +1007,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>yieldKit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0XD4=</text>
@@ -1007,37 +1016,37 @@
         <text encoding="base64">ICAgICAgcmVzcG9uc2VPYmplY3QubGlrZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGZsaXN0KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRVcGRhdGVEYXRlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coNCkK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKGZsaXN0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coNCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyg2KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMSkK</text>
       </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGV2ZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyg2KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyg1KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGV2ZW50KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyg1KQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
