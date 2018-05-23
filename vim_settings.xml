@@ -393,11 +393,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1527102468213">
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="39" />
-        <mark key="." line="19" column="39" />
-        <mark key="^" line="19" column="39" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1527104467144">
+        <mark key="'" line="41" column="35" />
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="30" />
+        <mark key="." line="19" column="30" />
+        <mark key="^" line="19" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/README.md" timestamp="1521055485064">
         <mark key="[" line="17" column="2" />
@@ -676,6 +677,12 @@
         <mark key="^" line="168" column="20" />
         <mark key="." line="168" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1527104916377">
+        <mark key="[" line="169" column="125" />
+        <mark key="]" line="170" column="33" />
+        <mark key="^" line="170" column="33" />
+        <mark key="." line="170" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/entities/networkManager/index.js" timestamp="1520436335838">
         <mark key="[" line="128" column="20" />
         <mark key="]" line="128" column="25" />
@@ -889,7 +896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2762" column="20" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="2488" column="50" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="2499" column="22" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="3175" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
@@ -989,10 +995,11 @@
       <jump line="22" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="816" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
+      <jump line="41" column="35" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRVcGRhdGVEYXRlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>billigerNet</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1007,46 +1014,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>yieldKit</text>
+        <text>billigerNet</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2VPYmplY3QubGlrZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2tla2VrZWsnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRVcGRhdGVEYXRlKQo=</text>
+        <text encoding="base64">ICAgICAgZmVlZHMub2ZmZXJzRGVsdGEudXJsID0gJ2h0dHBzOi8vZXhwb3J0LnNvbHV0ZS5kZS9rYWxhZF9wcm9kX2V4cG9ydC9kZV9iaWxsaWdlcl8yMDE4MDUyMy0xNzUwNDEub2ZmZXJzX2RlbHRhLmNzdi5neic7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGZsaXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJzIyMjIyMjIyJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coNCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJzExMTEnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMykK</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMikK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRzLm9mZmVyc0RlbHRhKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMSkK</text>
+        <text encoding="base64">ICAgICAgICAgIO+7v3BsYW5TdW1tYXJ5Cg==</text>
       </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyg2KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRVcGRhdGVEYXRlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGV2ZW50KQo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKGZsaXN0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyg1KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coNCkK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
