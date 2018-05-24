@@ -473,6 +473,11 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/index.js" timestamp="1527197683582">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="58" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/.gitignore" timestamp="1521134455711">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -719,6 +724,12 @@
         <mark key="^" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/config/mongoose.js" timestamp="1527198046028">
+        <mark key="[" line="3" column="58" />
+        <mark key="]" line="3" column="62" />
+        <mark key="^" line="3" column="62" />
+        <mark key="." line="3" column="62" />
+      </file>
       <file name="$USER_HOME$/Desktop/index.html" timestamp="1521659886559">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="62" />
@@ -814,6 +825,10 @@
         <mark key="[" line="44" column="12" />
         <mark key="]" line="47" column="12" />
         <mark key="." line="44" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" timestamp="1527197672319">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/clicks_counter.js" timestamp="1520967010024">
         <mark key="[" line="56" column="0" />
@@ -1011,7 +1026,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>${
+  }</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1026,51 +1042,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>${process.env.DB_PORT}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2dWxjYW52aXNpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICwga2V5ID0gJ2NhY2hlZC8xLmpwZycK</text>
+        <text encoding="base64">cHJvY2Vzcy5vbigndW5oYW5kbGVkUmVqZWN0aW9uJywgZXJyID0+IGNvbnNvbGUubG9nKGVycikpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>{
-    // useAccelerateEndpoint: true
+        <text>${
   }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHByb2Nlc3MuZW52LkRCX05BTUUK</text>
+      </register>
+      <register name="3" type="4">
+        <text>${
+  process.env.DB_NAME
+  }</text>
+      </register>
+      <register name="4" type="4">
+        <text>{
+    // useAccelerateEndpoint: true
+  }</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAvLyAgICwga2V5ID0gJ2NoYW5uZWxzLzEzL3ZpZGVvcy8zMjIwLzMyMjAuZnZwJwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAvLyBsZXQgYnVja2V0bmFtZSA9IGNvbmZpZy5CVUNLRVQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ci8vIHZhciBjcmVkcyA9IG5ldyBBV1MuQ3JlZGVudGlhbHMoewovLyAgIGFjY2Vzc0tleUlkOiAnQUtJQUk0UU1XQzc1NUxZU0U1RkEnLAovLyAgIHNlY3JldEFjY2Vzc0tleTogJ0M5YUs4alNjbGxKNFdjRkgvLzlxcnF3KzVuRVV3eXZwYzBJdFRZdGMnCi8vIH0pOwpBV1MuY29uZmlnID0gbmV3IEFXUy5Db25maWcoKTsKQVdTLmNvbmZpZy5hY2Nlc3NLZXlJZCA9ICJBS0lBSTRRTVdDNzU1TFlTRTVGQSI7CkFXUy5jb25maWcuc2VjcmV0QWNjZXNzS2V5ID0gIkM5YUs4alNjbGxKNFdjRkgvLzlxcnF3KzVuRVV3eXZwYzBJdFRZdGMiOwpBV1MuY29uZmlnLnJlZ2lvbiA9ICJ1cy13ZXN0LTIiOw==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBsZXQgYnVja2V0bmFtZSA9IGNvbmZpZy5CVUNLRVQK</text>
       </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
-      <register name="7" type="4">
-        <text>AWS.config = {
-  accessKeyId: 'AKIAI4QMWC755LYSE5FA',
-  secretAccessKey: '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'
-};</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWxzLzEzL3ZpZGVvcy8zMjIwLzMyMjAuZnZwCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Ci8vIHZhciBjcmVkcyA9IG5ldyBBV1MuQ3JlZGVudGlhbHMoewovLyAgIGFjY2Vzc0tleUlkOiAnQUtJQUk0UU1XQzc1NUxZU0U1RkEnLAovLyAgIHNlY3JldEFjY2Vzc0tleTogJ0M5YUs4alNjbGxKNFdjRkgvLzlxcnF3KzVuRVV3eXZwYzBJdFRZdGMnCi8vIH0pOwpBV1MuY29uZmlnID0gbmV3IEFXUy5Db25maWcoKTsKQVdTLmNvbmZpZy5hY2Nlc3NLZXlJZCA9ICJBS0lBSTRRTVdDNzU1TFlTRTVGQSI7CkFXUy5jb25maWcuc2VjcmV0QWNjZXNzS2V5ID0gIkM5YUs4alNjbGxKNFdjRkgvLzlxcnF3KzVuRVV3eXZwYzBJdFRZdGMiOwpBV1MuY29uZmlnLnJlZ2lvbiA9ICJ1cy13ZXN0LTIiOw==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">dnVsY2FudmlzaW9uLXRlc3QtY2xvdWRmcm9udCcKICAvLyAgICwga2V5ID0gJ2NhY2hlZC8yLmpwZycKICBsZXQgYnVja2V0bmFtZSA9IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
