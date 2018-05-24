@@ -725,11 +725,11 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1527194298593">
-        <mark key="[" line="136" column="20" />
-        <mark key="]" line="136" column="21" />
-        <mark key="." line="136" column="21" />
-        <mark key="^" line="136" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1527195311883">
+        <mark key="[" line="141" column="17" />
+        <mark key="]" line="141" column="17" />
+        <mark key="." line="141" column="17" />
+        <mark key="^" line="141" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1520370466670">
         <mark key="[" line="123" column="12" />
@@ -1011,9 +1011,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-    // useAccelerateEndpoint: true
-  }</text>
+        <text>6</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1028,13 +1026,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cached/</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2dWxjYW52aXNpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB1c2VBY2NlbGVyYXRlRW5kcG9pbnQ6IHRydWUK</text>
+        <text encoding="base64">ICAgICwga2V5ID0gJ2NhY2hlZC8xLmpwZycK</text>
       </register>
       <register name="1" type="4">
         <text>{
