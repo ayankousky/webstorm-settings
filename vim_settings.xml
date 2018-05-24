@@ -208,6 +208,7 @@
         <mark key="^" line="6" column="55" />
         <mark key="." line="6" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/sharedVideo.js" timestamp="1527191294410" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1521151591109">
         <mark key="[" line="13" column="33" />
         <mark key="]" line="13" column="33" />
@@ -724,6 +725,12 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1527191618456">
+        <mark key="[" line="138" column="17" />
+        <mark key="]" line="138" column="18" />
+        <mark key="^" line="9" column="6" />
+        <mark key="." line="138" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1520370466670">
         <mark key="[" line="123" column="12" />
         <mark key="]" line="123" column="21" />
@@ -825,7 +832,7 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526988904260">
+      <file name="/Dummy.txt" timestamp="1527190810287">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
@@ -999,7 +1006,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>billigerNet</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1014,46 +1021,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>billigerNet</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2tla2VrZWsnKQo=</text>
+        <text encoding="base64">Ly8gICBsZXQgczMgPSBuZXcgQVdTLlMzKHMzUGFyYW1zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZmVlZHMub2ZmZXJzRGVsdGEudXJsID0gJ2h0dHBzOi8vZXhwb3J0LnNvbHV0ZS5kZS9rYWxhZF9wcm9kX2V4cG9ydC9kZV9iaWxsaWdlcl8yMDE4MDUyMy0xNzUwNDEub2ZmZXJzX2RlbHRhLmNzdi5neic7Cg==</text>
+        <text encoding="base64">CXZhciBjZiA9IHJlcXVpcmNmLmdldFNpZ25lZFVybCgnaHR0cDovL3Rlc3QtY2xvdWRmcm9udC5hbGV4LXRlc3QtZG9tYWluLm5ldC9jaGFubmVscy8yMzE0YzQ5Zi1hZTg1LTRmNGQtOWY1Ny1iZDQ1NGNkNzU3YzAvc3RyZWFtX3ZpZGVvcy9jNDFkZjkzYy1iZmE2LTQ5OTktOTE1NC0zOTVkMjgzZTVkODIvYzQxZGY5M2MtYmZhNi00OTk5LTkxNTQtMzk1ZDI4M2U1ZDgyX21ldGFkYXRhLmpzb24nLCBvcHRpb25zKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJzIyMjIyMjIyJykK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZSgnYXdzLWNsb3VkZnJvbnQtc2lnbicpCgl2YXIgb3B0aW9ucyA9IHtrZXlwYWlySWQ6ICdBUEtBSlBRQUpCWFFXM0tQUkdRUScsIHByaXZhdGVLZXlQYXRoOiAnLi9way1BUEtBSlBRQUpCWFFXM0tQUkdRUS5wZW0nfQoJdmFyIHNpZ25lZFVybCA9IA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJzExMTEnKQo=</text>
+        <text encoding="base64">ICAgICAgZmVlZHMub2ZmZXJzRGVsdGEudXJsID0gJ2h0dHBzOi8vZXhwb3J0LnNvbHV0ZS5kZS9rYWxhZF9wcm9kX2V4cG9ydC9kZV9iaWxsaWdlcl8yMDE4MDUyMy0xNzUwNDEub2ZmZXJzX2RlbHRhLmNzdi5neic7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJzIyMjIyMjIyJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRzLm9mZmVyc0RlbHRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJzExMTEnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIO+7v3BsYW5TdW1tYXJ5Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRVcGRhdGVEYXRlKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRzLm9mZmVyc0RlbHRhKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGZsaXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIO+7v3BsYW5TdW1tYXJ5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coNCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZlZWRVcGRhdGVEYXRlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
