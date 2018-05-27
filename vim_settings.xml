@@ -105,6 +105,12 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
+      <file name="$USER_HOME$/Desktop/distribution_config 2.json" timestamp="1527410957154">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1526888693104">
         <mark key="[" line="464" column="18" />
         <mark key="]" line="464" column="25" />
@@ -208,7 +214,6 @@
         <mark key="^" line="6" column="55" />
         <mark key="." line="6" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/sharedVideo.js" timestamp="1527191294410" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1521151591109">
         <mark key="[" line="13" column="33" />
         <mark key="]" line="13" column="33" />
@@ -772,7 +777,6 @@
         <mark key="." line="51" column="330" />
         <mark key="^" line="53" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/fvpVideo.js" timestamp="1527192171642" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1520563332185">
         <mark key="[" line="230" column="0" />
         <mark key="]" line="230" column="66" />
@@ -848,8 +852,7 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/config/express.js" timestamp="1527199010621" />
-      <file name="/Dummy.txt" timestamp="1527198982912">
+      <file name="/Dummy.txt" timestamp="1527407135450">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
@@ -924,8 +927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2488" column="50" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
-      <jump line="2499" column="22" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="3175" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="3365" column="8" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="1906" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
@@ -1024,11 +1025,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="816" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="41" column="35" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Desktop/distribution_config 2.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/distribution_config 2.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>${
-  }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1043,7 +1045,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>${process.env.DB_PORT}</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2dWxjYW52aXNpb25cPg==</text>
@@ -1051,43 +1053,56 @@
       <register name="0" type="2">
         <text encoding="base64">cHJvY2Vzcy5vbigndW5oYW5kbGVkUmVqZWN0aW9uJywgZXJyID0+IGNvbnNvbGUubG9nKGVycikpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>${
-  }</text>
+      <register name="1" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3MuZW52LkRCX05BTUUK</text>
+        <text encoding="base64">ICAiRVRhZyI6ICJFM0xCV1MwV1RGR0o5UCIK</text>
       </register>
-      <register name="3" type="4">
-        <text>${
-  process.env.DB_NAME
-  }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAiRGlzdHJpYnV0aW9uIjogZGF0aW9uQmF0Y2hlcyI6IDAsCg==</text>
       </register>
       <register name="4" type="4">
         <text>{
-    // useAccelerateEndpoint: true
-  }</text>
+    &quot;Status&quot;: &quot;Deployed&quot;,
+    &quot;DomainName&quot;: &quot;d1fazc4f9iwzid.cloudfront.net&quot;,
+    &quot;InProgressInvali</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyAgICwga2V5ID0gJ2NoYW5uZWxzLzEzL3ZpZGVvcy8zMjIwLzMyMjAuZnZwJwo=</text>
+        <text encoding="base64">ICAgIkFSTiI6ICJhcm46YXdzOmNsb3VkZnJvbnQ6OjM3NDE4MDA5OTQwOTpkaXN0cmlidXRpb24vRTNQMUM1RklVMVU1VVIiCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAvLyBsZXQgYnVja2V0bmFtZSA9IGNvbmZpZy5CVUNLRVQK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IAogICAgIkxhc3RNb2RpZmllZFRpbWUiOiAiMjAxOC0wNS0yNlQxNTo0Mzo1Mi4zMjlaIiwKICAgICJJZCI6ICJFM1AxQzVGSVUxVTVVUiIsCiAgICA=</text>
       </register>
       <register name="v" type="4">
         <text>ndd</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>&quot;ActiveTrustedSigners&quot;: {
+      &quot;Items&quot;: [
+        {
+          &quot;KeyPairIds&quot;: {
+            &quot;Items&quot;: [
+              &quot;APKAJCFG55O5NEMZDRZA&quot;
+            ],
+            &quot;Quantity&quot;: 1
+          },
+          &quot;AwsAccountNumber&quot;: &quot;self&quot;
+        }
+      ],
+      &quot;Enabled&quot;: true,
+      &quot;Quantity&quot;: 1
+    },</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Ci8vIHZhciBjcmVkcyA9IG5ldyBBV1MuQ3JlZGVudGlhbHMoewovLyAgIGFjY2Vzc0tleUlkOiAnQUtJQUk0UU1XQzc1NUxZU0U1RkEnLAovLyAgIHNlY3JldEFjY2Vzc0tleTogJ0M5YUs4alNjbGxKNFdjRkgvLzlxcnF3KzVuRVV3eXZwYzBJdFRZdGMnCi8vIH0pOwpBV1MuY29uZmlnID0gbmV3IEFXUy5Db25maWcoKTsKQVdTLmNvbmZpZy5hY2Nlc3NLZXlJZCA9ICJBS0lBSTRRTVdDNzU1TFlTRTVGQSI7CkFXUy5jb25maWcuc2VjcmV0QWNjZXNzS2V5ID0gIkM5YUs4alNjbGxKNFdjRkgvLzlxcnF3KzVuRVV3eXZwYzBJdFRZdGMiOwpBV1MuY29uZmlnLnJlZ2lvbiA9ICJ1cy13ZXN0LTIiOw==</text>
+        <text>${
+  }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2Nlc3MuZW52LkRCX05BTUUK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
