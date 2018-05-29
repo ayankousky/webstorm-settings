@@ -136,6 +136,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/vulcam-base/.gitignore" timestamp="1527630319221">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/nginx/conf.prod.nginx" timestamp="1520795531125">
         <mark key="[" line="28" column="3" />
         <mark key="]" line="32" column="2" />
@@ -1025,7 +1030,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuc3RhdHVzQ29kZSkK</text>
+        <text encoding="base64">Ki5kZWIK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1049,7 +1054,7 @@
         <text encoding="base64">ICAgICAgICAgIC5zZW5kKHtlbWFpbDogbW9ja3MudXNlci5nZXRMb2dpbkZpZWxkcygnbWFpbicpLmVtYWlsLCBwYXNzd29yZDogbW9ja3MudXNlci5nZXRMb2dpbkZpZWxkcygnbWFpbicpLnBhc3N3b3JkfSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuc3RhdHVzQ29kZSkK</text>
+        <text encoding="base64">Ki5kZWIK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1058,28 +1063,28 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuc3RhdHVzQ29kZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuYm9keSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuc3RhdHVzQ29kZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuYm9keSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuYm9keS51cGRhdGVkLnNob3VsZC5iZS5lcShmYWxzZSk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">bW9ja3MuZ2V0U2VydmVyVXJsKCkpCiAgICAgICAgICAucGF0Y2goJy91c2VyL3Bhc3N3b3JkJykKICAgICAgICAgIC5zZXQoJ0F1dGhvcml6YXRpb24nLCBtYWluVXNlclRva2VuKQogICAgICAgICAgLnNldCgnQ29udGVudC1UeXBlJywgJ2FwcGxpY2F0aW9uL2pzb24nKQogICAgICAgICAgLnNlbmQoewogICAgICAgICAgICAib2xkUGFzc3dvcmQiOiA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHQuYm9keS51cGRhdGVkLnNob3VsZC5iZS5lcShmYWxzZSk7Cgo=</text>
       </register>
       <register name="v" type="4">
         <text>^f.hpj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuYm9keSkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">bW9ja3MuZ2V0U2VydmVyVXJsKCkpCiAgICAgICAgICAucGF0Y2goJy91c2VyL3Bhc3N3b3JkJykKICAgICAgICAgIC5zZXQoJ0F1dGhvcml6YXRpb24nLCBtYWluVXNlclRva2VuKQogICAgICAgICAgLnNldCgnQ29udGVudC1UeXBlJywgJ2FwcGxpY2F0aW9uL2pzb24nKQogICAgICAgICAgLnNlbmQoewogICAgICAgICAgICAib2xkUGFzc3dvcmQiOiA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuYm9keS5lcnJvci5zaG91bGQuYmUubm90Lm51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuYm9keSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5zZW5kKHtlbWFpbDogbW9ja3MudXNlci5nZXRMb2dpbkZpZWxkcygnbWFpbicpLmVtYWlsLCBwYXNzd29yZDogJ2FueV93cm9uZ19wYXNzd29yZCd9KTsK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuYm9keS5lcnJvci5zaG91bGQuYmUubm90Lm51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
