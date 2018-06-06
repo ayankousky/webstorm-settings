@@ -456,6 +456,11 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1528264336005">
+        <mark key="[" line="362" column="0" />
+        <mark key="]" line="362" column="117" />
+        <mark key="." line="362" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/offer/offer.routes.js" timestamp="1520787050374">
         <mark key="[" line="6" column="16" />
         <mark key="]" line="6" column="16" />
@@ -825,11 +830,11 @@
         <mark key="]" line="47" column="12" />
         <mark key="." line="44" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/channel_video.js" timestamp="1528236082307">
-        <mark key="[" line="336" column="0" />
-        <mark key="]" line="336" column="0" />
-        <mark key="^" line="340" column="69" />
-        <mark key="." line="336" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/channel_video.js" timestamp="1528264569819">
+        <mark key="'" line="1601" column="29" />
+        <mark key="[" line="1427" column="0" />
+        <mark key="]" line="1427" column="0" />
+        <mark key="." line="1427" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1527447345462">
         <mark key="[" line="18" column="0" />
@@ -932,7 +937,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2556" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="2584" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="2644" column="23" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="2716" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
@@ -1032,10 +1036,11 @@
       <jump line="182" column="35" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/users/user_api.js" />
       <jump line="37" column="12" filename="$USER_HOME$/Desktop/nginx_conf/conf.nginx" />
       <jump line="243" column="34" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/channel_video.js" />
+      <jump line="1601" column="29" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/channel_video.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVxUmVzdWx0LmhlYWRlcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuYm9keSkK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1056,24 +1061,27 @@
         <text encoding="base64">XDxyb290XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAocmVxUmVzdWx0LmhlYWRlcnNbJ2NvbnRlbnQtbGVuZ3RoJ10gLSAwKS5zaG91bGQuYmUuZ3JlYXRlclRoYW4oMTEwMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHZpZGVvLmlzQ3AgPSB2aWRlby5wZXJtaXNzaW9ucyA9PT0gMTsgLy8gKioqVG9EbyoqKjogaGFyZGNvZGVkIHdoaWxlIHdlIGhhdmUgb25seSBvbmUgcGVybWlzc2lvbnMgZm9yIHZpZGVvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVxUmVzdWx0LmhlYWRlcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuYm9keSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuZ2V0KCcvdXNlci9pbmZvJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVxUmVzdWx0LmhlYWRlcnMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAucHV0KGAvdXNlci91cGRhdGUvJHttYWluVXNlci5pZH0vcGljdHVyZWApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuZ2V0KCcvdXNlci9pbmZvJykK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAucHV0KGAvdXNlci91cGRhdGUvJHttYWluVXNlci5pZH0vcGljdHVyZWApCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKGF3YWl0IGNoYQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>i
               .request(mocks.getServerUrl())
               .get(`/channels/${mainUserPublishChannel.id}`)
@@ -1081,20 +1089,17 @@
               .set('Content-Type', 'application/json')
               .send()).body);</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVxUmVzdWx0LmhlYWRlcnMpCg==</text>
-      </register>
       <register name="v" type="4">
         <text>^f.hpj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVxUmVzdWx0LmhlYWRlcnMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuZ2V0KCcvdXNlci9pbmZvJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBsb2NhbGhvc3Q7CgogICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAuZ2V0KCcvdXNlci9pbmZvJykK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
