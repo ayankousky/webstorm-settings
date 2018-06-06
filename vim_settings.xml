@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onVideoUploaded.json" timestamp="1528317939303">
-        <mark key="[" line="29" column="41" />
-        <mark key="]" line="29" column="47" />
-        <mark key="." line="29" column="47" />
-        <mark key="^" line="29" column="47" />
-      </file>
       <file name="$USER_HOME$/Desktop/nginx_conf/prod.nginx" timestamp="1528149631928">
         <mark key="[" line="15" column="15" />
         <mark key="]" line="15" column="29" />
@@ -89,32 +83,21 @@
         <mark key="]" line="2" column="58" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/nginx_conf/conf.nginx" timestamp="1528060908517">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="29" column="5" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" timestamp="1528323476889">
+        <mark key="[" line="27" column="75" />
+        <mark key="]" line="27" column="83" />
+        <mark key="." line="27" column="83" />
+        <mark key="^" line="27" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" timestamp="1528230205845">
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="4" />
-        <mark key="." line="31" column="4" />
-        <mark key="^" line="31" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/cleanAfter.js" timestamp="1527447187509">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/cleanAfter.js" timestamp="1528323549892">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/eslinter/.eslintrc.json" timestamp="1526735185807">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/get.json" timestamp="1528316346566">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/users/user_api.js" timestamp="1528235492501" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/channel.js" timestamp="1528235644932">
@@ -241,8 +224,8 @@
       <jump line="602" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb25maWcuRERCLnRhYmxlcy52aWRlb3MubmFtZSkK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -257,46 +240,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text>warmup: tr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGluZGV4SnNvbkVudHJ5ID0gcmVzdWx0LkNvbnRlbnRzLmZpbmQoYyA9PiBjLktleS5lbmRzV2l0aCgnaW5kZXguanNvbicpKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtYWluVXNlclB1Ymxpc2hDaGFubmVsLmlkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb25maWcuRERCLnRhYmxlcy52aWRlb3MubmFtZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtYWluVXNlckJhY2t1cHNDaGFubmVsLmlkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzM2xpc3RSZXN1bHQuTmV4dENvbnRpbnVhdGlvblRva2VuKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text>Channel.id)
+  console.log(secondUserBackupsChannel.id)
+  console.log(mainUserPublishChannel.id)
+  console.log(mainUserSharings</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coY29uZmlnLnNlcnZlcmxlc3MpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5kZXhKc29uRW50cnkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzM2xpc3RSZXN1bHQuTmV4dENvbnRpbnVhdGlvblRva2VuKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleEpzb25FbnRyeSA9IHJlc3VsdC5Db250ZW50cy5maW5kKGMgPT4gYy5LZXkuZW5kc1dpdGgoJ2luZGV4Lmpzb24nKSkuS2V5Owo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
