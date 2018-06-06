@@ -49,12 +49,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1527447352490">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1528327440995">
         <mark key="'" line="4689" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="29" />
-        <mark key="^" line="192" column="8" />
-        <mark key="." line="21" column="0" />
+        <mark key="[" line="1109" column="79" />
+        <mark key="]" line="1109" column="210" />
+        <mark key="." line="1109" column="210" />
+        <mark key="^" line="1109" column="210" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onNewLike.json" timestamp="1526968929017">
         <mark key="[" line="21" column="12" />
@@ -71,12 +71,12 @@
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1528321704006">
-        <mark key="'" line="855" column="6" />
-        <mark key="[" line="856" column="25" />
-        <mark key="]" line="857" column="26" />
-        <mark key="^" line="857" column="26" />
-        <mark key="." line="857" column="26" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1528327165408">
+        <mark key="'" line="801" column="25" />
+        <mark key="[" line="360" column="0" />
+        <mark key="]" line="360" column="0" />
+        <mark key="^" line="360" column="25" />
+        <mark key="." line="360" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/index.js" timestamp="1527197683582">
         <mark key="[" line="2" column="0" />
@@ -111,7 +111,7 @@
         <mark key="]" line="47" column="12" />
         <mark key="." line="44" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/channel_video.js" timestamp="1528268394165">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/channel_video.js" timestamp="1528327206590">
         <mark key="'" line="571" column="29" />
         <mark key="[" line="347" column="0" />
         <mark key="]" line="347" column="0" />
@@ -122,7 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3950" column="52" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="3966" column="55" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="4163" column="57" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="2765" column="55" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
@@ -222,10 +221,11 @@
       <jump line="582" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="592" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="602" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
+      <jump line="801" column="25" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb25maWcuRERCLnRhYmxlcy52aWRlb3MubmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -246,43 +246,40 @@
         <text>warmup: tr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtYWluVXNlclB1Ymxpc2hDaGFubmVsLmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb25maWcuRERCLnRhYmxlcy52aWRlb3MubmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtYWluVXNlckJhY2t1cHNDaGFubmVsLmlkKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>Channel.id)
-  console.log(secondUserBackupsChannel.id)
-  console.log(mainUserPublishChannel.id)
-  console.log(mainUserSharings</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coNCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY29uZmlnLnNlcnZlcmxlc3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzM2xpc3RSZXN1bHQuTmV4dENvbnRpbnVhdGlvblRva2VuKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMSkK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
