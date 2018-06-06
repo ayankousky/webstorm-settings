@@ -49,12 +49,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1528327440995">
-        <mark key="'" line="4689" column="0" />
-        <mark key="[" line="1109" column="79" />
-        <mark key="]" line="1109" column="210" />
-        <mark key="." line="1109" column="210" />
-        <mark key="^" line="1109" column="210" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1528328785527">
+        <mark key="'" line="1105" column="26" />
+        <mark key="[" line="1101" column="41" />
+        <mark key="]" line="1101" column="42" />
+        <mark key="." line="1101" column="42" />
+        <mark key="^" line="1101" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onNewLike.json" timestamp="1526968929017">
         <mark key="[" line="21" column="12" />
@@ -111,8 +111,8 @@
         <mark key="]" line="47" column="12" />
         <mark key="." line="44" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/channel_video.js" timestamp="1528327206590">
-        <mark key="'" line="571" column="29" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/channel_video.js" timestamp="1528328706545">
+        <mark key="'" line="1680" column="30" />
         <mark key="[" line="347" column="0" />
         <mark key="]" line="347" column="0" />
         <mark key="." line="347" column="0" />
@@ -122,8 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3966" column="55" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
-      <jump line="4163" column="57" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="2765" column="55" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="2803" column="57" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="3962" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
@@ -222,6 +220,8 @@
       <jump line="592" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="602" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="801" column="25" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
+      <jump line="1680" column="30" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/channel_video.js" />
+      <jump line="1105" column="26" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
