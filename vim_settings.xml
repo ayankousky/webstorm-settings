@@ -83,11 +83,11 @@
         <mark key="]" line="2" column="58" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" timestamp="1528323476889">
-        <mark key="[" line="27" column="75" />
-        <mark key="]" line="27" column="83" />
-        <mark key="." line="27" column="83" />
-        <mark key="^" line="27" column="83" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" timestamp="1528329923438">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+        <mark key="^" line="18" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/cleanAfter.js" timestamp="1528323549892">
         <mark key="[" line="53" column="0" />
@@ -224,8 +224,8 @@
       <jump line="1105" column="26" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>prod</text>
       </register>
       <register name="l" type="4">
         <keys>
