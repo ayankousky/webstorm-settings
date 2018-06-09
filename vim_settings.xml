@@ -783,10 +783,10 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/serverless-plugin-warmup/src/index.js" timestamp="1528562406905">
-        <mark key="[" line="51" column="334" />
-        <mark key="]" line="51" column="335" />
-        <mark key="." line="51" column="335" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/serverless-plugin-warmup/src/index.js" timestamp="1528564085186">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
         <mark key="^" line="52" column="152" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1527415719291">
@@ -1048,8 +1048,8 @@
       <jump line="1105" column="26" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHBvbGljeSkpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1073,41 +1073,41 @@
         <text encoding="base64">cz0+cy5BY3Rpb25bMF0gIT09ICdsb2dzOkNyZWF0ZUxvZ1N0cmVhbSc=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJpc1B1YmxpYyI6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHBvbGljeSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGxldCBnbG9iYWxSb2xlTmFtZSA9IHRoaXMuc2VydmVybGVzcy5wcm92aWRlcnMuYXdzLm5hbWluZy5nZXRSb2xlTG9naWNhbElkKCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJpc1B1YmxpYyI6IGZhbHNlCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>,
     &quot;description&quot;: &quot;Very long description&quot;,
     &quot;type&quot;: &quot;fvp&quot;,
     &quot;channelId&quot;: &quot;21&quot;,
     &quot;localPath&quot;: &quot;/my 123&quot;</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coNCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coNCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
