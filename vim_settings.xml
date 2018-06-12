@@ -192,12 +192,12 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1528578068222">
-        <mark key="'" line="602" column="0" />
-        <mark key="[" line="611" column="0" />
-        <mark key="]" line="611" column="0" />
-        <mark key="^" line="334" column="9" />
-        <mark key="." line="611" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1528834222376">
+        <mark key="'" line="522" column="10" />
+        <mark key="[" line="525" column="53" />
+        <mark key="]" line="525" column="58" />
+        <mark key="^" line="525" column="58" />
+        <mark key="." line="525" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -791,10 +791,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/serverless-plugin-warmup/src/index.js" timestamp="1528565206100">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/serverless-plugin-warmup/src/index.js" timestamp="1528834494489">
+        <mark key="[" line="37" column="65" />
+        <mark key="]" line="37" column="65" />
+        <mark key="^" line="37" column="65" />
+        <mark key="." line="37" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1528578373472">
         <mark key="[" line="248" column="92" />
@@ -814,6 +815,7 @@
         <mark key="." line="17" column="35" />
         <mark key="^" line="17" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/package.json" timestamp="1528834371084" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/Dockerfile" timestamp="1521488966217">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="18" />
@@ -895,6 +897,10 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="27" />
       </file>
+      <file name="$USER_HOME$/Desktop/fix_for_cloudwatch_policy.js" timestamp="1528834485891">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/reports/subid_cost.js" timestamp="1520462943432">
         <mark key="[" line="44" column="68" />
         <mark key="]" line="44" column="96" />
@@ -958,7 +964,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3962" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="195" column="17" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
       <jump line="65" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
       <jump line="268" column="29" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
@@ -1058,10 +1063,11 @@
       <jump line="1105" column="26" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" />
+      <jump line="522" column="10" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dev</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgJ2JlZm9yZTpkZXBsb3k6ZGVwbG95JzogdGhpcy5iZWZvcmVEZXBsb3kuYmluZCh0aGlzKSwK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1082,7 +1088,7 @@
         <text>dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKiAyNiB1cGRhdGUgbGlua3MgdGFibGUgKioqKioqKioqKioqKioqKiovCg==</text>
+        <text encoding="base64">ICAgICAgJ2JlZm9yZTpkZXBsb3k6ZGVwbG95JzogdGhpcy5iZWZvcmVEZXBsb3kuYmluZCh0aGlzKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhmb2xkZXJzKQo=</text>
