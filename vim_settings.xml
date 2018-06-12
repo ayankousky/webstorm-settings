@@ -653,7 +653,8 @@
         <mark key="." line="11" column="44" />
         <mark key="^" line="11" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" timestamp="1528567786967">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" timestamp="1528786895006">
+        <mark key="'" line="33" column="0" />
         <mark key="[" line="18" column="13" />
         <mark key="]" line="18" column="16" />
         <mark key="." line="18" column="16" />
@@ -957,7 +958,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2803" column="57" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="3962" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="195" column="17" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
       <jump line="65" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
@@ -1057,10 +1057,11 @@
       <jump line="1680" column="30" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/channel_video.js" />
       <jump line="1105" column="26" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXV0b21hdGljYWxseSA=</text>
+        <text>dev</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1075,10 +1076,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXV0b21hdGljYWxseSA=</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
-        <text>warmup: tr</text>
+        <text>dev</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyoqKioqKioqKioqKioqKiAyNiB1cGRhdGUgbGlua3MgdGFibGUgKioqKioqKioqKioqKioqKiovCg==</text>
@@ -1124,9 +1125,9 @@
       </register>
     </registers>
     <search>
-      <last-search>warmup: tr</last-search>
+      <last-search>dev</last-search>
       <last-offset />
-      <last-pattern>warmup: tr</last-pattern>
+      <last-pattern>dev</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute encoding="base64">XDxWVUxDQU1cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1134,7 +1135,6 @@
     </search>
     <history>
       <history-search>
-        <entry>console.log(</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry>adblocker.website</entry>
         <entry>, returnedVideo</entry>
@@ -1154,6 +1154,7 @@
         <entry encoding="base64">XDxyb290XD4=</entry>
         <entry encoding="base64">XDxpbmRleEpzb25LZXlcPg==</entry>
         <entry>warmup: tr</entry>
+        <entry>dev</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
