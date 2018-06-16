@@ -105,7 +105,7 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1528850539104">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1528963769629">
         <mark key="[" line="202" column="0" />
         <mark key="]" line="202" column="0" />
         <mark key="." line="202" column="0" />
@@ -241,7 +241,7 @@
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1528848956074">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1529111506500">
         <mark key="'" line="48" column="10" />
         <mark key="[" line="1945" column="0" />
         <mark key="]" line="1945" column="28" />
@@ -872,7 +872,8 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="113" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1526888647460">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1529089637325">
+        <mark key="'" line="1177" column="0" />
         <mark key="[" line="371" column="43" />
         <mark key="]" line="371" column="43" />
         <mark key="." line="371" column="43" />
@@ -884,7 +885,7 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528850525082">
+      <file name="/Dummy.txt" timestamp="1528963742218">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
@@ -969,8 +970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="12" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
-      <jump line="252" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
       <jump line="148" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
       <jump line="163" column="12" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
       <jump line="223" column="15" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
@@ -1069,6 +1068,8 @@
       <jump line="18" column="68" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" />
       <jump line="429" column="47" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" />
       <jump line="466" column="55" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment.js" />
+      <jump line="604" column="53" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="1177" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
