@@ -266,11 +266,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1528312512346">
-        <mark key="[" line="57" column="5" />
-        <mark key="]" line="57" column="5" />
-        <mark key="." line="57" column="5" />
-        <mark key="^" line="57" column="5" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1529187224342">
+        <mark key="'" line="45" column="20" />
+        <mark key="[" line="58" column="4" />
+        <mark key="]" line="58" column="230" />
+        <mark key="." line="58" column="230" />
+        <mark key="^" line="58" column="230" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/rae_rules.js" timestamp="1520795724733">
         <mark key="[" line="65" column="0" />
@@ -326,7 +327,7 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/prod/main_vulcanvision.yml" timestamp="1529184929727" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/prod/main_vulcanvision.yml" timestamp="1529186259295" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/update.json" timestamp="1521499787236">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="441" />
@@ -970,10 +971,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
-      <jump line="163" column="12" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
-      <jump line="223" column="15" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
-      <jump line="226" column="12" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
       <jump line="233" column="12" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
       <jump line="249" column="12" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
       <jump line="253" column="23" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
@@ -1070,10 +1067,14 @@
       <jump line="466" column="55" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment.js" />
       <jump line="604" column="53" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
       <jump line="1177" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" />
+      <jump line="45" column="20" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDg4NQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ImVtYWlsPXZ1bGNhbVRlc3QlNDB5b3BtYWlsLmNvbSZwYXNzd29yZD1WdWxjYW1QYXNzd29yZFN0cm9uZyIs</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1088,7 +1089,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>body.text</text>
+        <text encoding="base64">ImVtYWlsPXZ1bGNhbVRlc3QlNDB5b3BtYWlsLmNvbSZwYXNzd29yZD1WdWxjYW1QYXNzd29yZFN0cm9uZyIs</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
