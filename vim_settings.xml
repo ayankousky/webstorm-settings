@@ -672,12 +672,12 @@
         <mark key="." line="11" column="44" />
         <mark key="^" line="11" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" timestamp="1529196112379">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/index.js" timestamp="1529197234520">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="16" />
-        <mark key="." line="18" column="16" />
-        <mark key="^" line="18" column="16" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+        <mark key="^" line="18" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1519691214492">
         <mark key="[" line="117" column="6" />
@@ -1085,7 +1085,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>prod</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1100,7 +1100,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
