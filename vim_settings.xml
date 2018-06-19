@@ -198,13 +198,7 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1529191842449">
-        <mark key="'" line="522" column="10" />
-        <mark key="[" line="112" column="13" />
-        <mark key="]" line="112" column="14" />
-        <mark key="^" line="112" column="14" />
-        <mark key="." line="112" column="14" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1529438700257" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -303,12 +297,6 @@
         <mark key="^" line="51" column="15" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1528850534745">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="64" />
-        <mark key="." line="156" column="24" />
-        <mark key="^" line="156" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/sharings/save.json" timestamp="1526507357943">
         <mark key="[" line="29" column="6" />
         <mark key="]" line="29" column="6" />
@@ -333,7 +321,6 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/prod/main_vulcanvision.yml" timestamp="1529186259295" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/update.json" timestamp="1521499787236">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="441" />
@@ -353,11 +340,11 @@
         <mark key="^" line="24" column="27" />
         <mark key="." line="24" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/stacks-map.js" timestamp="1528838871311">
-        <mark key="[" line="16" column="78" />
-        <mark key="]" line="16" column="80" />
-        <mark key="." line="16" column="80" />
-        <mark key="^" line="16" column="80" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/stacks-map.js" timestamp="1529438916879">
+        <mark key="[" line="32" column="62" />
+        <mark key="]" line="32" column="69" />
+        <mark key="." line="32" column="69" />
+        <mark key="^" line="32" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onNewLike.json" timestamp="1526968929017">
         <mark key="[" line="21" column="12" />
@@ -423,7 +410,6 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/.serverless/cloudformation-template-CommentsApi-nested-stack.json" timestamp="1528835923212" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1525646376186">
         <mark key="[" line="47" column="70" />
         <mark key="]" line="48" column="20" />
@@ -571,7 +557,7 @@
         <mark key="^" line="20" column="61" />
         <mark key="." line="20" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/video.js" timestamp="1526987114423">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/video.js" timestamp="1529404699576">
         <mark key="[" line="62" column="19" />
         <mark key="]" line="62" column="22" />
         <mark key="^" line="62" column="22" />
@@ -834,14 +820,12 @@
         <mark key="." line="17" column="35" />
         <mark key="^" line="17" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/package.json" timestamp="1528834371084" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/Dockerfile" timestamp="1521488966217">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="18" />
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/users/user_api.js" timestamp="1529195957448" />
       <file name="$USER_HOME$/Desktop/бардик/index.js" timestamp="1526053980373">
         <mark key="[" line="106" column="5" />
         <mark key="]" line="106" column="4" />
@@ -1085,7 +1069,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>prod</text>
+        <text>VideoUpdatesDeadLetterSQSQueue</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1100,7 +1084,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>VideoUpdatesDeadLetterSQSQueue</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
