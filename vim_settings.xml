@@ -198,11 +198,11 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1529470617438">
-        <mark key="[" line="692" column="19" />
-        <mark key="]" line="692" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1529473153979">
+        <mark key="[" line="704" column="0" />
+        <mark key="]" line="704" column="23" />
         <mark key="^" line="692" column="22" />
-        <mark key="." line="692" column="22" />
+        <mark key="." line="704" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -302,6 +302,12 @@
         <mark key="^" line="51" column="15" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1529474834262">
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="^" line="217" column="123" />
+        <mark key="." line="227" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/sharings/save.json" timestamp="1526507357943">
         <mark key="[" line="29" column="6" />
         <mark key="]" line="29" column="6" />
@@ -345,10 +351,10 @@
         <mark key="^" line="24" column="27" />
         <mark key="." line="24" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/stacks-map.js" timestamp="1529438916879">
-        <mark key="[" line="32" column="62" />
-        <mark key="]" line="32" column="69" />
-        <mark key="." line="32" column="69" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/stacks-map.js" timestamp="1529472068410">
+        <mark key="[" line="32" column="58" />
+        <mark key="]" line="32" column="58" />
+        <mark key="." line="32" column="58" />
         <mark key="^" line="32" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onNewLike.json" timestamp="1526968929017">
@@ -854,6 +860,18 @@
         <mark key="]" line="47" column="12" />
         <mark key="." line="44" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" timestamp="1529473272006">
+        <mark key="[" line="46" column="53" />
+        <mark key="]" line="46" column="57" />
+        <mark key="." line="46" column="57" />
+        <mark key="^" line="46" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/sqs/index.js" timestamp="1529474357625">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" timestamp="1529191946554">
         <mark key="'" line="99" column="16" />
         <mark key="[" line="553" column="0" />
@@ -1073,8 +1091,8 @@
       <jump line="99" column="16" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIE1lc3NhZ2VCb2R5OiAnU1RSSU5HX1ZBTFVFJywgLyogcmVxdWlyZWQgKi8K</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1089,48 +1107,48 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>params</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCS8vIGNvbnNvbGUubG9nKGBjYWxsaW5nIHRoZSB3b3JkcHJlc3MgYXBpLiBVUkw6ICR7dGhpcy5fYnVpbGRVcmwob3B0aW9ucy5wYXRoKX0uIFJlc3VsdDpgKQo=</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlQm9keTogSlNPTi5zdHJpbmdpZnkoeyJrZWsiOiAiY2hlY2J1ZXJlY2sifSksIC8qIHJlcXVpcmVkICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjdXJyVXNlcklkKQo=</text>
+        <text encoding="base64">ICAgIE1lc3NhZ2VCb2R5OiAnU1RSSU5HX1ZBTFVFJywgLyogcmVxdWlyZWQgKi8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlCg==</text>
+        <text encoding="base64">ICAgIFF1ZXVlVXJsOiAnU1RSSU5HX1ZBTFVFJywgLyogcmVxdWlyZWQgKi8K</text>
       </register>
-      <register name="3" type="4">
-        <text>turn reqEnd({
-      error: new AppErrors.NotAllowed()
-    });</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIE1lc3NhZ2VBdHRyaWJ1dGVzOiAsCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV3IERhdGUoKSkK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ewogICAgICAnPFN0cmluZz4nOiB7CiAgICAgICAgRGF0YVR5cGU6ICdTVFJJTkdfVkFMVUUnLCAvKiByZXF1aXJlZCAqLwogICAgICAgIEJpbmFyeUxpc3RWYWx1ZXM6IFsKICAgICAgICAgIG5ldyBCdWZmZXIoJy4uLicpIHx8ICdTVFJJTkdfVkFMVUUnIC8qIFN0cmluZ3Mgd2lsbCBiZSBCYXNlLTY0IGVuY29kZWQgb24geW91ciBiZWhhbGYgKi8sCiAgICAgICAgICAvKiBtb3JlIGl0ZW1zICovCiAgICAgICAgXSwKICAgICAgICBCaW5hcnlWYWx1ZTogbmV3IEJ1ZmZlcignLi4uJykgfHwgJ1NUUklOR19WQUxVRScgLyogU3RyaW5ncyB3aWxsIGJlIEJhc2UtNjQgZW5jb2RlZCBvbiB5b3VyIGJlaGFsZiAqLywKICAgICAgICBTdHJpbmdMaXN0VmFsdWVzOiBbCiAgICAgICAgICAnU1RSSU5HX1ZBTFVFJywKICAgICAgICAgIC8qIG1vcmUgaXRlbXMgKi8KICAgICAgICBdLAogICAgICAgIFN0cmluZ1ZhbHVlOiAnU1RSSU5HX1ZBTFVFJwogICAgICB9LAogICAgICAvKiAnPFN0cmluZz4nOiAuLi4gKi8KICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShldmVudCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV3IERhdGUoKSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjdXJyVXNlcklkKQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJzAnKQo=</text>
+        <text encoding="base64">ICAgIHJlCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKDExMSkK</text>
+      <register name="8" type="4">
+        <text>turn reqEnd({
+      error: new AppErrors.NotAllowed()
+    });</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV3IERhdGUoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
