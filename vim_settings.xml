@@ -198,7 +198,12 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1529440580202" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1529470617438">
+        <mark key="[" line="692" column="19" />
+        <mark key="]" line="692" column="22" />
+        <mark key="^" line="692" column="22" />
+        <mark key="." line="692" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -1069,7 +1074,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>VideoUpdatesDeadLetterSQSQueue</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1084,7 +1089,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>VideoUpdatesDeadLetterSQSQueue</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
