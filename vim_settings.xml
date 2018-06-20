@@ -490,12 +490,12 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1528847348123">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1529525765199">
         <mark key="'" line="801" column="25" />
-        <mark key="[" line="360" column="0" />
-        <mark key="]" line="360" column="0" />
-        <mark key="^" line="360" column="25" />
-        <mark key="." line="360" column="0" />
+        <mark key="[" line="647" column="3" />
+        <mark key="]" line="647" column="3" />
+        <mark key="^" line="647" column="3" />
+        <mark key="." line="647" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/offer/offer.routes.js" timestamp="1520787050374">
         <mark key="[" line="6" column="16" />
@@ -1089,7 +1089,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gaGFuZGxlIHZpZGVvIHVwZGF0ZXMgKioqVG9EbyoqKjogbW92ZSBpdCB0byBxdWV1ZXMK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1113,44 +1113,41 @@
         <text encoding="base64">ICAgICAgICAtIHNxczpSZWNlaXZlTWVzc2FnZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gaGFuZGxlIHZpZGVvIHVwZGF0ZXMgKioqVG9EbyoqKjogbW92ZSBpdCB0byBxdWV1ZXMK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGBodHRwczovL3Nxcy4ke2NvbmZpZy5SRUdJT059LmFtYXpvbmF3cy5jb20vJHtjb25maWcuQVdTX0FDQ09VTlRfSUR9LyR7Y29uZmlnLlNRUy5xdWV1ZXMudmlkZW9fdXBkYXRlcy5uYW1lfWApCg==</text>
+        <text encoding="base64">ICAgIAogICAgICAK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHNldFBsYXlUeXBlKCl7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy8gaGFuZGxlIHZpZGVvIHVwZGF0ZXMgKioqVG9EbyoqKjogbW92ZSBpdCB0byBxdWV1ZXMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGBodHRwczovL3Nxcy4ke2NvbmZpZy5SRUdJT059LmFtYXpvbmF3cy5jb20vJHtjb25maWcuQVdTX0FDQ09VTlRfSUR9LyR7Y29uZmlnLlNRUy5xdWV1ZXMudmlkZW9fdXBkYXRlcy5uYW1lfWApCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="4">
         <text>)
           // for (let video of channelVideos){
           //   video.uDate = new Date() - 0;
           //   await (video.save());
           // }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAtIHNxczpSZWNlaXZlTWVzc2FnZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtIHNxczpSZWNlaXZlTWVzc2FnZQo=</text>
-      </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="4">
-        <text>, function(err, data) {
-            if (err) console.log(err, err.stack); // an error occurred
-            else     console.log(data);           // successful response
-          });</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyAgIC8vIGNvbnNvbGUubG9nKGRhdGEuTWVzc2FnZXMubWFwKG0gPT4ge3JldHVybiB7SWQ6IG0uTWVzc2FnZUlkLCBSZWNlaXB0SGFuZGxlOiBtLlJlY2VpcHRIYW5kbGV9fSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAtIHNxczpSZWNlaXZlTWVzc2FnZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgUXVldWVVcmw6ICdTVFJJTkdfVkFMVUUnIC8qIHJlcXVpcmVkICovCg==</text>
+        <text encoding="base64">ICAgICAgICAtIHNxczpSZWNlaXZlTWVzc2FnZQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
