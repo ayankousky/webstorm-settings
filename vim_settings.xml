@@ -123,10 +123,10 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1529533847033">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1529534334940">
         <mark key="'" line="203" column="49" />
-        <mark key="[" line="203" column="47" />
-        <mark key="]" line="203" column="49" />
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="30" />
         <mark key="." line="203" column="49" />
         <mark key="^" line="203" column="49" />
       </file>
@@ -498,12 +498,12 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1529533940429">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1529535491986">
         <mark key="'" line="668" column="17" />
-        <mark key="[" line="256" column="11" />
-        <mark key="]" line="256" column="17" />
-        <mark key="^" line="256" column="17" />
-        <mark key="." line="256" column="17" />
+        <mark key="[" line="677" column="53" />
+        <mark key="]" line="677" column="53" />
+        <mark key="^" line="677" column="42" />
+        <mark key="." line="677" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/offer/offer.routes.js" timestamp="1520787050374">
         <mark key="[" line="6" column="16" />
@@ -790,12 +790,12 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1529526451330">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1529534810758">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="910" column="113" />
-        <mark key="]" line="910" column="113" />
-        <mark key="^" line="910" column="113" />
-        <mark key="." line="910" column="113" />
+        <mark key="[" line="941" column="31" />
+        <mark key="]" line="941" column="31" />
+        <mark key="^" line="941" column="31" />
+        <mark key="." line="941" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1520370466670">
         <mark key="[" line="123" column="12" />
@@ -1097,7 +1097,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IE51bWJlcg==</text>
+        <text encoding="base64">IG9uIGNoYW5uZWwgJHt0aGlzLmNoYW5uZWxJZH0gaXM=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1112,16 +1112,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IE51bWJlcg==</text>
+        <text encoding="base64">IG9uIGNoYW5uZWwgJHt0aGlzLmNoYW5uZWxJZH0gaXM=</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQgdmlkZW8gPSBhd2FpdCAoVmlkZW8uZ2V0QnlJZCgnNjEyJykpOyAvLyBtcDQK</text>
+        <text encoding="base64">ICAgICAgICBwbGF5VHlwZSA9ICdqcGcnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGxheVR5cGUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1130,28 +1130,28 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2cocmVzdWx0LkNvbnRlbnRzLnJlZHVjZSgodG90YWwsIG5leHQpPT4gbmV4dC5LZXkuZW5kc1dpdGgoJy5qcGcnKSA/IHRvdGEK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5pc1VwbG9hZGVkKCkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">bCsrIDogdG90YWwsIDApKQoKICAgICAgIHJlc3VsdC5Db250ZW50cy5yZWR1Y2UoKHRvdGFsLCBuZXh0KSA9PiB7CiAgICAgICAgY29uc29sZS5sb2codG90YWwpCiAgICAgICAgcmV0dXJuIG5leHQuS2V5LmVuZHNXaXRoKCcuanBnJykgPyB0b3RhbCArIDEgOiB0b3RhbDsKICAgICAgfSwgMCk=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGxheVR5cGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2tlaycpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICJrZXkiOiAiY2hhbm5lbHMvMTAvdmlkZW9zLzQzNzUvNDM3NS5mdnAiLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgogIGZvciAobGV0IGkgPSAwOyBpIDwgNTA7IGkrKykgewogICAgbGV0IENvbW1lbnQgPSBkeW5hbW9vc2UubW9kZWwoY29uZmlnLkREQi50YWJsZXMuY29tbWVudHMubmFtZSkKICAgIGF3YWl0KENvbW1lbnQuY3JlYXRlKHsKICAgICAgdmlkZW9JZDogJzg4NScsCiAgICAgIC8vIHBhcmVudElkOiBib2R5LnBhcmVudElkLAogICAgICBhdXRob3JJZDogJzc4JywKICAgICAgYXV0aG9yTmFtZTogJ0FsZXggWWFua291c2t5JywKICAgICAgdGV4dDogaSArICcnCiAgICB9KSk7CiAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIGlmICgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
