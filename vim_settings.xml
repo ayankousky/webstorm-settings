@@ -302,11 +302,11 @@
         <mark key="^" line="51" column="15" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1529474834262">
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="0" />
-        <mark key="^" line="217" column="123" />
-        <mark key="." line="227" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1529476527900">
+        <mark key="[" line="207" column="38" />
+        <mark key="]" line="207" column="38" />
+        <mark key="^" line="207" column="38" />
+        <mark key="." line="207" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/sharings/save.json" timestamp="1526507357943">
         <mark key="[" line="29" column="6" />
@@ -1091,8 +1091,8 @@
       <jump line="99" column="16" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE1lc3NhZ2VCb2R5OiAnU1RSSU5HX1ZBTFVFJywgLyogcmVxdWlyZWQgKi8K</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1107,7 +1107,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
@@ -1116,39 +1116,37 @@
         <text encoding="base64">ICAgICAgICBNZXNzYWdlQm9keTogSlNPTi5zdHJpbmdpZnkoeyJrZWsiOiAiY2hlY2J1ZXJlY2sifSksIC8qIHJlcXVpcmVkICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1lc3NhZ2VCb2R5OiAnU1RSSU5HX1ZBTFVFJywgLyogcmVxdWlyZWQgKi8K</text>
+        <text encoding="base64">ICAgICAgLyogbW9yZSBpdGVtcyAqLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFF1ZXVlVXJsOiAnU1RSSU5HX1ZBTFVFJywgLyogcmVxdWlyZWQgKi8K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdrZWsnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE1lc3NhZ2VBdHRyaWJ1dGVzOiAsCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBNZXNzYWdlQXR0cmlidXRlczogCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ewogICAgICAnPFN0cmluZz4nOiB7CiAgICAgICAgRGF0YVR5cGU6ICdTVFJJTkdfVkFMVUUnLCAvKiByZXF1aXJlZCAqLwogICAgICAgIEJpbmFyeUxpc3RWYWx1ZXM6IFsKICAgICAgICAgIG5ldyBCdWZmZXIoJy4uLicpIHx8ICdTVFJJTkdfVkFMVUUnIC8qIFN0cmluZ3Mgd2lsbCBiZSBCYXNlLTY0IGVuY29kZWQgb24geW91ciBiZWhhbGYgKi8sCiAgICAgICAgICAvKiBtb3JlIGl0ZW1zICovCiAgICAgICAgXSwKICAgICAgICBCaW5hcnlWYWx1ZTogbmV3IEJ1ZmZlcignLi4uJykgfHwgJ1NUUklOR19WQUxVRScgLyogU3RyaW5ncyB3aWxsIGJlIEJhc2UtNjQgZW5jb2RlZCBvbiB5b3VyIGJlaGFsZiAqLywKICAgICAgICBTdHJpbmdMaXN0VmFsdWVzOiBbCiAgICAgICAgICAnU1RSSU5HX1ZBTFVFJywKICAgICAgICAgIC8qIG1vcmUgaXRlbXMgKi8KICAgICAgICBdLAogICAgICAgIFN0cmluZ1ZhbHVlOiAnU1RSSU5HX1ZBTFVFJwogICAgICB9LAogICAgICAvKiAnPFN0cmluZz4nOiAuLi4gKi8KICAgIH0=</text>
+        <text encoding="base64">ewogICAgICAgIC8vICAgJzxTdHJpbmc+JzogewogICAgICAgIC8vICAgICBEYXRhVHlwZTogJ1NUUklOR19WQUxVRScsIC8qIHJlcXVpcmVkICovCiAgICAgICAgLy8gICAgIEJpbmFyeUxpc3RWYWx1ZXM6IFsKICAgICAgICAvLyAgICAgICBuZXcgQnVmZmVyKCcuLi4nKSB8fCAnU1RSSU5HX1ZBTFVFJyAvKiBTdHJpbmdzIHdpbGwgYmUgQmFzZS02NCBlbmNvZGVkIG9uIHlvdXIgYmVoYWxmICovLAogICAgICAgIC8vICAgICAgIC8qIG1vcmUgaXRlbXMgKi8KICAgICAgICAvLyAgICAgXSwKICAgICAgICAvLyAgICAgQmluYXJ5VmFsdWU6IG5ldyBCdWZmZXIoJy4uLicpIHx8ICdTVFJJTkdfVkFMVUUnIC8qIFN0cmluZ3Mgd2lsbCBiZSBCYXNlLTY0IGVuY29kZWQgb24geW91ciBiZWhhbGYgKi8sCiAgICAgICAgLy8gICAgIFN0cmluZ0xpc3RWYWx1ZXM6IFsKICAgICAgICAvLyAgICAgICAnU1RSSU5HX1ZBTFVFJywKICAgICAgICAvLyAgICAgICAvKiBtb3JlIGl0ZW1zICovCiAgICAgICAgLy8gICAgIF0sCiAgICAgICAgLy8gICAgIFN0cmluZ1ZhbHVlOiAnU1RSSU5HX1ZBTFVFJwogICAgICAgIC8vICAgfSwKICAgICAgICAvLyAgIC8qICc8U3RyaW5nPic6IC4uLiAqLwogICAgICAgIC8vIH0s</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShldmVudCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlRGVkdXBsaWNhdGlvbklkOiAiSUQgTXlNZXNzYWdlRGVkdXBsaWNhdGlvbklkMTIzNDU2Nzg5MCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjdXJyVXNlcklkKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhgaHR0cHM6Ly9zcXMuJHtjb25maWcuUkVHSU9OfS5hbWF6b25hd3MuY29tLyR7Y29uZmlnLkFXU19BQ0NPVU5UX0lEfS8ke2NvbmZpZy5TUVMucXVldWVzLnZpZGVvX3VwZGF0ZXMubmFtZX1gKQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgc3FzLnNlbmRNZXNzYWdlKHsKICAgIE1lc3NhZ2VCb2R5OiBKU09OLnN0cmluZ2lmeSh7ImtlayI6ICJjaGVjYnVlcmVjayJ9KSwgLyogcmVxdWlyZWQgKi8KICAgIFF1ZXVlVXJsOiBgaHR0cHM6Ly9zcXMuJHtjb25maWcuUkVHSU9OfS5hbWF6b25hd3MuY29tLyR7Y29uZmlnLkFXU19BQ0NPVU5UX0lEfS8ke2NvbmZpZy5TUVMucXVldWVzLnZpZGVvX3VwZGF0ZXMubmFtZX1gLCAvKiByZXF1aXJlZCAqLwogICAgRGVsYXlTZWNvbmRzOiAwLAogICAgTWVzc2FnZURlZHVwbGljYXRpb25JZDogJ1NUUklOR19WQUxVRScsCiAgICBNZXNzYWdlR3JvdXBJZDogJ1NUUklOR19WQUxVRScKICB9LCBmdW5jdGlvbihlcnIsIGRhdGEpIHsKICAgIGNvbnNvbGUubG9nKCdrZWsnKQogICAgaWYgKGVycikgY29uc29sZS5sb2coZXJyLCBlcnIuc3RhY2spOyAvLyBhbiBlcnJvciBvY2N1cnJlZAogICAgZWxzZSAgICAgY29uc29sZS5sb2coZGF0YSk7ICAgICAgICAgICAvLyBzdWNjZXNzZnVsIHJlc3BvbnNlCiAgfSk7</text>
       </register>
-      <register name="8" type="4">
-        <text>turn reqEnd({
-      error: new AppErrors.NotAllowed()
-    });</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIE1lc3NhZ2VCb2R5OiAnU1RSSU5HX1ZBTFVFJywgLyogcmVxdWlyZWQgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV3IERhdGUoKSkK</text>
+        <text encoding="base64">ICAgIFF1ZXVlVXJsOiAnU1RSSU5HX1ZBTFVFJywgLyogcmVxdWlyZWQgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
