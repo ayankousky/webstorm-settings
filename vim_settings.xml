@@ -492,12 +492,12 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1529540330660">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1529562198766">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="895" column="15" />
-        <mark key="]" line="895" column="26" />
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="0" />
         <mark key="^" line="895" column="26" />
-        <mark key="." line="895" column="26" />
+        <mark key="." line="212" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/offer/offer.routes.js" timestamp="1520787050374">
         <mark key="[" line="6" column="16" />
@@ -690,6 +690,11 @@
         <mark key="]" line="18" column="15" />
         <mark key="." line="18" column="15" />
         <mark key="^" line="18" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless/CloudFormation/Resources/dynamodb/videosTable.yml" timestamp="1529562225986">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/network.js" timestamp="1519691214492">
         <mark key="[" line="117" column="6" />
@@ -1097,8 +1102,8 @@
       <jump line="435" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{kek: 'cheburek'}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICBBdHRyaWJ1dGVUeXBlOiBTCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1121,41 +1126,51 @@
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyh2aWRlb3NUb1VwZGF0ZSkK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICBBdHRyaWJ1dGVUeXBlOiBTCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIC0gQXR0cmlidXRlTmFtZTogaXNVcGxvYWRlZAog</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC0gSW5kZXhOYW1lOiAiaXNVcGxvYWRlZAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>-global&quot;
+      KeySchema:
+      - AttributeName: &quot;isUploaded&quot;
+        KeyType: HASH
+      - AttributeName: &quot;cDate&quot;
+        KeyType: RANGE
+      Projection:
+        ProjectionType: &quot;ALL&quot;
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICBpbmRleDogewogICAgICAgIGdsb2JhbDogdHJ1ZSwKICAgICAgICBuYW1lICA6ICdpc1VwbG9hZGVkLWdsb2JhbCcsCiAgICAgICAgcmFuZ2VLZXk6ICdjRGF0ZScsCiAgICAgICAgcHJvamVjdDogdHJ1ZSwKICAgICAgICB0aHJvdWdocHV0OiAxCiAg</text>
+      </register>
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="4">
         <text>, function(err, data) {
       if (err) console.log(err, err.stack); // an error occurred
       else     console.log(data);           // successful response
     });</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBheWxvYWRPYmouUmVjb3Jkc1swXS5zMy5vYmplY3Qua2V5KQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBheWxvYWRPYmouUmVjb3Jkc1swXS5zMy5vYmplY3Qua2V5KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBheWxvCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh2aWRlb3NUb1VwZGF0ZS5sZW5ndGgpCg==</text>
-      </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh2aWRlb3NUb1VwZGF0ZSkK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFF1YWxpZmllcjogJ1NUUklOR19WQUxVRScK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBheWxvYWRPYmouUmVjb3Jkc1swXS5zMy5vYmplY3Qua2V5KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIExvZ1R5cGU6IE5vbmUgfCBUYWlsLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBheWxvYWRPYmouUmVjb3Jkc1swXS5zMy5vYmplY3Qua2V5KQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
