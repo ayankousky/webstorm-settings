@@ -210,11 +210,11 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1529536920946">
-        <mark key="[" line="704" column="33" />
-        <mark key="]" line="704" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1529638213482">
+        <mark key="[" line="428" column="0" />
+        <mark key="]" line="428" column="0" />
         <mark key="^" line="74" column="9" />
-        <mark key="." line="704" column="34" />
+        <mark key="." line="428" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -349,11 +349,10 @@
         <mark key="^" line="24" column="27" />
         <mark key="." line="24" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/stacks-map.js" timestamp="1529472068410">
-        <mark key="[" line="32" column="58" />
-        <mark key="]" line="32" column="58" />
-        <mark key="." line="32" column="58" />
-        <mark key="^" line="32" column="69" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/stacks-map.js" timestamp="1529638206628">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onNewLike.json" timestamp="1526968929017">
         <mark key="[" line="21" column="12" />
@@ -1060,7 +1059,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVybDogJ2h0dHBzOi8vYXBpLnZ1bGNhbS50di9kZXYvdmlkZW9zL3NldF90cmVuZGluZ192YWx1ZScsCg==</text>
+        <text encoding="base64">ICB2aWRlb1VwZGF0ZVRyZW5kaW5nCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1084,37 +1083,45 @@
         <text encoding="base64">ICAgICAgICAgIHVybDogJ2h0dHBzOi8vYXBpLnZ1bGNhbS50di9kZXYvZXh0cmEvYWRtaW4tcGFuZWwnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVybDogJ2h0dHBzOi8vYXBpLnZ1bGNhbS50di9kZXYvdmlkZW9zL3NldF90cmVuZGluZ192YWx1ZScsCg==</text>
+        <text encoding="base64">ICB2aWRlb1VwZGF0ZVRyZW5kaW5nCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIHVybDogJ2h0dHBzOi8vYXBpLnZ1bGNhbS50di9wcm9kL3ZpZGVvcy9zZXRfdHJlbmRpbmdfdmFsdWUnLAo=</text>
+      <register name="2" type="4">
+        <text>:
+    handler: lib/controllers/video.setTrendingValue
+    events:
+      - http:
+          cors: true
+          path: videos/set_trending_value
+          method: post
+          integration: lambda-proxy
+          authorizer: authorizerFunc</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2ljYWxJZC50b0xvd2VyQ2FzZSgpLmluZGV4T2YoJ3ZpZGVvVXBkYXRlVHJlbmRpbmcnLnRvTG93ZXJDYXNlKCkpICE9PSAtMSB8fCAvLyB0cmVuZGluZyAxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxvZ2ljYWxJZC50b0xvd2VyQ2FzZSgpLmluZGV4T2YoJ1ZpZGVvc1NldHRyZW5kaW5ndmFsdWUnLnRvTG93ZXJDYXNlKCkpICE9PSAtMSB8fCAvLyB0cmVuZGluZyAyCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBjYXNlIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHVybDogJ2h0dHBzOi8vYXBpLnZ1bGNhbS50di9kZXYvdmlkZW9zL3NldF90cmVuZGluZ192YWx1ZScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzY2FzZSAidiI6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIHVybDogJ2h0dHBzOi8vYXBpLnZ1bGNhbS50di9wcm9kL3ZpZGVvcy9zZXRfdHJlbmRpbmdfdmFsdWUnLAo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">d2l0Y2ggKGJvZHkuYWN0aW9uKXsKICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYnJlYWs7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBjYXNlIA==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
