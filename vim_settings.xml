@@ -790,12 +790,12 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1529776243593">
-        <mark key="'" line="1300" column="6" />
-        <mark key="[" line="1310" column="20" />
-        <mark key="]" line="1310" column="120" />
-        <mark key="^" line="1310" column="19" />
-        <mark key="." line="1310" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1529776863930">
+        <mark key="'" line="1266" column="18" />
+        <mark key="[" line="1266" column="36" />
+        <mark key="]" line="1266" column="62" />
+        <mark key="^" line="1266" column="62" />
+        <mark key="." line="1266" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/package.json" timestamp="1520773785716">
         <mark key="[" line="14" column="15" />
@@ -973,7 +973,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="816" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="41" column="35" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
@@ -1073,10 +1072,11 @@
       <jump line="1231" column="1" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="1163" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="1300" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="1266" column="18" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>s</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1091,7 +1091,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>foldew</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYWNrdXBGb2xkZXJzXD4=</text>
@@ -1100,39 +1100,39 @@
         <text>_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIGJyZWFrOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHdhaXQgbmV3Rm9sZGVyLnNhdmUoKQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>let newFolder = new Folder(bf)
     a</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIC8gYmYuaWQgICAgICAgID0gYmYuaWQgKyAnOSc7Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>// bf.channelId = '13';
-    /</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text>// bf.channelId = '13';
+    /</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGkK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ZiAoY3VycmVudEZvbGRlcnMuZmluZChjZiA9PiBjZi5pZCA9PT0gYmYuaWQpKXsKICAgICAgY29udGludWU7CiAgICB9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
