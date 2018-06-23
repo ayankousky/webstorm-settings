@@ -265,7 +265,7 @@
         <mark key="^" line="1092" column="19" />
         <mark key="." line="1090" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1529191655990">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1529773179044">
         <mark key="[" line="61" column="47" />
         <mark key="]" line="61" column="47" />
         <mark key="^" line="61" column="47" />
@@ -423,6 +423,7 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/BaseType.js" timestamp="1529775548829" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1525646376186">
         <mark key="[" line="47" column="70" />
         <mark key="]" line="48" column="20" />
@@ -486,7 +487,8 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1529756685289">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/fvpBackup.js" timestamp="1529775540880" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1529775800813">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="212" column="0" />
         <mark key="]" line="212" column="0" />
@@ -788,11 +790,12 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1529772728180">
-        <mark key="[" line="1128" column="74" />
-        <mark key="]" line="1128" column="77" />
-        <mark key="^" line="1128" column="77" />
-        <mark key="." line="1128" column="77" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1529776243593">
+        <mark key="'" line="1300" column="6" />
+        <mark key="[" line="1310" column="20" />
+        <mark key="]" line="1310" column="120" />
+        <mark key="^" line="1310" column="19" />
+        <mark key="." line="1310" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/package.json" timestamp="1520773785716">
         <mark key="[" line="14" column="15" />
@@ -970,8 +973,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="643" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
-      <jump line="165" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/likes.js" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="816" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
@@ -1070,10 +1071,12 @@
       <jump line="1131" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="344" column="16" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
       <jump line="1231" column="1" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="1163" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="1300" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>_</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1088,63 +1091,64 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>foldew</text>
       </register>
       <register name="/" type="4">
-        <text>dev</text>
+        <text encoding="base64">XDxiYWNrdXBGb2xkZXJzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRpbWVvdXQ6IDQ1Cg==</text>
+      <register name="0" type="4">
+        <text>_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRpbWVvdXQ6IDE1Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGJyZWFrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codmlkZW9zKQo=</text>
+        <text encoding="base64">ICAgIHdhaXQgbmV3Rm9sZGVyLnNhdmUoKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text>let newFolder = new Folder(bf)
+    a</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8gYmYuaWQgICAgICAgID0gYmYuaWQgKyAnOSc7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmb2xkZXIpCg==</text>
+      <register name="6" type="4">
+        <text>// bf.channelId = '13';
+    /</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb250ZW50LmZvbGRlcnMpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZiAoY3VycmVudEZvbGRlcnMuZmluZChjZiA9PiBjZi5pZCA9PT0gYmYuaWQpKXsKICAgICAgY29udGludWU7CiAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJBdXRob3JpemF0aW9uIjogImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWkNJNklqYzFJaXdpZFhObGNrbGtJam9pTnpVaUxDSmxiV0ZwYkNJNkltVjFaMlZ1WlVCMmRXeGpZVzB1ZEhZaUxDSjJkV3hqWVcxQmRYUm9RMjl2YTJsbElqb2laWFZuWlc1bFFIWjFiR05oYlM1MGRud3hOVE13TlRJNU1Ua3pmSEExY0VOdFNVcEdXa2d3TkhjNVNEbExXbFZUVW5oc1NXOVdRazVxZVZGd1VsQjBRMnh1Ym5KWVlrVjhaVE14T0dObE9UVXlNekpoTVRnMFpHWXhOV0ppWkRBek9XRmtaVFEyTkRjd1lXWmpZelpoWkRBNE1XRXpaVEkzWXpNME5tWXpNVE13TldNMU1qY3dZaUlzSW1saGRDSTZNVFV5T1RNeE9EZ3pPU3dpWlhod0lqb3hOVFl3T0RVME9ETTVmUS5uaXFJVGRSUEhzbU9HbTYtSlg2aVMwM3pYT3hKWmFnc0dScS1TS0ozN1RRIiwiQXV0aG9yaXphdGlvbiI6ICJleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKcFpDSTZJamcySWl3aWRYTmxja2xrSWpvaU9EWWlMQ0psYldGcGJDSTZJbloxYkdOaGJTNXVjMkZtUUdkdFlXbHNMbU52YlNJc0luWjFiR05oYlVGMWRHaERiMjlyYVdVaU9pSjJkV3hqWVcwdWJuTmhabnd4TlRNd05EVTVPREkwZkRCWFFXYzFibXR5ZEVoMGVEVkJka0o1ZERONFVtUmljVnBZVTJwMmMwbzRlREI2YmtwT1JreHpWRFo4WVRVMVkyTTJZV0U1TURsbU9HUXdZemswTXpZeVpqSmpNak00TmpkbFpUSXdZVFJsTjJFMU5HRTBOR1ZpTkRsbFpEWXpNR0UyWVRjMVptWm1NVEl6TkNJc0ltbGhkQ0k2TVRVeU9USTBPVFEzTXl3aVpYaHdJam94TlRZd056ZzFORGN6ZlEuUkxMcUFoY1lEc0h1VndENERabEtaMnJPWnE0MGxya3BHVThxOU9XT0tXYyIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>dev</last-search>
+      <last-search encoding="base64">XDxiYWNrdXBGb2xkZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern>dev</last-pattern>
+      <last-pattern encoding="base64">XDxiYWNrdXBGb2xkZXJzXD4=</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute encoding="base64">XDxWVUxDQU1cPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry>adblocker.website</entry>
         <entry>, returnedVideo</entry>
         <entry>save?</entry>
@@ -1164,6 +1168,7 @@
         <entry encoding="base64">XDxpbmRleEpzb25LZXlcPg==</entry>
         <entry>warmup: tr</entry>
         <entry>dev</entry>
+        <entry encoding="base64">XDxiYWNrdXBGb2xkZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
