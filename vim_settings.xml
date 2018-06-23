@@ -383,11 +383,11 @@
         <mark key="^" line="1" column="79" />
         <mark key="." line="1" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1529745214238">
-        <mark key="[" line="717" column="14" />
-        <mark key="]" line="717" column="28" />
-        <mark key="^" line="717" column="28" />
-        <mark key="." line="717" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1529749748023">
+        <mark key="[" line="718" column="0" />
+        <mark key="]" line="718" column="0" />
+        <mark key="^" line="695" column="19" />
+        <mark key="." line="718" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onDislike.json" timestamp="1526968911133">
         <mark key="[" line="47" column="12" />
@@ -881,6 +881,11 @@
       <file name="/Dummy.txt" timestamp="1529724441098">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/folder/get_content.json" timestamp="1529749688054">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="16" column="10" />
@@ -1057,8 +1062,8 @@
       <jump line="1231" column="1" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1073,21 +1078,42 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>channel</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhiYWNrdXBWaWRlb3MpCg==</text>
+        <text encoding="base64">ICAgICJsb2NhbFBhdGgiOiAiL1Jvb3QvTkJOTy0wNi4xNi4xOCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBsZXQgbmV3Rm9sZGVyID0gbmV3IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb250ZW50LmZvbGRlcnMpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJBdXRob3JpemF0aW9uIjogImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWkNJNklqYzFJaXdpZFhObGNrbGtJam9pTnpVaUxDSmxiV0ZwYkNJNkltVjFaMlZ1WlVCMmRXeGpZVzB1ZEhZaUxDSjJkV3hqWVcxQmRYUm9RMjl2YTJsbElqb2laWFZuWlc1bFFIWjFiR05oYlM1MGRud3hOVE13TlRJNU1Ua3pmSEExY0VOdFNVcEdXa2d3TkhjNVNEbExXbFZUVW5oc1NXOVdRazVxZVZGd1VsQjBRMnh1Ym5KWVlrVjhaVE14T0dObE9UVXlNekpoTVRnMFpHWXhOV0ppWkRBek9XRmtaVFEyTkRjd1lXWmpZelpoWkRBNE1XRXpaVEkzWXpNME5tWXpNVE13TldNMU1qY3dZaUlzSW1saGRDSTZNVFV5T1RNeE9EZ3pPU3dpWlhod0lqb3hOVFl3T0RVME9ETTVmUS5uaXFJVGRSUEhzbU9HbTYtSlg2aVMwM3pYT3hKWmFnc0dScS1TS0ozN1RRIiwiQXV0aG9yaXphdGlvbiI6ICJleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKcFpDSTZJamcySWl3aWRYTmxja2xrSWpvaU9EWWlMQ0psYldGcGJDSTZJbloxYkdOaGJTNXVjMkZtUUdkdFlXbHNMbU52YlNJc0luWjFiR05oYlVGMWRHaERiMjlyYVdVaU9pSjJkV3hqWVcwdWJuTmhabnd4TlRNd05EVTVPREkwZkRCWFFXYzFibXR5ZEVoMGVEVkJka0o1ZERONFVtUmljVnBZVTJwMmMwbzRlREI2YmtwT1JreHpWRFo4WVRVMVkyTTJZV0U1TURsbU9HUXdZemswTXpZeVpqSmpNak00TmpkbFpUSXdZVFJsTjJFMU5HRTBOR1ZpTkRsbFpEWXpNR0UyWVRjMVptWm1NVEl6TkNJc0ltbGhkQ0k2TVRVeU9USTBPVFEzTXl3aVpYaHdJam94TlRZd056ZzFORGN6ZlEuUkxMcUFoY1lEc0h1VndENERabEtaMnJPWnE0MGxya3BHVThxOU9XT0tXYyIsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJsb2NhbFBhdGgiOiAiL1Jvb3QiCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2hhbm5lbCkK</text>
+      </register>
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAvLyBsZXQgbmV3Rm9sZGVyID0gbmV3IAo=</text>
+      </register>
+      <register name="8" type="4">
         <text>Folder({
   //   cDate    : 1529609393953,
   //   channelId: '13',
@@ -1114,35 +1140,8 @@
   // })
   // await newVideo.save()</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChjdXJyZW50VmlkZW9zLmZpbmQoY2YgPT4gY2YuaWQgPT09IGJmLmlkKSl7Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IAogIGN1cnJlbnRWaWRlb3MuZm9yRWFjaCh2ID0+IHsKICAgIGxldCBleGlzdGluZ0ZvbGRlciA9IGN1cnJlbnRGb2xkZXJzLmZpbmQoZiA9PiBmLmlkID09PSB2LmZvbGRlcklkKTsKICAgIGlmIChleGlzdGluZ0ZvbGRlcikgY29uc29sZS5sb2coZXhpc3RpbmdGb2xkZXIuaWQpCgogIH0p</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IGNvbnNvbGUubG9nKGN1cnJlbnRWaWRlb3MpCg==</text>
-      </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGNvbnNvbGUubG9nKGN1cnJlbnRWaWRlb3MubWFwKHYgPT4gdi5mb2xkZXJJZCkpCiAg</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-      cDate    : 1529609393953,
-      channelId: '13',
-      id       : '9389',
-      localPath: '/Root/B-CH-High Jump',
-      uDate    : 1529609393953
-    }</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
