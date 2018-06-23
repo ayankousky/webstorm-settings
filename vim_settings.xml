@@ -99,12 +99,7 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1529725853992">
-        <mark key="[" line="347" column="39" />
-        <mark key="]" line="348" column="35" />
-        <mark key="." line="348" column="35" />
-        <mark key="^" line="348" column="35" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1529741844031" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/client/package.json" timestamp="1520785715373">
         <mark key="[" line="22" column="4" />
         <mark key="]" line="22" column="2" />
@@ -777,12 +772,11 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1529725497699">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1529741825369">
         <mark key="'" line="1131" column="0" />
-        <mark key="[" line="1224" column="20" />
-        <mark key="]" line="1224" column="21" />
-        <mark key="." line="1224" column="21" />
-        <mark key="^" line="1227" column="34" />
+        <mark key="[" line="1224" column="0" />
+        <mark key="]" line="1224" column="0" />
+        <mark key="." line="1224" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/package.json" timestamp="1520773785716">
         <mark key="[" line="14" column="15" />
@@ -1058,7 +1052,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmb2xkZXJQYXRoKQo=</text>
+        <text encoding="base64">ICBsZXQgZm9sZGVycyA9IGF3YWl0IChGb2xkZQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1073,50 +1067,48 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>folder.localPath</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZvbGRlcnMuZmlsdGVyKGY9PmYgPT09IGZvbGRlci5sb2NhbFBhdGgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmb2xkZXJQYXRoKQo=</text>
+        <text encoding="base64">ICBsZXQgZm9sZGVycyA9IGF3YWl0IChGb2xkZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">cgogICAgLnF1ZXJ5KCdjaGFubmVsSWQnKS5lcSgnMTMnKQogICAgLndoZXJlKCdsb2NhbFBhdGgnKS5iZWdpbnNXaXRoKCcvUm9vdC9rZWtoaGgnKQogICAgLmV4ZWMoKSk7CiAgZm9sZGVycyA9IGZvbGRlcnMuZmlsdGVyKGY9PmYubG9jYWxQYXRoID09PSAnL1Jvb3Qva2VraGhoJyk7CiAgY29uc29sZS5sb2coZm9sZGVycy5sZW5ndGgp</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmb2xkZXJQYXRoKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZm9sZGVycyk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>{
             condition: 'attribute_not_exists(localPath)'
           }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmb2xkZXJzW2ldLnJlbW92ZSgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBmb2xkZXJzID0gYXdhaXQgKEZvbGRlci5nZXRCeUxvY2FsUGF0aChmb2xkZXIuY2hhbm5lbElkLCBmb2xkZXIubG9jYWxQYXRoKSk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-            condition: 'attribute_not_exists(localPath)'
-          }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBmb2xkZXJzW2ldLnJlbW92ZSgpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgIGluZGV4OiB7CiAgICAgICAgZ2xvYmFsOiB0cnVlLAogICAgICAgIHJhbmdlS2V5OiAnbG9jYWxQYXRoJywKICAgICAgICBuYW1lOiAnY2hhbm5lbElkLWxvY2FsUGF0aC1nbG9iYWwnLAogICAgICAgIHByb2plY3Q6IHRydWUsCiAgICAgICAgdGhyb3VnaHB1dDogMQogICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBmb2xkZXJzID0gYXdhaXQgKEZvbGRlci5nZXRCeUxvY2FsUGF0aChmb2xkZXIuY2hhbm5lbElkLCBmb2xkZXIubG9jYWxQYXRoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
