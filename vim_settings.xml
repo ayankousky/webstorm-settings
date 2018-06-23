@@ -790,12 +790,12 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1529786014344">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1529793455869">
         <mark key="'" line="438" column="38" />
-        <mark key="[" line="1450" column="53" />
-        <mark key="]" line="1450" column="53" />
-        <mark key="^" line="1450" column="53" />
-        <mark key="." line="1450" column="53" />
+        <mark key="[" line="1405" column="13" />
+        <mark key="]" line="1405" column="13" />
+        <mark key="^" line="1405" column="13" />
+        <mark key="." line="1405" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/package.json" timestamp="1520773785716">
         <mark key="[" line="14" column="15" />
@@ -1076,7 +1076,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGRldlMzQnVja2V0</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1091,49 +1091,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGRldlMzQnVja2V0</text>
       </register>
       <register name="/" type="4">
         <text>requi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHYuc2tleSAmJiBjb25zb2xlLmxvZyh2LnMza2V5LnNwbGl0KCcvJylbM10gLSApCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkeW5hbW9kYlZJZHMubGVuZ3RoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpZHMpCg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZ2xpc3RPYmplY3RzUmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coY1ByZWZpeC5QcmVmaXguc3BsaXQoJy8nKVszXSkK</text>
       </register>
-      <register name="3" type="4">
-        <text>(listObjectsResult)
-
-  // console.log(listObjectsResult.CommonPrefixes.length)
-  // console.log(</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGxpc3RPYmplY3RzUmVzdWx0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpc3RPYmplY3RzUmVzdWx0LikK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhbGxWaWRlb3MubGVuZ3RoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpZHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZ2xpc3RPYmplY3RzUmVzdWx0KTsK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bGV0IHRhYmxlTmFtZSA9ICJWdWxjYW5WaXNpb24tRm9sZGVycy1wcm9kIgogICAgLCBwYXJhbXMgICAgPSB7CiAgICAvLyBFeHByZXNzaW9uQXR0cmlidXRlVmFsdWVzOiB7CiAgICAvLyAgICI6Y2hJZCI6IHsKICAgIC8vICAgICBTOiBjaGFubmVsSWQsCiAgICAvLyAgIH0sCiAgICAvLyB9LAogICAgLy8gRmlsdGVyRXhwcmVzc2lvbiAgICA6ICJjaGFubmVsSWQgPSA6Y2hJZCIsCiAgICBUYWJsZU5hbWUgICAgICAgICAgIDogdGFibGVOYW1lLAogIH07CiAgbGV0IGN1cnJlbnRGb2xkZXJzID0gKGF3YWl0IGR5bmFtb2RiLnNjYW4ocGFyYW1zKS5wcm9taXNlKCkpLkl0ZW1zLm1hcChmID0+IGRkYkhlbGVwci5keW5hbW9kYlRvT2JqZWN0KGYpKTsKCgogIC8vICoqKiogcmVjcmVhdGUgZm9sZGVycyAqKioqIC8vCiAgY29uc29sZS5sb2coJ19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fJykKICBmb3IgKGxldCBmb2xkZXIgb2YgY3VycmVudEZvbGRlcnMpewogICAgbGV0IGR1cGxpY2F0ZSA9IGN1cnJlbnRGb2xkZXJzLmZpbmQoZiA9PiB7CiAgICAgIHJldHVybiBmLmxvY2FsUGF0aCA9PT0gZm9sZGVyLmxvY2FsUGF0aCAmJiBmLmlkICE9PSBmb2xkZXIuaWQgJiYgZi5jaGFubmVsSWQgPT09IGZvbGRlci5jaGFubmVsSWQ7CiAgICB9KQogICAgaWYgKGR1cGxpY2F0ZSl7CiAgICAgIGNvbnNvbGUubG9nKCdfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXycpCiAgICAgIGNvbnNvbGUubG9nKCdGb2xkZXI6JykKICAgICAgY29uc29sZS5sb2coZm9sZGVyKQogICAgICBjb25zb2xlLmxvZygnRHVwbGljYXRlOicpCiAgICAgIGNvbnNvbGUubG9nKGR1cGxpY2F0ZSkKICAgIH0KICAgIC8vIGNvbnNvbGUubG9nKCkKICB9</text>
+        <text>(listObjectsResult)
+
+  // console.log(listObjectsResult.CommonPrefixes.length)
+  // console.log(</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHMzID0gcmVxdWlyZSgiLi4vbGliL3NlcnZpY2VzL2F3cyIpLnMzOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpc3RPYmplY3RzUmVzdWx0LikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
