@@ -383,6 +383,12 @@
         <mark key="^" line="1" column="79" />
         <mark key="." line="1" column="75" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1529745214238">
+        <mark key="[" line="717" column="14" />
+        <mark key="]" line="717" column="28" />
+        <mark key="^" line="717" column="28" />
+        <mark key="." line="717" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onDislike.json" timestamp="1526968911133">
         <mark key="[" line="47" column="12" />
         <mark key="]" line="47" column="12" />
@@ -772,11 +778,11 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1529741825369">
-        <mark key="'" line="1131" column="0" />
-        <mark key="[" line="1224" column="0" />
-        <mark key="]" line="1224" column="0" />
-        <mark key="." line="1224" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1529748039328">
+        <mark key="[" line="1216" column="26" />
+        <mark key="]" line="1217" column="9" />
+        <mark key="^" line="1217" column="9" />
+        <mark key="." line="1217" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/package.json" timestamp="1520773785716">
         <mark key="[" line="14" column="15" />
@@ -949,7 +955,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="608" column="10" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
       <jump line="643" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
       <jump line="165" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/likes.js" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
@@ -1049,10 +1054,11 @@
       <jump line="1128" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="1131" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="344" column="16" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
+      <jump line="1231" column="1" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBsZXQgZm9sZGVycyA9IGF3YWl0IChGb2xkZQo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1067,48 +1073,76 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>folder.localPath</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvbGRlcnMuZmlsdGVyKGY9PmYgPT09IGZvbGRlci5sb2NhbFBhdGgpOwo=</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhiYWNrdXBWaWRlb3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZXQgZm9sZGVycyA9IGF3YWl0IChGb2xkZQo=</text>
+        <text encoding="base64">ICAvLyBsZXQgbmV3Rm9sZGVyID0gbmV3IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">cgogICAgLnF1ZXJ5KCdjaGFubmVsSWQnKS5lcSgnMTMnKQogICAgLndoZXJlKCdsb2NhbFBhdGgnKS5iZWdpbnNXaXRoKCcvUm9vdC9rZWtoaGgnKQogICAgLmV4ZWMoKSk7CiAgZm9sZGVycyA9IGZvbGRlcnMuZmlsdGVyKGY9PmYubG9jYWxQYXRoID09PSAnL1Jvb3Qva2VraGhoJyk7CiAgY29uc29sZS5sb2coZm9sZGVycy5sZW5ndGgp</text>
+        <text>Folder({
+  //   cDate    : 1529609393953,
+  //   channelId: '13',
+  //   id       : '9389',
+  //   localPath: '/Root/B-CH-High Jump',
+  //   uDate    : 1529609393953
+  // })
+  // await newFolder.save()
+  // let newVideo =  new Video({
+  //   viewCounter: 2,
+  //   folderId   : '9389',
+  //   uDate      : 1529598479496,
+  //   vulcamId   : '0d5af83e-2fff-4efb-902f-a4e1bbcf07ff',
+  //   playType   : 'mp4_stream',
+  //   channelId  : '13',
+  //   cDate      : 1529113841837,
+  //   no_cmnts   : 'X',
+  //   isPublic   : false,
+  //   s3key      : 'channels/44/videos/1369/',
+  //   id         : '9388',
+  //   title      : 'G - EE - Pole Vault (F)14',
+  //   type       : 'backup',
+  //   isUploaded : 'X'
+  // })
+  // await newVideo.save()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmb2xkZXJQYXRoKQo=</text>
+        <text encoding="base64">ICAgIGlmIChjdXJyZW50VmlkZW9zLmZpbmQoY2YgPT4gY2YuaWQgPT09IGJmLmlkKSl7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZm9sZGVycyk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IAogIGN1cnJlbnRWaWRlb3MuZm9yRWFjaCh2ID0+IHsKICAgIGxldCBleGlzdGluZ0ZvbGRlciA9IGN1cnJlbnRGb2xkZXJzLmZpbmQoZiA9PiBmLmlkID09PSB2LmZvbGRlcklkKTsKICAgIGlmIChleGlzdGluZ0ZvbGRlcikgY29uc29sZS5sb2coZXhpc3RpbmdGb2xkZXIuaWQpCgogIH0p</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-            condition: 'attribute_not_exists(localPath)'
-          }</text>
+      <register name="6" type="2">
+        <text encoding="base64">IGNvbnNvbGUubG9nKGN1cnJlbnRWaWRlb3MpCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmb2xkZXJzW2ldLnJlbW92ZSgpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGNvbnNvbGUubG9nKGN1cnJlbnRWaWRlb3MubWFwKHYgPT4gdi5mb2xkZXJJZCkpCiAg</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text>{
+      cDate    : 1529609393953,
+      channelId: '13',
+      id       : '9389',
+      localPath: '/Root/B-CH-High Jump',
+      uDate    : 1529609393953
+    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBmb2xkZXJzID0gYXdhaXQgKEZvbGRlci5nZXRCeUxvY2FsUGF0aChmb2xkZXIuY2hhbm5lbElkLCBmb2xkZXIubG9jYWxQYXRoKSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
