@@ -99,11 +99,11 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1529713985176">
-        <mark key="[" line="342" column="45" />
-        <mark key="]" line="342" column="53" />
-        <mark key="." line="342" column="53" />
-        <mark key="^" line="342" column="53" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1529715177161">
+        <mark key="[" line="61" column="21" />
+        <mark key="]" line="62" column="29" />
+        <mark key="." line="62" column="29" />
+        <mark key="^" line="62" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/client/package.json" timestamp="1520785715373">
         <mark key="[" line="22" column="4" />
@@ -777,12 +777,12 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1529713994433">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1529715360874">
         <mark key="'" line="1131" column="0" />
-        <mark key="[" line="1224" column="20" />
-        <mark key="]" line="1224" column="20" />
-        <mark key="." line="1224" column="20" />
-        <mark key="^" line="1224" column="20" />
+        <mark key="[" line="1227" column="27" />
+        <mark key="]" line="1227" column="33" />
+        <mark key="." line="1227" column="33" />
+        <mark key="^" line="1227" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/package.json" timestamp="1520773785716">
         <mark key="[" line="14" column="15" />
@@ -1058,7 +1058,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>,</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1073,7 +1073,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
