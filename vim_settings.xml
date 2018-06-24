@@ -99,11 +99,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1529794114816">
-        <mark key="[" line="527" column="0" />
-        <mark key="]" line="527" column="0" />
-        <mark key="^" line="525" column="32" />
-        <mark key="." line="527" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1529797586940">
+        <mark key="'" line="4" column="21" />
+        <mark key="[" line="356" column="67" />
+        <mark key="]" line="357" column="29" />
+        <mark key="^" line="357" column="29" />
+        <mark key="." line="357" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/client/package.json" timestamp="1520785715373">
         <mark key="[" line="22" column="4" />
@@ -790,12 +791,12 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1529793455869">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1529797240628">
         <mark key="'" line="438" column="38" />
-        <mark key="[" line="1405" column="13" />
-        <mark key="]" line="1405" column="13" />
+        <mark key="[" line="1256" column="20" />
+        <mark key="]" line="1256" column="21" />
         <mark key="^" line="1405" column="13" />
-        <mark key="." line="1405" column="13" />
+        <mark key="." line="1256" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/package.json" timestamp="1520773785716">
         <mark key="[" line="14" column="15" />
@@ -973,9 +974,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
-      <jump line="217" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
-      <jump line="227" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="237" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="247" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="257" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
@@ -1073,10 +1071,13 @@
       <jump line="1356" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="1431" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="438" column="38" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="295" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
+      <jump line="3" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
+      <jump line="4" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGRldlMzQnVja2V0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1091,49 +1092,50 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRldlMzQnVja2V0</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>requi</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkeW5hbW9kYlZJZHMubGVuZ3RoKQo=</text>
+      <register name="0" type="4">
+        <text>_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coY1ByZWZpeC5QcmVmaXguc3BsaXQoJy8nKVszXSkK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGNvbnNvbGUubG9nKGZvbGRlcnMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGxpc3RPYmplY3RzUmVzdWx0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGNvbnNvbGUubG9nKGBMb2NhbFBhdGg6ICR7Zm9sZGVyLmxvY2FsUGF0aH1gKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhbGxWaWRlb3MubGVuZ3RoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCdGaWx0ZXJlZCBmb2xkZXJzOicK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpZHMpCg==</text>
+      <register name="5" type="4">
+        <text>)
+          // console.log(folders)
+
+          // console.log(localPath + '     ' + folder.id)
+          // console.log(folders.length)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZ2xpc3RPYmplY3RzUmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhmb2xkZXJzW2ldKQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
-        <text>(listObjectsResult)
-
-  // console.log(listObjectsResult.CommonPrefixes.length)
-  // console.log(</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZyhgRm9sZGVyIHRvIGRlbGV0ZTogJHtmb2xkZXJzW2ldLmlkYGB9YCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxpc3RPYmplY3RzUmVzdWx0LikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBhd2FpdCAoRm9sZGVyLnJlbW92ZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoZm9sZGVycy5sZW5ndGggPT09IDEpIGJyZWFrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
