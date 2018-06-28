@@ -424,7 +424,6 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/BaseType.js" timestamp="1529775548829" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1525646376186">
         <mark key="[" line="47" column="70" />
         <mark key="]" line="48" column="20" />
@@ -488,7 +487,6 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/fvpBackup.js" timestamp="1529775540880" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1529781418337">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="212" column="0" />
@@ -791,12 +789,12 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1529797240628">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1530164823516">
         <mark key="'" line="438" column="38" />
-        <mark key="[" line="1256" column="20" />
-        <mark key="]" line="1256" column="21" />
-        <mark key="^" line="1405" column="13" />
-        <mark key="." line="1256" column="21" />
+        <mark key="[" line="1301" column="109" />
+        <mark key="]" line="1302" column="34" />
+        <mark key="^" line="1302" column="34" />
+        <mark key="." line="1302" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/package.json" timestamp="1520773785716">
         <mark key="[" line="14" column="15" />
@@ -873,6 +871,9 @@
         <mark key="[" line="44" column="12" />
         <mark key="]" line="47" column="12" />
         <mark key="." line="44" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" timestamp="1530164747413">
+        <mark key="'" line="119" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/sqs/index.js" timestamp="1529474357625">
         <mark key="[" line="6" column="19" />
@@ -980,8 +981,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
-      <jump line="247" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="257" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="267" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="277" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
@@ -1080,10 +1079,12 @@
       <jump line="295" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
       <jump line="3" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
       <jump line="4" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
+      <jump line="120" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" />
+      <jump line="119" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgdGFibGVOYW1lID0gIlZ1bGNhblZpc2lvbi1Gb2xkZXJzLXByb2QiCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1103,8 +1104,8 @@
       <register name="/" type="4">
         <text>requi</text>
       </register>
-      <register name="0" type="4">
-        <text>_</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBsZXQgdGFibGVOYW1lID0gIlZ1bGNhblZpc2lvbi1Gb2xkZXJzLXByb2QiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
