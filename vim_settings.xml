@@ -141,6 +141,12 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
       </file>
+      <file name="$USER_HOME$/Desktop/angular-tour-of-heroes/src/app/mock-heroes.ts" timestamp="1530816939374">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="1" />
+        <mark key="^" line="13" column="1" />
+        <mark key="." line="13" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/file.js" timestamp="1518038543659">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="10" column="46" />
@@ -193,6 +199,9 @@
         <mark key="]" line="358" column="0" />
         <mark key="^" line="381" column="6" />
         <mark key="." line="358" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/angular-tour-of-heroes/src/app/heroes/heroes.component.html" timestamp="1530817101943">
+        <mark key="[" line="2" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1525804910602">
         <mark key="[" line="23" column="36" />
@@ -582,6 +591,12 @@
         <mark key="]" line="62" column="22" />
         <mark key="^" line="62" column="22" />
         <mark key="." line="62" column="22" />
+      </file>
+      <file name="$USER_HOME$/Desktop/angular-tour-of-heroes/src/app/heroes/heroes.component.ts" timestamp="1530817078194">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+        <mark key="." line="17" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/index.js" timestamp="1517171769244">
         <mark key="[" line="9" column="12" />
@@ -1083,8 +1098,8 @@
       <jump line="119" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBsZXQgdGFibGVOYW1lID0gIlZ1bGNhblZpc2lvbi1Gb2xkZXJzLXByb2QiCg==</text>
+      <register name="&quot;" type="4">
+        <text>heroes</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1099,7 +1114,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>heroes</text>
       </register>
       <register name="/" type="4">
         <text>requi</text>
