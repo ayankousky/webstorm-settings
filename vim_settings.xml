@@ -978,6 +978,13 @@
         <mark key="^" line="93" column="22" />
         <mark key="." line="93" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/base/base.component.html" timestamp="1530943811295">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="19" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/tmp/split_video/ffmpeg_run.sh" timestamp="1515624101929">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="21" />
@@ -1022,7 +1029,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="287" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="296" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="306" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
@@ -1122,10 +1128,11 @@
       <jump line="119" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" />
       <jump line="31" column="27" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" />
       <jump line="72" column="19" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/base.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/base/base.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMzMzMzKQo=</text>
+        <text encoding="base64">ICAgICAgPHRkPkBmYXQ8L3RkPgo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1140,48 +1147,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNhbGxiYWNr</text>
+        <text>Description</text>
       </register>
       <register name="/" type="4">
         <text>requi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTEpCg==</text>
+        <text encoding="base64">ICAgICAgPHRkPkBmYXQ8L3RkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMzMzMzKQo=</text>
+        <text encoding="base64">ICAgIDx0cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMjIyMikK</text>
+      <register name="2" type="4">
+        <text encoding="base64">PgogICAgICA8dGggc2NvcGU9InJvdyI+MzwvdGg+CiAgICAgIDx0ZD5MYXJyeTwvdGQ+CiAgICAgIDx0ZD50aGUgQmlyZDwvdGQ+CiAgICAgIDx0ZD5AdHdpdHRlcjwvdGQ+CiAgICA8L3RyPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTEpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMzMzMzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyg1NTU1KQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMjIyMikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudC5ib2R5KQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMTEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudC5ib2R5LnByb192ZXJzaW9uKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyg1NTU1KQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudC5ib2R5KQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudC5ib2R5LnByb192ZXJzaW9uKQo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhPYmplY3Qua2V5cyhldmVudC5ib2R5KSkK</text>
-      </register>
-      <register name="8" type="4">
-        <text>await(Base.getByBaseVersion(event.body.base_version));
-  baseUpdate.pro_version = event.body.pro_version || baseUpdate.pro_version;
-  await (baseUpdate.save());</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgLnF1ZXJ5KCdiYXNlX3ZlcnNpb24nKS5lcShiYXNlVmVyc2lvbikKICAgICAgICAud2hlcmUoJ2NEYXRlJykuZ3QoMCk=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
