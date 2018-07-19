@@ -98,13 +98,6 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1529797586940">
-        <mark key="'" line="4" column="21" />
-        <mark key="[" line="356" column="67" />
-        <mark key="]" line="357" column="29" />
-        <mark key="^" line="357" column="29" />
-        <mark key="." line="357" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/client/package.json" timestamp="1520785715373">
         <mark key="[" line="22" column="4" />
         <mark key="]" line="22" column="2" />
@@ -222,11 +215,11 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1531944719606">
-        <mark key="[" line="634" column="0" />
-        <mark key="]" line="634" column="16" />
-        <mark key="^" line="399" column="9" />
-        <mark key="." line="634" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1532032251134">
+        <mark key="[" line="718" column="14" />
+        <mark key="]" line="718" column="16" />
+        <mark key="^" line="718" column="16" />
+        <mark key="." line="718" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -381,11 +374,11 @@
         <mark key="^" line="24" column="27" />
         <mark key="." line="24" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/stacks-map.js" timestamp="1530911315754">
-        <mark key="[" line="33" column="37" />
-        <mark key="]" line="33" column="48" />
-        <mark key="." line="33" column="48" />
-        <mark key="^" line="33" column="48" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/stacks-map.js" timestamp="1532031844327">
+        <mark key="[" line="40" column="90" />
+        <mark key="]" line="40" column="92" />
+        <mark key="." line="40" column="92" />
+        <mark key="^" line="40" column="92" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onNewLike.json" timestamp="1526968929017">
         <mark key="[" line="21" column="12" />
@@ -675,12 +668,12 @@
         <mark key="^" line="121" column="20" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/dev/main_vulcanvision.yml" timestamp="1531648694147">
-        <mark key="'" line="95" column="15" />
-        <mark key="[" line="95" column="13" />
-        <mark key="]" line="95" column="14" />
-        <mark key="^" line="95" column="15" />
-        <mark key="." line="95" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/dev/main_vulcanvision.yml" timestamp="1532031495504">
+        <mark key="'" line="99" column="15" />
+        <mark key="[" line="52" column="31" />
+        <mark key="]" line="52" column="34" />
+        <mark key="^" line="52" column="34" />
+        <mark key="." line="52" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/redirect.js" timestamp="1518463342653">
         <mark key="[" line="1" column="0" />
@@ -1158,7 +1151,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>playType</text>
+        <text>5</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1173,13 +1166,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>playType</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>requi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVyYXRpb246IHBhcmFtcy5kdXJhdGlvbiwK</text>
+        <text encoding="base64">ICAgIGxvZ2ljYWxJZC50b0xvd2VyQ2FzZSgpLmluZGV4T2YoJ1ZpZGVvVXBkYXRlc0RlYWRMZXR0ZXJTUVNRdWV1ZScudG9Mb3dlckNhc2UoKSkgIT09IC0xCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICogICAgICAgICAgIERlc2NyaWJlcyBob3cgdGhlIHZpZGVvIHNob3VsZCBiZSBwbGF5ZWQuIFBvc3NpYmxlIHZhbHVlczoganBnLCBtcDRfc3RyZWFtLCBobHNfc3RyZWEK</text>
