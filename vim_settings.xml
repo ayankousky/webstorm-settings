@@ -331,12 +331,6 @@
         <mark key="^" line="222" column="23" />
         <mark key="." line="234" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/sharings/save.json" timestamp="1526507357943">
-        <mark key="[" line="29" column="6" />
-        <mark key="]" line="29" column="6" />
-        <mark key="." line="29" column="6" />
-        <mark key="^" line="29" column="6" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/.env" timestamp="1521489820080">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="1" column="34" />
@@ -529,12 +523,12 @@
         <mark key="]" line="27" column="38" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1531947888624">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" timestamp="1532034268316">
         <mark key="'" line="890" column="37" />
-        <mark key="[" line="96" column="9" />
-        <mark key="]" line="96" column="16" />
+        <mark key="[" line="1402" column="30" />
+        <mark key="]" line="1402" column="30" />
         <mark key="^" line="96" column="16" />
-        <mark key="." line="96" column="16" />
+        <mark key="." line="1402" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/src/offer/offer.routes.js" timestamp="1520787050374">
         <mark key="[" line="6" column="16" />
@@ -1151,7 +1145,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>Batch</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1166,7 +1160,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>Batch</text>
       </register>
       <register name="/" type="4">
         <text>requi</text>
