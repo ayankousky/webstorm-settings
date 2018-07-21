@@ -277,11 +277,11 @@
         <mark key="^" line="1450" column="39" />
         <mark key="." line="1450" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/queue/service/index.js" timestamp="1532184066774">
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="29" column="20" />
-        <mark key="^" line="29" column="20" />
-        <mark key="." line="29" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/queue/service/index.js" timestamp="1532185110027">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="25" />
+        <mark key="^" line="21" column="25" />
+        <mark key="." line="21" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1529773179044">
         <mark key="[" line="61" column="47" />
@@ -439,11 +439,11 @@
         <mark key="^" line="23" column="25" />
         <mark key="." line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/queue/entities/queue.js" timestamp="1532184085763">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="16" />
-        <mark key="^" line="11" column="16" />
-        <mark key="." line="11" column="16" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/queue/entities/queue.js" timestamp="1532185309089">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/index.js" timestamp="1519682515418">
         <mark key="[" line="26" column="0" />
@@ -1162,8 +1162,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>putMessages</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1178,13 +1178,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>putMessages</text>
+        <text encoding="base64">cHV0TWVzc2FnZXNGdW5jIA==</text>
       </register>
       <register name="/" type="4">
         <text>requi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2ljYWxJZC50b0xvd2VyQ2FzZSgpLmluZGV4T2YoJ1ZpZGVvVXBkYXRlc0RlYWRMZXR0ZXJTUVNRdWV1ZScudG9Mb3dlckNhc2UoKSkgIT09IC0xCg==</text>
+        <text encoding="base64">ICAgIHx8ICEocHV0TWVzc2FnZXNGdW5jIGluc3RhbmNlb2YgRnVuY3Rpb24pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1192,68 +1192,32 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBpZiAoIShwYXlsb2FkIGluc3RhbmNlb2YgQXJyYXkpKXsKICAgICAgcGF5bG9hZCA9IFtwYXlsb2FkXTsKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHx8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgcGF5bG9hZE9iaiA9IHt9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwYXlsb2FkT2JqLlJlY29yZHNbMF0uczMub2JqZWN0LmtleSA9IGBjaGFubmVscy8ke3YuY2hhbm5lbElkfS92aWRlb3MvJHt2LmlkfS8ke3YuaWR9LmZ2cGAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICBpZiAoIShwYXlsb2FkIGluc3RhbmNlb2YgQXJyYXkpKXsKICAgICAgcGF5bG9hZCA9IFtwYXlsb2FkXTsKICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBsZXQgcGF5bG9hZE9iaiA9IHt9Owo=</text>
       </register>
-      <register name="8" type="4">
-        <text>&quot;Records&quot;: [
-      {
-        &quot;eventVersion&quot;     : &quot;2.0&quot;,
-        &quot;eventSource&quot;      : &quot;aws:s3&quot;,
-        &quot;awsRegion&quot;        : &quot;us-west-2&quot;,
-        &quot;eventTime&quot;        : &quot;2018-03-29T12:19:53.916Z&quot;,
-        &quot;eventName&quot;        : &quot;ObjectCreated:Put&quot;,
-        &quot;userIdentity&quot;     : {
-          &quot;principalId&quot;: &quot;AWS:AROAICLCOFZCCQJIBNXLM:VulcanVision-Alex-dev-uploadProfilePicture&quot;
-        },
-        &quot;requestParameters&quot;: {
-          &quot;sourceIPAddress&quot;: &quot;212.98.165.50&quot;
-        },
-        &quot;responseElements&quot; : {
-          &quot;x-amz-request-id&quot;: &quot;98F48ECFC7B65DDE&quot;,
-          &quot;x-amz-id-2&quot;      : &quot;Nta3Pj3S6q9Wt7SeXFGoMNJJ0Ojt4MGfOx0JQsZkSDdYg8LPzH+odmlPRl7lr+MyJ25aYekZlk8=&quot;
-        },
-        &quot;s3&quot;               : {
-          &quot;s3SchemaVersion&quot;: &quot;1.0&quot;,
-          &quot;configurationId&quot;: &quot;21c54782-0652-4c9d-9a71-c0d5d3267ccd&quot;,
-          &quot;bucket&quot;         : {
-            &quot;name&quot;         : &quot;vulcanvision-api-dev&quot;,
-            &quot;ownerIdentity&quot;: {
-              &quot;principalId&quot;: &quot;A37JQ0T0TFJ1LP&quot;
-            },
-            &quot;arn&quot;          : &quot;arn:aws:s3:::vulcanvision-api-dev&quot;
-          },
-          &quot;object&quot;         : {
-            &quot;key&quot;      : &quot;channels/13/videos/865/865.fvp&quot;,
-            &quot;size&quot;     : 80722,
-            &quot;eTag&quot;     : &quot;3a7588fb09d896ea5021fa4becf1e97f&quot;,
-            &quot;versionId&quot;: &quot;u_WzokGeaoOZ0Mvy4NbIuV4Niw2yZmaC&quot;,
-            &quot;sequencer&quot;: &quot;005ABCD9E9B847CA26&quot;
-          }
-        }
-      }
-    ]</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwYXlsb2FkT2JqLlJlY29yZHNbMF0uczMub2JqZWN0LmtleSA9IGBjaGFubmVscy8ke3YuY2hhbm5lbElkfS92aWRlb3MvJHt2LmlkfS8ke3YuaWR9LmZ2cGAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmb3IgKGxldCB2IG9mIHZpZGVvc1RvVXBkYXRlKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
