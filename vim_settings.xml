@@ -325,12 +325,12 @@
         <mark key="^" line="51" column="15" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1532194422351">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1532195799176">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="0" />
-        <mark key="." line="198" column="0" />
-        <mark key="^" line="197" column="10" />
+        <mark key="[" line="197" column="33" />
+        <mark key="]" line="197" column="34" />
+        <mark key="." line="197" column="34" />
+        <mark key="^" line="197" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/.env" timestamp="1521489820080">
         <mark key="[" line="0" column="15" />
@@ -1114,8 +1114,8 @@
       <jump line="76" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/videoUpdates.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGhhbmRsZSBxdWV1ZSBmb3IgZWFjaCBxdWV1ZQ==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1130,7 +1130,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW4g</text>
+        <text encoding="base64">IGhhbmRsZSBxdWV1ZSBmb3IgZWFjaCBxdWV1ZQ==</text>
       </register>
       <register name="/" type="4">
         <text>requi</text>
@@ -1139,40 +1139,40 @@
         <text encoding="base64">ICByZXR1cm4gY29udGV4dC5zdWNjZWVkKHt9KTsgLy8gc2VuZCBzdWNjZXNzIHRvIG1hcmsgZW50cmllcyBhbmQgaGFuZGxlZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBsZXQgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIE1lc3NhZ2VCb2R5OiBKU09OLnN0cmluZ2lmeSh7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAvLyBJZDogYCR7bmV3IERhdGUoKSAtIDB9LyR7ZS52SWR9LyR7ZS5jaElkfWAsIC8vIGJhdGNoIHB1dCByZXF1aXJlcyBJZA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>,
           MessageDeduplicationId: new Date() - 0 + e.videoId,
           MessageGroupId: `video_copy/${e.channelId}`,
           // MessageGroupId: `video_copy/${e.videoId}/${new Date() - 0}`,</text>
       </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAsIHAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">UXVldWVTZXJ2aWNlLnJlZ2lzdGVyUXVldWUodmlkZW9VcGRhdGVzUXVldWUpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
