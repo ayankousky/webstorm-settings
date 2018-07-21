@@ -277,6 +277,12 @@
         <mark key="^" line="1450" column="39" />
         <mark key="." line="1450" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/queue/service/index.js" timestamp="1532184066774">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="20" />
+        <mark key="^" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1529773179044">
         <mark key="[" line="61" column="47" />
         <mark key="]" line="61" column="47" />
@@ -433,6 +439,12 @@
         <mark key="^" line="23" column="25" />
         <mark key="." line="23" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/queue/entities/queue.js" timestamp="1532184085763">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/index.js" timestamp="1519682515418">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -462,12 +474,6 @@
         <mark key="]" line="48" column="20" />
         <mark key="." line="48" column="20" />
         <mark key="^" line="48" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/queue/index.js" timestamp="1532181518830">
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="21" column="50" />
-        <mark key="^" line="21" column="50" />
-        <mark key="." line="21" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/registration_success_with_password.pug" timestamp="1521665383774">
         <mark key="[" line="42" column="102" />
@@ -1156,8 +1162,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>putMessages</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1172,7 +1178,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>payload</text>
+        <text>putMessages</text>
       </register>
       <register name="/" type="4">
         <text>requi</text>
