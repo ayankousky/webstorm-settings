@@ -27,11 +27,11 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/videoCopy.js" timestamp="1532280557752">
-        <mark key="[" line="49" column="6" />
-        <mark key="]" line="49" column="6" />
-        <mark key="^" line="48" column="28" />
-        <mark key="." line="49" column="6" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/videoCopy.js" timestamp="1532282383281">
+        <mark key="[" line="27" column="40" />
+        <mark key="]" line="27" column="42" />
+        <mark key="^" line="27" column="42" />
+        <mark key="." line="27" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1521490204762">
         <mark key="[" line="43" column="27" />
@@ -310,12 +310,12 @@
         <mark key="^" line="51" column="15" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1532280337458">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1532281829174">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="224" column="34" />
-        <mark key="]" line="225" column="30" />
-        <mark key="." line="225" column="30" />
-        <mark key="^" line="225" column="30" />
+        <mark key="[" line="244" column="7" />
+        <mark key="]" line="245" column="20" />
+        <mark key="." line="245" column="20" />
+        <mark key="^" line="245" column="20" />
       </file>
       <file name="/index.js" timestamp="1532253337193" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/.env" timestamp="1521489820080">
@@ -686,11 +686,11 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="64" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/common.js" timestamp="1526053457783">
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="25" />
-        <mark key="^" line="27" column="25" />
-        <mark key="." line="27" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/common.js" timestamp="1532281781550">
+        <mark key="[" line="75" column="1" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/entites/networks/types/base.js" timestamp="1517865529054">
         <mark key="[" line="13" column="1" />
@@ -764,7 +764,7 @@
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1532265507023">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1532281750856">
         <mark key="'" line="1459" column="8" />
         <mark key="[" line="1483" column="57" />
         <mark key="]" line="1483" column="57" />
@@ -937,12 +937,6 @@
         <mark key="^" line="60" column="26" />
         <mark key="." line="60" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues.js" timestamp="1532192905062">
-        <mark key="'" line="36" column="3" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/reports/base.js" timestamp="1518032033019">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="3" column="1" />
@@ -1073,7 +1067,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>thrown</text>
+        <text>videoId</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1088,13 +1082,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>thrown</text>
+        <text>videoId</text>
       </register>
       <register name="/" type="4">
         <text>conc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICwgbXNnQ291bnQgPSBhd2FpdCAoUXVldWVTZXJ2aWNlLmdldFF1ZXVlTXNnQ291bnQoaGFuZGxpbmdRdWV1ZU5hbWUpKQo=</text>
+        <text encoding="base64">ICByZXR1cm4gY29udGV4dC5zdWNjZWVkKHt9KTsgLy8gc2VuZCBzdWNjZXNzIHRvIG1hcmsgZW50cmllcyBhbmQgaGFuZGxlZAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuIDsgLy8gc2VuZCBzdWNjZXNzIHRvIG1hcmsgZW50cmllcyBhbmQgaGFuZGxlZAo=</text>
