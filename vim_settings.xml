@@ -624,11 +624,12 @@
         <mark key="." line="130" column="30" />
         <mark key="^" line="130" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/index.js" timestamp="1532264342511">
-        <mark key="[" line="8" column="56" />
-        <mark key="]" line="8" column="75" />
-        <mark key="." line="8" column="75" />
-        <mark key="^" line="8" column="75" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/index.js" timestamp="1532274938473">
+        <mark key="'" line="10" column="6" />
+        <mark key="[" line="9" column="80" />
+        <mark key="]" line="9" column="98" />
+        <mark key="." line="9" column="98" />
+        <mark key="^" line="9" column="98" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/kd.js" timestamp="1518039614021">
         <mark key="[" line="0" column="0" />
@@ -969,7 +970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="604" column="53" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
       <jump line="1177" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" />
       <jump line="56" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" />
@@ -1069,10 +1069,11 @@
       <jump line="18" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/videoUpdates.js" />
       <jump line="21" column="51" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/videoUpdates.js" />
       <jump line="1355" column="22" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" />
+      <jump line="10" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>l</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1087,10 +1088,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>requi</text>
+        <text>conc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAsIHF1ZXVlU2V0dGluZ3MgPSBRdWV1ZVNlcnZpY2UuZ2V0UXVldWVTZXR0aW5ncyhxdWV1ZU5hbWUpCg==</text>
@@ -1133,9 +1134,9 @@
       </register>
     </registers>
     <search>
-      <last-search>requi</last-search>
+      <last-search>conc</last-search>
       <last-offset />
-      <last-pattern>requi</last-pattern>
+      <last-pattern>conc</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>requi</last-substitute>
       <last-dir>1</last-dir>
@@ -1143,7 +1144,6 @@
     </search>
     <history>
       <history-search>
-        <entry>save?</entry>
         <entry>await</entry>
         <entry>needMoreOffer</entry>
         <entry>offersCounter</entry>
@@ -1163,6 +1163,7 @@
         <entry encoding="base64">XDxiYWNrdXBGb2xkZXJzXD4=</entry>
         <entry>requ</entry>
         <entry>requi</entry>
+        <entry>conc</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
