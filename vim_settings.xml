@@ -876,7 +876,7 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532290716363">
+      <file name="/Dummy.txt" timestamp="1532293064572">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
@@ -909,12 +909,12 @@
         <mark key="^" line="93" column="22" />
         <mark key="." line="93" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1532286792311">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1532293077799">
         <mark key="'" line="1355" column="22" />
-        <mark key="[" line="1063" column="19" />
-        <mark key="]" line="1063" column="20" />
-        <mark key="." line="1063" column="20" />
-        <mark key="^" line="1062" column="20" />
+        <mark key="[" line="1364" column="30" />
+        <mark key="]" line="1364" column="29" />
+        <mark key="." line="1364" column="29" />
+        <mark key="^" line="1364" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/tmp/split_video/ffmpeg_run.sh" timestamp="1515624101929">
         <mark key="[" line="7" column="18" />
@@ -1070,7 +1070,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGhvdXI=</text>
+        <text>ser</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1085,7 +1085,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGhvdXI=</text>
+        <text>ser</text>
       </register>
       <register name="/" type="4">
         <text>conc</text>
