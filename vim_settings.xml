@@ -21,11 +21,11 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/videoCopy.js" timestamp="1532282383281">
-        <mark key="[" line="27" column="40" />
-        <mark key="]" line="27" column="42" />
-        <mark key="^" line="27" column="42" />
-        <mark key="." line="27" column="42" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/videoCopy.js" timestamp="1532295942692">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="60" column="9" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1521490204762">
         <mark key="[" line="43" column="27" />
@@ -876,7 +876,7 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532293064572">
+      <file name="/Dummy.txt" timestamp="1532295872061">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
@@ -909,8 +909,8 @@
         <mark key="^" line="93" column="22" />
         <mark key="." line="93" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1532293077799">
-        <mark key="'" line="1355" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1532295864440">
+        <mark key="'" line="1384" column="21" />
         <mark key="[" line="1364" column="30" />
         <mark key="]" line="1364" column="29" />
         <mark key="." line="1364" column="29" />
@@ -967,7 +967,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1177" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" />
       <jump line="56" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" />
       <jump line="59" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" />
@@ -1067,10 +1066,11 @@
       <jump line="21" column="51" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/videoUpdates.js" />
       <jump line="1355" column="22" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" />
       <jump line="10" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/index.js" />
+      <jump line="1384" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobSkK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1094,15 +1094,18 @@
         <text encoding="base64">ICAgICAgICBNZXNzYWdlR3JvdXBJZCAgICAgICAgOiBgdmlkZW9fY2hhbm5lbFRpdGxlX3VwZGF0ZXMvJHttLnZpZGVvSWR9YCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobSkK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobSkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">IyAgaGFuZGxlU1FTVmlkZW9VcGRhdGVzCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>:
 #    handler: lib/controllers/event.handleSQSVideoUpdates
 #    timeout: 15
@@ -1118,26 +1121,23 @@
 #      - schedule:
 #          rate: rate(1 hour)</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhoYW5kbGVRdWV1ZVJlc3VsdCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGFuZGxlUXVldWVSZXN1bHQnKQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd3YWl0JykK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGFuZGxlUXVldWVSZXN1bHQnKQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygzKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd3YWl0JykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygzKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ci8vIGhhbmRsZSAxMCArIDEwIGVudHJpZXMgZnJvbSBxdWV1ZSBldmVyeSAxIG1pbnV0ZQptb2R1bGUuZXhwb3J0cy5oYW5kbGVTUVNWaWRlb1VwZGF0ZXMgPSBhc3luYyhmdW5jdGlvbihldmVudCwgY29udGV4dCwgY2FsbGJhY2spewogIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGV2ZW50KSk7CgogIGxldCBzcXMgPSByZXF1aXJlKCcuLi9zZXJ2aWNlcy9hd3MnKS5zcXM7CgogIC8vIDEKICBsZXQgcGFyYW1zID0gewogICAgUXVldWVVcmw6IGBodHRwczovL3Nxcy4ke2NvbmZpZy5SRUdJT059LmFtYXpvbmF3cy5jb20vJHtjb25maWcuQVdTX0FDQ09VTlRfSUR9LyR7Y29uZmlnLlNRUy5xdWV1ZXMudmlkZW9fdXBkYXRlcy5uYW1lfWAsCiAgICBNYXhOdW1iZXJPZk1lc3NhZ2VzOiAxMCwKICAgIFZpc2liaWxpdHlUaW1lb3V0OiAxMCwKICAgIFdhaXRUaW1lU2Vjb25kczogMQogIH07CiAgbGV0IHNxc0dldFJlc3VsdCA9IGF3YWl0IChzcXMucmVjZWl2ZU1lc3NhZ2UocGFyYW1zKS5wcm9taXNlKCkpOwogIGNvbnNvbGUubG9nKHNxc0dldFJlc3VsdCkKICBpZiAoIXNxc0dldFJlc3VsdC5NZXNzYWdlcyl7CiAgICBjYWxsYmFjayhudWxsLCB7fSk7CiAgICByZXR1cm4gY29udGV4dC5zdWNjZWVkKHt9KTsgLy8gc2VuZCBzdWNjZXNzIHRvIG1hcmsgZW50cmllcyBhbmQgaGFuZGxlZAogIH0KICBsZXQgc3FzRW50cmllc1RvRGVsZXRlID0gW107CiAgZm9yKGxldCBtIG9mIHNxc0dldFJlc3VsdC5NZXNzYWdlcyl7CiAgICB0cnkgewogICAgICBsZXQgYm9keSA9IEpTT04ucGFyc2UobS5Cb2R5KTsKICAgICAgYXdhaXQgKFZpZGVvLnVwZGF0ZSh7Y2hhbm5lbElkOiBib2R5LmNoYW5uZWxJZCwgaWQ6IGJvZHkudmlkZW9JZH0sIHsKICAgICAgICB1RGF0ZTogbmV3IERhdGUoKSAtIDAsCiAgICAgIH0sIHtjb25kaXRpb246ICdhdHRyaWJ1dGVfZXhpc3RzKGlkKSd9KSk7IC8vICoqKlRvRG8qKio6IGRvbid0IHVzZSBkeW5hbW9vcyBtZXRob2RzIGFueXdoZXJlIGV4Y2VwdCBNb2RlbAogICAgICBzcXNFbnRyaWVzVG9EZWxldGUucHVzaCh7SWQ6IG0uTWVzc2FnZUlkLCBSZWNlaXB0SGFuZGxlOiBtLlJlY2VpcHRIYW5kbGV9KQogICAgfSBjYXRjaChlKXsKICAgICAgaWYgKGUuY29kZSAmJiBlLmNvZGUgPT09ICdDb25kaXRpb25hbENoZWNrRmFpbGVkRXhjZXB0aW9uJyl7CiAgICAgICAgc3FzRW50cmllc1RvRGVsZXRlLnB1c2goe0lkOiBtLk1lc3NhZ2VJZCwgUmVjZWlwdEhhbmRsZTogbS5SZWNlaXB0SGFuZGxlfSkKICAgICAgfSBlbHNlIHsKICAgICAgICBjb25zb2xlLmxvZygnRXJyb3Igb24gdmlkZW8gdXBkYXRlOicpOwogICAgICAgIGNvbnNvbGUubG9nKGUpOwogICAgICB9CiAgICB9CiAgfQogIHBhcmFtcyA9IHsKICAgIEVudHJpZXM6IHNxc0VudHJpZXNUb0RlbGV0ZSwKICAgIFF1ZXVlVXJsOiBgaHR0cHM6Ly9zcXMuJHtjb25maWcuUkVHSU9OfS5hbWF6b25hd3MuY29tLyR7Y29uZmlnLkFXU19BQ0NPVU5UX0lEfS8ke2NvbmZpZy5TUVMucXVldWVzLnZpZGVvX3VwZGF0ZXMubmFtZX1gLAogIH07CiAgbGV0IHNxc0RlbGV0ZVJlc3VsdCA9IGF3YWl0IChzcXMuZGVsZXRlTWVzc2FnZUJhdGNoKHBhcmFtcykucHJvbWlzZSgpKTsKICBjb25zb2xlLmxvZyhzcXNEZWxldGVSZXN1bHQpCgogIC8vIDIKICBwYXJhbXMgPSB7CiAgICBRdWV1ZVVybDogYGh0dHBzOi8vc3FzLiR7Y29uZmlnLlJFR0lPTn0uYW1hem9uYXdzLmNvbS8ke2NvbmZpZy5BV1NfQUNDT1VOVF9JRH0vJHtjb25maWcuU1FTLnF1ZXVlcy52aWRlb191cGRhdGVzLm5hbWV9YCwKICAgIE1heE51bWJlck9mTWVzc2FnZXM6IDEwLAogICAgVmlzaWJpbGl0eVRpbWVvdXQ6IDEwLAogICAgV2FpdFRpbWVTZWNvbmRzOiAxCiAgfTsKICBzcXNHZXRSZXN1bHQgPSBhd2FpdCAoc3FzLnJlY2VpdmVNZXNzYWdlKHBhcmFtcykucHJvbWlzZSgpKTsKICBjb25zb2xlLmxvZyhzcXNHZXRSZXN1bHQpCiAgaWYgKCFzcXNHZXRSZXN1bHQuTWVzc2FnZXMpewogICAgcmV0dXJuIGNvbnRleHQuc3VjY2VlZCh7fSk7IC8vIHNlbmQgc3VjY2VzcyB0byBtYXJrIGVudHJpZXMgYW5kIGhhbmRsZWQKICB9CiAgc3FzRW50cmllc1RvRGVsZXRlID0gW107CiAgZm9yKGxldCBtIG9mIHNxc0dldFJlc3VsdC5NZXNzYWdlcyl7CiAgICB0cnkgewogICAgICBsZXQgYm9keSA9IEpTT04ucGFyc2UobS5Cb2R5KTsKICAgICAgYXdhaXQgKFZpZGVvLnVwZGF0ZSh7Y2hhbm5lbElkOiBib2R5LmNoYW5uZWxJZCwgaWQ6IGJvZHkudmlkZW9JZH0sIHsKICAgICAgICB1RGF0ZTogbmV3IERhdGUoKSAtIDAsCiAgICAgIH0sIHtjb25kaXRpb246ICdhdHRyaWJ1dGVfZXhpc3RzKGlkKSd9KSk7IC8vICoqKlRvRG8qKio6IGRvbid0IHVzZSBkeW5hbW9vcyBtZXRob2RzIGFueXdoZXJlIGV4Y2VwdCBNb2RlbAogICAgICBzcXNFbnRyaWVzVG9EZWxldGUucHVzaCh7SWQ6IG0uTWVzc2FnZUlkLCBSZWNlaXB0SGFuZGxlOiBtLlJlY2VpcHRIYW5kbGV9KQogICAgfSBjYXRjaChlKXsKICAgICAgaWYgKGUuY29kZSAmJiBlLmNvZGUgPT09ICdDb25kaXRpb25hbENoZWNrRmFpbGVkRXhjZXB0aW9uJyl7CiAgICAgICAgc3FzRW50cmllc1RvRGVsZXRlLnB1c2goe0lkOiBtLk1lc3NhZ2VJZCwgUmVjZWlwdEhhbmRsZTogbS5SZWNlaXB0SGFuZGxlfSkKICAgICAgfSBlbHNlIHsKICAgICAgICBjb25zb2xlLmxvZygnRXJyb3Igb24gdmlkZW8gdXBkYXRlOicpOwogICAgICAgIGNvbnNvbGUubG9nKGUpOwogICAgICB9CiAgICB9CiAgfQogIHBhcmFtcyA9IHsKICAgIEVudHJpZXM6IHNxc0VudHJpZXNUb0RlbGV0ZSwKICAgIFF1ZXVlVXJsOiBgaHR0cHM6Ly9zcXMuJHtjb25maWcuUkVHSU9OfS5hbWF6b25hd3MuY29tLyR7Y29uZmlnLkFXU19BQ0NPVU5UX0lEfS8ke2NvbmZpZy5TUVMucXVldWVzLnZpZGVvX3VwZGF0ZXMubmFtZX1gLAogIH07CiAgc3FzRGVsZXRlUmVzdWx0ID0gYXdhaXQgKHNxcy5kZWxldGVNZXNzYWdlQmF0Y2gocGFyYW1zKS5wcm9taXNlKCkpOwogIGNvbnNvbGUubG9nKHNxc0RlbGV0ZVJlc3VsdCkKCn0pOwoKLy8gaGFuZGxlIDEwICsgMTAgZW50cmllcyBmcm9tIHF1ZXVlIGV2ZXJ5IDEgbWludXRlCm1vZHVsZS5leHBvcnRzLmhhbmRsZVNRU1ZpZGVvQ29weSA9IGFzeW5jKGZ1bmN0aW9uKGV2ZW50LCBjb250ZXh0LCBjYWxsYmFjayl7CiAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZXZlbnQpKTsKCiAgLy8gKioqVG9EbyoqKjogY3JlYXRlIGEgc2VydmljZQogIGxldCBzcXMgPSByZXF1aXJlKCcuLi9zZXJ2aWNlcy9hd3MnKS5zcXMKICBsZXQgcGFyYW1zID0gewogICAgUXVldWVVcmw6IGBodHRwczovL3Nxcy4ke2NvbmZpZy5SRUdJT059LmFtYXpvbmF3cy5jb20vJHtjb25maWcuQVdTX0FDQ09VTlRfSUR9LyR7Y29uZmlnLlNRUy5xdWV1ZXMudmlkZW9fY29weS5uYW1lfWAsCiAgICBNYXhOdW1iZXJPZk1lc3NhZ2VzOiAxMCwKICAgIFZpc2liaWxpdHlUaW1lb3V0OiA2MCwKICAgIFdhaXRUaW1lU2Vjb25kczogMQogIH07CiAgbGV0IHNxc0dldFJlc3VsdCA9IGF3YWl0IChzcXMucmVjZWl2ZU1lc3NhZ2UocGFyYW1zKS5wcm9taXNlKCkpOwogIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHNxc0dldFJlc3VsdCkpCiAgaWYgKCFzcXNHZXRSZXN1bHQuTWVzc2FnZXMpewogICAgY2FsbGJhY2sobnVsbCwge30pOwogICAgcmV0dXJuIGNvbnRleHQuc3VjY2VlZCh7fSk7IC8vIHNlbmQgc3VjY2VzcyB0byBtYXJrIGVudHJpZXMgYW5kIGhhbmRsZWQKICB9CgogIC8vKioqVG9EbyoqKjogbm90IG9iamVjdCBvcmllbnRlZAogIGxldCBsYW1iZGEgICAgID0gbmV3IEFXUy5MYW1iZGEoKTsKICBsZXQgbGFtYmRhUGFyYW1zID0gewogICAgRnVuY3Rpb25OYW1lOiAnVnVsY2FuVmlzaW9uLUFsZXgtZGV2LWhhbmRsZVNRU1ZpZGVvQ29weScsCiAgfTsKICBsYW1iZGEuaW52b2tlKGxhbWJkYVBhcmFtcywgZnVuY3Rpb24gKGVyciwgZGF0YSkgewogICAgaWYgKGVycikgY29uc29sZS5sb2coZXJyLCBlcnIuc3RhY2spOyAvLyBhbiBlcnJvciBvY2N1cnJlZAogICAgZWxzZSBjb25zb2xlLmxvZyhkYXRhKTsgICAgICAgICAgIC8vIHN1Y2Nlc3NmdWwgcmVzcG9uc2UKICB9KTsKICBsZXQgc3FzRW50cmllc1RvRGVsZXRlID0gW107CiAgZm9yKGxldCBtIG9mIHNxc0dldFJlc3VsdC5NZXNzYWdlcyl7CiAgICB0cnkgewogICAgICBsZXQgYm9keSA9IEpTT04ucGFyc2UobS5Cb2R5KTsKICAgICAgbGV0IHZpZGVvICAgICAgICAgPSBhd2FpdChWaWRlby5nZXRCeUlkKGJvZHkudklkKSkKICAgICAgICAsIGNoYW5uZWxEZXN0ICAgPSBhd2FpdChDaGFubmVsLmdldEJ5SWQoYm9keS5jaElkKSkKICAgICAgICAsIGxvY2FsUGF0aERlc3QgPSBib2R5LmxQYXRoRGVzdDsKCiAgICAgIGxldCByZXN1bHQgPSBhd2FpdCAoVmlkZW8uY29weSh2aWRlbywgY2hhbm5lbERlc3QsIHtsb2NhbFBhdGhEZXN0OiBsb2NhbFBhdGhEZXN0fSkpOwogICAgICBjb25zb2xlLmxvZyhyZXN1bHQpCiAgICAgIHNxc0VudHJpZXNUb0RlbGV0ZS5wdXNoKHtJZDogbS5NZXNzYWdlSWQsIFJlY2VpcHRIYW5kbGU6IG0uUmVjZWlwdEhhbmRsZX0pCiAgICB9IGNhdGNoKGUpewogICAgICBjb25zb2xlLmxvZygnRXJyb3Igb24gdmlkZW8gY29weTonKTsKICAgICAgY29uc29sZS5sb2coZSk7CiAgICB9CiAgfQogIHBhcmFtcyA9IHsKICAgIEVudHJpZXM6IHNxc0VudHJpZXNUb0RlbGV0ZSwKICAgIFF1ZXVlVXJsOiBgaHR0cHM6Ly9zcXMuJHtjb25maWcuUkVHSU9OfS5hbWF6b25hd3MuY29tLyR7Y29uZmlnLkFXU19BQ0NPVU5UX0lEfS8ke2NvbmZpZy5TUVMucXVldWVzLnZpZGVvX2NvcHkubmFtZX1gLAogIH07CiAgbGV0IHNxc0RlbGV0ZVJlc3VsdCA9IGF3YWl0IChzcXMuZGVsZXRlTWVzc2FnZUJhdGNoKHBhcmFtcykucHJvbWlzZSgpKTsKICBjb25zb2xlLmxvZyhzcXNEZWxldGVSZXN1bHQpCiAgcmV0dXJuIGNvbnRleHQuc3VjY2VlZCh7fSk7IC8vIHNlbmQgc3VjY2VzcyB0byBtYXJrIGVudHJpZXMgYW5kIGhhbmRsZWQKCn0pOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
