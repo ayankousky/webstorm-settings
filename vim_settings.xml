@@ -202,11 +202,11 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1532537795902">
-        <mark key="[" line="712" column="14" />
-        <mark key="]" line="712" column="15" />
-        <mark key="^" line="712" column="15" />
-        <mark key="." line="712" column="15" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1532543507329">
+        <mark key="[" line="716" column="22" />
+        <mark key="]" line="716" column="26" />
+        <mark key="^" line="716" column="26" />
+        <mark key="." line="716" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
         <mark key="[" line="60" column="0" />
@@ -304,12 +304,13 @@
         <mark key="^" line="5" column="136" />
         <mark key="." line="5" column="136" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1532542545819">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1532543460937">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="245" column="43" />
-        <mark key="." line="224" column="0" />
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="41" />
+        <mark key="." line="248" column="0" />
       </file>
+      <file name="/index.js" timestamp="1532253337193" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/.env" timestamp="1521489820080">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="1" column="34" />
@@ -617,6 +618,7 @@
         <mark key="^" line="121" column="20" />
         <mark key="." line="122" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1532542983327" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/dev/main_vulcanvision.yml" timestamp="1532541876862">
         <mark key="'" line="99" column="15" />
         <mark key="[" line="52" column="31" />
@@ -649,6 +651,7 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" timestamp="1532252564328" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/docker-compose.test.yml" timestamp="1523373159006">
         <mark key="[" line="62" column="20" />
         <mark key="]" line="62" column="20" />
@@ -775,12 +778,12 @@
         <mark key="^" line="3" column="62" />
         <mark key="." line="3" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1532542595303">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1532543406036">
         <mark key="'" line="21" column="32" />
-        <mark key="[" line="713" column="11" />
-        <mark key="]" line="713" column="22" />
-        <mark key="." line="713" column="22" />
-        <mark key="^" line="713" column="22" />
+        <mark key="[" line="714" column="0" />
+        <mark key="]" line="714" column="0" />
+        <mark key="." line="714" column="0" />
+        <mark key="^" line="712" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/index.html" timestamp="1521659886559">
         <mark key="[" line="5" column="4" />
@@ -980,6 +983,7 @@
         <mark key="." line="15" column="93" />
         <mark key="^" line="15" column="93" />
       </file>
+      <file name="/video.js" timestamp="1532246162359" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/geolocation/index.js" timestamp="1516396340555">
         <mark key="[" line="28" column="30" />
         <mark key="]" line="28" column="34" />
@@ -1091,7 +1095,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>helpers.common</text>
+        <text encoding="base64">IG1pbnV0ZQ==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1106,50 +1110,50 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>helpers.common</text>
+        <text encoding="base64">IG1pbnV0ZQ==</text>
       </register>
       <register name="/" type="4">
         <text>helpe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxhbWJkYS5pbnZva2UobGFtYmRhUGFyYW1zLCAoZXJyLCBkYXRhKSA9PiB7fSk7Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IChoZWxwZXJzLmNvbW1vbi53YWl0QXN5bmMoMTAwMCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlbHAK</text>
+        <text encoding="base64">ICAgIGF3YWl0IChjb21tb25IZWxwZXIud2FpdEFzeW5jKDEwMDApKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgIGlmIChlcnIpIGNvbnNvbGUubG9nKGVyciwgZXJyLnN0YWNrKTsgLy8gYW4gZXJyb3Igb2NjdXJyZWQKICAgICAgZWxzZSBjb25zb2xlLmxvZyhkYXRhKTsgICAgICAgICAgIC8vIHN1Y2Nlc3NmdWwgcmVzcG9uc2U=</text>
+        <text encoding="base64">LCAoZXJyLCBkYXRhKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGVycikKICAgICAgY29uc29sZS5sb2coZGF0YSkKICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGhlbHAK</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">CiAgICAgIGlmIChlcnIpIGNvbnNvbGUubG9nKGVyciwgZXJyLnN0YWNrKTsgLy8gYW4gZXJyb3Igb2NjdXJyZWQKICAgICAgZWxzZSBjb25zb2xlLmxvZyhkYXRhKTsgICAgICAgICAgIC8vIHN1Y2Nlc3NmdWwgcmVzcG9uc2U=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="4">
         <text>Payload: JSON.stringify({
         params: {
           handleQueue: handlingQueueName
         }
       })</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRnVuY3Rpb25OYW1lOiBjb250ZXh0LmZ1bmN0aW9uTmFtZSwKICAgICAgUGF5bG9hZDogSlNPTi5zdHJpbmdpZnkoewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxhbWJkYVBhcmFtcykK</text>
+        <text encoding="base64">ICAgICAgRnVuY3Rpb25OYW1lOiBjb250ZXh0LmZ1bmN0aW9uTmFtZSwKICAgICAgUGF5bG9hZDogSlNPTi5zdHJpbmdpZnkoewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBSdW4gb25lQnlPbmUgcXVldWUgZm9yICR7aGFuZGxpbmdRdWV1ZU5hbWV9YCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxhbWJkYVBhcmFtcykK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
