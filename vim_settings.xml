@@ -304,10 +304,10 @@
         <mark key="^" line="5" column="136" />
         <mark key="." line="5" column="136" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1532541780055">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" timestamp="1532542545819">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="224" column="0" />
-        <mark key="]" line="224" column="0" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="43" />
         <mark key="." line="224" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/.env" timestamp="1521489820080">
@@ -775,11 +775,12 @@
         <mark key="^" line="3" column="62" />
         <mark key="." line="3" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1532541897282">
-        <mark key="[" line="710" column="112" />
-        <mark key="]" line="710" column="112" />
-        <mark key="^" line="710" column="94" />
-        <mark key="." line="710" column="112" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1532542595303">
+        <mark key="'" line="21" column="32" />
+        <mark key="[" line="713" column="11" />
+        <mark key="]" line="713" column="22" />
+        <mark key="." line="713" column="22" />
+        <mark key="^" line="713" column="22" />
       </file>
       <file name="$USER_HOME$/Desktop/index.html" timestamp="1521659886559">
         <mark key="[" line="5" column="4" />
@@ -987,12 +988,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="668" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
-      <jump line="1136" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
-      <jump line="895" column="26" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
-      <jump line="958" column="31" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
-      <jump line="965" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="1248" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="949" column="39" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="1171" column="74" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
@@ -1087,10 +1082,16 @@
       <jump line="1165" column="8" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="633" column="11" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="1541" column="7" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="202" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" />
+      <jump line="713" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" />
+      <jump line="725" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" />
+      <jump line="12" column="32" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" />
+      <jump line="21" column="32" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>helpers.common</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1105,59 +1106,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>helpers.common</text>
       </register>
       <register name="/" type="4">
-        <text>conc</text>
+        <text>helpe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJzEyMzEyMzEyMzEyMzIxJykK</text>
+        <text encoding="base64">ICAgIGxhbWJkYS5pbnZva2UobGFtYmRhUGFyYW1zLCAoZXJyLCBkYXRhKSA9PiB7fSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgIGlmIChlcnIpIGNvbnNvbGUubG9nKGVyciwgZXJyLnN0YWNrKTsgLy8gYW4gZXJyb3Igb2NjdXJyZWQKICAgICAgZWxzZSBjb25zb2xlLmxvZyhkYXRhKTsgICAgICAgICAgIC8vIHN1Y2Nlc3NmdWwgcmVzcG9uc2U=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGhlbHAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgIGlmIChlcnIpIGNvbnNvbGUubG9nKGVyciwgZXJyLnN0YWNrKTsgLy8gYW4gZXJyb3Igb2NjdXJyZWQKICAgICAgZWxzZSBjb25zb2xlLmxvZyhkYXRhKTsgICAgICAgICAgIC8vIHN1Y2Nlc3NmdWwgcmVzcG9uc2U=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>Payload: JSON.stringify({
         params: {
           handleQueue: handlingQueueName
         }
       })</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgRnVuY3Rpb25OYW1lOiBjb250ZXh0LmZ1bmN0aW9uTmFtZSwKICAgICAgUGF5bG9hZDogSlNPTi5zdHJpbmdpZnkoewo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxhbWJkYVBhcmFtcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBSdW4gb25lQnlPbmUgcXVldWUgZm9yICR7aGFuZGxpbmdRdWV1ZU5hbWV9YCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxhbWJkYVBhcmFtcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBSdW4gb25lQnlPbmUgcXVldWUgZm9yICR7aGFuZGxpbmdRdWV1ZU5hbWV9YCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gImlzVXBsb2FkZWQiOiB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>conc</last-search>
+      <last-search>helpe</last-search>
       <last-offset />
-      <last-pattern>conc</last-pattern>
+      <last-pattern>helpe</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>requi</last-substitute>
       <last-dir>1</last-dir>
@@ -1165,7 +1166,6 @@
     </search>
     <history>
       <history-search>
-        <entry>await</entry>
         <entry>needMoreOffer</entry>
         <entry>offersCounter</entry>
         <entry>setT</entry>
@@ -1185,6 +1185,7 @@
         <entry>requ</entry>
         <entry>requi</entry>
         <entry>conc</entry>
+        <entry>helpe</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
