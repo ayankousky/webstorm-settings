@@ -202,7 +202,7 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1532548783345">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1532634399638">
         <mark key="[" line="717" column="22" />
         <mark key="]" line="717" column="28" />
         <mark key="^" line="717" column="28" />
@@ -537,6 +537,12 @@
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/searchPublic.json" timestamp="1532634441219">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="18" />
+        <mark key="." line="29" column="18" />
+        <mark key="^" line="29" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/base.js" timestamp="1517979329471">
         <mark key="[" line="6" column="1" />
@@ -1148,8 +1154,8 @@
       <jump line="1267" column="22" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgImFscmVhZHlfc2F2ZWQiOiAiVmlkZW8gaGFzIGJlZW4gYWxyZWFkeSBzYXZlZCIK</text>
+      <register name="&quot;" type="4">
+        <text>occer</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1164,7 +1170,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXMg</text>
+        <text>occer</text>
       </register>
       <register name="/" type="4">
         <text>should be rec</text>
