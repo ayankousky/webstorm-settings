@@ -250,12 +250,12 @@
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1532191265849">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1532636930429">
         <mark key="'" line="1248" column="0" />
-        <mark key="[" line="1893" column="2" />
-        <mark key="]" line="1893" column="42" />
-        <mark key="^" line="1893" column="42" />
-        <mark key="." line="1893" column="42" />
+        <mark key="[" line="1223" column="37" />
+        <mark key="]" line="1223" column="61" />
+        <mark key="^" line="1223" column="61" />
+        <mark key="." line="1223" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/queue/service/index.js" timestamp="1532187367434">
         <mark key="'" line="0" column="0" />
@@ -538,10 +538,10 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/searchPublic.json" timestamp="1532634441219">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/searchPublic.json" timestamp="1532636762493">
         <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="18" />
-        <mark key="." line="29" column="18" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="17" />
         <mark key="^" line="29" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/providers/base.js" timestamp="1517979329471">
@@ -1155,7 +1155,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>occer</text>
+        <text>d</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1170,7 +1170,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>occer</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>should be rec</text>
