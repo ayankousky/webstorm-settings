@@ -768,10 +768,10 @@
         <mark key="^" line="11" column="48" />
         <mark key="." line="11" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/en.json" timestamp="1528785672563">
-        <mark key="[" line="37" column="40" />
-        <mark key="]" line="37" column="84" />
-        <mark key="." line="37" column="84" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/en.json" timestamp="1532584774905">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
         <mark key="^" line="37" column="84" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/comments/delete.json" timestamp="1528839667298">
@@ -982,7 +982,7 @@
         <mark key="^" line="93" column="22" />
         <mark key="." line="93" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1532373336594">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1532584407448">
         <mark key="'" line="1386" column="21" />
         <mark key="[" line="1225" column="16" />
         <mark key="]" line="1226" column="30" />
@@ -1013,6 +1013,12 @@
         <mark key="]" line="60" column="26" />
         <mark key="^" line="60" column="26" />
         <mark key="." line="60" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/ru.json" timestamp="1532584798055">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="70" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/reporter/reports/base.js" timestamp="1518032033019">
         <mark key="[" line="2" column="17" />
@@ -1143,7 +1149,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImFscmVhZHlfc2F2ZWQiOiAiVmlkZW8gaGFzIGJlZW4gYWxyZWFkeSBzYXZlZCIK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1158,22 +1164,22 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">aXMg</text>
       </register>
       <register name="/" type="4">
         <text>should be rec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmJvZHkubmV3U2hhcmluZ3NbMF0uaXNDcC5zaG91bGQuYmUuZXEoZmFsc2UpOyAK</text>
+        <text encoding="base64">ICAgICAgImFscmVhZHlfc2F2ZWQiOiAiVmlkZW8gaGFzIGJlZW4gYWxyZWFkeSBzYXZlZCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImFscmVhZHlfc2F2ZWQiOiAiVmlkZW8gaGFzIGJlZW4gYWxyZWFkeSBzYXZlZCIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkubmV3U2hhcmluZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgImFscmVhZHlfc2F2ZWQiOiAi0JLQuNC00LXQviDRg9C20LUg0YHQvtGF0YDQsNC90LXQvdC+Igo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1182,7 +1188,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkubmV3U2hhcmluZ3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkubmV3U2hhcmluZ3MpCg==</text>
@@ -1191,13 +1197,13 @@
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMjIyMjIyMjIyMikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMTExMTExMTExMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkubmV3U2hhcmluZ3MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMjIyMjIyMjIyMikK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
