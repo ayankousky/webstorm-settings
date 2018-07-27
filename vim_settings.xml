@@ -202,7 +202,7 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1532711318033">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1532715412653">
         <mark key="[" line="725" column="22" />
         <mark key="]" line="725" column="28" />
         <mark key="^" line="725" column="28" />
@@ -914,7 +914,7 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/templates/email_unsubscribed.pug" timestamp="1532711254667">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/templates/email_unsubscribed.pug" timestamp="1532715019127">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1527447345462">
@@ -936,11 +936,11 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="113" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1532711321577">
-        <mark key="[" line="1187" column="15" />
-        <mark key="]" line="1187" column="32" />
-        <mark key="^" line="1187" column="32" />
-        <mark key="." line="1187" column="32" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1532715425469">
+        <mark key="[" line="1170" column="82" />
+        <mark key="]" line="1170" column="103" />
+        <mark key="^" line="1170" column="103" />
+        <mark key="." line="1170" column="103" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/index.js" timestamp="1532253256663">
         <mark key="[" line="4" column="16" />
@@ -948,7 +948,7 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532547053171">
+      <file name="/Dummy.txt" timestamp="1532715064090">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1521134185152">
@@ -1001,7 +1001,7 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/index.js" timestamp="1528845820789">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/index.js" timestamp="1532711436792">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="65" />
         <mark key="^" line="64" column="44" />
@@ -1148,7 +1148,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3Vic2NyaWJlVG9FbWFpbHMg</text>
+        <text>yellow</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1163,7 +1163,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3Vic2NyaWJlVG9FbWFpbHMg</text>
+        <text>yellow</text>
       </register>
       <register name="/" type="4">
         <text>should be rec</text>
