@@ -410,6 +410,7 @@
         <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1532719059159" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/vulcam-base/base/installer/vulcambase/debian/postinst" timestamp="1533194800519" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/README.md" timestamp="1521055485064">
         <mark key="[" line="17" column="2" />
         <mark key="]" line="17" column="3" />
@@ -547,6 +548,12 @@
         <mark key="]" line="90" column="28" />
         <mark key="." line="90" column="28" />
         <mark key="^" line="90" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/vulcam-base/base/playback-server/config/index.js" timestamp="1533241450664">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/test_ecr/docker-compose.test.yml" timestamp="1520717803766">
         <mark key="[" line="4" column="70" />
@@ -761,18 +768,12 @@
         <mark key="^" line="3" column="62" />
         <mark key="." line="3" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1532550310000">
-        <mark key="'" line="21" column="32" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/email_unsubscribe.json" timestamp="1532762224311" />
       <file name="$USER_HOME$/Desktop/index.html" timestamp="1521659886559">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="62" />
         <mark key="^" line="5" column="62" />
         <mark key="." line="5" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1532539569996">
-        <mark key="'" line="1541" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/admin-panel/package.json" timestamp="1520773785716">
         <mark key="[" line="14" column="15" />
@@ -1070,7 +1071,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>name</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1085,7 +1086,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>should be rec</text>
