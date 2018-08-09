@@ -237,6 +237,12 @@
         <mark key="." line="13" column="33" />
         <mark key="^" line="13" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/tsconfig.json" timestamp="1533845680244">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="21" />
+        <mark key="^" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1529538142515">
         <mark key="[" line="12" column="68" />
         <mark key="]" line="12" column="85" />
@@ -306,6 +312,12 @@
         <mark key="^" line="5" column="136" />
         <mark key="." line="5" column="136" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/video/entities/video.ts" timestamp="1533845690391">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/website/.env" timestamp="1521489820080">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="1" column="34" />
@@ -330,7 +342,6 @@
         <mark key="." line="60" column="80" />
         <mark key="^" line="60" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1532788534341" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/modules/offers-importer/src/services/db/index.js" timestamp="1520462062710">
         <mark key="[" line="24" column="27" />
         <mark key="]" line="24" column="27" />
@@ -354,6 +365,12 @@
         <mark key="]" line="12" column="6" />
         <mark key="." line="12" column="6" />
         <mark key="^" line="12" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/video/video-detail/video-detail.component.ts" timestamp="1533845644303">
+        <mark key="[" line="6" column="44" />
+        <mark key="]" line="6" column="48" />
+        <mark key="." line="6" column="48" />
+        <mark key="^" line="6" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onRmRate.json" timestamp="1526982850621">
         <mark key="[" line="23" column="18" />
@@ -409,8 +426,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1532719059159" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/vulcam-base/base/installer/vulcambase/debian/postinst" timestamp="1533194800519" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/README.md" timestamp="1521055485064">
         <mark key="[" line="17" column="2" />
         <mark key="]" line="17" column="3" />
@@ -624,7 +639,6 @@
         <mark key="^" line="121" column="20" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1533271140860" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/controllers/redirect.js" timestamp="1518463342653">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -769,7 +783,6 @@
         <mark key="^" line="3" column="62" />
         <mark key="." line="3" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/email_unsubscribe.json" timestamp="1532762224311" />
       <file name="$USER_HOME$/Desktop/index.html" timestamp="1521659886559">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="62" />
@@ -861,7 +874,6 @@
         <mark key="^" line="78" column="59" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1532719149669" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1527447345462">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="29" />
@@ -1071,8 +1083,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/new_content_sharing.pug" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1087,21 +1099,24 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>should be rec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgImVtYWlsX3N1YnNjcmliZWQiOiAi0L/QvtC00L/QuNGB0LDQvSDQvdCwINGA0LDRgdGB0YvQu9C60YMiCg==</text>
+        <text encoding="base64">aW1wb3J0IHtCYXNlVXBkYXRlfSAgICAgICAgICBmcm9tICIuLi8uLi9iYXNlL2Jhc2UiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="4">
         <text>userAPIsubscribeToEmails:
     handler: lib/controllers/account.subscribeToEmails
     warmup: true
@@ -1111,9 +1126,6 @@
           path: user/email/subscribe
           method: get
           integration: lambda-proxy</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>

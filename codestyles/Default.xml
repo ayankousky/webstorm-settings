@@ -10,6 +10,11 @@
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="IMPORTS_WRAP" value="2" />
   </JSCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
+    <option name="ALIGN_VAR_STATEMENTS" value="2" />
+    <option name="ALIGN_IMPORTS" value="true" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
