@@ -237,11 +237,11 @@
         <mark key="." line="13" column="33" />
         <mark key="^" line="13" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/tsconfig.json" timestamp="1533845680244">
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="18" column="21" />
-        <mark key="^" line="18" column="21" />
-        <mark key="." line="18" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/tsconfig.json" timestamp="1533847166937">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="18" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="19" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1529538142515">
         <mark key="[" line="12" column="68" />
@@ -366,11 +366,11 @@
         <mark key="." line="12" column="6" />
         <mark key="^" line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/video/video-detail/video-detail.component.ts" timestamp="1533845644303">
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="6" column="48" />
-        <mark key="." line="6" column="48" />
-        <mark key="^" line="6" column="48" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/video/video-detail/video-detail.component.ts" timestamp="1533847267524">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="7" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onRmRate.json" timestamp="1526982850621">
         <mark key="[" line="23" column="18" />
@@ -1084,7 +1084,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHtCYXNlVXBkYXRlfSAgICAgICAgICBmcm9tICIuLi8uLi9iYXNlL2Jhc2UiOwo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1099,7 +1099,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>should be rec</text>
@@ -1108,15 +1108,18 @@
         <text encoding="base64">aW1wb3J0IHtCYXNlVXBkYXRlfSAgICAgICAgICBmcm9tICIuLi8uLi9iYXNlL2Jhc2UiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHtCYXNlVXBkYXRlfSAgICAgICAgICBmcm9tICIuLi8uLi9iYXNlL2Jhc2UiOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>userAPIsubscribeToEmails:
     handler: lib/controllers/account.subscribeToEmails
     warmup: true
@@ -1126,9 +1129,6 @@
           path: user/email/subscribe
           method: get
           integration: lambda-proxy</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
