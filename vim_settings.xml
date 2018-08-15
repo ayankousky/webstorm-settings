@@ -476,11 +476,11 @@
         <mark key="." line="59" column="51" />
         <mark key="^" line="59" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/channels-table/channels-table.component.ts" timestamp="1534308953932">
-        <mark key="[" line="41" column="55" />
-        <mark key="]" line="41" column="60" />
-        <mark key="." line="41" column="60" />
-        <mark key="^" line="41" column="60" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/channels-table/channels-table.component.ts" timestamp="1534311202590">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="58" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/registration_success_with_password.pug" timestamp="1521665383774">
         <mark key="[" line="42" column="102" />
@@ -565,6 +565,12 @@
         <mark key="]" line="68" column="21" />
         <mark key="^" line="68" column="21" />
         <mark key="." line="68" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/channels-table/channels-table.component.html" timestamp="1534311162139">
+        <mark key="[" line="26" column="31" />
+        <mark key="]" line="26" column="32" />
+        <mark key="." line="26" column="32" />
+        <mark key="^" line="26" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/verify_registration.pug" timestamp="1521667811445">
         <mark key="[" line="44" column="48" />
@@ -1123,8 +1129,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/comment/comments-list/comments-list.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>videos</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS52aWRlb1R5cGUgICAgICA9ICQoJyN2aWRlb1R5cGUnKS52YWwoKTsK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1139,7 +1145,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>videos</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1166,40 +1172,42 @@
         <text>should be rec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbW1lbnRzID0gdGhpcy5jb21tZW50cy5maWx0ZXIoKGNvbW1lbnQ6IENvbW1lbnQpPT4gY29tbWVudC5pZCAhPT0gY29tbWVudElkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5vd25lckVtYWlsICAgICA9ICQoJyNvd25lckVtYWlsJykudmFsKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGEgY2xhc3M9ImRyb3Bkb3duLWl0ZW0iIGhyZWY9IiMiPlNvbWV0aGluZyBlbHNlIGhlcmU8L2E+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS52aWRlb1R5cGUgICAgICA9ICQoJyN2aWRlb1R5cGUnKS52YWwoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGEgY2xhc3M9ImRyb3Bkb3duLWl0ZW0iIGhyZWY9IiMiPkFub3RoZXIgYWN0aW9uPC9hPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YS5jaGFubmVscykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsZWdlbmQ+RmllbGRzPC9sZWdlbmQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5yZWNvcmRlZFRpbWUgICA9IHJlY29yZGVkVGltZTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIHJldHJpZXZlIHJlY29yZCBkYXRlCiAgICAgICAgICAgIGxldCByZWNvcmRlZFRpbWVTdGFydCA9ICQoJyNyZWNvcmRlZFRpbWVTdGFydCcpLnZhbCgpCiAgICAgICAgICAgICAgLCByZWNvcmRlZFRpbWVFbmQgICA9ICQoJyNyZWNvcmRlZFRpbWVFbmQnKS52YWwoKTsKICAgICAgICAgICAgbGV0IHJlY29yZGVkVGltZSA9IG51bGw7CiAgICAgICAgICAgIGlmIChyZWNvcmRlZFRpbWVTdGFydCAmJiByZWNvcmRlZFRpbWVFbmQpIHsKICAgICAgICAgICAgICByZWNvcmRlZFRpbWUgPSBgJHtyZWNvcmRlZFRpbWVTdGFydH0qJHtyZWNvcmRlZFRpbWVFbmR9YAogICAgICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbW1lbnQpCg==</text>
+      <register name="6" type="4">
+        <text>data.isUploaded     = $('#uploaded').is(':checked') ? 1 : 0;
+            data.isNotUploaded  = $('#notUploaded').is(':checked') ? 1 : 0;</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbW1lbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGFzdEtleTogIGNvbW1lbnRzLmxhc3RLZXkgJiYgY29tbWVudHMubGFzdEtleS5pZCAmJiBjb21tZW50cy5sYXN0S2V5LmlkLlMgPyBjb21tZW50cy5sYXN0S2V5LmlkLlMgOiB1bmRlZmluZWQsCg==</text>
+      <register name="8" type="4">
+        <text>data.fps            = $('#fps').val();
+            data.vulcamId       = $('#vulcamId').val();</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29tbWVudHM6IGNvbW1lbnRzLm1hcChjID0+IGF3YWl0KGMucHJvamVjdCgnYWRtaW4nKSkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
