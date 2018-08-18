@@ -214,7 +214,7 @@
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1534136032118">
         <mark key="[" line="192" column="0" />
         <mark key="]" line="192" column="0" />
-        <mark key="^" line="734" column="28" />
+        <mark key="^" line="725" column="28" />
         <mark key="." line="192" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/src/services/db/click_stat.js" timestamp="1518040315085">
@@ -252,12 +252,6 @@
         <mark key="]" line="13" column="33" />
         <mark key="." line="13" column="33" />
         <mark key="^" line="13" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/tsconfig.json" timestamp="1533847166937">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="18" />
-        <mark key="^" line="17" column="18" />
-        <mark key="." line="19" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1529538142515">
         <mark key="[" line="12" column="68" />
@@ -572,11 +566,11 @@
         <mark key="." line="26" column="32" />
         <mark key="^" line="26" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/verify_registration.pug" timestamp="1521667811445">
-        <mark key="[" line="44" column="48" />
-        <mark key="]" line="44" column="48" />
-        <mark key="." line="44" column="48" />
-        <mark key="^" line="44" column="48" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/verify_registration.pug" timestamp="1534313400626">
+        <mark key="[" line="41" column="73" />
+        <mark key="]" line="41" column="73" />
+        <mark key="." line="41" column="73" />
+        <mark key="^" line="42" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/media/test/dev_tests.js" timestamp="1517877773072">
         <mark key="[" line="2" column="20" />
@@ -860,6 +854,11 @@
         <mark key="." line="27" column="36" />
         <mark key="^" line="27" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1534588122350">
+        <mark key="[" line="620" column="4" />
+        <mark key="]" line="620" column="4" />
+        <mark key="." line="620" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/zip_files/router/index.js" timestamp="1516954791805">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -1129,8 +1128,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/comment/comments-list/comments-list.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS52aWRlb1R5cGUgICAgICA9ICQoJyN2aWRlb1R5cGUnKS52YWwoKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1175,39 +1174,38 @@
         <text encoding="base64">ICAgICAgICAgICAgZGF0YS5vd25lckVtYWlsICAgICA9ICQoJyNvd25lckVtYWlsJykudmFsKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS52aWRlb1R5cGUgICAgICA9ICQoJyN2aWRlb1R5cGUnKS52YWwoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YS5jaGFubmVscykK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5yZWNvcmRlZFRpbWUgICA9IHJlY29yZGVkVGltZTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwKHN0eWxlPSJtYXJnaW46MCAwIDE2cHgiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IG9yIHVzZSB0aGlzIGNvZGUgLSAje2NvbmZpcm1Db2RlfS4=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIHJldHJpZXZlIHJlY29yZCBkYXRlCiAgICAgICAgICAgIGxldCByZWNvcmRlZFRpbWVTdGFydCA9ICQoJyNyZWNvcmRlZFRpbWVTdGFydCcpLnZhbCgpCiAgICAgICAgICAgICAgLCByZWNvcmRlZFRpbWVFbmQgICA9ICQoJyNyZWNvcmRlZFRpbWVFbmQnKS52YWwoKTsKICAgICAgICAgICAgbGV0IHJlY29yZGVkVGltZSA9IG51bGw7CiAgICAgICAgICAgIGlmIChyZWNvcmRlZFRpbWVTdGFydCAmJiByZWNvcmRlZFRpbWVFbmQpIHsKICAgICAgICAgICAgICByZWNvcmRlZFRpbWUgPSBgJHtyZWNvcmRlZFRpbWVTdGFydH0qJHtyZWNvcmRlZFRpbWVFbmR9YAogICAgICAgICAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS52aWRlb1R5cGUgICAgICA9ICQoJyN2aWRlb1R5cGUnKS52YWwoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YS5jaGFubmVscykK</text>
       </register>
-      <register name="6" type="4">
-        <text>data.isUploaded     = $('#uploaded').is(':checked') ? 1 : 0;
-            data.isNotUploaded  = $('#notUploaded').is(':checked') ? 1 : 0;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5yZWNvcmRlZFRpbWUgICA9IHJlY29yZGVkVGltZTsK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIHJldHJpZXZlIHJlY29yZCBkYXRlCiAgICAgICAgICAgIGxldCByZWNvcmRlZFRpbWVTdGFydCA9ICQoJyNyZWNvcmRlZFRpbWVTdGFydCcpLnZhbCgpCiAgICAgICAgICAgICAgLCByZWNvcmRlZFRpbWVFbmQgICA9ICQoJyNyZWNvcmRlZFRpbWVFbmQnKS52YWwoKTsKICAgICAgICAgICAgbGV0IHJlY29yZGVkVGltZSA9IG51bGw7CiAgICAgICAgICAgIGlmIChyZWNvcmRlZFRpbWVTdGFydCAmJiByZWNvcmRlZFRpbWVFbmQpIHsKICAgICAgICAgICAgICByZWNvcmRlZFRpbWUgPSBgJHtyZWNvcmRlZFRpbWVTdGFydH0qJHtyZWNvcmRlZFRpbWVFbmR9YAogICAgICAgICAgICB9</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>data.fps            = $('#fps').val();
-            data.vulcamId       = $('#vulcamId').val();</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>data.isUploaded     = $('#uploaded').is(':checked') ? 1 : 0;
+            data.isNotUploaded  = $('#notUploaded').is(':checked') ? 1 : 0;</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
