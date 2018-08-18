@@ -52,10 +52,11 @@
         <mark key="." line="60" column="37" />
         <mark key="^" line="60" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1534590779426">
-        <mark key="]" line="325" column="1" />
-        <mark key="^" line="325" column="1" />
-        <mark key="." line="325" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1534592901408">
+        <mark key="[" line="156" column="5" />
+        <mark key="]" line="156" column="5" />
+        <mark key="." line="156" column="5" />
+        <mark key="^" line="156" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/channel.js" timestamp="1534589699955">
         <mark key="[" line="576" column="4" />
@@ -72,7 +73,12 @@
       <file name="/Dummy.txt" timestamp="1534274114421">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1534589174193" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1534594191537">
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="304" column="51" />
+        <mark key="." line="304" column="51" />
+        <mark key="^" line="304" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/comment/comments-list/comments-list.component.css" timestamp="1534133962111">
         <mark key="[" line="125" column="11" />
         <mark key="]" line="125" column="12" />
@@ -81,8 +87,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="11" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
-      <jump line="9" column="12" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="8" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="7" column="12" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="6" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
@@ -181,10 +185,12 @@
       <jump line="9" column="11" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/comment/comments-list/comments-list.component.html" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/comment/comments-list/comments-list.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/comment/comments-list/comments-list.component.html" />
+      <jump line="652" column="10" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
+      <jump line="659" column="34" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -199,7 +205,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!!comment</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -229,37 +235,37 @@
         <text encoding="base64">ICAgICAgICAgICAgZGF0YS5vd25lckVtYWlsICAgICA9ICQoJyNvd25lckVtYWlsJykudmFsKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IChDb21tZW50LmRlbGV0ZShjb21tZW50KSk7Cg==</text>
+        <text encoding="base64">ICBpc2BgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IChDb21tZW50LmRlbGV0ZShjb21tZW50KSk7CiAgICByZXR1cm4gcmVxRW5kKHsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBjb21tZW50ID0gYXdhaXQgKENvbW1lbnQuZ2V0QnlJZChib2R5LmNvbW1lbnRJZCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBDb21tZW50ID0gZHluYW1vb3NlLm1vZGVsKGNvbmZpZy5EREIudGFibGVzLmNvbW1lbnRzLm5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlbyAgOiB2aWRlbywK</text>
+        <text encoding="base64">ICAgICAgWwo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGNoYW5uZWwgPSBhd2FpdCAoQ2hhbm5lbC5nZXRCeUlkKGJvZHkuY2hhbm5lbElkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWNTZWFyY2hUeXBlLAogICAgICBdLmZvckVhY2goZXNUeXBlID0+ewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQodmlkZW8uc2F2ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHV0IHJlY29yZHMgcmVzdWx0IGZvciAnICsgZXNUeXBlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmlkZW8udHJlbmRpbmdWYWx1ZSA9IGJvZHkudHJlbmRpbmdWYWx1ZSA/IGJvZHkudHJlbmRpbmdWYWx1ZSA6IHVuZGVmaW5lZDsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZWNvcmRzKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
@@ -270,7 +276,7 @@
       <last-offset />
       <last-pattern>should be rec</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
-      <last-substitute>requi</last-substitute>
+      <last-substitute>should be rec</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
