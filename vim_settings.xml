@@ -24,16 +24,16 @@
         <mark key="." line="305" column="0" />
         <mark key="^" line="304" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1534590289044">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1534710952604">
         <mark key="[" line="242" column="0" />
         <mark key="]" line="242" column="0" />
         <mark key="." line="242" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/extra/dashboard_action.json" timestamp="1534594435061">
-        <mark key="[" line="60" column="58" />
-        <mark key="]" line="60" column="58" />
-        <mark key="." line="60" column="58" />
-        <mark key="^" line="60" column="55" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/extra/dashboard_action.json" timestamp="1534711037259">
+        <mark key="[" line="60" column="25" />
+        <mark key="]" line="60" column="34" />
+        <mark key="." line="60" column="34" />
+        <mark key="^" line="60" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/channels-table/channels-table.component.html" timestamp="1534311162139">
         <mark key="[" line="26" column="31" />
@@ -41,11 +41,11 @@
         <mark key="." line="26" column="32" />
         <mark key="^" line="26" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1534590749699">
-        <mark key="[" line="300" column="53" />
-        <mark key="]" line="301" column="21" />
-        <mark key="." line="301" column="21" />
-        <mark key="^" line="301" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1534711396336">
+        <mark key="[" line="301" column="0" />
+        <mark key="]" line="301" column="0" />
+        <mark key="." line="301" column="0" />
+        <mark key="^" line="301" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/channels-table/channels-table.component.ts" timestamp="1534311202590">
         <mark key="[" line="59" column="0" />
@@ -195,7 +195,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIGxldCByZXN1bHQgPSBhd2FpdCAoQ2hhbm5lbC5nZXRCeUlkKGJvZHkuY2hhbm5lbElkKSk7Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -210,7 +210,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,\&quot;starttAt\&quot;:\&quot;103\&quot;</text>
+        <text>banChannel</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -237,40 +237,40 @@
         <text>should be rec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5vd25lckVtYWlsICAgICA9ICQoJyNvd25lckVtYWlsJykudmFsKCk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCByZXN1bHQgPSBhd2FpdCAoQ2hhbm5lbC5iYW4oYm9keS5jaGFubmVsSWQpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIGxldCByZXN1bHQgPSBhd2FpdCAoQ2hhbm5lbC5nZXRCeUlkKGJvZHkuY2hhbm5lbElkKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpc2BgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpc2BgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgWwo=</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWNTZWFyY2hUeXBlLAogICAgICBdLmZvckVhY2goZXNUeXBlID0+ewo=</text>
+        <text encoding="base64">ICAgICAgWwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHV0IHJlY29yZHMgcmVzdWx0IGZvciAnICsgZXNUeXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWNTZWFyY2hUeXBlLAogICAgICBdLmZvckVhY2goZXNUeXBlID0+ewo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
