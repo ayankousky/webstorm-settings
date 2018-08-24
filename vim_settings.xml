@@ -110,6 +110,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="1" />
       </file>
+      <file name="$USER_HOME$/Desktop/kelkoo_change.js" timestamp="1535105199185">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="25" />
+        <mark key="." line="23" column="25" />
+        <mark key="^" line="23" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/ru.json" timestamp="1534717476383">
         <mark key="[" line="72" column="14" />
         <mark key="]" line="72" column="22" />
@@ -145,12 +151,9 @@
         <mark key="^" line="722" column="154" />
         <mark key="." line="717" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" timestamp="1535101656223">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" timestamp="1535105152557">
         <mark key="'" line="25" column="2" />
-        <mark key="[" line="491" column="29" />
-        <mark key="]" line="491" column="30" />
-        <mark key="." line="491" column="30" />
-        <mark key="^" line="492" column="11" />
+        <mark key="^" line="488" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -256,8 +259,8 @@
       <jump line="25" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGNvdW50ZXIgPSAwOwo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -272,7 +275,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -302,37 +305,37 @@
         <text encoding="base64">ICAgICAgICAgIHJzLmRlc3Ryb3koKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGNvdW50ZXIgPSAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cob2ZmZXIubmFtZSkK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGxldCBzdGFydCA9IG5ldyBEYXRlKCkgLSAwOwogICAgICAgICAgICBzb2NrZXQub24oJ2Nsb3NlJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKCkgLSBzdGFydCk7CiAgICAgICAgICAgIH0pOw==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgbGV0IGNvdW50ZXIgPSAwOwo=</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgLy8gY291bnRlcisrCiAgICAgICAgLy8gaWYoY291bnRlciA+IDEwKXsKICAgICAgICAvLyAgIC8vIHBhcnNlWG1sLmRlc3Ryb3koKTsKICAgICAgICAvLyAgIC8vIGdyb3VwWG1sLmRlc3Ryb3koKTsKICAgICAgICAvLyAgIHJzLmRlc3Ryb3koKTsKICAgICAgICAvLyAgIHJldHVybiByZXNvbHZlKCk7CiAgICAgICAgLy8gfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIHNvY2tldC5lbmQoKTsKICAgICAgICAgICAgLy8gc29ja2V0LmRlc3Ryb3koKTs=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGNvdW50ZXIpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIHNvY2tldC5lbmQoKTsKICAgICAgICAgICAgLy8gc29ja2V0LmRlc3Ryb3koKTs=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc29sdmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
