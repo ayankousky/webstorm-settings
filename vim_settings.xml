@@ -104,11 +104,11 @@
         <mark key="." line="34" column="87" />
         <mark key="^" line="34" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1535067777440">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1535098211300">
         <mark key="[" line="24" column="0" />
-        <mark key="]" line="25" column="1" />
-        <mark key="." line="25" column="1" />
-        <mark key="^" line="25" column="1" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/ru.json" timestamp="1534717476383">
         <mark key="[" line="72" column="14" />
@@ -145,12 +145,12 @@
         <mark key="^" line="722" column="154" />
         <mark key="." line="717" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" timestamp="1535067897168">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" timestamp="1535098811089">
         <mark key="'" line="25" column="2" />
-        <mark key="[" line="358" column="24" />
-        <mark key="]" line="358" column="26" />
-        <mark key="." line="358" column="26" />
-        <mark key="^" line="358" column="26" />
+        <mark key="[" line="491" column="29" />
+        <mark key="]" line="491" column="30" />
+        <mark key="." line="491" column="30" />
+        <mark key="^" line="492" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -256,8 +256,8 @@
       <jump line="25" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -299,42 +299,40 @@
         <text>importOf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBycy5kZXN0cm95KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJzLmRlc3Ryb3koKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0Lm9uKCdjbG9zZScsIGZ1bmN0aW9uICgpIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>{
-              console.log('connected...')
-            })</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIHNvY2tldC5lbmQoKTsKICAgICAgICAgICAgLy8gc29ja2V0LmRlc3Ryb3koKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBwYXJzZVhtbC5lbmQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJzLnBhdXNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGYK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGNvdW50ZXIpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dW5jdGlvbiB3YWl0QXN5bmModGltZSkgewogICAgICAgICAgICBpZiAoIXRpbWUpIHsKICAgICAgICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ3NldCB0aW1lJyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlKSA9PiB7CiAgICAgICAgICAgICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgICAgICAgICAgICByZXNvbHZlKCkKICAgICAgICAgICAgICB9LCB0aW1lKQogICAgICAgICAgICB9KQogICAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc29sdmUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgKHdhaXRBc3luYygzMDAwKSkK</text>
+        <text encoding="base64">ICAgICAgcnMuZGVzdHJveSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc29sdmUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
