@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1535528068142">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1535578839072">
         <mark key="'" line="1" column="0" />
+        <mark key="[" line="1501" column="28" />
+        <mark key="]" line="1501" column="40" />
+        <mark key="." line="1501" column="40" />
+        <mark key="^" line="1501" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/searchPublic.json" timestamp="1535529391750">
         <mark key="[" line="26" column="13" />
@@ -78,7 +82,7 @@
         <mark key="." line="44" column="78" />
         <mark key="^" line="44" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/index.js" timestamp="1535528912819">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/index.js" timestamp="1535577281968">
         <mark key="[" line="28" column="12" />
         <mark key="]" line="28" column="22" />
         <mark key="." line="28" column="22" />
@@ -114,17 +118,17 @@
         <mark key="." line="34" column="87" />
         <mark key="^" line="34" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/public.js" timestamp="1535526837085">
-        <mark key="[" line="19" column="9" />
-        <mark key="]" line="19" column="11" />
-        <mark key="." line="19" column="11" />
-        <mark key="^" line="19" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/public.js" timestamp="1535578782042">
+        <mark key="[" line="35" column="28" />
+        <mark key="]" line="35" column="28" />
+        <mark key="." line="35" column="28" />
+        <mark key="^" line="35" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/internal.js" timestamp="1535523937289">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="97" column="9" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/internal.js" timestamp="1535578834141">
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="16" column="55" />
+        <mark key="." line="16" column="55" />
+        <mark key="^" line="16" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/extra/dashboard_action.json" timestamp="1535346524916">
         <mark key="[" line="60" column="32" />
@@ -139,7 +143,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onDynamodbVideo.json" timestamp="1535532513785">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onDynamodbVideo.json" timestamp="1535577333291">
         <mark key="[" line="35" column="30" />
         <mark key="]" line="35" column="30" />
         <mark key="." line="35" column="30" />
@@ -182,17 +186,25 @@
         <mark key="^" line="57" column="3" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1535534083223">
-        <mark key="[" line="1273" column="7" />
-        <mark key="]" line="1282" column="6" />
-        <mark key="." line="1282" column="6" />
-        <mark key="^" line="1282" column="6" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1535577777952">
+        <mark key="[" line="1277" column="64" />
+        <mark key="]" line="1277" column="63" />
+        <mark key="m" line="1280" column="31" />
+        <mark key="." line="1277" column="63" />
+        <mark key="^" line="1277" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1534721501592">
         <mark key="[" line="717" column="0" />
         <mark key="]" line="717" column="0" />
         <mark key="^" line="722" column="154" />
         <mark key="." line="717" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" timestamp="1535294679296">
+        <mark key="'" line="25" column="2" />
+        <mark key="[" line="492" column="0" />
+        <mark key="]" line="492" column="0" />
+        <mark key="^" line="469" column="15" />
+        <mark key="." line="492" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -298,8 +310,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>searchVideo</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -314,7 +326,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>searchVideo</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -341,48 +353,45 @@
         <text>importOf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2VhcmNoQm9keS5xdWVyeS5tdWx0aV9tYXRjaCA9IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiYW5hbHl6ZXIiOiAiZW5nbGlzaCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICBhd2FpdCAoRVNzZXJ2aWNlLnB1dE1hcHBpbmcoaW50ZXJuYWxTZWFyY2hUeXBlKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICJ0aXRsZSI6IHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAiYm9vbCI6IAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>{
           &quot;must&quot;:
             [
               {&quot;match&quot;: {&quot;title&quot;: &quot;golf&quot;}}
             ]
         }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyB7ICJ0ZXJtIjogeyAidGV4dCI6ICJnb29kIiB9fSwK</text>
-      </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImIK</text>
-      </register>
-      <register name="9" type="4">
-        <text>ool&quot;: {
-              &quot;should&quot;: ,
-              // &quot;minimum_should_match&quot;: 1
-            }</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
