@@ -176,11 +176,11 @@
         <mark key="^" line="57" column="3" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1535529553848">
-        <mark key="[" line="1267" column="29" />
-        <mark key="]" line="1268" column="9" />
-        <mark key="." line="1268" column="9" />
-        <mark key="^" line="1268" column="9" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1535530384046">
+        <mark key="[" line="1269" column="21" />
+        <mark key="]" line="1269" column="21" />
+        <mark key="." line="1269" column="21" />
+        <mark key="^" line="1269" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1534721501592">
         <mark key="[" line="717" column="0" />
@@ -293,7 +293,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>title</text>
+        <text>r</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -308,7 +308,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>r</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -338,15 +338,31 @@
         <text encoding="base64">ICAgICAgc2VhcmNoQm9keS5xdWVyeS5tdWx0aV9tYXRjaCA9IHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2VhcmNoVGV4dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICJzaG91bGQiOiAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYykK</text>
+      <register name="2" type="4">
+        <text>{
+            &quot;bool&quot;: {
+              &quot;should&quot;: [
+                { &quot;term&quot;: { &quot;text&quot;: &quot;and&quot; }},
+                { &quot;term&quot;: { &quot;text&quot;: &quot;the&quot; }}
+              ]
+            }
+          }</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAibWF0Y2giOiB7CiAgICAgICAgICAgICAgICAibmFtZSI6IHsKICAgICAgICAgICAgICAgICAgInF1ZXJ5IjogInRoaXMiLAogICAgICAgICAgICAgICAgICAidHlwZSI6ICJwaHJhc2UiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2VhcmNoVGV4dCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgYykK</text>
+      </register>
+      <register name="6" type="4">
         <text>onsole.log(JSON.stringify({
         index: esEntity.indexName,
         type: esEntity.indexType,
@@ -356,26 +372,17 @@
         size: perPage,
       })</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0cykK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXNFbnRpdHkuaW5kZXhUeXBlKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgImlzQmFubmVkIjogewogICAgICAgICAgInR5cGUiOiAiYm9vbGVhbiIKICAgICAgICB9LA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0cykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXNFbnRpdHkuaW5kZXhUeXBlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
