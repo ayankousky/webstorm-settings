@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1535579833778">
-        <mark key="'" line="445" column="57" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1535581318937">
+        <mark key="'" line="452" column="17" />
         <mark key="[" line="448" column="12" />
         <mark key="]" line="448" column="14" />
         <mark key="." line="448" column="14" />
@@ -94,6 +94,9 @@
         <mark key="^" line="38" column="32" />
         <mark key="." line="38" column="32" />
       </file>
+      <file name="/Dummy.txt" timestamp="1535581455111">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1534719765587">
         <mark key="[" line="29" column="36" />
         <mark key="]" line="29" column="37" />
@@ -161,6 +164,12 @@
         <mark key="." line="243" column="49" />
         <mark key="^" line="243" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.component.html" timestamp="1535581450646">
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="3" column="42" />
+        <mark key="^" line="3" column="73" />
+        <mark key="." line="3" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/channels-table/channels-table.component.ts" timestamp="1535347233179">
         <mark key="[" line="130" column="21" />
         <mark key="]" line="130" column="26" />
@@ -208,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="356" column="24" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="435" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="436" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="502" column="19" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
@@ -308,10 +316,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="440" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="445" column="57" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="452" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW4g</text>
+        <text>s</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -326,7 +335,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW4g</text>
+        <text>s</text>
       </register>
       <register name="m" type="4">
         <keys>
