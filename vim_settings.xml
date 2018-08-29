@@ -76,11 +76,11 @@
         <mark key="." line="44" column="78" />
         <mark key="^" line="44" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/index.js" timestamp="1535489846073">
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="29" column="35" />
-        <mark key="." line="29" column="35" />
-        <mark key="^" line="29" column="35" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/index.js" timestamp="1535520997291">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="22" />
+        <mark key="." line="28" column="22" />
+        <mark key="^" line="28" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/comment/comments-list/comments-list.component.ts" timestamp="1535347699018">
         <mark key="[" line="37" column="92" />
@@ -100,11 +100,11 @@
         <mark key="." line="34" column="78" />
         <mark key="^" line="34" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1535346458149">
-        <mark key="[" line="1457" column="27" />
-        <mark key="]" line="1458" column="22" />
-        <mark key="." line="1458" column="22" />
-        <mark key="^" line="1458" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1535520989853">
+        <mark key="[" line="1303" column="0" />
+        <mark key="]" line="1303" column="0" />
+        <mark key="^" line="1452" column="22" />
+        <mark key="." line="1303" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/channel_unbanned.pug" timestamp="1534719138021">
         <mark key="[" line="34" column="87" />
@@ -112,11 +112,17 @@
         <mark key="." line="34" column="87" />
         <mark key="^" line="34" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/public.js" timestamp="1535489948581">
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="18" column="16" />
-        <mark key="^" line="64" column="7" />
-        <mark key="." line="18" column="16" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/public.js" timestamp="1535521091984">
+        <mark key="[" line="130" column="25" />
+        <mark key="]" line="131" column="29" />
+        <mark key="^" line="131" column="29" />
+        <mark key="." line="131" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/internal.js" timestamp="1535521102511">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="^" line="155" column="6" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/extra/dashboard_action.json" timestamp="1535346524916">
         <mark key="[" line="60" column="32" />
@@ -149,11 +155,11 @@
         <mark key="^" line="130" column="26" />
         <mark key="." line="130" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" timestamp="1535491095663">
-        <mark key="[" line="51" column="33" />
-        <mark key="]" line="52" column="26" />
-        <mark key="^" line="52" column="26" />
-        <mark key="." line="52" column="26" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" timestamp="1535520851795">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="51" column="26" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/comment/comments-list/comments-list.component.css" timestamp="1535348105375">
         <mark key="[" line="133" column="8" />
@@ -168,7 +174,7 @@
         <mark key="^" line="57" column="3" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1534721011110">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1535521624752">
         <mark key="[" line="1481" column="59" />
         <mark key="]" line="1481" column="72" />
         <mark key="^" line="1481" column="72" />
@@ -291,8 +297,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>internalChannel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -307,7 +313,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>internalChannel</text>
+        <text>publicVideo</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -337,37 +343,42 @@
         <text encoding="base64">ICAsIEludGVybmFsQ2hhbm5lbCAgPSByZXF1aXJlKCcuL2NoYW5uZWxzL2ludGVybmFsJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PGRpdiAgY2xhc3M9ImNvbW1lbnQtY29udGFpbmVyIiAqbmdGb3I9ImxldCBjb21tZW50IG9mIGNvbW1lbnRzIj4K</text>
+      <register name="3" type="4">
+        <text>// handle elasticsearch entries
+      // if (! await(ESservice.indexExists(publicSearchType))){
+      //   await(ESservice.createIndex(publicSearchType));
+      // }
+      // await (ESservice.putMapping(publicSearchType));
+      // await (ESservice.putMapping(internalSearchType));</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXNFbnRpdHkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBzZWxlY3RlZENoYW5uZWw6IGFueSA9IHRhYmxlLnJvdyggJChlLmN1cnJlbnRUYXJnZXQuY2xvc2VzdCgndHInKSkpLmRhdGEoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCB0YWJsZSA9ICQoJyNjaGFubmVsc190YWJsZScpLkRhdGFUYWJsZSgpOwo=</text>
+        <text encoding="base64">PGRpdiAgY2xhc3M9ImNvbW1lbnQtY29udGFpbmVyIiAqbmdGb3I9ImxldCBjb21tZW50IG9mIGNvbW1lbnRzIj4K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgaXNDb25maXJtID0gY29uZmlybShgWW91IHN1cmUgeW91IHdhbnQgdG8gZGVsZXRlIHZpZGVvICR7dmlkZW9JZH1gKTsKICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
