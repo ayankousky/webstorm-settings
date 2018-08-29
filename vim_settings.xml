@@ -139,6 +139,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onDynamodbVideo.json" timestamp="1535532513785">
+        <mark key="[" line="35" column="30" />
+        <mark key="]" line="35" column="30" />
+        <mark key="." line="35" column="30" />
+        <mark key="^" line="35" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/ru.json" timestamp="1534717476383">
         <mark key="[" line="72" column="14" />
         <mark key="]" line="72" column="22" />
@@ -176,11 +182,11 @@
         <mark key="^" line="57" column="3" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1535530384046">
-        <mark key="[" line="1269" column="21" />
-        <mark key="]" line="1269" column="21" />
-        <mark key="." line="1269" column="21" />
-        <mark key="^" line="1269" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1535532550030">
+        <mark key="[" line="1266" column="26" />
+        <mark key="]" line="1266" column="26" />
+        <mark key="." line="1266" column="26" />
+        <mark key="^" line="1266" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1534721501592">
         <mark key="[" line="717" column="0" />
@@ -338,51 +344,45 @@
         <text encoding="base64">ICAgICAgc2VhcmNoQm9keS5xdWVyeS5tdWx0aV9tYXRjaCA9IHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICJzaG91bGQiOiAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>{
-            &quot;bool&quot;: {
-              &quot;should&quot;: [
-                { &quot;term&quot;: { &quot;text&quot;: &quot;and&quot; }},
-                { &quot;term&quot;: { &quot;text&quot;: &quot;the&quot; }}
-              ]
-            }
-          }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAiYm9vbCI6IAo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAibWF0Y2giOiB7CiAgICAgICAgICAgICAgICAibmFtZSI6IHsKICAgICAgICAgICAgICAgICAgInF1ZXJ5IjogInRoaXMiLAogICAgICAgICAgICAgICAgICAidHlwZSI6ICJwaHJhc2UiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
+        <text>{
+          &quot;must&quot;:
+            [
+              {&quot;match&quot;: {&quot;title&quot;: &quot;golf&quot;}}
+            ]
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2VhcmNoVGV4dCkK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyB7ICJ0ZXJtIjogeyAidGV4dCI6ICJnb29kIiB9fSwK</text>
       </register>
-      <register name="6" type="4">
-        <text>onsole.log(JSON.stringify({
-        index: esEntity.indexName,
-        type: esEntity.indexType,
-        body: searchBody,
-        // q: `title:${text}`,
-        from: (page - 1) * perPage,
-        size: perPage,
-      })</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0cykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImIK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXNFbnRpdHkuaW5kZXhUeXBlKQo=</text>
+      <register name="8" type="4">
+        <text>ool&quot;: {
+              &quot;should&quot;: ,
+              // &quot;minimum_should_match&quot;: 1
+            }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICJzaG91bGQiOiAK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
