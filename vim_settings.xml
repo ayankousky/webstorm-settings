@@ -10,11 +10,11 @@
         <mark key="." line="1467" column="12" />
         <mark key="^" line="1467" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/searchPublic.json" timestamp="1535731399429">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/searchPublic.json" timestamp="1535741736039">
         <mark key="[" line="26" column="22" />
-        <mark key="]" line="26" column="24" />
+        <mark key="]" line="26" column="22" />
         <mark key="^" line="26" column="24" />
-        <mark key="." line="26" column="24" />
+        <mark key="." line="26" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1535347301244">
         <mark key="[" line="128" column="25" />
@@ -319,8 +319,8 @@
       <jump line="452" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -335,7 +335,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>indexName</text>
+        <text>5</text>
       </register>
       <register name="m" type="4">
         <keys>
