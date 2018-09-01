@@ -10,11 +10,11 @@
         <mark key="." line="1467" column="12" />
         <mark key="^" line="1467" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/searchPublic.json" timestamp="1535815311945">
-        <mark key="[" line="26" column="22" />
-        <mark key="]" line="26" column="22" />
-        <mark key="^" line="26" column="25" />
-        <mark key="." line="26" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/searchPublic.json" timestamp="1535816464911">
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="26" column="27" />
+        <mark key="^" line="26" column="22" />
+        <mark key="." line="26" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1535347301244">
         <mark key="[" line="128" column="25" />
@@ -122,11 +122,11 @@
         <mark key="." line="34" column="87" />
         <mark key="^" line="34" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/public.js" timestamp="1535815402274">
-        <mark key="[" line="84" column="29" />
-        <mark key="]" line="84" column="35" />
-        <mark key="." line="84" column="35" />
-        <mark key="^" line="84" column="35" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/public.js" timestamp="1535816838673">
+        <mark key="[" line="91" column="39" />
+        <mark key="]" line="91" column="43" />
+        <mark key="." line="91" column="43" />
+        <mark key="^" line="91" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/internal.js" timestamp="1535578834141">
         <mark key="[" line="16" column="55" />
@@ -147,10 +147,10 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onDynamodbVideo.json" timestamp="1535814477243">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onDynamodbVideo.json" timestamp="1535816876594">
         <mark key="[" line="35" column="27" />
-        <mark key="]" line="35" column="30" />
-        <mark key="." line="35" column="30" />
+        <mark key="]" line="35" column="27" />
+        <mark key="." line="35" column="27" />
         <mark key="^" line="35" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/ru.json" timestamp="1534717476383">
@@ -321,7 +321,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>porter</text>
+        <text>7</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -336,7 +336,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>porter</text>
+        <text>7</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -366,41 +366,41 @@
         <text encoding="base64">ICAgICAgbGV0IGVzRW50aXR5ID0gRVNGYWN0b3J5LmNyZWF0ZShlbnRpdHlUeXBlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICJkZWNpbWFsX2RpZ2l0IiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBib2R5OiBlc0VudGl0eS5ib2R5Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBib2R5OiBlc0VudGl0eS5ib2R5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGVzRW50aXR5ID0gRVNGYWN0b3J5LmNyZWF0ZShlbnRpdHlUeXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICBib2R5OiBlc0VudGl0eS5ib2R5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJlbmdsaXNoX3Bvc3Nlc3NpdmVfc3RlbW1lciIsCg==</text>
+        <text encoding="base64">ICAgICAgbGV0IGVzRW50aXR5ID0gRVNGYWN0b3J5LmNyZWF0ZShlbnRpdHlUeXBlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJlbmdsaXNoX3Bvc3Nlc3NpdmVfc3RlbW1lciIsCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyh2aWRlb3MuSXRlbXMubGVuZ3RoKQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>const AWS = require('aws-sdk')
     , Q     = require('q')
   AWS.config.setPromisesDependency(Q.Promise); // promisify callback functions
   let tableName = &quot;Vulcam-Videos-dev&quot;;
   // let tableName = &quot;VulcanVision-Videos-prod&quot;;</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBsZXQgZHluYW1vZGIgPSBuZXcgQVdTLkR5bmFtb0RCKAo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
