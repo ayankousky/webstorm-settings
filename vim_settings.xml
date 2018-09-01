@@ -10,10 +10,10 @@
         <mark key="." line="1467" column="12" />
         <mark key="^" line="1467" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/searchPublic.json" timestamp="1535741736039">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/searchPublic.json" timestamp="1535815311945">
         <mark key="[" line="26" column="22" />
         <mark key="]" line="26" column="22" />
-        <mark key="^" line="26" column="24" />
+        <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1535347301244">
@@ -122,11 +122,11 @@
         <mark key="." line="34" column="87" />
         <mark key="^" line="34" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/public.js" timestamp="1535700953256">
-        <mark key="[" line="96" column="31" />
-        <mark key="]" line="97" column="31" />
-        <mark key="." line="97" column="31" />
-        <mark key="^" line="97" column="31" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/public.js" timestamp="1535815402274">
+        <mark key="[" line="84" column="29" />
+        <mark key="]" line="84" column="35" />
+        <mark key="." line="84" column="35" />
+        <mark key="^" line="84" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/internal.js" timestamp="1535578834141">
         <mark key="[" line="16" column="55" />
@@ -147,7 +147,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onDynamodbVideo.json" timestamp="1535667921776">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onDynamodbVideo.json" timestamp="1535814477243">
         <mark key="[" line="35" column="27" />
         <mark key="]" line="35" column="30" />
         <mark key="." line="35" column="30" />
@@ -196,12 +196,12 @@
         <mark key="^" line="57" column="3" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1535700996850">
-        <mark key="[" line="1280" column="32" />
-        <mark key="]" line="1281" column="33" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1535815345887">
+        <mark key="[" line="1281" column="31" />
+        <mark key="]" line="1281" column="31" />
         <mark key="m" line="1280" column="31" />
-        <mark key="." line="1281" column="33" />
-        <mark key="^" line="1281" column="33" />
+        <mark key="." line="1281" column="31" />
+        <mark key="^" line="1281" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1534721501592">
         <mark key="[" line="717" column="0" />
@@ -321,7 +321,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>porter</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -336,7 +336,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>porter</text>
       </register>
       <register name="m" type="4">
         <keys>
