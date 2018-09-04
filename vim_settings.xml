@@ -199,12 +199,11 @@
         <mark key="^" line="130" column="26" />
         <mark key="." line="130" column="26" />
       </file>
-      <file name="$USER_HOME$/Desktop/NET_Core/docker-compose.yml" timestamp="1536095681421">
-        <mark key="'" line="44" column="3" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Desktop/NET_Core/docker-compose.yml" timestamp="1536098590823">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" timestamp="1535823914840">
         <mark key="'" line="181" column="28" />
@@ -227,10 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="295" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
-      <jump line="3" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
-      <jump line="4" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
-      <jump line="120" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" />
       <jump line="119" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" />
       <jump line="31" column="27" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" />
       <jump line="72" column="19" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/base.js" />
@@ -327,10 +322,16 @@
       <jump line="46" column="3" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.yml" />
       <jump line="17" column="15" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.stack.yml" />
       <jump line="45" column="4" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.stack.yml" />
+      <jump line="52" column="8" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.yml" />
+      <jump line="10" column="0" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.yml" />
+      <jump line="15" column="0" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.yml" />
+      <jump line="23" column="0" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>kalad</text>
+        <text>950372854860.dkr.ecr.eu-west-2.amazonaws.com/
+950372854860.dkr.ecr.eu-west-2.amazonaws.com/
+950372854860.dkr.ecr.eu-west-2.amazonaws.com/</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -369,59 +370,64 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>50</text>
+        <text>image</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLSBhcGkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>950372854860.dkr.ecr.eu-west-2.amazonaws.com/
+950372854860.dkr.ecr.eu-west-2.amazonaws.com/
+950372854860.dkr.ecr.eu-west-2.amazonaws.com/</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltYWdlOiBzYW1lZXJzYm4vcG9zdGdyZXNxbDoxMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltYWdlOiA5NTAzNzI4NTQ4NjAuZGtyLmVjci5ldS13ZXN0LTIuYW1hem9uYXdzLmNvbS9waGlsaXBfd2ViCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltYWdlOiA5NTAzNzI4NTQ4NjAuZGtyLmVjci5ldS13ZXN0LTIuYW1hem9uYXdzLmNvbS9waGlsaXBfYXBpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>#      resources:
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGltYWdlOiA5NTAzNzI4NTQ4NjAuZGtyLmVjci5ldS13ZXN0LTIuYW1hem9uYXdzLmNvbS9waGlsaXBfc2VydmVyCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyAgICBkZXBsb3llbW9yeTogNTAwTQo=</text>
+      </register>
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="4">
+        <text>:
+#      placement:
+#        constraints:
+#        - node.id == giuxngpieqz82juywkcje1lq6
+#      resources:
 #        limits:
 #          cpus: '1.40'
 #          memory: 2000M
 #        reservations:
 #          cpus: '0.25'
-#          memory: 500M</text>
+#          m</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
-      </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG5ldHdfbmV0d29yazogbnVsbAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>orks:
-      crm</text>
+      <register name="8" type="2">
+        <text encoding="base64">IyAgICBkZXBsb3k6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpbmtzOndlYgo=</text>
+        <text encoding="base64">IyAgICAgIHBsYWNvZGUuaWQgPT0gZ2l1eG5ncGllcXo4Mmp1eXdrY2plMWxxNgo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>50</last-search>
+      <last-search>image</last-search>
       <last-offset />
-      <last-pattern>50</last-pattern>
+      <last-pattern>image</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>should be rec</last-substitute>
       <last-dir>1</last-dir>
@@ -429,7 +435,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhd2FpdFw+</entry>
         <entry encoding="base64">XDxjaGFubmVsSWRcPg==</entry>
         <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDx2dWxjYW52aXNpb25cPg==</entry>
@@ -449,6 +454,7 @@
         <entry>should be rec</entry>
         <entry>importOf</entry>
         <entry>50</entry>
+        <entry>image</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
