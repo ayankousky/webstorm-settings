@@ -70,8 +70,11 @@
         <mark key="^" line="3" column="73" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/NET_Core/docker-compose.stack.yml" timestamp="1536102736215">
-        <mark key="'" line="77" column="4" />
+      <file name="$USER_HOME$/Desktop/NET_Core/docker-compose.stack.yml" timestamp="1536103871874">
+        <mark key="'" line="56" column="4" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1535825471565">
         <mark key="'" line="1151" column="10" />
@@ -330,8 +333,8 @@
       <jump line="23" column="0" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyAgICBkZXBsIG5vZGUuaWQgPT0gZ2l1eG5ncGllcXo4Mmp1eXdrY2plMWxxNgo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -376,48 +379,47 @@
         <text encoding="base64">ICAgIGltYWdlOiA5NTAzNzI4NTQ4NjAuZGtyLmVjci5ldS13ZXN0LTIuYW1hem9uYXdzLmNvbS9waGlsaXBfYXBpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiA5NTAzNzI4NTQ4NjAuZGtyLmVjci5ldS13ZXN0LTIuYW1hem9uYXdzLmNvbS9waGlsaXBfc2VydmVyCg==</text>
+        <text encoding="base64">IyAgICBkZXBsIG5vZGUuaWQgPT0gZ2l1eG5ncGllcXo4Mmp1eXdrY2plMWxxNgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>950372854860.dkr.ecr.eu-west-2.amazonaws.com/
-950372854860.dkr.ecr.eu-west-2.amazonaws.com/
-950372854860.dkr.ecr.eu-west-2.amazonaws.com/</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyAgICBkZXBsb3lvZGUuaWQgPT0gZ2l1eG5ncGllcXo4Mmp1eXdrY2plMWxxNgo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>:
+      <register name="2" type="4">
+        <text>oy:
 #      placement:
 #        constraints:
-#        - n</text>
+#        -</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyAgICBkZXBsb3lvZGUuaWQgPT0gdGV1YWV0MnI5aGdwd2dsNjh2MWZ5czM1YQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">IyAgICBidWlsa2VyZmlsZTogLi9Eb2NrZXJmaWxlCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>d:
+#      context: ./WEB
+#      doc</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyAgICBkZXBsIG5vZGUuaWQgPT0gdGV1YWV0MnI5aGdwd2dsNjh2MWZ5czM1YQo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>oy:
+#      placement:
+#        constraints:
+#        -</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
-        <text>:
-#      placement:
-#        constraints:
-#        - n</text>
+      <register name="7" type="2">
+        <text encoding="base64">IyAgICBidWlsa2VyZmlsZTogRG9ja2VyZmlsZQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyAgICBkZXBsb3lvZGUuaWQgPT0gZ2l1eG5ncGllcXo4Mmp1eXdrY2plMWxxNgo=</text>
+      <register name="8" type="4">
+        <text>d:
+#      context: ./API
+#      doc</text>
       </register>
-      <register name="9" type="4">
-        <text>:
-#      placement:
-#        constraints:
-#        - n</text>
+      <register name="9" type="2">
+        <text encoding="base64">IyAgICBkZXBsIG5vZGUuaWQgPT0gZ2l1eG5ncGllcXo4Mmp1eXdrY2plMWxxNgo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
