@@ -28,10 +28,10 @@
         <mark key="^" line="42" column="9" />
       </file>
       <file name="$USER_HOME$/Desktop/NET_Core/API/Dockerfile" timestamp="1536035666851">
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="16" column="29" />
-        <mark key="^" line="16" column="29" />
-        <mark key="." line="16" column="29" />
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="29" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="19" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/index.js" timestamp="1535825276255">
         <mark key="[" line="28" column="12" />
@@ -69,6 +69,13 @@
         <mark key="]" line="3" column="42" />
         <mark key="^" line="3" column="73" />
         <mark key="." line="3" column="42" />
+      </file>
+      <file name="$USER_HOME$/Desktop/NET_Core/docker-compose.stack.yml" timestamp="1536097227081">
+        <mark key="'" line="76" column="4" />
+        <mark key="[" line="63" column="6" />
+        <mark key="]" line="63" column="8" />
+        <mark key="^" line="63" column="8" />
+        <mark key="." line="63" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1535825471565">
         <mark key="'" line="1151" column="10" />
@@ -140,6 +147,7 @@
         <mark key="." line="44" column="78" />
         <mark key="^" line="44" column="78" />
       </file>
+      <file name="$USER_HOME$/Desktop/docker-compose.stack.yml" timestamp="1536096183577" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/comment/comments-list/comments-list.component.ts" timestamp="1535347699018">
         <mark key="[" line="37" column="92" />
         <mark key="]" line="38" column="32" />
@@ -191,6 +199,13 @@
         <mark key="^" line="130" column="26" />
         <mark key="." line="130" column="26" />
       </file>
+      <file name="$USER_HOME$/Desktop/NET_Core/docker-compose.yml" timestamp="1536095681421">
+        <mark key="'" line="44" column="3" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" timestamp="1535823914840">
         <mark key="'" line="181" column="28" />
         <mark key="[" line="181" column="0" />
@@ -212,9 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1356" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
-      <jump line="1431" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
-      <jump line="438" column="38" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="295" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
       <jump line="3" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
       <jump line="4" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" />
@@ -312,10 +324,13 @@
       <jump line="459" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="1151" column="10" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
+      <jump line="46" column="3" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.yml" />
+      <jump line="17" column="15" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.stack.yml" />
+      <jump line="45" column="4" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.stack.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-api</text>
+        <text>kalad</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -330,7 +345,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-api</text>
+        <text>kalad</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -357,45 +372,47 @@
         <text>50</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiYW5hbHl6ZXIiOiAiZW5nbGlzaCIK</text>
+        <text encoding="base64">ICAgICAgLSBhcGkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHRzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgCSAgY29uc29sZS5sb2coc2VhcmNoVGV4dCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>multi_match: {
-          //   &quot;query&quot; : searchText,
-          //   &quot;fields&quot;: [&quot;title&quot;, &quot;description&quot;, &quot;channelTitle&quot;],
-          //   &quot;type&quot;: &quot;phrase&quot;,
-          //   &quot;slop&quot;: 3,
-          // }</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmVzdWx0cyA9IGF3YWl0KEVTc2VydmljZS5zZWFyY2hWaWRlbyhzZWFyY2hCb2R5LCBwdWJsaWNTZWFjcmgsIHBhZ2UsIHBlclBhZ2UpKTsK</text>
+      <register name="5" type="4">
+        <text>#      resources:
+#        limits:
+#          cpus: '1.40'
+#          memory: 2000M
+#        reservations:
+#          cpus: '0.25'
+#          memory: 500M</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5ldHdfbmV0d29yazogbnVsbAo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgc2VhcmNoQm9keS5xdWVyeSA9IHsKICAgICAgICBtdWx0aV9tYXRjaDogewogICAgICAgICAgInF1ZXJ5Ijogc2VhcmNoVGV4dCwKICAgICAgICAgICJmaWVsZHMiOiBbInRpdGxlXjMiLCAiZGVzY3JpcHRpb25eMiIsICJjaGFubmVsVGl0bGUiXSwKICAgICAgICAgIC8vICJjdXRvZmZfZnJlcXVlbmN5IjogMC4wMSwKICAgICAgICAgICJtaW5pbXVtX3Nob3VsZF9tYXRjaCI6ICIyNSUiLAogICAgICAgICAgImZ1enppbmVzcyI6ICJBVVRPIiwKICAgICAgICAgICJhbmFseXplciI6ICJlbmdsaXNoIiwKICAgICAgICB9CiAgICAgIH0=</text>
+        <text>orks:
+      crm</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZGVsZXRlIHNlYXJjaEJvZHkuc29ydAo=</text>
+        <text encoding="base64">ICAgIGxpbmtzOndlYgo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
