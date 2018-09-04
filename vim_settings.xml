@@ -65,6 +65,12 @@
         <mark key="^" line="42" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1535742933947" />
+      <file name="$USER_HOME$/Desktop/NET_Core/API/Dockerfile" timestamp="1536035666851">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="16" column="29" />
+        <mark key="^" line="16" column="29" />
+        <mark key="." line="16" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/video/video-detail/video-detail.component.ts" timestamp="1534728720172">
         <mark key="[" line="73" column="20" />
         <mark key="]" line="73" column="27" />
@@ -310,7 +316,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>aspnetapp</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -325,7 +331,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>aspnetapp</text>
       </register>
       <register name="m" type="4">
         <keys>
