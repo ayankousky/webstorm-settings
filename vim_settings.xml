@@ -70,12 +70,19 @@
         <mark key="^" line="3" column="73" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/NET_Core/docker-compose.stack.yml" timestamp="1536099483487">
-        <mark key="'" line="76" column="4" />
-        <mark key="[" line="63" column="6" />
-        <mark key="]" line="63" column="8" />
-        <mark key="^" line="63" column="8" />
-        <mark key="." line="63" column="8" />
+      <file name="$USER_HOME$/Desktop/NET_Core/docker-compose.stack.yml" timestamp="1536100421738">
+        <mark key="'" line="67" column="4" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="54" column="8" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/comment/comments-list/comments-list.component.html" timestamp="1535348069370">
+        <mark key="'" line="1" column="2" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="57" column="3" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1535825471565">
         <mark key="'" line="1151" column="10" />
@@ -328,10 +335,8 @@
       <jump line="23" column="0" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>950372854860.dkr.ecr.eu-west-2.amazonaws.com/
-950372854860.dkr.ecr.eu-west-2.amazonaws.com/
-950372854860.dkr.ecr.eu-west-2.amazonaws.com/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyAgICBidWlsa2VyZmlsZTogRG9ja2VyZmlsZQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -375,50 +380,44 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLSBhcGkK</text>
       </register>
-      <register name="1" type="4">
-        <text>950372854860.dkr.ecr.eu-west-2.amazonaws.com/
-950372854860.dkr.ecr.eu-west-2.amazonaws.com/
-950372854860.dkr.ecr.eu-west-2.amazonaws.com/</text>
+      <register name="1" type="2">
+        <text encoding="base64">IyAgICBidWlsa2VyZmlsZTogRG9ja2VyZmlsZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBzYW1lZXJzYm4vcG9zdGdyZXNxbDoxMAo=</text>
+      <register name="2" type="4">
+        <text>d:
+#      context: ./server
+#      doc</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiA5NTAzNzI4NTQ4NjAuZGtyLmVjci5ldS13ZXN0LTIuYW1hem9uYXdzLmNvbS9waGlsaXBfd2ViCg==</text>
+        <text encoding="base64">IyAgICBidWlsa2VyZmlsZTogRG9ja2VyZmlsZQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiA5NTAzNzI4NTQ4NjAuZGtyLmVjci5ldS13ZXN0LTIuYW1hem9uYXdzLmNvbS9waGlsaXBfYXBpCg==</text>
+      <register name="4" type="4">
+        <text>d:
+#      context: ./API
+#      doc</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiA5NTAzNzI4NTQ4NjAuZGtyLmVjci5ldS13ZXN0LTIuYW1hem9uYXdzLmNvbS9waGlsaXBfc2VydmVyCg==</text>
+        <text encoding="base64">IyAgICBidWlsZAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyAgICBkZXBsb3llbW9yeTogNTAwTQo=</text>
+      <register name="6" type="4">
+        <text>:
+#      context: ./WEB
+#      dockerfile: ./Dockerfile</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="4">
-        <text>:
-#      placement:
-#        constraints:
-#        - node.id == giuxngpieqz82juywkcje1lq6
-#      resources:
-#        limits:
-#          cpus: '1.40'
-#          memory: 2000M
-#        reservations:
-#          cpus: '0.25'
-#          m</text>
+        <text encoding="base64">CiMgICAgYnVpbGQ6CiMgICAgICBjb250ZXh0OiAuL1dFQgojICAgICAgZG9ja2VyZmlsZTogLi9Eb2NrZXJmaWxl</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyAgICBkZXBsb3k6Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiMgICAgZGVwbG95OgojICAgICAgcGxhY2VtZW50OgojICAgICAgICBjb25zdHJhaW50czoKIyAgICAgICAgLSBub2RlLmlkID09IGdpdXhuZ3BpZXF6ODJqdXl3a2NqZTFscTY=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgIHBsYWNvZGUuaWQgPT0gZ2l1eG5ncGllcXo4Mmp1eXdrY2plMWxxNgo=</text>
+        <text encoding="base64">ICAgIGJ1aWxkCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
