@@ -172,8 +172,11 @@
         <mark key="." line="34" column="87" />
         <mark key="^" line="34" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/public.js" timestamp="1536211137680">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/public.js" timestamp="1536216294634">
         <mark key="'" line="77" column="17" />
+        <mark key="[" line="119" column="15" />
+        <mark key="]" line="119" column="15" />
+        <mark key="." line="119" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1535098211300">
         <mark key="[" line="24" column="0" />
@@ -329,7 +332,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZHluYW1vZGIg</text>
+        <text>,</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -344,7 +347,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZHluYW1vZGIg</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
