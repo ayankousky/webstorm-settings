@@ -34,10 +34,10 @@
         <mark key="." line="19" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/index.js" timestamp="1535825276255">
-        <mark key="[" line="28" column="12" />
-        <mark key="]" line="28" column="22" />
-        <mark key="." line="28" column="22" />
-        <mark key="^" line="28" column="22" />
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+        <mark key="^" line="24" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1534719765587">
         <mark key="[" line="29" column="36" />
@@ -90,12 +90,12 @@
         <mark key="^" line="722" column="154" />
         <mark key="." line="717" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1535825489026">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1536205553159">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1465" column="31" />
-        <mark key="]" line="1465" column="31" />
-        <mark key="." line="1465" column="31" />
-        <mark key="^" line="1465" column="31" />
+        <mark key="[" line="1275" column="31" />
+        <mark key="]" line="1275" column="31" />
+        <mark key="." line="1275" column="31" />
+        <mark key="^" line="1275" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1535347301244">
         <mark key="[" line="128" column="25" />
@@ -174,11 +174,11 @@
         <mark key="." line="34" column="87" />
         <mark key="^" line="34" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/public.js" timestamp="1535823864665">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="35" />
-        <mark key="." line="16" column="33" />
-        <mark key="^" line="107" column="24" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/public.js" timestamp="1536205972588">
+        <mark key="[" line="87" column="29" />
+        <mark key="]" line="87" column="41" />
+        <mark key="." line="87" column="41" />
+        <mark key="^" line="87" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/internal.js" timestamp="1535823886733">
         <mark key="[" line="37" column="0" />
@@ -333,8 +333,8 @@
       <jump line="23" column="0" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICBkZXBsIG5vZGUuaWQgPT0gZ2l1eG5ncGllcXo4Mmp1eXdrY2plMWxxNgo=</text>
+      <register name="&quot;" type="4">
+        <text>lovins</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -349,7 +349,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>lovins</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -376,7 +376,7 @@
         <text>image</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiA5NTAzNzI4NTQ4NjAuZGtyLmVjci5ldS13ZXN0LTIuYW1hem9uYXdzLmNvbS9waGlsaXBfYXBpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAibGFuZ3VhZ2UiOiAgICJlbmdsaXNoIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyAgICBkZXBsIG5vZGUuaWQgPT0gZ2l1eG5ncGllcXo4Mmp1eXdrY2plMWxxNgo=</text>
