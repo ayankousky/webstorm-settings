@@ -52,11 +52,11 @@
         <mark key="." line="103" column="5" />
         <mark key="^" line="103" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1536403246162">
-        <mark key="[" line="135" column="62" />
-        <mark key="]" line="135" column="62" />
-        <mark key="." line="135" column="62" />
-        <mark key="^" line="135" column="62" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1536413837384">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="143" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/video/entities/video.ts" timestamp="1534729073472">
         <mark key="[" line="22" column="0" />
@@ -127,12 +127,12 @@
         <mark key="." line="34" column="78" />
         <mark key="^" line="34" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1536411927754">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1536413793458">
         <mark key="'" line="744" column="14" />
-        <mark key="[" line="1215" column="0" />
-        <mark key="]" line="1215" column="24" />
-        <mark key="." line="1215" column="0" />
-        <mark key="^" line="411" column="23" />
+        <mark key="[" line="748" column="16" />
+        <mark key="]" line="748" column="31" />
+        <mark key="." line="748" column="31" />
+        <mark key="^" line="748" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/channel_unbanned.pug" timestamp="1534719138021">
         <mark key="[" line="34" column="87" />
@@ -349,7 +349,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGVsZXRlIHZpZGVvLmlzTFA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmV2aWV3VXJsICAgPSA7Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -364,7 +364,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>isBanned</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -394,37 +394,46 @@
         <text encoding="base64">ICAgICAgZGVsZXRlIHZpZGVvLmlzTFA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmV2aWV3VXJsICAgPSA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>case 'base64':
+          let s3 = require('../../services/aws').s3;
+          let picture = await (s3.getObject({
+            Bucket: config.BUCKET,
+            Key: pictureS3key
+          }).promise());
+          return picture.Body.toString('base64');</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVEYXRlICAgICA6IG5ldyBEYXRlKCkgLSAwLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGR1cmF0aW9uICA6IGluZGV4SnNvbkZpZWxkcy5kdXJhdGlvbiwK</text>
+        <text encoding="base64">ICAgIGV0dXJuOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZ1bGNhbUlkICA6IGluZGV4SnNvbi5pZCwK</text>
+      <register name="6" type="4">
+        <text>let is = await(video.hasLivePreview());
+    console.log(is)
+
+    r</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlzVXBsb2FkZWQ6ICdYJywK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgIHRyeSB7CiAgICAgICAgLy8gY29weSBsaXZlIHByZXZpZXcKICAgICAgICBhd2FpdChzMy5jb3B5T2JqZWN0KHsKICAgICAgICAgIEJ1Y2tldCAgICA6IGNvbmZpZy5CVUNLRVQsCiAgICAgICAgICBLZXk6IHZpZGVvLmdldExQUzNLZXkoKSwKICAgICAgICAgIENvcHlTb3VyY2U6IGAvJHtjb25maWcuQlVDS0VUfS8ke3ZpZGVvLnMza2V5fXVuemlwcGVkLyR7dmlkZW8udnVsY2FtSWR9L3ByZXZpZXcubXA0YCwKICAgICAgICAgIC8vIE1ldGFkYXRhRGlyZWN0aXZlOiAnUkVQTEFDRScsCiAgICAgICAgfSkucHJvbWlzZSgpKTsKICAgICAgICBhd2FpdCAoVmlkZW8udXBkYXRlKHtjaGFubmVsSWQ6IHZpZGVvLmNoYW5uZWxJZCwgaWQ6IHZpZGVvLmlkfSwgewogICAgICAgICAgaXNMUDogdHJ1ZQogICAgICAgIH0pKTsKICAgICAgfSBjYXRjaCAoZSl7CiAgICAgICAgY29uc29sZS5sb2coJ0Vycm9yIG9uIHNhdmluZyBscCBmb3IgdmlkZW86ICcgKyBlKQogICAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIENvcHlTb3VyY2U6IGAvJHtjb25maWcuQlVDS0VUfS8ke3ZpZGVvLnMza2V5fXVuemlwcGVkLyR7dmlkZW8udnVsY2FtSWR9L3ByZXZpZXcubXA0YCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
