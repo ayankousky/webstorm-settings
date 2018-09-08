@@ -52,11 +52,11 @@
         <mark key="." line="103" column="5" />
         <mark key="^" line="103" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1536399385446">
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="188" column="57" />
-        <mark key="." line="188" column="57" />
-        <mark key="^" line="188" column="57" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1536403246162">
+        <mark key="[" line="135" column="62" />
+        <mark key="]" line="135" column="62" />
+        <mark key="." line="135" column="62" />
+        <mark key="^" line="135" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/video/entities/video.ts" timestamp="1534729073472">
         <mark key="[" line="22" column="0" />
@@ -231,6 +231,18 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/index.html" timestamp="1536402768654">
+        <mark key="[" line="78" column="43" />
+        <mark key="]" line="78" column="43" />
+        <mark key="." line="78" column="43" />
+        <mark key="^" line="75" column="115" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/templates/helium_download_video.pug" timestamp="1536403205113">
+        <mark key="[" line="67" column="48" />
+        <mark key="]" line="67" column="48" />
+        <mark key="^" line="68" column="52" />
+        <mark key="." line="67" column="48" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="4" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/base/base.component.html" />
@@ -335,8 +347,8 @@
       <jump line="77" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/public.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>How much does culture influence creative thinking?</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -351,7 +363,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJlZGlyZWN0VXJs</text>
+        <text>How much does culture influence creative thinking?</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -378,40 +390,40 @@
         <text encoding="base64">XDxkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdteV9jaGFyX2ZpbHRlcicK</text>
+        <text encoding="base64">ICAgICAgICBtZXRhKG5hbWU9ImFwcGxlLW1vYmlsZS13ZWItYXBwLWNhcGFibGUiLCBjb250ZW50PSJ5ZXMiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcGFnZVVybCAgICAgOiBgaHR0cHM6Ly8ke2V2ZW50LmhlYWRlcnMuSG9zdH0ke2V2ZW50LnJlcXVlc3RDb250ZXh0LnBhdGh9YCwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHVibGljU2VhY3JoKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhgaHR0cHM6Ly8ke2V2ZW50LmhlYWRlcnMuSG9zdH0ke2V2ZW50LnJlcXVlc3RDb250ZXh0LnBhdGh9YCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAibGFuZ3VhZ2UiOiAgICJsaWdodF9lbmdsaXNoIgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAia2VrIjoiIgo=</text>
+        <text encoding="base64">ICAgICAgICBtZXRhIHByb3BlcnR5PSJvZzp1cmwiIGNvbnRlbnQ9Imh0dHA6Ly92dWxjYW52aXNpb24tdGVzdC1jbG91ZGZyb250LnMzLXdlYnNpdGUtdXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vaW5kZXguaHRtbDIiIC8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyAicGF0dGVybiI6ICIoXFxkKyktKD89XFxkKSIsCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPG1ldGEgcHJvcGVydHk9Im9nOmltYWdlIiBjb250ZW50PSJodHRwOi8vc3RhdGljMDEubnl0LmNvbS9pbWFnZXMvMjAxNS8wMi8xOS9hcnRzL2ludGVybmF0aW9uYWwvMTlpaHQtYnRudW1iZXJzMTlBLzE5aWh0LWJ0bnVtYmVyczE5QS1mYWNlYm9va0p1bWJvLXYyLmpwZyIgLz4tLT4K</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAicGF0dGVybiI6ICJlciQiLAo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPG1ldGEgcHJvcGVydHk9Im9nOnVybCIgY29udGVudD0iaHR0cDovL3d3dy5ueXRpbWVzLmNvbS8yMDE1LzAyLzE5L2FydHMvaW50ZXJuYXRpb25hbC93aGVuLWdyZWF0LW1pbmRzLWRvbnQtdGhpbmstYWxpa2UuaHRtbCIgLz4tLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICBkZXBsIG5vZGUuaWQgPT0gZ2l1eG5ncGllcXo4Mmp1eXdrY2plMWxxNgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHVibGljU2VhY3JoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
