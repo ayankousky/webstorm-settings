@@ -22,11 +22,11 @@
         <mark key="." line="128" column="25" />
         <mark key="^" line="128" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/extra/handleHeliumLink.json" timestamp="1536415284225">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/extra/handleHeliumLink.json" timestamp="1536416570295">
         <mark key="[" line="87" column="13" />
-        <mark key="]" line="87" column="17" />
-        <mark key="." line="87" column="17" />
-        <mark key="^" line="87" column="17" />
+        <mark key="]" line="87" column="18" />
+        <mark key="." line="87" column="18" />
+        <mark key="^" line="87" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/NET_Core/docker-compose.dev.yml" timestamp="1536103110471">
         <mark key="[" line="12" column="0" />
@@ -58,7 +58,7 @@
         <mark key="." line="103" column="5" />
         <mark key="^" line="103" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1536414991966">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1536416705514">
         <mark key="[" line="141" column="38" />
         <mark key="]" line="141" column="50" />
         <mark key="." line="141" column="50" />
@@ -133,12 +133,12 @@
         <mark key="." line="34" column="78" />
         <mark key="^" line="34" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1536415510228">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1536416687451">
         <mark key="'" line="744" column="14" />
-        <mark key="[" line="777" column="0" />
-        <mark key="]" line="777" column="0" />
-        <mark key="." line="777" column="0" />
-        <mark key="^" line="748" column="31" />
+        <mark key="[" line="748" column="38" />
+        <mark key="]" line="748" column="38" />
+        <mark key="." line="748" column="38" />
+        <mark key="^" line="748" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/channel_unbanned.pug" timestamp="1534719138021">
         <mark key="[" line="34" column="87" />
@@ -355,8 +355,8 @@
       <jump line="131" column="59" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">d2lkdGg9IjMyMCIsIGhlaWdodD0iMjQwIiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NkZmFzZGZhc2RmJykK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -371,7 +371,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2lkdGg9IjMyMCIsIGhlaWdodD0iMjQwIiA=</text>
+        <text>7GpXr</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -401,32 +401,38 @@
         <text encoding="base64">ICAgICAgZGVsZXRlIHZpZGVvLmlzTFA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5nZXRMUFMzS2V5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NkZmFzZGZhc2RmJykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobHBTM0tleSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5nZXRMUFMzS2V5KCkpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAvIGZzLndyaXRlRmlsZVN5bmMoJy9Vc2Vycy9hbGV4L0Rlc2t0b3AvaW5kZXguaHRtbCcsIGh0bWwpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>// let fs = require('fs');
   /</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>isUploaded   = video.isUploaded,
         videoTitle   = video.title,</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmV2aWV3VXJsICAgPSA7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmV2aWV3VXJsICAgPSA7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="4">
         <text>case 'base64':
           let s3 = require('../../services/aws').s3;
           let picture = await (s3.getObject({
@@ -434,12 +440,6 @@
             Key: pictureS3key
           }).promise());
           return picture.Body.toString('base64');</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGV0dXJuOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
