@@ -70,7 +70,8 @@
         <mark key="." line="56" column="22" />
         <mark key="^" line="56" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1537643996854">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1537645165511">
+        <mark key="'" line="847" column="75" />
         <mark key="[" line="742" column="35" />
         <mark key="]" line="742" column="38" />
         <mark key="^" line="742" column="38" />
@@ -169,7 +170,7 @@
         <mark key="." line="576" column="11" />
         <mark key="^" line="576" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" timestamp="1537635084009">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" timestamp="1537644132103">
         <mark key="[" line="59" column="59" />
         <mark key="]" line="59" column="59" />
         <mark key="." line="59" column="59" />
@@ -250,6 +251,7 @@
         <mark key="." line="35" column="31" />
         <mark key="^" line="35" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/user_suggestions_service/index.py" timestamp="1537645204857" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/ru.json" timestamp="1534717476383">
         <mark key="[" line="72" column="14" />
         <mark key="]" line="72" column="22" />
@@ -294,7 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="233" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" />
       <jump line="891" column="37" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
@@ -394,6 +395,7 @@
       <jump line="744" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" />
       <jump line="131" column="59" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/prod/main_vulcanvision.yml" />
+      <jump line="847" column="75" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
