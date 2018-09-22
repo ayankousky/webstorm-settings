@@ -63,12 +63,13 @@
         <mark key="." line="34" column="78" />
         <mark key="^" line="34" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/dev/main_vulcanvision.yml" timestamp="1536489237569">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="31" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/dev/main_vulcanvision.yml" timestamp="1537592036673">
+        <mark key="[" line="56" column="4" />
+        <mark key="]" line="56" column="22" />
+        <mark key="." line="56" column="22" />
+        <mark key="^" line="56" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1537249347104">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1537591617966">
         <mark key="[" line="468" column="19" />
         <mark key="]" line="468" column="18" />
         <mark key="^" line="468" column="18" />
@@ -261,6 +262,7 @@
         <mark key="^" line="133" column="22" />
         <mark key="." line="133" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/suggestionAnalysis.js" timestamp="1537591578594" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" timestamp="1535876550734">
         <mark key="'" line="25" column="2" />
         <mark key="[" line="68" column="0" />
@@ -384,7 +386,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>++</text>
+        <text>vulcanvision_suggestion_analysis</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -399,7 +401,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>++</text>
+        <text>vulcanvision_suggestion_analysis</text>
       </register>
       <register name="m" type="4">
         <keys>
