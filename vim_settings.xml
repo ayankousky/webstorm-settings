@@ -95,13 +95,9 @@
         <mark key="^" line="3" column="73" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1537718436006">
-        <mark key="'" line="1170" column="10" />
-        <mark key="[" line="1318" column="39" />
-        <mark key="m" line="1308" column="31" />
-        <mark key="]" line="1318" column="39" />
-        <mark key="." line="1318" column="39" />
-        <mark key="^" line="1318" column="39" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1537721307976">
+        <mark key="'" line="1313" column="7" />
+        <mark key="m" line="1323" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1534721501592">
         <mark key="[" line="717" column="0" />
@@ -247,6 +243,12 @@
         <mark key="." line="35" column="31" />
         <mark key="^" line="35" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/user_suggestions_service/index.py" timestamp="1537720768782">
+        <mark key="[" line="58" column="13" />
+        <mark key="]" line="58" column="13" />
+        <mark key="." line="58" column="13" />
+        <mark key="^" line="58" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/ru.json" timestamp="1534717476383">
         <mark key="[" line="72" column="14" />
         <mark key="]" line="72" column="22" />
@@ -279,7 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" />
       <jump line="891" column="37" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
@@ -379,10 +380,11 @@
       <jump line="131" column="59" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/prod/main_vulcanvision.yml" />
       <jump line="847" column="75" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
+      <jump line="1302" column="7" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>currWordsKey</text>
+        <text encoding="base64">CiAgICAgIC8vIHNlYXJjaEJvZHkucXVlcnkgPSB7fTsKICAgICAgLy8gc2VhcmNoQm9keS5xdWVyeS5tdWx0aV9tYXRjaCA9IHsKICAgICAgLy8gICAicXVlcnkiIDogc2VhcmNoVGV4dCwKICAgICAgLy8gICAiZmllbGRzIjogWyJ0aXRsZSIsICJkZXNjcmlwdGlvbiIsICJjaGFubmVsVGl0bGUiXSwKICAgICAgLy8gfTsKICAgICAgLy8gaWYgKHNlYXJjaFRleHQuaW5jbHVkZXMoJyAnKSl7CiAgICAgIC8vICAgc2VhcmNoQm9keS5xdWVyeS5tdWx0aV9tYXRjaC50eXBlID0gInBocmFzZSI7CiAgICAgIC8vICAgc2VhcmNoQm9keS5xdWVyeS5tdWx0aV9tYXRjaC5zbG9wID0gMzsKICAgICAgLy8gfSBlbHNlIHsKICAgICAgLy8gICBzZWFyY2hCb2R5LnF1ZXJ5Lm11bHRpX21hdGNoLmZ1enppbmVzcyA9ICJBVVRPIjsKICAgICAgLy8gfQ==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -397,7 +399,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>currWordsKey</text>
+        <text>!</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -426,41 +428,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coczNrZXlBcnJheVsyXSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgIC8vIHNlYXJjaEJvZHkucXVlcnkgPSB7fTsKICAgICAgLy8gc2VhcmNoQm9keS5xdWVyeS5tdWx0aV9tYXRjaCA9IHsKICAgICAgLy8gICAicXVlcnkiIDogc2VhcmNoVGV4dCwKICAgICAgLy8gICAiZmllbGRzIjogWyJ0aXRsZSIsICJkZXNjcmlwdGlvbiIsICJjaGFubmVsVGl0bGUiXSwKICAgICAgLy8gfTsKICAgICAgLy8gaWYgKHNlYXJjaFRleHQuaW5jbHVkZXMoJyAnKSl7CiAgICAgIC8vICAgc2VhcmNoQm9keS5xdWVyeS5tdWx0aV9tYXRjaC50eXBlID0gInBocmFzZSI7CiAgICAgIC8vICAgc2VhcmNoQm9keS5xdWVyeS5tdWx0aV9tYXRjaC5zbG9wID0gMzsKICAgICAgLy8gfSBlbHNlIHsKICAgICAgLy8gICBzZWFyY2hCb2R5LnF1ZXJ5Lm11bHRpX21hdGNoLmZ1enppbmVzcyA9ICJBVVRPIjsKICAgICAgLy8gfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>e
-  if(event.headers.Authorization){
-    let authService = new AuthService(event.headers.Authorization)
-    c</text>
+      <register name="2" type="2">
+        <text encoding="base64">CSAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYoczNrZXlBcnJheSl5eQo=</text>
+        <text encoding="base64">ICBsZXQgZW50aXR5VHlwZSA9ICdkZWZhdWx0JzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoczNrZXlBcnJheVsyXSA9PT0gJ3BpY3R1cmVzJykK</text>
+        <text encoding="base64">ICAgIGV2ZW50LnF1ZXJ5LnNlYXJjaFR5cGUgfHwgJ2RlZmF1bHQnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZXI6IGxpYi9zZXJ2aWNlcy91c2VyX3N1Z2dlc3Rpb25zX3NlcnZpY2UvaW5kZXgudGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vICJjdXRvZmZfZnJlcXVlbmN5IjogMC4wMSwK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBzY2gK</text>
+        <text encoding="base64">ICAgICAgLy8gc2VhcmNoQm9keS5zb3J0ID0gCg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ZWR1bGU6CiAgICAgICAgICByYXRlOiByYXRlKDEgbWludXRlKQo=</text>
+        <text>{
+      //   'trendingValue': {order: 'desc'}
+      // };</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgbGV0IHZpZGVvID0gYXdhaXQgKFZpZGVvLmdldEJ5SWQodi5pZCkpOwogICAgdHJ5IHsKICAgICAgYXdhaXQgKHZpZGVvLnNhdmUoKSk7CiAgICB9IGNhdGNoKGUpewogICAgICBjb25zb2xlLmxvZygnRXJyb3Igb24gc2F2ZWluZyB2aWRlbzonKTsKICAgICAgY29uc29sZS5sb2coZSk7CiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
