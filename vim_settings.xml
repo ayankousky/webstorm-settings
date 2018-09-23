@@ -95,13 +95,13 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1537250851432">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1537713080889">
         <mark key="'" line="1162" column="10" />
-        <mark key="[" line="297" column="24" />
+        <mark key="[" line="1307" column="52" />
         <mark key="m" line="1300" column="31" />
-        <mark key="]" line="297" column="25" />
-        <mark key="." line="297" column="25" />
-        <mark key="^" line="297" column="24" />
+        <mark key="]" line="1307" column="52" />
+        <mark key="." line="1307" column="52" />
+        <mark key="^" line="1307" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1534721501592">
         <mark key="[" line="717" column="0" />
@@ -251,7 +251,6 @@
         <mark key="." line="35" column="31" />
         <mark key="^" line="35" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/user_suggestions_service/index.py" timestamp="1537645204857" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/ru.json" timestamp="1534717476383">
         <mark key="[" line="72" column="14" />
         <mark key="]" line="72" column="22" />
@@ -399,7 +398,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>handleAppLink</text>
+        <text>,</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -414,7 +413,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>handleAppLink</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
