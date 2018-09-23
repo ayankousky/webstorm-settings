@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/searchPublic.json" timestamp="1537722604031">
-        <mark key="[" line="89" column="18" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/searchPublic.json" timestamp="1537723649759">
+        <mark key="[" line="90" column="31" />
         <mark key="]" line="90" column="31" />
         <mark key="^" line="90" column="31" />
         <mark key="." line="90" column="31" />
@@ -76,7 +76,7 @@
         <mark key="." line="56" column="22" />
         <mark key="^" line="56" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1537645165511">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1537723506718">
         <mark key="'" line="847" column="75" />
         <mark key="[" line="742" column="35" />
         <mark key="]" line="742" column="38" />
@@ -95,12 +95,13 @@
         <mark key="^" line="3" column="73" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1537722591419">
-        <mark key="'" line="1314" column="7" />
-        <mark key="[" line="1113" column="0" />
-        <mark key="m" line="1324" column="31" />
-        <mark key="]" line="1113" column="0" />
-        <mark key="." line="1113" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1537723628317">
+        <mark key="'" line="1316" column="7" />
+        <mark key="[" line="1293" column="20" />
+        <mark key="m" line="1326" column="31" />
+        <mark key="]" line="1293" column="24" />
+        <mark key="." line="1293" column="24" />
+        <mark key="^" line="1293" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1534721501592">
         <mark key="[" line="717" column="0" />
@@ -387,8 +388,8 @@
       <jump line="1302" column="7" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -403,7 +404,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNlYXJjaFRleHQ=</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -430,7 +431,7 @@
         <text encoding="base64">XDxkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coczNrZXlBcnJheVsyXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInF1ZXJ5IjogY3VyclVzZXIsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
