@@ -33,11 +33,11 @@
         <mark key="^" line="361" column="35" />
         <mark key="." line="361" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1537716142696">
-        <mark key="[" line="309" column="18" />
-        <mark key="]" line="309" column="18" />
-        <mark key="^" line="309" column="18" />
-        <mark key="." line="309" column="18" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1537727811034">
+        <mark key="[" line="312" column="13" />
+        <mark key="]" line="312" column="16" />
+        <mark key="^" line="312" column="16" />
+        <mark key="." line="312" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/.serverless/cloudformation-template-update-stack.json" timestamp="1537634017226" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/video.js" timestamp="1535523954756">
@@ -95,13 +95,13 @@
         <mark key="^" line="3" column="73" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1537723628317">
-        <mark key="'" line="1316" column="7" />
-        <mark key="[" line="1293" column="20" />
-        <mark key="m" line="1326" column="31" />
-        <mark key="]" line="1293" column="24" />
-        <mark key="." line="1293" column="24" />
-        <mark key="^" line="1293" column="24" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1537728808171">
+        <mark key="'" line="1347" column="7" />
+        <mark key="[" line="1291" column="0" />
+        <mark key="m" line="1357" column="31" />
+        <mark key="]" line="1291" column="0" />
+        <mark key="^" line="1290" column="27" />
+        <mark key="." line="1291" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1534721501592">
         <mark key="[" line="717" column="0" />
@@ -247,12 +247,6 @@
         <mark key="." line="35" column="31" />
         <mark key="^" line="35" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/user_suggestions_service/index.py" timestamp="1537720768782">
-        <mark key="[" line="58" column="13" />
-        <mark key="]" line="58" column="13" />
-        <mark key="." line="58" column="13" />
-        <mark key="^" line="58" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/ru.json" timestamp="1534717476383">
         <mark key="[" line="72" column="14" />
         <mark key="]" line="72" column="22" />
@@ -388,8 +382,8 @@
       <jump line="1302" column="7" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -404,7 +398,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -431,7 +425,7 @@
         <text encoding="base64">XDxkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInF1ZXJ5IjogY3VyclVzZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjdXJyVXNlci5zdWdnZXN0aW9uX3dvcmRzKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -440,31 +434,32 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgICAgIGxldCBjdXJyX3VzZXIgPSBhd2FpdCAoQ2xvdWRVc2VyKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICwgVXNlckZpbHRlciAgICA9IGR5bmFtb29zZS5tb2RlbChjb25maWcuRERCLnRhYmxlcy51c2VyX2ZpbHRlci5uYW1lKQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CSAgICBjb25zb2xlLmxvZyhjdXJyVXNlcklkKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgIC8vIHNlYXJjaEJvZHkucXVlcnkgPSB7fTsKICAgICAgLy8gc2VhcmNoQm9keS5xdWVyeS5tdWx0aV9tYXRjaCA9IHsKICAgICAgLy8gICAicXVlcnkiIDogc2VhcmNoVGV4dCwKICAgICAgLy8gICAiZmllbGRzIjogWyJ0aXRsZSIsICJkZXNjcmlwdGlvbiIsICJjaGFubmVsVGl0bGUiXSwKICAgICAgLy8gfTsKICAgICAgLy8gaWYgKHNlYXJjaFRleHQuaW5jbHVkZXMoJyAnKSl7CiAgICAgIC8vICAgc2VhcmNoQm9keS5xdWVyeS5tdWx0aV9tYXRjaC50eXBlID0gInBocmFzZSI7CiAgICAgIC8vICAgc2VhcmNoQm9keS5xdWVyeS5tdWx0aV9tYXRjaC5zbG9wID0gMzsKICAgICAgLy8gfSBlbHNlIHsKICAgICAgLy8gICBzZWFyY2hCb2R5LnF1ZXJ5Lm11bHRpX21hdGNoLmZ1enppbmVzcyA9ICJBVVRPIjsKICAgICAgLy8gfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhsb3dlc3RfcHJpb19zdWdnZXN0aW9uKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWFrOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgZW50aXR5VHlwZSA9ICdkZWZhdWx0JzsK</text>
+      <register name="8" type="4">
+        <text>results = await(ESservice.searchVideo(searchBody, publicSeacrh, page, perPage));
+        b</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGV2ZW50LnF1ZXJ5LnNlYXJjaFR5cGUgfHwgJ2RlZmF1bHQnOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgcmVzdWx0cy5oaXRzLmhpdHMubWFwKGVzRW50aXR5ID0+IHsKICAgIGxldCB2ID0gIGF3YWl0KFZpZGVvLnByb2plY3QocHJvamVjdFR5cGUsIGVzRW50aXR5Ll9zb3VyY2UpKTsKICAgIGNvbnNvbGUubG9nKHYudGl0bGUpCiAgfSk=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
