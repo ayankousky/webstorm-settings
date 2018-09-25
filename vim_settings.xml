@@ -88,11 +88,11 @@
         <mark key="." line="315" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/extra/dashboard_action.json" timestamp="1537819930605" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.ts" timestamp="1537818942762">
-        <mark key="[" line="165" column="69" />
-        <mark key="]" line="165" column="69" />
-        <mark key="^" line="165" column="69" />
-        <mark key="." line="165" column="69" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.ts" timestamp="1537853704655">
+        <mark key="[" line="192" column="48" />
+        <mark key="]" line="192" column="55" />
+        <mark key="." line="192" column="55" />
+        <mark key="^" line="192" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.component.html" timestamp="1535581450646">
         <mark key="[" line="3" column="42" />
@@ -100,13 +100,13 @@
         <mark key="^" line="3" column="73" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1537850562038">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1537852449948">
         <mark key="'" line="1299" column="0" />
-        <mark key="[" line="1304" column="102" />
+        <mark key="[" line="1305" column="0" />
         <mark key="m" line="1346" column="31" />
-        <mark key="]" line="1142" column="23" />
-        <mark key="." line="1142" column="23" />
-        <mark key="^" line="1142" column="23" />
+        <mark key="]" line="1305" column="0" />
+        <mark key="." line="1305" column="0" />
+        <mark key="^" line="1305" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1534721501592">
         <mark key="[" line="717" column="0" />
@@ -393,8 +393,8 @@
       <jump line="860" column="35" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>keydown</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -409,7 +409,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>se</text>
+        <text>keydown</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -436,40 +436,42 @@
         <text encoding="base64">XDxkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBoZWxwZXJzLmF3cy5zMy5nZXRTaWduZWRVcmwocGljdHVyZVMza2V5LCB7ZXhwaXJlOiBNYXRoLmZsb29yKG5ldyBEYXRlKCkuZ2V0VGltZSgpLzEwMDApICsgODY0MDAgKiA3IC0gMzYwMH0pOyAvLyAxIHdlZWsgaXMgYSBtYXhpbXVtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICQoImRpdi5kYXRhVGFibGVzX2ZpbHRlciBpbnB1dCIpLm9mZigna2V5ZG93bicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICQoIiN2aWRlb3NfdGFibGUgaW5wdXQiKS51bmJpbmQoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAic2VhcmNoRGVsYXkiOiAxMDM1MCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN1cnJVc2VySWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hEZWxheTogMTM1MCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN1cnJVc2VySWQK</text>
+        <text encoding="base64">ICAgICAgICAic2VhcmNoIjoK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHdhaXQodmlkZW8uc2F2ZSgpKTsK</text>
+      <register name="5" type="4">
+        <text>{
+          smart: false
+        },</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">bGV0IG5ld1Byb3BzID0gYm9keS52aWRlbzsKICAgIGxldCB2aWRlbyA9IGF3YWl0KFZpZGVvLmdldEJ5SWQobmV3UHJvcHMuaWQpKTsKICAgIHZpZGVvLnRpdGxlICAgICAgID0gbmV3UHJvcHMudGl0bGUgfHwgdmlkZW8udGl0bGU7CiAgICB2aWRlby5kZXNjcmlwdGlvbiA9IG5ld1Byb3BzLmRlc2NyaXB0aW9uIHx8IHZpZGVvLmRlc2NyaXB0aW9uOwogICAgdmlkZW8uaXNQdWJsaWMgICAgPSBuZXdQcm9wcy5pc1B1YmxpYyAhPT0gdW5kZWZpbmVkID8gISFuZXdQcm9wcy5pc1B1YmxpYyA6IHZpZGVvLmlzUHVibGljOwogICAgdmlkZW8ubm9fY21udHMgICAgPSBuZXdQcm9wcy5ub19jbW50cyAhPT0gdW5kZWZpbmVkICYmICEhbmV3UHJvcHMubm9fY21udHMgPyAnWCcgOiB1bmRlZmluZWQ7CiAgICB2aWRlby52aWV3Q291bnRlciA9IG5ld1Byb3BzLnZpZXdDb3VudGVyIHx8IHZpZGVvLnZpZXdDb3VudGVyOwogICAgdmlkZW8ubENvdW50ICAgICAgPSBuZXdQcm9wcy5sQ291bnQgfHwgdmlkZW8ubENvdW50OwogICAgdmlkZW8uZENvdW50ICAgICAgPSBuZXdQcm9wcy5kQ291bnQgfHwgdmlkZW8uZENvdW50OwogICAgYQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAic2VhcmNoaW5nIjogZmFsc2UsCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">fQogIH0g</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgJCgiI3NlYXIgaW5wdXQiKS51bmJpbmQoKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbnRpdHlUeXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGN1cnJVc2VyLnN1Z2dlc3Rpb25fd29yZHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
