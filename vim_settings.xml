@@ -88,11 +88,11 @@
         <mark key="." line="315" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/extra/dashboard_action.json" timestamp="1537819930605" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.ts" timestamp="1537853704655">
-        <mark key="[" line="192" column="48" />
-        <mark key="]" line="192" column="55" />
-        <mark key="." line="192" column="55" />
-        <mark key="^" line="192" column="55" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.ts" timestamp="1537856094730">
+        <mark key="[" line="194" column="90" />
+        <mark key="]" line="194" column="100" />
+        <mark key="^" line="194" column="100" />
+        <mark key="." line="194" column="100" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.component.html" timestamp="1535581450646">
         <mark key="[" line="3" column="42" />
@@ -100,13 +100,12 @@
         <mark key="^" line="3" column="73" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1537852449948">
-        <mark key="'" line="1299" column="0" />
-        <mark key="[" line="1305" column="0" />
-        <mark key="m" line="1346" column="31" />
-        <mark key="]" line="1305" column="0" />
-        <mark key="." line="1305" column="0" />
-        <mark key="^" line="1305" column="46" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1537855825855">
+        <mark key="'" line="1297" column="0" />
+        <mark key="[" line="1303" column="0" />
+        <mark key="m" line="1343" column="31" />
+        <mark key="]" line="1303" column="0" />
+        <mark key="." line="1303" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1534721501592">
         <mark key="[" line="717" column="0" />
@@ -394,7 +393,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>keydown</text>
+        <text>string</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -409,7 +408,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>keydown</text>
+        <text>string</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -436,30 +435,28 @@
         <text encoding="base64">XDxkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICQoImRpdi5kYXRhVGFibGVzX2ZpbHRlciBpbnB1dCIpLm9mZigna2V5ZG93bicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICQoImRpdi5kYXRhVGFibGVzX2ZpbHRlciBpbnB1dCIpLm9mZignaW5wdXQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICQoIiN2aWRlb3NfdGFibGUgaW5wdXQiKS51bmJpbmQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAic2VhcmNoRGVsYXkiOiAxMDM1MCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hEZWxheTogMTM1MCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdmFsdWU6ICJ0ZXN0IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAic2VhcmNoIjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVnZXg6IGZhbHNlCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-          smart: false
-        },</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coc2VhcmNoOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAic2VhcmNoaW5nIjogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGN1cnJVc2VyLnN1Z2dlc3Rpb25fd29yZHMpCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
@@ -468,10 +465,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJCgiI3NlYXIgaW5wdXQiKS51bmJpbmQoKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbnRpdHlUeXBlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGN1cnJVc2VyLnN1Z2dlc3Rpb25fd29yZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICQoJwo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
