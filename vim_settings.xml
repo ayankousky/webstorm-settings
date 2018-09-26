@@ -148,11 +148,11 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1537991701680">
-        <mark key="[" line="23" column="42" />
-        <mark key="]" line="23" column="46" />
-        <mark key="^" line="23" column="46" />
-        <mark key="." line="23" column="46" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1537993595825">
+        <mark key="[" line="24" column="42" />
+        <mark key="]" line="24" column="46" />
+        <mark key="^" line="24" column="46" />
+        <mark key="." line="24" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1535345915975">
         <mark key="[" line="715" column="77" />
@@ -452,22 +452,25 @@
       <register name="/" type="4">
         <text encoding="base64">XDxkXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>udp://54.183.128.51:5000</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyAgICAgICAgZ2VsZi1hZGRyZXNzOiB0Y3A6Ly81NC4xODMuMTI4LjUxOjUwMDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZWxmLWFkZHJlc3M6IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbG9nLW9wdDoK</text>
+        <text encoding="base64">ICAgICAgICBnZWxmLWFkZHJlc3M6IAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgbG9nLW9wdDoK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGxvZy1kcml2ZXI6IGdlbGYK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>&quot;
 &quot;
 &quot;
@@ -479,24 +482,20 @@
 &quot;
 &quot;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gL2V0Yy9ob3N0bmFtZTovZXRjL2hvc3RfaG9zdG5hbWU6cm8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzCg==</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gL2V0Yy9ob3N0bmFtZTovZXRjL2hvc3RfaG9zdG5hbWU6cm8K</text>
       </register>
-      <register name="9" type="4">
-        <text>:
-      - logging</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG5ldHdvcmtzCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
