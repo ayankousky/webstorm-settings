@@ -220,11 +220,11 @@
         <mark key="^" line="38" column="32" />
         <mark key="." line="38" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/test_logstash/docker-elk/docker-compose.yml" timestamp="1537949326811">
-        <mark key="[" line="61" column="20" />
-        <mark key="]" line="61" column="22" />
-        <mark key="^" line="61" column="22" />
-        <mark key="." line="61" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/test_logstash/docker-elk/docker-compose.yml" timestamp="1537956350316">
+        <mark key="[" line="61" column="26" />
+        <mark key="]" line="61" column="32" />
+        <mark key="^" line="61" column="32" />
+        <mark key="." line="61" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1537945972741">
         <mark key="[" line="0" column="0" />
@@ -408,8 +408,8 @@
       <jump line="860" column="35" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -424,7 +424,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>tls</text>
+        <text>localhost</text>
       </register>
       <register name="m" type="4">
         <keys>
