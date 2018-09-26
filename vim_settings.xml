@@ -220,7 +220,13 @@
         <mark key="^" line="38" column="32" />
         <mark key="." line="38" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537820298218">
+      <file name="$USER_HOME$/Documents/Projects/test_logstash/docker-elk/docker-compose.yml" timestamp="1537949326811">
+        <mark key="[" line="61" column="20" />
+        <mark key="]" line="61" column="22" />
+        <mark key="^" line="61" column="22" />
+        <mark key="." line="61" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1537945972741">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/test_logstash/docker-compose.yml" timestamp="1537945405767" />
@@ -398,8 +404,8 @@
       <jump line="860" column="35" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBlbnZpcm9ubWVudAo=</text>
+      <register name="&quot;" type="4">
+        <text>tls</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -414,7 +420,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>tls</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -444,38 +450,39 @@
         <text encoding="base64">ICAgICAgICAgICQoImRpdi5kYXRhVGFibGVzX2ZpbHRlciBpbnB1dCIpLm9mZignaW5wdXQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlbnZpcm9ubWVudAo=</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gL2V0Yy9ob3N0bmFtZTovZXRjL2hvc3RfaG9zdG5hbWU6cm8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>:
-    DEBUG: true</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG5ldHdvcmtzCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>:
+      - logging</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdmFsdWU6ICJ0ZXN0IikK</text>
+        <text encoding="base64">ICBlbnZpcm9ubWVudAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVnZXg6IGZhbHNlCg==</text>
+      <register name="6" type="4">
+        <text>:
+    DEBUG: true</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coc2VhcmNoOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGN1cnJVc2VyLnN1Z2dlc3Rpb25fd29yZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdmFsdWU6ICJ0ZXN0IikK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
