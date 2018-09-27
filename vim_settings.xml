@@ -45,6 +45,7 @@
         <mark key="." line="42" column="10" />
         <mark key="^" line="42" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Philip_CRM/project/CRMPhilipLow-devops/docker-compose.dev.yml" timestamp="1538047436057" />
       <file name="$USER_HOME$/Desktop/NET_Core/API/Dockerfile" timestamp="1536035666851">
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="29" />
@@ -62,11 +63,12 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Philip_CRM/project/CRMPhilipLow-devops/README.md" timestamp="1538047025507">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="^" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Philip_CRM/project/CRMPhilipLow-devops/README.md" timestamp="1538048163579">
+        <mark key="'" line="120" column="17" />
+        <mark key="[" line="117" column="22" />
+        <mark key="]" line="117" column="35" />
+        <mark key="^" line="117" column="35" />
+        <mark key="." line="117" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1534719765587">
         <mark key="[" line="29" column="36" />
@@ -197,6 +199,7 @@
         <mark key="." line="57" column="47" />
         <mark key="^" line="57" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Philip_CRM/project/CRMPhilipLow-devops/docker-compose.yml" timestamp="1538047605062" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1537996868271">
         <mark key="[" line="18" column="50" />
         <mark key="]" line="20" column="18" />
@@ -282,10 +285,6 @@
         <mark key="." line="72" column="22" />
         <mark key="^" line="72" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/index.js" timestamp="1537820002271">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="65" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/channels-table/channels-table.component.ts" timestamp="1535347233179">
         <mark key="[" line="130" column="21" />
         <mark key="]" line="130" column="26" />
@@ -317,7 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/event.js" />
       <jump line="21" column="25" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/queue/service/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/queue/service/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
@@ -417,10 +415,11 @@
       <jump line="1302" column="7" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="1290" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="860" column="35" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
+      <jump line="110" column="17" filename="$USER_HOME$/Documents/Projects/Philip_CRM/project/CRMPhilipLow-devops/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>app_api_gateway_</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -435,7 +434,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>app_api_gateway_</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -462,7 +461,7 @@
         <text encoding="base64">XDxkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgLSBVcGRhdGUgYWxsIHNlcnZpY2VzIGluIG9uZSBjb21tYW5kOiBgc3NoIC1pIGNybV9kZXYgY3JtQDM1LjE3Ny4xNjEuOTYgJ2NkIGFwcC8gJiYgZG9ja2VyLWNvbXBvc2UgLWYgZG9ja2VyLWNvbXBvc2UueW1sIC1mIGRvY2tlci1jb21wb3NlLmRldi55bWwgdXAgLWQgLS1uby1kZXBzIC0tYnVpbGQnYAo=</text>
+        <text encoding="base64">LSBmaWx0ZXIgZm9yIGFwaSBnYXRld2F5OiBfaW1hZ2VfbmFtZTogYXBwX2FwaV9nYXRld2F5Xwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
