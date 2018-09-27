@@ -121,13 +121,13 @@
         <mark key="^" line="3" column="73" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1538067013671">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1538068715229">
         <mark key="'" line="1317" column="35" />
-        <mark key="[" line="1757" column="0" />
+        <mark key="[" line="1341" column="89" />
         <mark key="m" line="1344" column="31" />
-        <mark key="]" line="1758" column="27" />
-        <mark key="." line="1758" column="27" />
-        <mark key="^" line="1758" column="27" />
+        <mark key="]" line="1342" column="56" />
+        <mark key="." line="1342" column="56" />
+        <mark key="^" line="1342" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1534721501592">
         <mark key="[" line="717" column="0" />
@@ -276,12 +276,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/test_logstash/docker-compose.yml" timestamp="1537975224700" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1538067099851">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1538068643853">
         <mark key="'" line="752" column="14" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="104" column="46" />
-        <mark key="^" line="104" column="57" />
+        <mark key="[" line="1581" column="59" />
+        <mark key="]" line="1581" column="69" />
+        <mark key="." line="1581" column="69" />
+        <mark key="^" line="1581" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/channel_unbanned.pug" timestamp="1534719138021">
         <mark key="[" line="34" column="87" />
@@ -451,7 +451,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text encoding="base64">IHB1YmxpY1NlYWNyaA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -466,7 +466,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IHB1YmxpY1NlYWNyaA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -493,40 +493,40 @@
         <text encoding="base64">XDxkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaGlzdG9yeS52aWRlb0lkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgRVNzZXJ2aWNlID0gcmVxdWlyZSgnLi4vLi4vc2VydmljZXMnKS5FU3NlcnZpY2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaGlzdG9yeS52aWRlb0lkcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coXy51bmlxKGhpc3RvcnkudmlkZW9JZHMpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAsIHMzICAgICAgICAgICAgID0gbmV3IEFXUy5TMyh7dXNlQWNjZWxlcmF0ZUVuZHBvaW50OiB0cnVlfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAsIEFwcEVycm9ycyAgICAgID0gcmVxdWlyZSgnLi4vZXJyb3JzL2luZGV4LmpzJykK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaGlzdG9yeS52aWRlb0lkcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAsIEF1dGhTZXJ2aWNlICAgID0gcmVxdWlyZSgnLi4vc2VydmljZXMvYXV0aC9pbmRleC5qcycpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coXy51bmlxKGhpc3RvcnkudmlkZW9JZHMpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAsIFN0YXR1c0NvZGVzICAgID0gcmVxdWlyZSgnLi4vZXJyb3JzL2FwaVN0YXR1c0NvZGVzLmpzJykK</text>
+        <text encoding="base64">ICAsIHMzICAgICAgICAgICAgID0gbmV3IEFXUy5TMyh7dXNlQWNjZWxlcmF0ZUVuZHBvaW50OiB0cnVlfSkK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAsIGNvbW1vbkhlbHBlciAgID0gcmVxdWlyZSgnLi4vaGVscGVycy9jb21tb24uanMnKQo=</text>
+        <text encoding="base64">ICAsIEFwcEVycm9ycyAgICAgID0gcmVxdWlyZSgnLi4vZXJyb3JzL2luZGV4LmpzJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAsIGF3c0hlbHBlciAgICAgID0gcmVxdWlyZSgnLi4vaGVscGVycycpLmF3cwo=</text>
+        <text encoding="base64">ICAsIEF1dGhTZXJ2aWNlICAgID0gcmVxdWlyZSgnLi4vc2VydmljZXMvYXV0aC9pbmRleC5qcycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAsIFRyYW5zbGF0b3IgICAgID0gcmVxdWlyZSgnLi4vc2VydmljZXMvdHJhbnNsYXRvcicpCg==</text>
+        <text encoding="base64">ICAsIFN0YXR1c0NvZGVzICAgID0gcmVxdWlyZSgnLi4vZXJyb3JzL2FwaVN0YXR1c0NvZGVzLmpzJykK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
