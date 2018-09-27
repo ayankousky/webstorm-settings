@@ -62,6 +62,12 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Philip_CRM/project/CRMPhilipLow-devops/README.md" timestamp="1538047025507">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1534719765587">
         <mark key="[" line="29" column="36" />
         <mark key="]" line="29" column="37" />
@@ -413,10 +419,8 @@
       <jump line="860" column="35" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>gelf-address: tcp://54.183.128.51:5000
-gelf-address: tcp://54.183.128.51:5000
-gelf-address: tcp://54.183.128.51:5000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -431,7 +435,7 @@ gelf-address: tcp://54.183.128.51:5000</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHdlYnNlcnZpY2U=</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -458,42 +462,42 @@ gelf-address: tcp://54.183.128.51:5000</text>
         <text encoding="base64">XDxkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAgICAgICAgZ2VsZi1hZGRyZXNzOiB0Y3A6Ly81NC4xODMuMTI4LjUxOjUwMDAK</text>
+        <text encoding="base64">ICAgLSBVcGRhdGUgYWxsIHNlcnZpY2VzIGluIG9uZSBjb21tYW5kOiBgc3NoIC1pIGNybV9kZXYgY3JtQDM1LjE3Ny4xNjEuOTYgJ2NkIGFwcC8gJiYgZG9ja2VyLWNvbXBvc2UgLWYgZG9ja2VyLWNvbXBvc2UueW1sIC1mIGRvY2tlci1jb21wb3NlLmRldi55bWwgdXAgLWQgLS1uby1kZXBzIC0tYnVpbGQnYAo=</text>
       </register>
-      <register name="1" type="8">
-        <text>gelf-address: tcp://54.183.128.51:5000
-gelf-address: tcp://54.183.128.51:5000
-gelf-address: tcp://54.183.128.51:5000</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyAgICAgICAgZ2VsZi1hZGRyZXNzOiB1ZHA6Ly81NC4xODMuMTI4LjUxOjUwMDAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiMjIENvbmZpZyBleHBsYW5hdGlvbgpfRXhwbGFpbiBkb2NrZXItY29tcG9zZSBmaWxlcy4gRG9ja2VyIGZpbGVzIHNob3VsZCBiZSBkZXNjcmliZWQgaW4gUkVBRE1FLm1kIGZvciBlYWNoIHNlcnZpY2VfCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICAgICAgZ2VsZi1hZGRyZXNzOiB1ZHA6Ly81NC4xODMuMTI4LjUxOjUwMDAK</text>
+        <text encoding="base64">LSBwcm92aWRlIGxvZ3MgdG8gcmVkaXJlY3QgbG9ncyB0byBkZXZlbG9wZXJzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAgICAgZ2VsZi1hZGRyZXNzOiB0Y3A6Ly81NC4xODMuMTI4LjUxOjEyMjAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICAgICAgZ2VsZi1hZGRyZXNzOiB1ZHA6Ly81NC4xODMuMTI4LjUxOjUwMDAK</text>
+        <text encoding="base64">Mi4gRGVsZXRlIG9sZCBiaW5hcmllcyBvZiBzZXJ2aWNlIHlvdSB3YW5uYSB0byB1cGRhdGUgZnJvbSBjb3JyZXNwb25kaW5nIGJpbi8gZm9sZGVyCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgIGxvZy1vcHRzOgo=</text>
+        <text encoding="base64">ICAgLSBVcGRhdGUgYWxsIHNlcnZpY2VzOiBgc3NoIC1pIGNybV9kZXYgY3JtQDM1LjE3Ny4xNjEuOTYgJ2NkIGFwcC8gJiYgZG9ja2VyLWNvbXBvc2UgLWYgZG9ja2VyLWNvbXBvc2UueW1sIC1mIGRvY2tlci1jb21wb3NlLmRldi55bWwgcmVzdGFydCB3ZWInYAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyAgICBsb2ctZHJpdmVyOiBnZWxmCg==</text>
+      <register name="8" type="8">
+        <text>gelf-address: tcp://54.183.128.51:5000
+gelf-address: tcp://54.183.128.51:5000
+gelf-address: tcp://54.183.128.51:5000</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyAgICAgICAgZ2VsZi1hZGRyZXNzOiB1ZHA6Ly81NC4xODMuMTI4LjUxOjUwMDAK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
