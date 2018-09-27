@@ -52,11 +52,12 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user_history.js" timestamp="1538065104962">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="68" column="10" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user_history.js" timestamp="1538067247528">
+        <mark key="'" line="64" column="26" />
+        <mark key="[" line="67" column="78" />
+        <mark key="]" line="67" column="116" />
+        <mark key="." line="67" column="116" />
+        <mark key="^" line="67" column="116" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/index.js" timestamp="1536211689875">
         <mark key="[" line="0" column="13" />
@@ -100,7 +101,7 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1538064616932">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1538065885841">
         <mark key="'" line="848" column="35" />
         <mark key="[" line="315" column="8" />
         <mark key="]" line="315" column="7" />
@@ -120,13 +121,13 @@
         <mark key="^" line="3" column="73" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1538064743770">
-        <mark key="'" line="2217" column="0" />
-        <mark key="[" line="1746" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1538067013671">
+        <mark key="'" line="1317" column="35" />
+        <mark key="[" line="1757" column="0" />
         <mark key="m" line="1344" column="31" />
-        <mark key="]" line="1747" column="25" />
-        <mark key="." line="1747" column="25" />
-        <mark key="^" line="1747" column="25" />
+        <mark key="]" line="1758" column="27" />
+        <mark key="." line="1758" column="27" />
+        <mark key="^" line="1758" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1534721501592">
         <mark key="[" line="717" column="0" />
@@ -214,12 +215,12 @@
         <mark key="^" line="46" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Philip_CRM/project/CRMPhilipLow-devops/docker-compose.yml" timestamp="1538047605062" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/videoPlayVideo.json" timestamp="1538065230880">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/videoPlayVideo.json" timestamp="1538066539969">
         <mark key="'" line="33" column="20" />
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="9" column="5" />
-        <mark key="." line="9" column="5" />
-        <mark key="^" line="9" column="5" />
+        <mark key="[" line="34" column="16" />
+        <mark key="]" line="34" column="19" />
+        <mark key="." line="34" column="19" />
+        <mark key="^" line="34" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1537996868271">
         <mark key="[" line="18" column="50" />
@@ -271,14 +272,14 @@
         <mark key="^" line="61" column="32" />
         <mark key="." line="61" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538064785433">
+      <file name="/Dummy.txt" timestamp="1538067214180">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/test_logstash/docker-compose.yml" timestamp="1537975224700" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1538061277805">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1538067099851">
         <mark key="'" line="752" column="14" />
-        <mark key="[" line="745" column="0" />
-        <mark key="]" line="745" column="150" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="25" />
         <mark key="." line="104" column="46" />
         <mark key="^" line="104" column="57" />
       </file>
@@ -347,8 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1337" column="44" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues.js" />
-      <jump line="1442" column="32" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues.js" />
       <jump line="39" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues.js" />
       <jump line="76" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/videoUpdates.js" />
       <jump line="17" column="11" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
@@ -447,10 +446,12 @@
       <jump line="2214" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="80" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/view_history.js" />
       <jump line="33" column="20" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/videoPlayVideo.json" />
+      <jump line="1317" column="35" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
+      <jump line="64" column="26" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user_history.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>A</text>
+        <text>:</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -465,7 +466,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>:</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -492,40 +493,40 @@
         <text encoding="base64">XDxkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaGlzdG9yeS52aWRlb0lkcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygzKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaGlzdG9yeS52aWRlb0lkcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygyKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coXy51bmlxKGhpc3RvcnkudmlkZW9JZHMpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxKQo=</text>
+        <text encoding="base64">ICAsIHMzICAgICAgICAgICAgID0gbmV3IEFXUy5TMyh7dXNlQWNjZWxlcmF0ZUVuZHBvaW50OiB0cnVlfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaGlzdG9yeSkK</text>
+        <text encoding="base64">ICAsIEFwcEVycm9ycyAgICAgID0gcmVxdWlyZSgnLi4vZXJyb3JzL2luZGV4LmpzJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhoaXN0b3J5KQo=</text>
+        <text encoding="base64">ICAsIEF1dGhTZXJ2aWNlICAgID0gcmVxdWlyZSgnLi4vc2VydmljZXMvYXV0aC9pbmRleC5qcycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsKICAgICAgICBjb25zb2xlLmxvZyhoaXN0b3J5KQo=</text>
+        <text encoding="base64">ICAsIFN0YXR1c0NvZGVzICAgID0gcmVxdWlyZSgnLi4vZXJyb3JzL2FwaVN0YXR1c0NvZGVzLmpzJykK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMjIpCg==</text>
+        <text encoding="base64">ICAsIGNvbW1vbkhlbHBlciAgID0gcmVxdWlyZSgnLi4vaGVscGVycy9jb21tb24uanMnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTEpCg==</text>
+        <text encoding="base64">ICAsIGF3c0hlbHBlciAgICAgID0gcmVxdWlyZSgnLi4vaGVscGVycycpLmF3cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlcklkKQo=</text>
+        <text encoding="base64">ICAsIFRyYW5zbGF0b3IgICAgID0gcmVxdWlyZSgnLi4vc2VydmljZXMvdHJhbnNsYXRvcicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
