@@ -180,6 +180,12 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/view_history.js" timestamp="1538049682727">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="27" column="17" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/video/entities/video.ts" timestamp="1534729073472">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -193,11 +199,11 @@
         <mark key="." line="576" column="11" />
         <mark key="^" line="576" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" timestamp="1537740609978">
-        <mark key="[" line="57" column="49" />
-        <mark key="]" line="57" column="47" />
-        <mark key="." line="57" column="47" />
-        <mark key="^" line="57" column="47" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" timestamp="1538049533099">
+        <mark key="[" line="46" column="4" />
+        <mark key="]" line="46" column="14" />
+        <mark key="." line="46" column="14" />
+        <mark key="^" line="46" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Philip_CRM/project/CRMPhilipLow-devops/docker-compose.yml" timestamp="1538047605062" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1537996868271">
@@ -244,17 +250,10 @@
         <mark key="^" line="61" column="32" />
         <mark key="." line="61" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537995944549">
+      <file name="/Dummy.txt" timestamp="1538049665317">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/test_logstash/docker-compose.yml" timestamp="1537975224700" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1537820253410">
-        <mark key="'" line="752" column="14" />
-        <mark key="[" line="745" column="0" />
-        <mark key="]" line="745" column="150" />
-        <mark key="." line="104" column="46" />
-        <mark key="^" line="104" column="57" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/channel_unbanned.pug" timestamp="1534719138021">
         <mark key="[" line="34" column="87" />
         <mark key="]" line="34" column="87" />
@@ -302,6 +301,10 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment.js" timestamp="1538049676494">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/fvpBackup.js" timestamp="1537250584790">
         <mark key="[" line="30" column="20" />
         <mark key="]" line="30" column="36" />
@@ -316,7 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="25" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/queue/service/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/queue/service/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
       <jump line="1429" column="42" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video.js" />
@@ -416,10 +418,11 @@
       <jump line="1290" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="860" column="35" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="110" column="17" filename="$USER_HOME$/Documents/Projects/Philip_CRM/project/CRMPhilipLow-devops/README.md" />
+      <jump line="1402" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/view_history.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>app_api_gateway_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -434,7 +437,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>app_api_gateway_</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -461,42 +464,51 @@
         <text encoding="base64">XDxkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSBmaWx0ZXIgZm9yIGFwaSBnYXRld2F5OiBfaW1hZ2VfbmFtZTogYXBwX2FwaV9nYXRld2F5Xwo=</text>
+        <text encoding="base64">ICAgICAgcmFuZ2VLZXk6IHRydWUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiMjIENvbmZpZyBleHBsYW5hdGlvbgpfRXhwbGFpbiBkb2NrZXItY29tcG9zZSBmaWxlcy4gRG9ja2VyIGZpbGVzIHNob3VsZCBiZSBkZXNjcmliZWQgaW4gUkVBRE1FLm1kIGZvciBlYWNoIHNlcnZpY2VfCg==</text>
+        <text>index: {
+        global: false,
+        name: 'date-local',
+        project: true
+      }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBwcm92aWRlIGxvZ3MgdG8gcmVkaXJlY3QgbG9ncyB0byBkZXZlbG9wZXJzCg==</text>
+        <text encoding="base64">ICAgICAgcmFuZ2VLZXk6IHRydWUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaW5kZXg6IAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>{
+        global: true,
+        name: 'id-global',
+        project: true,
+        throughput: 1
+      }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Mi4gRGVsZXRlIG9sZCBiaW5hcmllcyBvZiBzZXJ2aWNlIHlvdSB3YW5uYSB0byB1cGRhdGUgZnJvbSBjb3JyZXNwb25kaW5nIGJpbi8gZm9sZGVyCg==</text>
+        <text encoding="base64">ICAsIENoYW5uZWwgICAgICAgID0gZHluYW1vb3NlLm1vZGVsKGNvbmZpZy5EREIudGFibGVzLmNoYW5uZWxzLm5hbWUpCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgLSBVcGRhdGUgYWxsIHNlcnZpY2VzOiBgc3NoIC1pIGNybV9kZXYgY3JtQDM1LjE3Ny4xNjEuOTYgJ2NkIGFwcC8gJiYgZG9ja2VyLWNvbXBvc2UgLWYgZG9ja2VyLWNvbXBvc2UueW1sIC1mIGRvY2tlci1jb21wb3NlLmRldi55bWwgcmVzdGFydCB3ZWInYAo=</text>
+        <text encoding="base64">ICAgIGlzU2hhCg==</text>
       </register>
-      <register name="8" type="8">
-        <text>gelf-address: tcp://54.183.128.51:5000
-gelf-address: tcp://54.183.128.51:5000
-gelf-address: tcp://54.183.128.51:5000</text>
+      <register name="8" type="4">
+        <text>red: {
+      type: Boolean
+    },</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgICAgZ2VsZi1hZGRyZXNzOiB1ZHA6Ly81NC4xODMuMTI4LjUxOjUwMDAK</text>
+        <text encoding="base64">ICAgIGxvY2FsUAo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
