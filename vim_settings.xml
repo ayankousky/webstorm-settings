@@ -114,9 +114,9 @@
         <mark key="^" line="3" column="73" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1537855825855">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1538060417924">
         <mark key="'" line="1297" column="0" />
-        <mark key="[" line="1303" column="0" />
+        <mark key="[" line="1708" column="3" />
         <mark key="m" line="1343" column="31" />
         <mark key="]" line="1303" column="0" />
         <mark key="." line="1303" column="0" />
@@ -180,11 +180,11 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/view_history.js" timestamp="1538049682727">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="27" column="17" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/view_history.js" timestamp="1538061532365">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="79" column="17" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/video/entities/video.ts" timestamp="1534729073472">
         <mark key="[" line="22" column="0" />
@@ -220,6 +220,12 @@
         <mark key="." line="107" column="48" />
         <mark key="^" line="107" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/index.js" timestamp="1538060449356">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+        <mark key="^" line="13" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/video/video-detail/video-detail.component.ts" timestamp="1534728720172">
         <mark key="[" line="73" column="20" />
         <mark key="]" line="73" column="27" />
@@ -254,6 +260,13 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/test_logstash/docker-compose.yml" timestamp="1537975224700" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1538061277805">
+        <mark key="'" line="752" column="14" />
+        <mark key="[" line="745" column="0" />
+        <mark key="]" line="745" column="150" />
+        <mark key="." line="104" column="46" />
+        <mark key="^" line="104" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/channel_unbanned.pug" timestamp="1534719138021">
         <mark key="[" line="34" column="87" />
         <mark key="]" line="34" column="87" />
@@ -422,7 +435,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -437,7 +450,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>video</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -464,51 +477,56 @@
         <text encoding="base64">XDxkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmFuZ2VLZXk6IHRydWUsCg==</text>
+        <text encoding="base64">cmVxdWlyZSgnLi9iYXNlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgbGV0IGhpc3RvcnkgPSBhd2FpdCAoVmlld0hpc3RvcnkuKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ZiAoIXRoaXMuaXNVcGxvYWRlZCl7CiAgICAgICAgcmV0dXJuIHVuZGVmaW5lZDsKICAgICAgfQoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgbGV0IHBpY3R1cmVTM2tleSA9IHRoaXMuZ2V0UHJldmlld1MzS2V5KCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgc3cK</text>
+      </register>
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="4">
+        <text>itch (type){
+        case 'base64':
+          let s3 = require('../../services/aws').s3;
+          let picture = await (s3.getObject({
+            Bucket: config.BUCKET,
+            Key: pictureS3key
+          }).promise());
+          return picture.Body.toString('base64');
+        case 'private_link':
+          return helpers.aws.s3.getSignedUrl(pictureS3key, {expire: Math.floor(new Date().getTime()/1000) + 86400 * 7 - 3600}); // 1 week is a maximum
+        default:
+          throw new Error('Type is not specified for video picture');
+      }</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="9" type="4">
         <text>index: {
         global: false,
         name: 'date-local',
         project: true
       }</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmFuZ2VLZXk6IHRydWUsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaW5kZXg6IAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>{
-        global: true,
-        name: 'id-global',
-        project: true,
-        throughput: 1
-      }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAsIENoYW5uZWwgICAgICAgID0gZHluYW1vb3NlLm1vZGVsKGNvbmZpZy5EREIudGFibGVzLmNoYW5uZWxzLm5hbWUpCg==</text>
-      </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlzU2hhCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>red: {
-      type: Boolean
-    },</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvY2FsUAo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
