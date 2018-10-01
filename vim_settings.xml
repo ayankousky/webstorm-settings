@@ -8,6 +8,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/unzipper/lib/parse.js" timestamp="1538429220636">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/create.json" timestamp="1537250668158">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="8" column="15" />
@@ -152,10 +157,11 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1538427419618">
-        <mark key="[" line="438" column="0" />
-        <mark key="]" line="438" column="0" />
-        <mark key="." line="438" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1538428595293">
+        <mark key="[" line="453" column="0" />
+        <mark key="]" line="453" column="0" />
+        <mark key="." line="453" column="0" />
+        <mark key="^" line="426" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/videos-table/videos-table.component.html" timestamp="1538350388378">
         <mark key="[" line="93" column="66" />
@@ -456,7 +462,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC5vbignZXJyb3InLCBlcnIgPT4gY29uc29sZS5sb2coZXJyKSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2YXJzLnVuY29tcHJlc3NlZFNpemUpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -471,7 +477,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>123123</text>
+        <text encoding="base64">dmFycy5jb21wcmVzc2lvbk1ldGhvZCA/IHpsaWIuY3JlYXRlSW5mbGF0ZVJhdygpIDog</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -498,43 +504,40 @@
         <text encoding="base64">XDxkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ09uIHJldHJpZXZpbmcgSlNPTiBlcnJvcjonKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgaW5mbGF0ZXIgPSB2YXJzLmNvbXByZXNzaW9uTWV0aG9kID8gemxpYi5jcmVhdGVJbmZsYXRlUmF3KCkgOiBTdHJlYW0uUGFzc1Rocm91Z2goKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5vbignZXJyb3InLCBlcnIgPT4gY29uc29sZS5sb2coZXJyKSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2YXJzLnVuY29tcHJlc3NlZFNpemUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ09uIHJldHJpZXZpbmcgSlNPTiBycm9yOicpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlU2l6ZUtub3duKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>error:')
-      console.log('On retrieving JSON error:')
-      console.log('On retrieving JSON error:')
-      console.log('On retrieving JSON e</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlTmFtZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh6aXBFbnRyeS5zaXplKTsgLy8gJ0RpcmVjdG9yeScgb3IgJ0ZpbGUnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2tla2RkJykK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHZhciBmaWxlTmFtZSA9IGVudHJ5LnBhdGg7CiAgICAgICAgdmFyIHR5cGUgPSBlbnRyeS50eXBlOyAvLyAnRGlyZWN0b3J5JyBvciAnRmlsZScKICAgICAgICB2YXIgc2l6ZSA9IGVudHJ5LnNpemU7CiAgICAgICAgaWYgKGZpbGVOYW1lID09PSAidGhpcyBJUyB0aGUgZmlsZSBJJ20gbG9va2luZyBmb3IiKSB7CiAgICAgICAgICBlbnRyeS5waXBlKGZzLmNyZWF0ZVdyaXRlU3RyZWFtKCdvdXRwdXQvcGF0aCcpKQogICAgICAgICAgICAub24oJ2ZpbmlzaCcsY2IpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBlbnRyeS5hdXRvZHJhaW4oKTsKICAgICAgICAgIGNiKCk7CiAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLy8gbGV0IHJlYWRGaWxlUGF0aCA9ICcvVXNlcnMvYWxleC9EZXNrdG9wLzI0ME1iLnppcCcK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc2l6ZSA9IGVudHJ5LnNpemU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAvLyB9KQo=</text>
+        <text encoding="base64">ICAgIC5vbignZXJyb3InLCBlcnIgPT4gY29uc29sZS5sb2coZXJyKSkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAvLyBsZXQgcmVzdWx0ID0gYXdhaXQgczMudXBsb2FkKHsKICAgICAgLy8gICBCdWNrZXQ6IGNvbmZpZy5CVUNLRVQsCiAgICAgIC8vICAgS2V5OiBzM0VuZFBhdGggKyBmaWxlTmFtZUFycltmaWxlTmFtZUFyci5sZW5ndGggLSAxXSwKICAgICAgLy8gICBCb2R5OiB6aXBFbnRyeQogICAgICAvLyB9Ly8pLnByb21pc2UoKQogICAgICAvLyAgICwgZnVuY3Rpb24oZXJyLCByZXMpewogICAgICAvLyAgICAgY29uc29sZS5sb2coZXJyKQogICAgICAvLyAgICAgY29uc29sZS5sb2cocmVzKQogICAgICAvLyAgICAgemlwRW50cnkuYXV0b2RyYWluKCk7CiAgICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ09uIHJldHJpZXZpbmcgSlNPTiBycm9yOicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
