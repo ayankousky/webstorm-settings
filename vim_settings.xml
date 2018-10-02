@@ -8,7 +8,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/unzipper/lib/parse.js" timestamp="1538461378531">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/unzipper/lib/parse.js" timestamp="1538462587056">
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
@@ -132,11 +132,10 @@
         <mark key="^" line="78" column="5" />
         <mark key="." line="78" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/unzipper/lib/PullStream.js" timestamp="1538461528302">
-        <mark key="[" line="50" column="22" />
-        <mark key="]" line="50" column="24" />
-        <mark key="." line="50" column="24" />
-        <mark key="^" line="50" column="24" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/unzipper/lib/PullStream.js" timestamp="1538462965867">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1538350908246">
         <mark key="'" line="1337" column="32" />
@@ -468,8 +467,8 @@
       <jump line="392" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>match</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNlbGYuYnVmZmVyLmxlbmd0aCkK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -484,7 +483,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>match</text>
+        <text>0</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -511,10 +510,10 @@
         <text encoding="base64">XDxkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbWF0Y2ggPSBzZWxmLmJ1ZmZlci5pbmRleE9mKGVvZik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChpbmNsdWRlRW9mKSBtYXRjaCA9IG1hdGNoICsgZW9mLmxlbmd0aDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hdGNoID0gc2VsZi5idWZmZXIuaW5kZXhPZihlb2YpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNlbGYuYnVmZmVyLmxlbmd0aCkK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -523,28 +522,28 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG1hdGNoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG1hdGNoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIG1hdGNoID0gNjU1Mzk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlb2YpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIG1hdGNoID0gbWF0Y2ggKyBlb2YubGVuZ3RoOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNlbGYuYnVmZmVyLnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHBhY2tldC50b1N0cmluZygpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hdGNoKz01MDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1hdGNoID0gc2VsZi5idWZmZXIuaW5kZXhPZihlb2YpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGNvbnNvbGUubG9nKHBhY2tldC50b1N0cmluZygpKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG1hdGNoKQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIG1hdGNoID0gc2VsZi5idWZmZXIuaW5kZXhPZihlb2YpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVvZi5sZW5ndGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG1hdGNoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
