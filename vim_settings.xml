@@ -230,6 +230,13 @@
         <mark key="^" line="56" column="39" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/zip_tests/index.js" timestamp="1538520333809">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="68" column="6" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/riseio/tour-cms/server/controllers/api.js" timestamp="1538519352205" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/channel.js" timestamp="1534589699955">
         <mark key="[" line="576" column="4" />
         <mark key="]" line="576" column="11" />
@@ -354,10 +361,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment.js" timestamp="1538049676494">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="21" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/fvpBackup.js" timestamp="1537250584790">
         <mark key="[" line="30" column="20" />
         <mark key="]" line="30" column="36" />
@@ -474,8 +477,8 @@
       <jump line="156" column="37" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/unzipper/lib/parse.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'output/path'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -490,7 +493,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'output/path'</text>
+        <text>rrs</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -517,40 +520,40 @@
         <text encoding="base64">XDxkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChpbmNsdWRlRW9mKSBtYXRjaCA9IG1hdGNoICsgZW9mLmxlbmd0aDsK</text>
+        <text encoding="base64">ICAgIC8vIHJlc3VsdHNbMF0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHBhY2tldC50b1N0cmluZygndXRmOCcpKQo=</text>
+        <text encoding="base64">ICAgIC8vIHdyYXBTcGF3bihleHRyYWN0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBsZXQgcmVhZEZpbGVQYXRoID0gJy9Vc2Vycy9hbGV4L0Rlc2t0b3AvbXA0LmZ2cCcK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNlbGYuYnVmZmVyLmxlbmd0aCkK</text>
+        <text encoding="base64">ICAgICAgLy8gcmVzdWx0c1swXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG1hdGNoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hdGNoID0gNjU1Mzk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIG1hdGNoID0gbWF0Y2ggKyBlb2YubGVuZ3RoOwo=</text>
+        <text encoding="base64">ICAvLyBleHRyYWN0LnN0ZG91dC5waXBlKHdzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHBhY2tldC50b1N0cmluZygpKQo=</text>
+        <text encoding="base64">ICAvLyB3cmFwU3Bhd24od3MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hdGNoID0gc2VsZi5idWZmZXIuaW5kZXhPZihlb2YpOwo=</text>
+        <text encoding="base64">ICBsZXQgd3MgPSBmcy5jcmVhdGVXcml0ZVN0cmVhbSgnL1VzZXJzL2FsZXgvRGVza3RvcC91bnppcHBlZC9rZWsnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
