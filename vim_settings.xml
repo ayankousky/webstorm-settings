@@ -8,10 +8,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/unzipper/lib/parse.js" timestamp="1538433672742">
-        <mark key="[" line="153" column="24" />
-        <mark key="]" line="153" column="22" />
-        <mark key="." line="153" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/unzipper/lib/parse.js" timestamp="1538436067397">
+        <mark key="[" line="143" column="66" />
+        <mark key="]" line="143" column="66" />
+        <mark key="." line="143" column="66" />
         <mark key="^" line="153" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/create.json" timestamp="1537250668158">
@@ -132,7 +132,7 @@
         <mark key="^" line="78" column="5" />
         <mark key="." line="78" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/unzipper/lib/PullStream.js" timestamp="1538434927968">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/unzipper/lib/PullStream.js" timestamp="1538435141357">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
@@ -163,7 +163,7 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1538435013791">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1538435082006">
         <mark key="[" line="427" column="42" />
         <mark key="]" line="427" column="81" />
         <mark key="." line="427" column="81" />
@@ -467,8 +467,8 @@
       <jump line="392" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNlbGYuYnVmZmVyLnRvU3RyaW5nKCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>w</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -483,7 +483,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>match</text>
+        <text>w</text>
       </register>
       <register name="m" type="4">
         <keys>
