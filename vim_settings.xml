@@ -164,12 +164,12 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1538526238256">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1538547904862">
         <mark key="'" line="496" column="6" />
-        <mark key="[" line="527" column="4" />
-        <mark key="]" line="527" column="7" />
-        <mark key="." line="527" column="7" />
-        <mark key="^" line="527" column="7" />
+        <mark key="[" line="506" column="0" />
+        <mark key="]" line="507" column="10" />
+        <mark key="." line="507" column="10" />
+        <mark key="^" line="507" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/norm_dev_tests.js" timestamp="1538464943924">
         <mark key="[" line="427" column="42" />
@@ -479,7 +479,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rs2</text>
+        <text encoding="base64">CiAgLy8gbGV0IGNvcGllcyA9IFtdOwogIC8vIGZvciAobGV0IGkgPSAwOyBpPDI7IGkrKyl7CiAgICBsZXQgZm9yayA9IG5ldyBzdHJlYW0uUGFzc1Rocm91Z2goKTsKICAgIHJzMi5waXBlKGZvcmspCiAgICAvLyBjb3BpZXMucHVzaChmb3JrKQogIC8vIH0=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -523,8 +523,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvcGllc1tpXS5waXBlKGV4dHJhY3Quc3RkaW4pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3Aua2lsbCgpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgLy8gbGV0IGNvcGllcyA9IFtdOwogIC8vIGZvciAobGV0IGkgPSAwOyBpPDI7IGkrKyl7CiAgICBsZXQgZm9yayA9IG5ldyBzdHJlYW0uUGFzc1Rocm91Z2goKTsKICAgIHJzMi5waXBlKGZvcmspCiAgICAvLyBjb3BpZXMucHVzaChmb3JrKQogIC8vIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -533,29 +533,29 @@
         <text encoding="base64">ICAgICAgc3Aua2lsbCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGNvcGllc1tpXSkK</text>
+        <text encoding="base64">ICAgICAgc3Aua2lsbCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGkpCg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGNvcGllc1tpXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGkpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>let fork = new stream.PassThrough();
-    rs2.pipe(fork)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>let fork = new stream.PassThrough();
+    rs2.pipe(fork)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YXIgcGFzc1Rocm91Z2ggPSBuZXcgc3RyZWFtLlBhc3NUaHJvdWdoKCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5waXBlKCkK</text>
+        <text encoding="base64">ICB2YXIgcGFzc1Rocm91Z2ggPSBuZXcgc3RyZWFtLlBhc3NUaHJvdWdoKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
