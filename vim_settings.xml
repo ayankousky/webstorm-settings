@@ -39,11 +39,11 @@
         <mark key="^" line="358" column="21" />
         <mark key="." line="357" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/s3.js" timestamp="1538696145540">
-        <mark key="[" line="381" column="0" />
-        <mark key="]" line="381" column="0" />
-        <mark key="." line="381" column="0" />
-        <mark key="^" line="357" column="60" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/aws/s3.js" timestamp="1538696949298">
+        <mark key="[" line="360" column="95" />
+        <mark key="]" line="360" column="95" />
+        <mark key="." line="360" column="95" />
+        <mark key="^" line="360" column="95" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1537732906041">
         <mark key="[" line="637" column="0" />
@@ -303,15 +303,15 @@
         <mark key="^" line="61" column="32" />
         <mark key="." line="61" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538695971884">
+      <file name="/Dummy.txt" timestamp="1538696590560">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1538696114110">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1538696805589">
         <mark key="'" line="752" column="14" />
-        <mark key="[" line="992" column="0" />
-        <mark key="]" line="992" column="0" />
-        <mark key="." line="992" column="0" />
-        <mark key="^" line="992" column="12" />
+        <mark key="[" line="993" column="8" />
+        <mark key="]" line="993" column="18" />
+        <mark key="." line="993" column="18" />
+        <mark key="^" line="993" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/channel_unbanned.pug" timestamp="1534719138021">
         <mark key="[" line="34" column="87" />
@@ -476,8 +476,8 @@
       <jump line="494" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhvYmopCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -492,7 +492,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>unzip</text>
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -519,7 +519,7 @@
         <text encoding="base64">XDx1cGxvYWRTdHJlYW1Ub1MzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgKHMzSGVscGVyLnVuemlwKGNvbmZpZy5CVUNLRVQsIHMza2V5LCB2aWRlby5zM2tleSArICd1bnppcHBlZC8nKSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnc3RhcnQgZGVmYXVsdCB1bnppcCcpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhvYmopCg==</text>
