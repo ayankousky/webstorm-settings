@@ -164,11 +164,11 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1538634584879">
-        <mark key="[" line="455" column="42" />
-        <mark key="]" line="455" column="48" />
-        <mark key="^" line="455" column="48" />
-        <mark key="." line="455" column="48" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1538635341204">
+        <mark key="[" line="454" column="78" />
+        <mark key="]" line="454" column="79" />
+        <mark key="^" line="454" column="79" />
+        <mark key="." line="454" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/norm_dev_tests.js" timestamp="1538464943924">
         <mark key="[" line="427" column="42" />
@@ -477,8 +477,8 @@
       <jump line="494" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>6668_good</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBsZXQgcmVhZEZpbGVQYXRoID0gJy9Vc2Vycy9hbGV4L0Rlc2t0b3AvMjZhMGFhZmEtMzk4Ny00YTFkLWI2MmQtYmI0NjkwODEyODYzLnppcCcK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -493,7 +493,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>6668_good</text>
+        <text>fileName</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -520,7 +520,7 @@
         <text encoding="base64">XDx1cGxvYWRTdHJlYW1Ub1MzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQgcmVhZEZpbGVQYXRoID0gJy9Vc2Vycy9hbGV4L0Rlc2t0b3AvNjY2OF9nb29kLnppcCcK</text>
+        <text encoding="base64">ICBsZXQgcmVhZEZpbGVQYXRoID0gJy9Vc2Vycy9hbGV4L0Rlc2t0b3AvMjZhMGFhZmEtMzk4Ny00YTFkLWI2MmQtYmI0NjkwODEyODYzLnppcCcK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvLyBsZXQgcmVhZEZpbGVQYXRoID0gJy9Vc2Vycy95ZWxsb3cvRGVza3RvcC9iZWFjaCBva18yMDE2LTA1LTIxIDA0LjMzLjM2LmZ2cCcK</text>
