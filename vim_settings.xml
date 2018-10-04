@@ -158,11 +158,11 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1538685017150">
-        <mark key="[" line="495" column="33" />
-        <mark key="]" line="495" column="33" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1538687894910">
+        <mark key="[" line="494" column="20" />
+        <mark key="]" line="494" column="20" />
         <mark key="^" line="495" column="33" />
-        <mark key="." line="495" column="33" />
+        <mark key="." line="494" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/norm_dev_tests.js" timestamp="1538464943924">
         <mark key="[" line="427" column="42" />
@@ -471,8 +471,8 @@
       <jump line="494" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBsZXQgcmVhZEZpbGVQYXRoID0gJy9Vc2Vycy9hbGV4L0Rlc2t0b3AvMjZhMGFhZmEtMzk4Ny00YTFkLWI2MmQtYmI0NjkwODEyODYzLnppcCcK</text>
+      <register name="&quot;" type="4">
+        <text>entry.name</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -487,7 +487,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fileName</text>
+        <text>entry.name</text>
       </register>
       <register name="m" type="4">
         <keys>
