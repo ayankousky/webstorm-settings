@@ -134,13 +134,20 @@
         <mark key="^" line="78" column="5" />
         <mark key="." line="78" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/en.json" timestamp="1539985905053">
-        <mark key="[" line="59" column="87" />
-        <mark key="]" line="59" column="87" />
-        <mark key="." line="59" column="87" />
-        <mark key="^" line="59" column="86" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/en.json" timestamp="1539988279744">
+        <mark key="[" line="74" column="72" />
+        <mark key="]" line="74" column="71" />
+        <mark key="." line="74" column="71" />
+        <mark key="^" line="74" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1539985926339">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/invalid_videos.js" timestamp="1539987785702">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="328" column="34" />
+        <mark key="]" line="328" column="48" />
+        <mark key="." line="328" column="48" />
+        <mark key="^" line="328" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1539986964887">
         <mark key="[" line="1543" column="131" />
         <mark key="]" line="1543" column="132" />
         <mark key="^" line="1543" column="130" />
@@ -286,7 +293,7 @@
         <mark key="^" line="61" column="32" />
         <mark key="." line="61" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539985690359">
+      <file name="/Dummy.txt" timestamp="1539987290454">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/channel_unbanned.pug" timestamp="1534719138021">
@@ -295,10 +302,11 @@
         <mark key="." line="34" column="87" />
         <mark key="^" line="34" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1539985997630">
-        <mark key="[" line="729" column="22" />
-        <mark key="]" line="729" column="22" />
-        <mark key="." line="729" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1539988614399">
+        <mark key="[" line="174" column="42" />
+        <mark key="]" line="174" column="42" />
+        <mark key="." line="174" column="42" />
+        <mark key="^" line="174" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/onDynamodbVideo.json" timestamp="1536211008330">
         <mark key="[" line="35" column="32" />
@@ -312,11 +320,11 @@
         <mark key="." line="63" column="14" />
         <mark key="^" line="63" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/ru.json" timestamp="1534717476383">
-        <mark key="[" line="72" column="14" />
-        <mark key="]" line="72" column="22" />
-        <mark key="." line="72" column="22" />
-        <mark key="^" line="72" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/ru.json" timestamp="1539987091246">
+        <mark key="[" line="73" column="36" />
+        <mark key="]" line="73" column="91" />
+        <mark key="." line="73" column="91" />
+        <mark key="^" line="73" column="91" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/channels-table/channels-table.component.ts" timestamp="1535347233179">
         <mark key="[" line="130" column="21" />
@@ -344,7 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="384" column="34" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" />
       <jump line="1392" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="1459" column="8" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="33" column="16" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/videoUpdates.js" />
@@ -444,10 +451,11 @@
       <jump line="494" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/clicks_counter.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/clicks_counter.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/invalid_videos.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>playfile</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -462,7 +470,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>playfile</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -489,40 +497,46 @@
         <text encoding="base64">XDx1cGxvYWRTdHJlYW1Ub1MzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJIm1ldGFkYXRhX3JlcXVpcmVkIjogIk1ldGFkYXRhIGlzIG5vdCB1cGxvYWRlZCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmJvZHkudmlkZW9zWzBdLmlzQ29ycnVwdGVkLnNob3VsZC5iZS5lcSh0cnVlKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CWxldCBjbG91ZFVzZXIgPSBhd2FpdCAoQ2xvdWRVc2VyLmdldEJ5RW1haWwoJ2Jpb21lY2hhbmljc0BoaWdocG9pbnQuZWR1KScpKTsK</text>
+      <register name="1" type="4">
+        <text>{
+          playType        : playType,
+          uDate           : new Date() - 0,
+          isCorrupted     : isInvalid     || undefined,
+          invalidPlayFile : isInvalid || undefined,
+        }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhvYmopCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlzQ29ycnVwdGVkICAgICA6IGlzSW52YWxpZCAgICAgfHwgdW5kZWZpbmVkLAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgIC8vIGF3YWl0IChzM0hlbHBlci51bnppcChjb25maWcuQlVDS0VULCBzM2tleSwgdmlkZW8uczNrZXkgKyAndW56aXBwZWQvJykpOwogICAgICAvLyBsZXQgcmVzID0gYXdhaXQgKHMzSGVscGVyLnVuemlwbmV3KGNvbmZpZy5CVUNLRVQsIHMza2V5LCB2aWRlby5zM2tleSArICd1bnppcHBlZC8nKSk7CiAgICAgIC8vIGF3YWl0IChzM0hlbHBlci51bnppcEluUkFNKGNvbmZpZy5CVUNLRVQsIHMza2V5LCB2aWRlby5zM2tleSArICd1bnppcHBlZC8nKSk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJInB1Ymxpc2hpbmdfZmlsZV9jb3JydXB0ZWQiOiAiQ2Fubm90IHB1Ymxpc2ggdGhpcyB2aWRlby4gSXQncyBmaWxlcyBhcmUgY29ycnVwdGVkIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codW56aXBSZXN1bHQpCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">CQkJInB1Ymxpc2hpbmdfZmlsZV9jb3JydXB0ZWQiOiAiQ2Fubm90IHB1Ymxpc2ggdGhpcyB2aWRlby4gSXQncyBmaWxlcyBhcmUgY29ycnVwdGVkIiwK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnc3RhcnQgZGVmYXVsdCB1bnppcCcpOwo=</text>
+      <register name="7" type="4">
+        <text>&quot;publishing_invalid_play_file&quot;: &quot;videos.errors.publishing_invalid_play_file&quot;,
+			&quot;publishing_file_corrupted&quot;: &quot;videos.errors.publishing_file_corrupted&quot;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codW56aXBSZXN1bHQpCg==</text>
+        <text encoding="base64">CQkJInB1Ymxpc2hpbmdfZmlsZV9jb3JydXB0ZWQiOiAiQ2Fubm90IHB1Ymxpc2ggdGhpcyB2aWRlby4gSXQncyBmaWxlcyBhcmUgY29ycnVwdGVkIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdW56aXBSZXN1bHQgPSAK</text>
+        <text encoding="base64">CQkJInB1Ymxpc2hpbmdfZmlsZV9jb3JydXB0ZWQiOiAidmlkZW9zLmVycm9ycy5wdWJsaXNoaW5nX2ZpbGVfY29ycnVwdGVkIgo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
