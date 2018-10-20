@@ -30,8 +30,8 @@
         <mark key="." line="31" column="32" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1539985542981">
-        <mark key="'" line="849" column="35" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1540057718315">
+        <mark key="'" line="866" column="0" />
         <mark key="[" line="666" column="16" />
         <mark key="]" line="666" column="19" />
         <mark key="^" line="666" column="19" />
@@ -58,13 +58,13 @@
         <mark key="^" line="217" column="9" />
         <mark key="." line="224" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1539991077585">
-        <mark key="[" line="1545" column="20" />
-        <mark key="]" line="1545" column="22" />
-        <mark key="^" line="1545" column="22" />
-        <mark key="." line="1545" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1540074531278">
+        <mark key="[" line="1340" column="44" />
+        <mark key="]" line="1341" column="41" />
+        <mark key="^" line="1341" column="41" />
+        <mark key="." line="1341" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1539990606447">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1539991972014">
         <mark key="[" line="193" column="22" />
         <mark key="]" line="193" column="24" />
         <mark key="^" line="193" column="24" />
@@ -108,8 +108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1392" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
-      <jump line="1459" column="8" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="33" column="16" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/videoUpdates.js" />
       <jump line="72" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/videoUpdates.js" />
       <jump line="3" column="19" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/videoUpdates.js" />
@@ -208,6 +206,8 @@
       <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/clicks_counter.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/clicks_counter.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/invalid_videos.js" />
+      <jump line="344" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
+      <jump line="866" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
