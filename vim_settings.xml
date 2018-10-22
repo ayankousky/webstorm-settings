@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/app.ts" timestamp="1540194363393">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="1" column="15" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/app.ts" timestamp="1540196253350">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/unzipper/lib/parse.js" timestamp="1538465721006">
         <mark key="[" line="8" column="37" />
@@ -346,11 +345,11 @@
         <mark key="^" line="133" column="22" />
         <mark key="." line="133" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/package.json" timestamp="1540194911593">
-        <mark key="[" line="5" column="91" />
-        <mark key="]" line="5" column="91" />
-        <mark key="." line="5" column="91" />
-        <mark key="^" line="5" column="91" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/package.json" timestamp="1540196196504">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="45" />
+        <mark key="." line="5" column="45" />
+        <mark key="^" line="5" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/fvpBackup.js" timestamp="1537250584790">
         <mark key="[" line="30" column="20" />
@@ -468,8 +467,8 @@
       <jump line="866" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ2tlLnBhcnNlKCJ7S2VrOiBzZGYsY2RjfSIpKQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -484,7 +483,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">LS1sZWdhY3ktd2F0Y2ggLS1leHQgdHMgLS1leGVjICd0c2MgJiYgbm9kZSBkaXN0L3NlcnZlci5qcycgfHwgZXhpdCAxIg==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -514,46 +513,38 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlbW9uIC0tbGVnYWN5LXdhdGNoIC0tZXh0IHRzIC0tZXhlYyAndHNjICYmIG5vZGUgZGlzdC9zZXJ2ZXIuanMgJyIK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2tlLnBhcnNlKCJ7S2VrOiBzZGYsY2RjfSIpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnBhcnNlKCJ7S2VrOiBzZGYsY2RjfSIpKQo=</text>
+      <register name="2" type="4">
+        <text>k')
+console.log(JSON</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygna2VrJykK</text>
+        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlbW9uIC0tbGVnYWN5LXdhdGNoIC0tZXh0IHRzIC0tZXhlYyAndHNjICYmIG5vZGUgZGlzdC9zZXJ2ZXIuanMgJyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnBhcnNlKCJ7S2VrOiBzZGYsY2RjfSIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygna2VrJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5ib2R5Lm5ld1NoYXJpbmdzLmxlbmd0aC5zaG91bGQuYmUuZXEoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>result.body.newSharings[0].email.should.be.eq(mocks.user.getLoginFields('second').email);
-          result.body.newSharings[0].channelId.should.be.eq(firstVideo.channelId);
-          result.body.newSharings[0].videoId.should.be.eq(firstVideo.id);
-          result.body.newSharings[0].fromEmail.should.be.eq(mocks.user.getLoginFields('main').email);
-          result.body.newSharings[0].permissions.should.be.eq(0);
-          result.body.newSharings[0].isCp.should.be.eq(false); //***ToDo***: add this field ot others tests
-          result.body.newSharings[0].message.should.be.eq(firstVideoSharingMessage);
-          result.body.newSharings[0].creationDate.should.be.not.null;
-          result.body.newSharings[0].lastUpdateDate.should.be.not.null;
-          result.body.newSharings[0].isSaved.should.be.eq(false);</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
