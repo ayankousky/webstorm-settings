@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/app.ts" timestamp="1540196253350">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/app.ts" timestamp="1540201347803">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1538350693756">
         <mark key="'" line="432" column="0" />
@@ -227,8 +227,8 @@
       <jump line="866" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -243,7 +243,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -273,38 +273,38 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2tlLnBhcnNlKCJ7S2VrOiBzZGYsY2RjfSIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>k')
-console.log(JSON</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlbW9uIC0tbGVnYWN5LXdhdGNoIC0tZXh0IHRzIC0tZXhlYyAndHNjICYmIG5vZGUgZGlzdC9zZXJ2ZXIuanMgJyIK</text>
+        <text encoding="base64">fSwgNTAwMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnBhcnNlKCJ7S2VrOiBzZGYsY2RjfSIpKQo=</text>
+        <text encoding="base64">ZXRJbnRlcnZhbCgoKT0+ewo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygna2VrJykK</text>
+      <register name="5" type="4">
+        <text>console.log(JSON.parse(&quot;{Kek: sdf,cdc}&quot;))
+s</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
+        <text encoding="base64">cmV0dXJuOwo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjaGVkdWxlIGZyb20gJ25vZGUtc2NoZWR1bGUnOwppbXBvcnQgeyBJTmV0d29ya0RvY3VtZW50IH0gZnJvbSAnbW9kZWxzJzsKLy8gaW1wb3J0IHsgZGIsIFJNYW5hZ2VyLCBOZXR3b3JrIH0gZnJvbSAnLi9zZXJ2aWNlcyc7CmltcG9ydCBuZXR3b3Jrc1JlZ2lzdHJ5IGZyb20gJy4vZW50cmllcy9uZXR3b3Jrcyc7CgooYXN5bmMgZnVuY3Rpb24gbWFpbigpIHsKICBjb25zdCByZXZlbnVlTWFuYWdlcjogUk1hbmFnZXIgPSBuZXcgUk1hbmFnZXIobmV0d29ya3NSZWdpc3RyeSk7CgogIGNvbnN0IHlpZWxka2l0OiBJTmV0d29ya0RvY3VtZW50ID0gYXdhaXQgTmV0d29yay5maW5kQnlJZChwcm9jZXNzLmVudi55aWVsZEtpdElkKTsKICBjb25zdCBza2ltbGlua3M6IElOZXR3b3JrRG9jdW1lbnQgPSBhd2FpdCBOZXR3b3JrLmZpbmRCeUlkKHByb2Nlc3MuZW52LnNraW1saW5rc0lkKTsKICBjb25zdCBzMjQ6IElOZXR3b3JrRG9jdW1lbnQgPSBhd2FpdCBOZXR3b3JrLmZpbmRCeUlkKHByb2Nlc3MuZW52LnMyNElkKTsKICBjb25zdCB6b29tOiBJTmV0d29ya0RvY3VtZW50ID0gYXdhaXQgTmV0d29yay5maW5kQnlJZChwcm9jZXNzLmVudi56b29tSWQpOwoKICAvLyByZXZlbnVlTWFuYWdlci5zZXROZXR3b3JrKHpvb20pOwogIC8vIHJldmVudWVNYW5hZ2VyLmltcG9ydCgpOwoKICBpZiAocHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdkZXYnKSB7CiAgICByZXR1cm47CiAgfQoKICBjb25zdCB6b29tUnVsZTogc2NoZWR1bGUuUmVjdXJyZW5jZVJ1bGUgPSBuZXcgc2NoZWR1bGUuUmVjdXJyZW5jZVJ1bGUoKTsKICAvLyBBdCBtaW51dGUgMTUKICB6b29tUnVsZS5taW51dGUgPSAxNTsKICBzY2hlZHVsZS5zY2hlZHVsZUpvYih6b29tUnVsZSwgKCkgPT4gewogICAgcmV2ZW51ZU1hbmFnZXIuc2V0TmV0d29yayh6b29tKTsKICAgIHJldmVudWVNYW5hZ2VyLmltcG9ydCgpOwogIH0pOwoKICBjb25zdCBzMjRSdWxlOiBzY2hlZHVsZS5SZWN1cnJlbmNlUnVsZSA9IG5ldyBzY2hlZHVsZS5SZWN1cnJlbmNlUnVsZSgpOwogIC8vIEF0IG1pbnV0ZSAxMAogIHMyNFJ1bGUubWludXRlID0gMTA7CiAgc2NoZWR1bGUuc2NoZWR1bGVKb2IoczI0UnVsZSwgKCkgPT4gewogICAgcmV2ZW51ZU1hbmFnZXIuc2V0TmV0d29yayhzMjQpOwogICAgcmV2ZW51ZU1hbmFnZXIuaW1wb3J0KCk7CiAgfSk7CgogIGNvbnN0IHNraW1saW5rc3RSdWxlOiBzY2hlZHVsZS5SZWN1cnJlbmNlUnVsZSA9IG5ldyBzY2hlZHVsZS5SZWN1cnJlbmNlUnVsZSgpOwogIC8vIEF0IG1pbnV0ZSA1CiAgc2tpbWxpbmtzdFJ1bGUubWludXRlID0gNTsKICBzY2hlZHVsZS5zY2hlZHVsZUpvYihza2ltbGlua3N0UnVsZSwgKCkgPT4gewogICAgcmV2ZW51ZU1hbmFnZXIuc2V0TmV0d29yayhza2ltbGlua3MpOwogICAgcmV2ZW51ZU1hbmFnZXIuaW1wb3J0KCk7CiAgfSk7CgogIGNvbnN0IHlpZWxka2l0UnVsZTogc2NoZWR1bGUuUmVjdXJyZW5jZVJ1bGUgPSBuZXcgc2NoZWR1bGUuUmVjdXJyZW5jZVJ1bGUoKTsKICAvLyBBdCBtaW51dGUgMAogIHlpZWxka2l0UnVsZS5taW51dGUgPSAwOwogIHNjaGVkdWxlLnNjaGVkdWxlSm9iKHlpZWxka2l0UnVsZSwgKCkgPT4gewogICAgcmV2ZW51ZU1hbmFnZXIuc2V0TmV0d29yayh5aWVsZGtpdCk7CiAgICByZXZlbnVlTWFuYWdlci5pbXBvcnQoKTsKICB9KTsKCn0pKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Ly8gY29uc29sZS5sb2coSlNPTi5wYXJzZSgie0tlazogc2RmLGNkY30iKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2tlLnBhcnNlKCJ7S2VrOiBzZGYsY2RjfSIpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
