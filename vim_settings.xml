@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1540578240601">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1540649168854">
         <mark key="'" line="421" column="2" />
-        <mark key="[" line="1558" column="13" />
-        <mark key="]" line="1558" column="25" />
-        <mark key="^" line="1558" column="25" />
-        <mark key="." line="1558" column="25" />
+        <mark key="[" line="1539" column="64" />
+        <mark key="]" line="1539" column="64" />
+        <mark key="." line="1539" column="64" />
+        <mark key="^" line="1539" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/app.ts" timestamp="1540201347803">
         <mark key="[" line="51" column="0" />
@@ -235,7 +235,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>100</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -250,7 +250,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -277,7 +277,7 @@
         <text encoding="base64">XDx1cGxvYWRTdHJlYW1Ub1MzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5KQo=</text>
+        <text encoding="base64">ICBoZWFkTGluZSs9IGBVcGxvYWRlZGAgKyAobmV3IEFycmF5KDEwIC0gJ1VwbG9hZGVkJy5sZW5ndGgpLmpvaW4oJyAnKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -286,32 +286,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRleHRmaWxlKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhgU2VhcmNoIHBocmFzZTogJHtzZWFyY2hUZXh0fWApCg==</text>
+      <register name="3" type="4">
+        <text>if (!channelOwner){
+      console.log(`Channel ${channel.id} has no owner`)
+      return undefined;
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fSwgNTAwMCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXRJbnRlcnZhbCgoKT0+ewo=</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhgU3RhdHMgZm9yICR7c3RhdHNjaGFubmVsSWR9LiBhbGw6ICR7YWxsVmlkZW9zLmxlbmd0aH07IHc6ICR7YWxsV29ya2luZ1ZpZGVvcy5sZW5ndGh9OyB1OiAke2FsbFVwbG9hZGVkVmlkZW9zLmxlbmd0aH07IHM6ICR7YWxsU2F2ZWRWaWRlb3MubGVuZ3RofTsgc2l6ZTogJHtNYXRoLmZsb29yKHRvdGFsU2l6ZU9mVmlkZW9zIC8gMTAyNCAvIDEwMjQgLyAxMDI0ICogMTAwMDApIC8gMTAwMDB9IEdiYCk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>console.log(JSON.parse(&quot;{Kek: sdf,cdc}&quot;))
-s</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmV0dXJuOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
