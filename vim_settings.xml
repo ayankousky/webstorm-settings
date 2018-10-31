@@ -130,11 +130,11 @@
         <mark key="]" line="1341" column="0" />
         <mark key="." line="1341" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1541020746055">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="144" />
-        <mark key="." line="159" column="0" />
-        <mark key="^" line="153" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1541021762757">
+        <mark key="[" line="201" column="25" />
+        <mark key="]" line="201" column="29" />
+        <mark key="." line="201" column="29" />
+        <mark key="^" line="201" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -240,8 +240,8 @@
       <jump line="421" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCXBhdGg6IGAvd3AtanNvbi93Yy92MS9vcmRlcnM/Y29uc3VtZXJfa2V5PSR7dGhpcy52dWxjYW1Db25maWcud2NfY29uc3VtZXJfa2V5fSZjb25zdW1lcl9zZWNyZXQ9JHt0aGlzLnZ1bGNhbUNvbmZpZy53Y19jb25zdW1lcl9zZWNyZXR9YCwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IDI3MDE3</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -256,7 +256,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IDI3MDE3</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -285,41 +285,46 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCXBhdGg6IGAvd3AtanNvbi93Yy92MS9vcmRlcnM/Y29uc3VtZXJfa2V5PSR7dGhpcy52dWxjYW1Db25maWcud2NfY29uc3VtZXJfa2V5fSZjb25zdW1lcl9zZWNyZXQ9JHt0aGlzLnZ1bGNhbUNvbmZpZy53Y19jb25zdW1lcl9zZWNyZXR9YCwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>,
+            {
+              product_id: 22,
+              variation_id: 23,
+              quantity: 1
+            }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBwYXRoOiBgL3dwLWpzb24vdnV2LWFwaS92MC9zdWJzP2VtYWlsPSR7ZW1haWx9JnZ1dl9hcGlfa2V5PSR7dGhpcy52dWxjYW1Db25maWcudnV2X2FwaV9rZXl9JndjX2NvbnN1bWVyX2tleT0ke3RoaXMudnVsY2FtQ29uZmlnLndjX2NvbnN1bWVyX2tleX0md2NfY29uc3VtZXJfc2VjcmV0PSR7dGhpcy52dWxjYW1Db25maWcud2NfY29uc3VtZXJfc2VjcmV0fWAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="4">
         <text>if (!channelOwner){
       console.log(`Channel ${channel.id} has no owner`)
       return undefined;
     }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgKCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgICAgKCkK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhgU3RhdHMgZm9yICR7c3RhdHNjaGFubmVsSWR9LiBhbGw6ICR7YWxsVmlkZW9zLmxlbmd0aH07IHc6ICR7YWxsV29ya2luZ1ZpZGVvcy5sZW5ndGh9OyB1OiAke2FsbFVwbG9hZGVkVmlkZW9zLmxlbmd0aH07IHM6ICR7YWxsU2F2ZWRWaWRlb3MubGVuZ3RofTsgc2l6ZTogJHtNYXRoLmZsb29yKHRvdGFsU2l6ZU9mVmlkZW9zIC8gMTAyNCAvIDEwMjQgLyAxMDI0ICogMTAwMDApIC8gMTAwMDB9IEdiYCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYycpCg==</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhgU3RhdHMgZm9yICR7c3RhdHNjaGFubmVsSWR9LiBhbGw6ICR7YWxsVmlkZW9zLmxlbmd0aH07IHc6ICR7YWxsV29ya2luZ1ZpZGVvcy5sZW5ndGh9OyB1OiAke2FsbFVwbG9hZGVkVmlkZW9zLmxlbmd0aH07IHM6ICR7YWxsU2F2ZWRWaWRlb3MubGVuZ3RofTsgc2l6ZTogJHtNYXRoLmZsb29yKHRvdGFsU2l6ZU9mVmlkZW9zIC8gMTAyNCAvIDEwMjQgLyAxMDI0ICogMTAwMDApIC8gMTAwMDB9IEdiYCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
