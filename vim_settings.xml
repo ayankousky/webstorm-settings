@@ -24,6 +24,10 @@
         <mark key="^" line="40" column="16" />
         <mark key="." line="40" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1541106657522">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/dynamodb/index.js" timestamp="1541103636360">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="53" />
@@ -59,7 +63,7 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540212881168">
+      <file name="/Dummy.txt" timestamp="1541106835378">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1539990627446">
@@ -75,11 +79,17 @@
         <mark key="^" line="666" column="19" />
         <mark key="." line="666" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/secret_manager/index.js" timestamp="1541103742627">
-        <mark key="[" line="57" column="24" />
-        <mark key="]" line="58" column="3" />
-        <mark key="." line="58" column="3" />
-        <mark key="^" line="58" column="3" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/secret_manager/index.js" timestamp="1541107041110">
+        <mark key="'" line="18" column="6" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/index.js" timestamp="1541106712557">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="52" />
+        <mark key="." line="8" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/package.json" timestamp="1540201878014">
         <mark key="[" line="5" column="43" />
@@ -98,15 +108,14 @@
         <mark key="]" line="1341" column="0" />
         <mark key="." line="1341" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1541100648643">
-        <mark key="[" line="161" column="33" />
-        <mark key="]" line="161" column="53" />
-        <mark key="^" line="161" column="53" />
-        <mark key="." line="161" column="53" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1541107014910">
+        <mark key="[" line="157" column="88" />
+        <mark key="]" line="157" column="88" />
+        <mark key="^" line="157" column="88" />
+        <mark key="." line="157" column="88" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="19" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/videoUpdates.js" />
       <jump line="6" column="19" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/videoUpdates.js" />
       <jump line="7" column="19" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/videoUpdates.js" />
       <jump line="8" column="19" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/queues/videoUpdates.js" />
@@ -206,10 +215,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" />
       <jump line="421" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="383" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="18" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/secret_manager/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;us-west-2&quot;,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMjIyKQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -224,7 +234,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;us-west-2&quot;,</text>
+        <text>buff</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -248,58 +258,52 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGxvYWRTdHJlYW1Ub1MzXD4=</text>
+        <text encoding="base64">XDxjbGllbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAsIGNvbmZpZyA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uL2NvbmZpZ3MvbWFpbi5qc29uJykK</text>
+        <text encoding="base64">ICAsIGF3c0hlbHBlciAgICA9IHJlcXVpcmUoJy4uL2hlbHBlcnMnKS5hd3MK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgLA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMjIyKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9kZXZlbG9wZXJzL2dldHRpbmctc3RhcnRlZC9ub2RlanMvCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMTExKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gVXNlIHRoaXMgY29kZSBzbmlwcGV0IGluIHlvdXIgYXBwLgovLyBJZiB5b3UgbmVlZCBtb3JlIGluZm9ybWF0aW9uIGFib3V0IGNvbmZpZ3VyYXRpb25zIG9yIGltcGxlbWVudGluZyB0aGUgc2FtcGxlIGNvZGUsIHZpc2l0IHRoZSBBV1MgZG9jczoK</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coYXdzU2VydmljZXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgLy8gXQo=</text>
+        <text encoding="base64">CQksCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IC8vIHNoaXBwaW5nX2xpbmVzOiBbCiAgICAgICAgICAvLyAgIHsKICAgICAgICAgIC8vICAgICBtZXRob2RfaWQ6ICdmbGF0X3JhdGUnLAogICAgICAgICAgLy8gICAgIG1ldGhvZF90aXRsZTogJ0ZsYXQgUmF0ZScsCiAgICAgICAgICAvLyAgICAgdG90YWw6IDEwCiAgICAgICAgICAvLyAgIH0KICAgICAgICAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="4">
-        <text>// payment_method: 'stripe',
-          // payment_details: {
-          //   post_meta: {
-          //     _stripe_customer_id: 'cus_484hfj3m4fm3',
-          //     _stripe_card_id: 'card_5n4fndsn0'
-          //   }
-          // },</text>
+        <text encoding="base64">Ly8gSW4gdGhpcyBzYW1wbGUgd2Ugb25seSBoYW5kbGUgdGhlIHNwZWNpZmljIGV4Y2VwdGlvbnMgZm9yIHRoZSAnR2V0U2VjcmV0VmFsdWUnIEFQSS4KLy8gU2VlIGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9zZWNyZXRzbWFuYWdlci9sYXRlc3QvYXBpcmVmZXJlbmNlL0FQSV9HZXRTZWNyZXRWYWx1ZS5odG1sCi8vIFdlIHJldGhyb3cgdGhlIGV4Y2VwdGlvbiBieSBkZWZhdWx0LgoK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAvLyBiaWxsaW5nICAgICAgICAgICAgIDogewogICAgICAgICAgLy8gICBmaXJzdF9uYW1lOiAnQWxleCcsCiAgICAgICAgICAvLyAgIGxhc3RfbmFtZSA6ICdFbGlsaW5rJywKICAgICAgICAgIC8vICAgYWRkcmVzc18xIDogJzk2OSBNYXJrZXQnLAogICAgICAgICAgLy8gICBhZGRyZXNzXzIgOiAnJywKICAgICAgICAgIC8vICAgY2l0eSAgICAgIDogJ1NhbiBGcmFuY2lzY28nLAogICAgICAgICAgLy8gICBzdGF0ZSAgICAgOiAnQ0EnLAogICAgICAgICAgLy8gICBwb3N0Y29kZSAgOiAnOTQxMDMnLAogICAgICAgICAgLy8gICBjb3VudHJ5ICAgOiAnVVMnLAogICAgICAgICAgLy8gICBlbWFpbCAgICAgOiAnYXlhbmtvdXNreUBlbGlsaW5rLmNvbScsCiAgICAgICAgICAvLyAgIHBob25lICAgICA6ICcoNTU1KSA1NTUtNTU1NScKICAgICAgICAgIC8vIH0sCiAgICAgICAgICAvLyBzaGlwcGluZyAgICAgICAgICAgIDogewogICAgICAgICAgLy8gICBmaXJzdF9uYW1lOiAnQWxleCcsCiAgICAgICAgICAvLyAgIGxhc3RfbmFtZSA6ICdHb2luZycsCiAgICAgICAgICAvLyAgIGFkZHJlc3NfMSA6ICc5NjkgTWFya2V0JywKICAgICAgICAgIC8vICAgYWRkcmVzc18yIDogJycsCiAgICAgICAgICAvLyAgIGNpdHkgICAgICA6ICdTYW4gRnJhbmNpc2NvJywKICAgICAgICAgIC8vICAgc3RhdGUgICAgIDogJ0NBJywKICAgICAgICAgIC8vICAgcG9zdGNvZGUgIDogJzk0MTAzJywKICAgICAgICAgIC8vICAgY291bnRyeSAgIDogJ1VTJwogICAgICAgICAgLy8gfSw=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBZb3VyIGNvZGUgZ29lcyBoZXJlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGxvYWRTdHJlYW1Ub1MzXD4=</last-search>
+      <last-search encoding="base64">XDxjbGllbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGxvYWRTdHJlYW1Ub1MzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjbGllbnRcPg==</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute encoding="base64">XDxkXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -307,7 +311,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2dWxjYW52aXNpb25cPg==</entry>
         <entry encoding="base64">XDwyNVw+</entry>
         <entry encoding="base64">XDxtb2Nrc1w+</entry>
         <entry encoding="base64">XDxyb290XD4=</entry>
@@ -327,6 +330,7 @@
         <entry>image</entry>
         <entry encoding="base64">XDxkXD4=</entry>
         <entry encoding="base64">XDx1cGxvYWRTdHJlYW1Ub1MzXD4=</entry>
+        <entry encoding="base64">XDxjbGllbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
