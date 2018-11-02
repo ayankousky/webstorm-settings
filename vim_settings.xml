@@ -29,12 +29,12 @@
         <mark key="." line="135" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/storage_providers/VulcamStorage.js" timestamp="1541140060437" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1541141478764">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1541142727809">
         <mark key="'" line="383" column="2" />
-        <mark key="[" line="1250" column="16" />
-        <mark key="]" line="1250" column="17" />
-        <mark key="^" line="1226" column="16" />
-        <mark key="." line="1250" column="17" />
+        <mark key="[" line="1227" column="64" />
+        <mark key="]" line="1227" column="62" />
+        <mark key="^" line="1227" column="62" />
+        <mark key="." line="1227" column="62" />
       </file>
       <file name="/Dummy.txt" timestamp="1541114544517">
         <mark key="[" line="0" column="0" />
@@ -172,8 +172,8 @@
       <jump line="8" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/myinfo.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygxKQo=</text>
+      <register name="&quot;" type="4">
+        <text>apple_shared_secret</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -188,7 +188,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRydWU=</text>
+        <text>apple_shared_secret</text>
       </register>
       <register name="m" type="4">
         <keys>
