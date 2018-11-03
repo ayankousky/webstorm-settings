@@ -58,6 +58,11 @@
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/deploy.sh" timestamp="1541285544939">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/create.json" timestamp="1541115587716" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1541278010201">
         <mark key="[" line="182" column="0" />
@@ -170,8 +175,8 @@
       <jump line="8" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/myinfo.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gbWV0aG9kX3RpdGxlOiAiRGlyZWN0IEJhbmsgVHJhbnNmZXIiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>onsumer_secret</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -186,7 +191,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>basic</text>
+        <text>onsumer_secret</text>
       </register>
       <register name="m" type="4">
         <keys>
