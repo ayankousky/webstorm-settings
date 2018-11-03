@@ -38,7 +38,7 @@
       <file name="/Dummy.txt" timestamp="1541143356585">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1541145947021">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1541252568960">
         <mark key="'" line="866" column="0" />
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
@@ -59,10 +59,11 @@
         <mark key="." line="8" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/create.json" timestamp="1541115587716" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1541145990014">
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="." line="199" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1541278010201">
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
+        <mark key="^" line="265" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_types/PRO_subscription.js" timestamp="1541139886425" />
     </filemarks>
@@ -170,7 +171,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAljb25zb2xlLmxvZyhyZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbWV0aG9kX3RpdGxlOiAiRGlyZWN0IEJhbmsgVHJhbnNmZXIiLAo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -185,7 +186,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>arn:aws:sqs:*:${self:custom.main_config.AWS_ACCOUNT_ID}:*</text>
+        <text>basic</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -212,40 +213,42 @@
         <text encoding="base64">XDxjbGllbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgUmVzb3VyY2U6IGFybjphd3M6c3FzOio6JHtzZWxmOmN1c3RvbS5tYWluX2NvbmZpZy5BV1NfQUNDT1VOVF9JRH06Kgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gc2V0X3BhaWQ6IHRydWUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAljb25zb2xlLmxvZyhyZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbWV0aG9kX3RpdGxlOiAiRGlyZWN0IEJhbmsgVHJhbnNmZXIiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIG5leHRfcGF5bWVudF9kYXRlOiAiMjAxOS0wNi0xMCAwODozMDowMCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIHNldF9wYWlkOiB0cnVlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhd2FpdChhd3NTZXJ2aWNlcy5zZWNyZXRNYW5hZ2VyLmdldFNlY3JldCgnZGV2JykpKQo=</text>
+        <text encoding="base64">CQkJCQlldF9wYWlkOiB0cnVlLAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyg3NzcpCg==</text>
+      <register name="5" type="4">
+        <text>paid: true,
+          s</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyg2NjYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1ldGhvZF9pZDogJ3N0cmlwZScsCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDU1NSkK</text>
+        <text encoding="base64">CQkJCQl0cmFuc2FjdGlvbl9pZDogJ2NoXzE4TXR1MzRnUjFrMFN2MnBodDFIbU5LdScsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyg0NDQpCg==</text>
+        <text encoding="base64">CQkJCSAgLy8gdHJhb2RfaWQ6ICdzdHJpcGUnLAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygzMzMpCg==</text>
+      <register name="9" type="4">
+        <text>nsaction_id: '1000000466252994',
+          // meth</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
