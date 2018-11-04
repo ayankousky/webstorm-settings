@@ -9,7 +9,7 @@
         <mark key="^" line="40" column="16" />
         <mark key="." line="40" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/index.js" timestamp="1541333090650">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/index.js" timestamp="1541348664992">
         <mark key="[" line="44" column="64" />
         <mark key="]" line="44" column="69" />
         <mark key="^" line="44" column="69" />
@@ -34,10 +34,11 @@
         <mark key="^" line="135" column="9" />
         <mark key="." line="135" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/PRO_access.js" timestamp="1541333282147">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/PRO_access.js" timestamp="1541348817653">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/storage_providers/VulcamStorage.js" timestamp="1541345435108">
         <mark key="[" line="52" column="28" />
@@ -51,18 +52,17 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1541342527903">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1541348431707">
         <mark key="'" line="383" column="2" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="56" />
-        <mark key="." line="1236" column="60" />
-        <mark key="^" line="1236" column="60" />
+        <mark key="[" line="1237" column="0" />
+        <mark key="]" line="1237" column="0" />
+        <mark key="." line="1237" column="0" />
+        <mark key="^" line="1242" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/BaseAppAccess.js" timestamp="1541331766992">
-        <mark key="[" line="49" column="81" />
-        <mark key="]" line="49" column="81" />
-        <mark key="." line="49" column="81" />
-        <mark key="^" line="49" column="81" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/BaseAppAccess.js" timestamp="1541348840698">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/Dockerfile" timestamp="1540201866375">
         <mark key="[" line="7" column="26" />
@@ -70,7 +70,7 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541327744922">
+      <file name="/Dummy.txt" timestamp="1541348623002">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1539990627446">
@@ -241,8 +241,8 @@
       <jump line="184" column="37" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{kek: 'kek'}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -257,7 +257,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{kek: 'kek'}</text>
+        <text encoding="base64">IGFsbFN1YnNjcmlwdGlvbg==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -287,37 +287,44 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc/Pz8/Pz8/Pz8/Pz8/Pz8/JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0NvbnZlcnRlZCcpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7CiAgICAgIGNvbnNvbGUubG9nKCdWdWxjYW1TdG9yYWdlIHN1YiBjcmVhdGUgcmVzdWx0Jyk7CiAgICAgIGNvbnNvbGUubG9nKCk=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">aWYoc3Vic2NyaXB0aW9ucyAmJiBzdWJzY3JpcHRpb25zIGluc3RhbmNlb2YgQXJyYXkpewogICAgICBfc3Vic2NyaXB0aW9uUHJvdmlkZXJzLmZvckVhY2gocHJvdmlkZXIgPT4gewogICAgICAgIHN1YnNjcmlwdGlvbnMuZm9yRWFjaChzdWIgPT4gewogICAgICAgICAgaWYoc3ViIGluc3RhbmNlb2YgcHJvdmlkZXIpewogICAgICAgICAgICBjb25zb2xlLmxvZygnaW5zdGFuY2Ugb2YnKTsKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdubyBpbnN0YW5jZSBvZicpOwogICAgICAgICAgfQogICAgICAgIH0pOwogICAgICB9KQogICAgfQ==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ly8gZXhpc3RpbmdTdWJzY3JpcHRpb25zLmZvckVhY2goc3ViID0+IHsKICAgICAgLy8gICBpZiAobmV3IERhdGUoc3ViLmJpbGxpbmdfc2NoZWR1bGUuc3RhcnRfYXQpLmdldFRpbWUoKSAgPT09IHBhcmFtcy5zdGFydERhdGUuZ2V0VGltZSgpICYmIG5ldyBEYXRlKHN1Yi5iaWxsaW5nX3NjaGVkdWxlLmVuZF9hdCkuZ2V0RGF0ZSgpID09PSBwYXJhbXMuZW5kRGF0ZS5nZXREYXRlKCkpIHsKICAgICAgLy8gICAgIGV4aXN0aW5nU3Vic2NyaXB0aW9uID0gc3ViOwogICAgICAvLyAgIH0KICAgICAgLy8gfSk=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc3Vic2NyaXB0aW9ucyA9IFtdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2V4aXN0aW5nIHN1YnNjcmlwdGlvbnM6JykK</text>
+        <text encoding="base64">Ly8gKioqVG9EbyoqKjogdXNlIGJhc2UgY2xhc3MuIFByb2JsZW0g4oCUIGFsbCBzdWNjZXNzb3JzIHdpbGwgaGFzIHNoYXJlZCBfc3Vic2NyaXB0aW9uUHJvdmlkZXJzIGFycmF5Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXhpc3RpbmdTdWJzY3JpcHRpb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJzExMTIzMTIzJykK</text>
+      <register name="8" type="4">
+        <text>class PRO_access_provider extends BaseProvider{
+  constructor(subscriptions){
+    super(subscriptions);
+  }
+
+  checkAccess(accessName, params){
+    return false;
+  }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdkdXBsaWNhdGUgaGFzIGJlZW4gZm91bmQnKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXdTdWJzY3JpcHRpb24pCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
