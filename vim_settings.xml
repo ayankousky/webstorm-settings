@@ -39,11 +39,11 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/storage_providers/VulcamStorage.js" timestamp="1541343040102">
-        <mark key="[" line="42" column="50" />
-        <mark key="]" line="42" column="55" />
-        <mark key="." line="42" column="55" />
-        <mark key="^" line="42" column="55" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/storage_providers/VulcamStorage.js" timestamp="1541345435108">
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="52" column="28" />
+        <mark key="^" line="52" column="28" />
+        <mark key="." line="52" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/apple.js" timestamp="1541328123327">
         <mark key="[" line="22" column="0" />
@@ -131,10 +131,11 @@
         <mark key="." line="179" column="0" />
         <mark key="^" line="181" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_types/PRO_subscription.js" timestamp="1541332882697">
-        <mark key="[" line="36" column="71" />
-        <mark key="]" line="36" column="71" />
-        <mark key="." line="36" column="71" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_types/PRO_subscription.js" timestamp="1541345309369">
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="262" column="35" />
+        <mark key="." line="262" column="0" />
+        <mark key="^" line="259" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -241,7 +242,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>start_at</text>
+        <text>{kek: 'kek'}</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -256,7 +257,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>start_at</text>
+        <text>{kek: 'kek'}</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -283,70 +284,40 @@
         <text encoding="base64">XDxjbGllbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXcgRGF0ZShzdWIuYmlsbGluZ19zY2hlZHVsZS5zdGFydF9hdCkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc/Pz8/Pz8/Pz8/Pz8/Pz8/JykK</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-          appleInApp: {
-            appleReceipt: event.body.apple_receipt,
-            appleSecret : await(awsServices.secretManager.getSecret('dev')).apple_shared_secret,
-            itunesUrl   : config.apple.itunes + '/verifyReceipt',
-          },
-        }, {
-          customerId   : user.id,
-          customerEmail: user.email,
-          firstName    : user.name,
-          lastName     : user.name,
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0NvbnZlcnRlZCcpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAsIFZ1bGNhbUJhY2tlbmQgPSByZXF1aXJlKCcuLi8uLi8uLi8uLi9zZXJ2aWNlcycpLlZ1bGNhbUJhY2tlbmQK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8gZW5kRGF0ZQkJCQkgOiBuZXcgRGF0ZShhcHBsZVZhbGlkYXRpb25SZXNwb25zZS5sYXRlc3RfcmVjZWlwdF9pbmZvWzBdLmV4cGlyZXNfZGF0ZV9tcyAtIDApLnRvSVNPU3RyaW5nKCkuc2xpY2UoMCwgMTkpLnJlcGxhY2UoJ1QnLCAnICcpLAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7CiAgICAgIGNvbnNvbGUubG9nKCdWdWxjYW1TdG9yYWdlIHN1YiBjcmVhdGUgcmVzdWx0Jyk7CiAgICAgIGNvbnNvbGUubG9nKCk=</text>
       </register>
-      <register name="4" type="4">
-        <text>// startDate       : new Date(appleValidationResponse.latest_receipt_info[0].purchase_date_ms - 0).toISOString().slice(0, 19).replace('T', ' '),
-    /</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3RJZCAgICA6IDI3MDgsCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">Ly8gZXhpc3RpbmdTdWJzY3JpcHRpb25zLmZvckVhY2goc3ViID0+IHsKICAgICAgLy8gICBpZiAobmV3IERhdGUoc3ViLmJpbGxpbmdfc2NoZWR1bGUuc3RhcnRfYXQpLmdldFRpbWUoKSAgPT09IHBhcmFtcy5zdGFydERhdGUuZ2V0VGltZSgpICYmIG5ldyBEYXRlKHN1Yi5iaWxsaW5nX3NjaGVkdWxlLmVuZF9hdCkuZ2V0RGF0ZSgpID09PSBwYXJhbXMuZW5kRGF0ZS5nZXREYXRlKCkpIHsKICAgICAgLy8gICAgIGV4aXN0aW5nU3Vic2NyaXB0aW9uID0gc3ViOwogICAgICAvLyAgIH0KICAgICAgLy8gfSk=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2V4aXN0aW5nIHN1YnNjcmlwdGlvbnM6JykK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
-        <text>// try {
-   //  let result = await(VulcamBackend.createSubscription({
-   //      appleInApp: {
-   //        appleReceipt  : event.body.apple_receipt,
-   //        appleSecret   : await(awsServices.secretManager.getSecret('dev')).apple_shared_secret,
-   //        itunesUrl		  : config.apple.itunes + '/verifyReceipt',
-   //      },
-   //    }, {
-   //      customerId: user.id,
-   //      customerEmail: user.email,
-   //      firstName: user.name,
-   //      lastName: user.name,
-   //    }
-   //  ));
-   //  isCreated = result;
-	// } catch (e){
-  	// console.log('Error on subsription creation:');
-	// 	console.log(e.toString());
-	// }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXhpc3RpbmdTdWJzY3JpcHRpb24pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJzExMTIzMTIzJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdkdXBsaWNhdGUgaGFzIGJlZW4gZm91bmQnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
