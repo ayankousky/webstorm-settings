@@ -82,12 +82,11 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1541446239825">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1541446985565">
         <mark key="'" line="376" column="0" />
-        <mark key="[" line="1296" column="184" />
-        <mark key="]" line="1297" column="36" />
-        <mark key="." line="1297" column="36" />
-        <mark key="^" line="1297" column="36" />
+        <mark key="[" line="1297" column="0" />
+        <mark key="]" line="1297" column="0" />
+        <mark key="." line="1297" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/BaseAppAccess.js" timestamp="1541364924338">
         <mark key="[" line="25" column="0" />
@@ -216,7 +215,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0LmxpbmVfaXRlbXNbMF0uYmlsbGluZ19zY2hlZHVsZSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcHBsZVZhbGlkYXRpb25SZXNwb25zZSkK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -261,37 +260,37 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0LmxpbmVfaXRlbXNbMF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0LmxpbmVfaXRlbXNbMF0uYmlsbGluZ19zY2hlZHVsZSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcHBsZVZhbGlkYXRpb25SZXNwb25zZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NjaGVkdWxlIE5PVCBub3JtYWw6JykK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYXBwbGVWYWxpZGF0aW9uUmVzcG9uc2UnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0uYmlsbGluZ19zY2hlZHVsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0LmxpbmVfaXRlbXNbMF0uYmlsbGluZ19zY2hlZHVsZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzY2hlZHVsZSBub3JtYWw6JykK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NjaGVkdWxlIE5PVCBub3JtYWw6JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0uYmlsbGluZ19zY2hlZHVsZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdlZWVlZWVlZScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzY2hlZHVsZSBub3JtYWw6JykK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgIC8vIGNvbnNvbGUubG9nKCdra2tra2tra2snKQogICAgICAvLyBjb25zb2xlLmxvZyhyZXN1bHQubGluZV9pdGVtc1swXSkKICAgICAgLy8gY29uc29sZS5sb2coJ3Jlc3VsdCBhbGxsbGxsbGxsbGwnKQogICAgICAvLyBjb25zb2xlLmxvZyhyZXN1bHQp</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdlZWVlZWVlZScpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKG5ld1N1YnNjcmlwdGlvbi5iaWxsaW5nX3NjaGVkdWxlKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgIC8vIGNvbnNvbGUubG9nKCdra2tra2tra2snKQogICAgICAvLyBjb25zb2xlLmxvZyhyZXN1bHQubGluZV9pdGVtc1swXSkKICAgICAgLy8gY29uc29sZS5sb2coJ3Jlc3VsdCBhbGxsbGxsbGxsbGwnKQogICAgICAvLyBjb25zb2xlLmxvZyhyZXN1bHQp</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
