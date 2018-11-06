@@ -97,12 +97,12 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1541542447306">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1541544652552">
         <mark key="'" line="376" column="0" />
-        <mark key="[" line="380" column="0" />
-        <mark key="]" line="380" column="108" />
-        <mark key="." line="380" column="0" />
-        <mark key="^" line="378" column="106" />
+        <mark key="[" line="355" column="45" />
+        <mark key="]" line="355" column="46" />
+        <mark key="." line="355" column="46" />
+        <mark key="^" line="355" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/BaseAppAccess.js" timestamp="1541364924338">
         <mark key="[" line="25" column="0" />
@@ -230,8 +230,8 @@
       <jump line="117" column="37" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudC5oZWFkZXJzWydVc2VyLUFnZW50J10gJiYgZXZlbnQuaGVhZGVyc1snVXNlci1BZ2VudCddLnRvTG93ZXJDYXNlKCkuc3RhcnRzV2l0aCgndnVsY2FtJykpCg==</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -246,7 +246,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>user.id</text>
+        <text>8</text>
       </register>
       <register name="m" type="4">
         <keys>
