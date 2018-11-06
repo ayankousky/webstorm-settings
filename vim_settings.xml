@@ -83,12 +83,6 @@
         <mark key="." line="55" column="60" />
         <mark key="^" line="55" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" timestamp="1541508611139">
-        <mark key="[" line="135" column="42" />
-        <mark key="]" line="137" column="33" />
-        <mark key="^" line="137" column="33" />
-        <mark key="." line="137" column="33" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/prod/main_vulcanvision.yml" timestamp="1541508689638">
         <mark key="[" line="130" column="31" />
         <mark key="]" line="130" column="34" />
@@ -100,19 +94,19 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1541508806024">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1541541240801">
         <mark key="'" line="376" column="0" />
-        <mark key="[" line="1305" column="0" />
-        <mark key="]" line="1305" column="0" />
-        <mark key="." line="1305" column="0" />
-        <mark key="^" line="1305" column="32" />
+        <mark key="[" line="375" column="117" />
+        <mark key="]" line="376" column="26" />
+        <mark key="." line="376" column="26" />
+        <mark key="^" line="376" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/BaseAppAccess.js" timestamp="1541364924338">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541443787165">
+      <file name="/Dummy.txt" timestamp="1541541042224">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/secret_manager/index.js" timestamp="1541143342093">
@@ -234,7 +228,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>user.id</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -249,7 +243,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>user.id</text>
       </register>
       <register name="m" type="4">
         <keys>
