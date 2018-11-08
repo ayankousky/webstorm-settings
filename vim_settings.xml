@@ -232,7 +232,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>,</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -247,7 +247,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
