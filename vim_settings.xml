@@ -3,17 +3,78 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1541508828895">
+        <mark key="'" line="117" column="37" />
+        <mark key="[" line="1435" column="21" />
+        <mark key="]" line="1435" column="19" />
+        <mark key="." line="1435" column="19" />
+        <mark key="^" line="1435" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1541745041176">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/app.ts" timestamp="1540201347803">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/new_get_subs.json" timestamp="1540491592180" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1541542427257">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1541665915056">
+        <mark key="'" line="866" column="0" />
+        <mark key="[" line="174" column="13" />
+        <mark key="]" line="174" column="14" />
+        <mark key="^" line="174" column="35" />
+        <mark key="." line="174" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/secret_manager/index.js" timestamp="1541143342093">
+        <mark key="'" line="18" column="6" />
+        <mark key="[" line="46" column="106" />
+        <mark key="]" line="47" column="24" />
+        <mark key="." line="47" column="24" />
+        <mark key="^" line="47" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/index.js" timestamp="1541349694920">
+        <mark key="[" line="44" column="64" />
+        <mark key="]" line="44" column="69" />
+        <mark key="^" line="44" column="69" />
+        <mark key="." line="44" column="69" />
+      </file>
+      <file name="$USER_HOME$/Desktop/main_vulcanvision.yml" timestamp="1541766044987" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/index.js" timestamp="1541106712557">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="52" />
+        <mark key="." line="8" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_types/BaseSubscription.js" timestamp="1541366268031">
+        <mark key="[" line="55" column="40" />
+        <mark key="]" line="55" column="60" />
+        <mark key="." line="55" column="60" />
+        <mark key="^" line="55" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/VUE_access.js" timestamp="1541360302383">
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="60" column="37" />
+        <mark key="." line="60" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/PRO_access.js" timestamp="1541360190883">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="9" column="11" />
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/prod/main_vulcanvision.yml" timestamp="1541508689638">
+        <mark key="[" line="130" column="31" />
+        <mark key="]" line="130" column="34" />
+        <mark key="^" line="130" column="34" />
+        <mark key="." line="130" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/en.json" timestamp="1541765991636">
+        <mark key="[" line="36" column="50" />
+        <mark key="]" line="36" column="50" />
+        <mark key="." line="36" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/storage_providers/VulcamStorage.js" timestamp="1541446201758">
         <mark key="[" line="62" column="0" />
@@ -33,24 +94,15 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/dev/main_vulcanvision.yml" timestamp="1541664712831" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1541665915056">
-        <mark key="'" line="866" column="0" />
-        <mark key="[" line="174" column="13" />
-        <mark key="]" line="174" column="14" />
-        <mark key="^" line="174" column="35" />
-        <mark key="." line="174" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" timestamp="1541327750236" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/VUE_access.js" timestamp="1541360302383">
-        <mark key="[" line="60" column="37" />
-        <mark key="]" line="60" column="37" />
-        <mark key="." line="60" column="37" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1540329178845">
         <mark key="[" line="1341" column="0" />
         <mark key="]" line="1341" column="0" />
         <mark key="." line="1341" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1539989451010">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1541442372094">
         <mark key="'" line="181" column="37" />
@@ -58,46 +110,6 @@
         <mark key="]" line="165" column="71" />
         <mark key="^" line="165" column="71" />
         <mark key="." line="165" column="71" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_types/PRO_subscription.js" timestamp="1541353700227">
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="259" column="0" />
-        <mark key="." line="259" column="0" />
-      </file>
-      <file name="/BaseSubscription.js" timestamp="1541366188355" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1541508828895">
-        <mark key="'" line="117" column="37" />
-        <mark key="[" line="1435" column="21" />
-        <mark key="]" line="1435" column="19" />
-        <mark key="." line="1435" column="19" />
-        <mark key="^" line="1435" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1541542427257">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/index.js" timestamp="1541349694920">
-        <mark key="[" line="44" column="64" />
-        <mark key="]" line="44" column="69" />
-        <mark key="^" line="44" column="69" />
-        <mark key="." line="44" column="69" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_types/BaseSubscription.js" timestamp="1541366268031">
-        <mark key="[" line="55" column="40" />
-        <mark key="]" line="55" column="60" />
-        <mark key="." line="55" column="60" />
-        <mark key="^" line="55" column="60" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" timestamp="1541573001338" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/prod/main_vulcanvision.yml" timestamp="1541508689638">
-        <mark key="[" line="130" column="31" />
-        <mark key="]" line="130" column="34" />
-        <mark key="^" line="130" column="34" />
-        <mark key="." line="130" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1539989451010">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1541664719631">
         <mark key="'" line="376" column="29" />
@@ -111,23 +123,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541664706884">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_types/PRO_subscription.js" timestamp="1541353700227">
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="0" />
+        <mark key="." line="259" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/secret_manager/index.js" timestamp="1541143342093">
-        <mark key="'" line="18" column="6" />
-        <mark key="[" line="46" column="106" />
-        <mark key="]" line="47" column="24" />
-        <mark key="." line="47" column="24" />
-        <mark key="^" line="47" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/index.js" timestamp="1541106712557">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="16" />
-        <mark key="^" line="8" column="52" />
-        <mark key="." line="8" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/create.json" timestamp="1541115587716" />
     </filemarks>
     <jumps>
       <jump line="3990" column="38" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
@@ -232,8 +232,8 @@
       <jump line="124" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/myinfo.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRpbWVvdXQ6IDE1Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG9yIGVudGVyIHRoZSB2ZXJpZmljYXRpb24gY29kZQ==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -248,7 +248,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>config.apple.itunes</text>
+        <text encoding="base64">IG9yIGVudGVyIHRoZSB2ZXJpZmljYXRpb24gY29kZQ==</text>
       </register>
       <register name="m" type="4">
         <keys>
