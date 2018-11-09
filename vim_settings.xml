@@ -10,7 +10,7 @@
         <mark key="." line="1435" column="19" />
         <mark key="^" line="1435" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541745041176">
+      <file name="/Dummy.txt" timestamp="1541766709750">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/app.ts" timestamp="1540201347803">
@@ -21,11 +21,11 @@
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1541542427257">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1541665915056">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1541766892328">
         <mark key="'" line="866" column="0" />
         <mark key="[" line="174" column="13" />
         <mark key="]" line="174" column="14" />
-        <mark key="^" line="174" column="35" />
+        <mark key="^" line="174" column="14" />
         <mark key="." line="174" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/secret_manager/index.js" timestamp="1541143342093">
@@ -111,12 +111,12 @@
         <mark key="^" line="165" column="71" />
         <mark key="." line="165" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1541664719631">
-        <mark key="'" line="376" column="29" />
-        <mark key="[" line="1298" column="63" />
-        <mark key="]" line="1298" column="95" />
-        <mark key="." line="1298" column="95" />
-        <mark key="^" line="1298" column="95" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1541766866117">
+        <mark key="'" line="1298" column="39" />
+        <mark key="[" line="1298" column="39" />
+        <mark key="]" line="1298" column="39" />
+        <mark key="." line="1298" column="39" />
+        <mark key="^" line="1298" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/BaseAppAccess.js" timestamp="1541364924338">
         <mark key="[" line="25" column="0" />
@@ -130,7 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3990" column="38" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="4456" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="2542" column="31" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="2576" column="29" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
@@ -230,10 +229,11 @@
       <jump line="376" column="29" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
       <jump line="125" column="11148" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/myinfo.json" />
       <jump line="124" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/myinfo.json" />
+      <jump line="1298" column="39" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG9yIGVudGVyIHRoZSB2ZXJpZmljYXRpb24gY29kZQ==</text>
+        <text>5</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -248,7 +248,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9yIGVudGVyIHRoZSB2ZXJpZmljYXRpb24gY29kZQ==</text>
+        <text>5</text>
       </register>
       <register name="m" type="4">
         <keys>
