@@ -53,12 +53,12 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/myinfo.json" timestamp="1541663821123">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/myinfo.json" timestamp="1542909014734">
         <mark key="'" line="124" column="3" />
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="5" />
-        <mark key="." line="8" column="5" />
-        <mark key="^" line="7" column="5" />
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+        <mark key="^" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/apple.js" timestamp="1541328123327">
         <mark key="[" line="22" column="0" />
@@ -237,8 +237,8 @@
       <jump line="1298" column="39" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBtZXRhIHByb3BlcnR5PSJvZzpzaXRlX25hbWUiIGNvbnRlbnQ9IkthbHR1cmEub3JnIERldmVsb3BlciBCbG9nIj4K</text>
+      <register name="&quot;" type="4">
+        <text>A</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -253,7 +253,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>A</text>
       </register>
       <register name="m" type="4">
         <keys>
