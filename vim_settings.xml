@@ -30,6 +30,7 @@
         <mark key="^" line="1" column="76" />
         <mark key="." line="1" column="76" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1543180282986" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_types/BaseSubscription.js" timestamp="1541366268031">
         <mark key="[" line="55" column="40" />
         <mark key="]" line="55" column="60" />
@@ -84,8 +85,14 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542489910087">
+      <file name="/Dummy.txt" timestamp="1543180259011">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1543180727982">
+        <mark key="[" line="798" column="58" />
+        <mark key="]" line="798" column="64" />
+        <mark key="^" line="798" column="64" />
+        <mark key="." line="798" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1542911299075">
         <mark key="'" line="866" column="0" />
@@ -244,7 +251,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text encoding="base64">IHBpY3R1cmU=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -259,7 +266,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text encoding="base64">IHBpY3R1cmU=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -286,40 +293,46 @@
         <text encoding="base64">XDxjbGllbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgczNrZXkgPSB2aWRlby5zM2tleSArIHZpZGVvLmlkICsgJ190aHVtYi5wbmcnOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBgY2hhbm5lbHMvJHt0aGlzLmNoYW5uZWxJZH0vdmlkZW9zLyR7dGhpcy5pZH0vJHt0aGlzLmlkfV90aHVtYi5wbmdgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlICdiYXNlNjQnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coc3Vic2NyaXB0aW9uRGF0YS5zdGFydERhdGUudG9JU09TdHJpbmcoKS5zbGljZSgwLCAxOSkucmVwbGFjZSgnVCcsICcgJykpCg==</text>
+      <register name="2" type="4">
+        <text>:
+          let s3 = require('../../services/aws').s3;
+          let picture = await (s3.getObject({
+            Bucket: config.BUCKET,
+            Key: exportS3Key
+          }).promise());
+          return picture.Body.toString('base64');</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnU3RhclQgZGF0ZTonKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3BhcmFtczonKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGFyYW1zLmVuZERhdGUpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGFyYW1zLnN0YXJ0RGF0ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMuc3RhcnREYXRlLmdldFRpbWUoKSkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgIGlmICghdGhpcy5pc1VwbG9hZGVkKXsKICAgICAgICByZXR1cm4gdW5kZWZpbmVkOwogICAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZShuZXcgRGF0ZSgpIC0gMCArIDYwKjEwMDAwKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZSgpKQo=</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coc3Vic2NyaXB0aW9uRGF0YS5zdGFydERhdGUudG9JU09TdHJpbmcoKS5zbGljZSgwLCAxOSkucmVwbGFjZSgnVCcsICcgJykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
