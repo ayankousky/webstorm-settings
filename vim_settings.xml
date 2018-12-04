@@ -15,6 +15,12 @@
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1541542427257">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/untitled/views/send.jade" timestamp="1543952005916">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="1" column="53" />
+        <mark key="." line="1" column="53" />
+        <mark key="^" line="1" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/index.js" timestamp="1541349694920">
         <mark key="[" line="44" column="64" />
         <mark key="]" line="44" column="69" />
@@ -110,10 +116,22 @@
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="16" />
       </file>
+      <file name="$USER_HOME$/Desktop/untitled/views/send.pug" timestamp="1543951526463">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/VUE_access.js" timestamp="1541360302383">
         <mark key="[" line="60" column="37" />
         <mark key="]" line="60" column="37" />
         <mark key="." line="60" column="37" />
+      </file>
+      <file name="$USER_HOME$/Desktop/untitled/app.js" timestamp="1543951860316">
+        <mark key="[" line="31" column="69" />
+        <mark key="]" line="32" column="23" />
+        <mark key="^" line="32" column="23" />
+        <mark key="." line="32" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/en.json" timestamp="1541778309478">
         <mark key="[" line="36" column="50" />
@@ -247,7 +265,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUxIiwidXNlcklkIjoiNTEiLCJlbWFpbCI6ImhhbnRhcGVyb0B5YWhvby5jb20iLCJ2dWxjYW1BdXRoQ29va2llIjoiaGFudGFwZXJvfDE1NDUwODI2MTd8R1gzdTZaTlFwOHJ0NWVObXFFQVBKTVJLS3B5bzk5OUJYNmQzYzV0UDZsY3w0MTdlOTViOGVkYmNhM2U3YTE3YWYyMGNmNDc1OGI5ZGM5OGQ5ZjY0MGQxZTc2NmVlMmE4NjRlZmJlZTM1ZjEyIiwiaWF0IjoxNTQzODcyMDgwLCJleHAiOjE1NzU0MDgwODB9.dP3WJe5hoGuaN20KcMMVk1kX3UD8X_kLEWrMhgr6hkw</text>
+        <text>csrfToken</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -262,7 +280,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUxIiwidXNlcklkIjoiNTEiLCJlbWFpbCI6ImhhbnRhcGVyb0B5YWhvby5jb20iLCJ2dWxjYW1BdXRoQ29va2llIjoiaGFudGFwZXJvfDE1NDUwODI2MTd8R1gzdTZaTlFwOHJ0NWVObXFFQVBKTVJLS3B5bzk5OUJYNmQzYzV0UDZsY3w0MTdlOTViOGVkYmNhM2U3YTE3YWYyMGNmNDc1OGI5ZGM5OGQ5ZjY0MGQxZTc2NmVlMmE4NjRlZmJlZTM1ZjEyIiwiaWF0IjoxNTQzODcyMDgwLCJleHAiOjE1NzU0MDgwODB9.dP3WJe5hoGuaN20KcMMVk1kX3UD8X_kLEWrMhgr6hkw</text>
+        <text>csrfToken</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -291,17 +309,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBgY2hhbm5lbHMvJHt0aGlzLmNoYW5uZWxJZH0vdmlkZW9zLyR7dGhpcy5pZH0vJHt0aGlzLmlkfV90aHVtYi5wbmdgCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>,\n' +
-    '        &quot;User-Agen'</text>
+      <register name="1" type="2">
+        <text encoding="base64">PC9mb3JtPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">RmF2b3JpdGUgY29sb3I6IDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJmYXZvcml0ZUNvbG9yIj4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">YXBwLnVzZSgnLycsIGluZGV4Um91dGVyKTsKYXBwLnVzZSgnL3VzZXJzJywgdXNlcnNSb3V0ZXIpOwo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>,\n' +
+    '        &quot;User-Agen'</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjYXNlICdiYXNlNjQnCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="4">
         <text>:
           let s3 = require('../../services/aws').s3;
           let picture = await (s3.getObject({
@@ -310,23 +343,8 @@
           }).promise());
           return picture.Body.toString('base64');</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgIGlmICghdGhpcy5pc1VwbG9hZGVkKXsKICAgICAgICByZXR1cm4gdW5kZWZpbmVkOwogICAgICB9</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
