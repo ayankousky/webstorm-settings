@@ -9,7 +9,12 @@
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1541542427257">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/comments/createBatch.json" timestamp="1544741313619" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/comments/createBatch.json" timestamp="1544743271477">
+        <mark key="[" line="74" column="17" />
+        <mark key="]" line="74" column="31" />
+        <mark key="^" line="74" column="31" />
+        <mark key="." line="74" column="31" />
+      </file>
       <file name="$USER_HOME$/Desktop/untitled/views/send.jade" timestamp="1543952005916">
         <mark key="[" line="1" column="41" />
         <mark key="]" line="1" column="53" />
@@ -53,37 +58,29 @@
         <mark key="^" line="130" column="34" />
         <mark key="." line="130" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/CHANGELOG.md" timestamp="1544744710531">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/storage_providers/VulcamStorage.js" timestamp="1542958228869">
         <mark key="[" line="46" column="15" />
         <mark key="]" line="46" column="17" />
         <mark key="." line="46" column="17" />
         <mark key="^" line="46" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" timestamp="1544741369967">
-        <mark key="[" line="158" column="30" />
-        <mark key="]" line="159" column="28" />
-        <mark key="^" line="159" column="28" />
-        <mark key="." line="159" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/myinfo.json" timestamp="1542912560866">
-        <mark key="'" line="124" column="3" />
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="5" />
-        <mark key="." line="8" column="5" />
-        <mark key="^" line="8" column="5" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" timestamp="1544744557544">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+        <mark key="^" line="158" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/apple.js" timestamp="1541328123327">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="17" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1542957737385">
-        <mark key="'" line="1298" column="39" />
-        <mark key="[" line="1325" column="45" />
-        <mark key="]" line="1325" column="45" />
-        <mark key="." line="1325" column="45" />
-        <mark key="^" line="1325" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/Dockerfile" timestamp="1544281739470">
         <mark key="[" line="8" column="0" />
@@ -95,7 +92,7 @@
         <mark key="." line="7" column="64" />
         <mark key="^" line="7" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544736072102">
+      <file name="/Dummy.txt" timestamp="1544743640968">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1543180727982">
@@ -104,19 +101,12 @@
         <mark key="^" line="798" column="64" />
         <mark key="." line="798" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1544741392606">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1544743423731">
         <mark key="'" line="886" column="0" />
-        <mark key="[" line="557" column="43" />
-        <mark key="]" line="557" column="47" />
-        <mark key="^" line="557" column="47" />
-        <mark key="." line="557" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/secret_manager/index.js" timestamp="1541143342093">
-        <mark key="'" line="18" column="6" />
-        <mark key="[" line="46" column="106" />
-        <mark key="]" line="47" column="24" />
-        <mark key="." line="47" column="24" />
-        <mark key="^" line="47" column="24" />
+        <mark key="[" line="546" column="2" />
+        <mark key="]" line="546" column="21" />
+        <mark key="^" line="546" column="21" />
+        <mark key="." line="546" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/index.js" timestamp="1541106712557">
         <mark key="[" line="8" column="15" />
@@ -130,18 +120,29 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment.js" timestamp="1544738899197">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment.js" timestamp="1544744094292">
         <mark key="'" line="0" column="12" />
-        <mark key="[" line="739" column="30" />
-        <mark key="]" line="739" column="30" />
-        <mark key="." line="739" column="30" />
-        <mark key="^" line="750" column="15" />
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="19" />
+        <mark key="." line="26" column="19" />
+        <mark key="^" line="52" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/comments/create.json" timestamp="1544743348212">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/untitled/app.js" timestamp="1543951860316">
         <mark key="[" line="31" column="69" />
         <mark key="]" line="32" column="23" />
         <mark key="^" line="32" column="23" />
         <mark key="." line="32" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1544744697422">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="62" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="18" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1542958271528">
         <mark key="'" line="181" column="37" />
@@ -260,7 +261,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Comment</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -275,67 +276,60 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Comment</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
           <key char="105" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="61" code="0" mods="0" />
-          <key char="65" code="0" mods="0" />
           <key char="65535" code="8" mods="0" />
-          <key char="59" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="106" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
         </keys>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJucG0gaW5zdGFsbDsgbm9kZW1vbiAtLWxlZ2FjeS13YXRjaCBzZXJ2ZXIuanMiCg==</text>
+        <text encoding="base64">ICAgIDcpIEFkZCBlbmRwb2ludCB3aGljaCBhbGxvd3MgdG8gY3JlYXRlIGEgYmF0Y2ggb2YgY29tbWVudHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGZiVmFsaWRhdGVFcnJvciA9IENvbW1lbnQudmFsaWRhdGVGZWVkYmFjayhib2R5LmZlZWRiYWNrKTsK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICogICAgICAgICAgICAgY29tbWVudAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+      <register name="4" type="4">
+        <text>:
+ *               $ref: '#/definitions/Comment'</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAqICAgICBleGFtcGxlOgogKiAgICAgICBwYXJlbnRJZDogMQogKiAgICAgICB0ZXh0OiBIZXksIGdyZWF0IHZpZGVvICE=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAqICAgICAgIHRleHQ6CiAqICAgICAgICAgdHlwZTogc3RyaW5nCiAqICAgICAgICAgZGVzY3JpcHRpb246IGNvbW1lbnQgdGV4dAogKiAgICAgICAgIGV4YW1wbGU6IEdyZWF0IHZpZGVvICE=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBldmVudAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAqICAgICAgICAgdHlwZTogb2JqZWN0CiAqICAgICAgICAgcHJvcGVydGllczoKICogICAgICAgICAgIGJhdGNoOgogKiAgICAgICAgICAgICB0eXBlOiBhcnJheQogKiAgICAgICAgICAgICBpdGVtczo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICogICAgICAgICByZXF1aXJlCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text>d:
+ *           - text</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
