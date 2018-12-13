@@ -4,8 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1543874534592">
-        <mark key="'" line="171" column="37" />
-        <mark key="^" line="7" column="4" />
+        <mark key="'" line="176" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/app.ts" timestamp="1540201347803">
         <mark key="[" line="51" column="0" />
@@ -104,7 +103,7 @@
         <mark key="." line="7" column="64" />
         <mark key="^" line="7" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543180259011">
+      <file name="/Dummy.txt" timestamp="1544736072102">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1543180727982">
@@ -114,7 +113,7 @@
         <mark key="." line="798" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1543383966555">
-        <mark key="'" line="866" column="0" />
+        <mark key="'" line="876" column="0" />
         <mark key="[" line="161" column="6" />
         <mark key="]" line="161" column="8" />
         <mark key="^" line="161" column="8" />
@@ -138,6 +137,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment.js" timestamp="1544736260860">
+        <mark key="[" line="462" column="0" />
+        <mark key="]" line="462" column="0" />
+        <mark key="." line="462" column="0" />
+        <mark key="^" line="461" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/VUE_access.js" timestamp="1541360302383">
         <mark key="[" line="60" column="37" />
@@ -281,8 +286,8 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>nodemon --legacy-watch</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -327,31 +332,39 @@
         <text encoding="base64">ICAgICJzdGFydCI6ICJucG0gaW5zdGFsbDsgbm9kZW1vbiAtLWxlZ2FjeS13YXRjaCBzZXJ2ZXIuanMiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC9mb3JtPgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">RmF2b3JpdGUgY29sb3I6IDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJmYXZvcml0ZUNvbG9yIj4K</text>
+      <register name="2" type="4">
+        <text>{
+        
+      }</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">PC9mb3JtPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">RmF2b3JpdGUgY29sb3I6IDxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJmYXZvcml0ZUNvbG9yIj4K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">YXBwLnVzZSgnLycsIGluZGV4Um91dGVyKTsKYXBwLnVzZSgnL3VzZXJzJywgdXNlcnNSb3V0ZXIpOwo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>,\n' +
-    '        &quot;User-Agen'</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlICdiYXNlNjQnCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="4">
+        <text>,\n' +
+    '        &quot;User-Agen'</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlICdiYXNlNjQnCg==</text>
+      </register>
+      <register name="9" type="4">
         <text>:
           let s3 = require('../../services/aws').s3;
           let picture = await (s3.getObject({
@@ -359,12 +372,6 @@
             Key: exportS3Key
           }).promise());
           return picture.Body.toString('base64');</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
