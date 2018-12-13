@@ -6,14 +6,10 @@
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1543874534592">
         <mark key="'" line="176" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/app.ts" timestamp="1540201347803">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1541542427257">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/comments/createBatch.json" timestamp="1544740266165" />
       <file name="$USER_HOME$/Desktop/untitled/views/send.jade" timestamp="1543952005916">
         <mark key="[" line="1" column="41" />
         <mark key="]" line="1" column="53" />
@@ -82,22 +78,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1539989451010">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1542957737385">
         <mark key="'" line="1298" column="39" />
         <mark key="[" line="1325" column="45" />
         <mark key="]" line="1325" column="45" />
         <mark key="." line="1325" column="45" />
         <mark key="^" line="1325" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/BaseAppAccess.js" timestamp="1541364924338">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/Dockerfile" timestamp="1544281739470">
         <mark key="[" line="8" column="0" />
@@ -118,12 +104,12 @@
         <mark key="^" line="798" column="64" />
         <mark key="." line="798" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1543383966555">
-        <mark key="'" line="876" column="0" />
-        <mark key="[" line="161" column="6" />
-        <mark key="]" line="161" column="8" />
-        <mark key="^" line="161" column="8" />
-        <mark key="." line="161" column="8" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1544740165102">
+        <mark key="'" line="886" column="0" />
+        <mark key="[" line="562" column="41" />
+        <mark key="]" line="562" column="44" />
+        <mark key="^" line="562" column="44" />
+        <mark key="." line="562" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/secret_manager/index.js" timestamp="1541143342093">
         <mark key="'" line="18" column="6" />
@@ -151,37 +137,17 @@
         <mark key="." line="739" column="30" />
         <mark key="^" line="750" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/VUE_access.js" timestamp="1541360302383">
-        <mark key="[" line="60" column="37" />
-        <mark key="]" line="60" column="37" />
-        <mark key="." line="60" column="37" />
-      </file>
       <file name="$USER_HOME$/Desktop/untitled/app.js" timestamp="1543951860316">
         <mark key="[" line="31" column="69" />
         <mark key="]" line="32" column="23" />
         <mark key="^" line="32" column="23" />
         <mark key="." line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/en.json" timestamp="1541778309478">
-        <mark key="[" line="36" column="50" />
-        <mark key="]" line="36" column="50" />
-        <mark key="." line="36" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1540329178845">
-        <mark key="[" line="1341" column="0" />
-        <mark key="]" line="1341" column="0" />
-        <mark key="." line="1341" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1542958271528">
         <mark key="'" line="181" column="37" />
         <mark key="[" line="157" column="0" />
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_types/PRO_subscription.js" timestamp="1541353700227">
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="259" column="0" />
-        <mark key="." line="259" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/fvpBackup.js" timestamp="1543179157753">
         <mark key="[" line="134" column="48" />
@@ -293,8 +259,8 @@
       <jump line="0" column="12" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGZiVmFsaWRhdGVFcnJvciA9IENvbW1lbnQudmFsaWRhdGVGZWVkYmFjayhib2R5LmZlZWRiYWNrKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Comment</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -309,7 +275,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>Comment</text>
       </register>
       <register name="m" type="4">
         <keys>
