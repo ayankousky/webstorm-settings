@@ -144,6 +144,11 @@
         <mark key="." line="18" column="31" />
         <mark key="^" line="18" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/comments_api.js" timestamp="1544808654323">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1542958271528">
         <mark key="'" line="181" column="37" />
         <mark key="[" line="157" column="0" />
@@ -260,8 +265,8 @@
       <jump line="0" column="12" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLCAK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -276,7 +281,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -297,7 +302,7 @@
         <text encoding="base64">ICAgIDcpIEFkZCBlbmRwb2ludCB3aGljaCBhbGxvd3MgdG8gY3JlYXRlIGEgYmF0Y2ggb2YgY29tbWVudHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAgLCAK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -306,30 +311,29 @@
         <text encoding="base64">ICoK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICoK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICogICAgICAgICAgICAgY29tbWVudAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>:
  *               $ref: '#/definitions/Comment'</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAqICAgICBleGFtcGxlOgogKiAgICAgICBwYXJlbnRJZDogMQogKiAgICAgICB0ZXh0OiBIZXksIGdyZWF0IHZpZGVvICE=</text>
-      </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAqICAgICAgIHRleHQ6CiAqICAgICAgICAgdHlwZTogc3RyaW5nCiAqICAgICAgICAgZGVzY3JpcHRpb246IGNvbW1lbnQgdGV4dAogKiAgICAgICAgIGV4YW1wbGU6IEdyZWF0IHZpZGVvICE=</text>
+        <text encoding="base64">CiAqICAgICBleGFtcGxlOgogKiAgICAgICBwYXJlbnRJZDogMQogKiAgICAgICB0ZXh0OiBIZXksIGdyZWF0IHZpZGVvICE=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">CiAqICAgICAgIHRleHQ6CiAqICAgICAgICAgdHlwZTogc3RyaW5nCiAqICAgICAgICAgZGVzY3JpcHRpb246IGNvbW1lbnQgdGV4dAogKiAgICAgICAgIGV4YW1wbGU6IEdyZWF0IHZpZGVvICE=</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">CiAqICAgICAgICAgdHlwZTogb2JqZWN0CiAqICAgICAgICAgcHJvcGVydGllczoKICogICAgICAgICAgIGJhdGNoOgogKiAgICAgICAgICAgICB0eXBlOiBhcnJheQogKiAgICAgICAgICAgICBpdGVtczo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICogICAgICAgICByZXF1aXJlCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>d:
- *           - text</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
