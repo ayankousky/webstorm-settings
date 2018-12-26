@@ -3,13 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/PYOUR_base/portal_client/package.json" timestamp="1545780595506">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-        <mark key="^" line="1" column="23" />
+      <file name="$USER_HOME$/Desktop/PYOUR_base/main_db/Dockerfile" timestamp="1545784400211">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1545781149847" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/comments/createBatch.json" timestamp="1544744782423">
         <mark key="[" line="74" column="17" />
         <mark key="]" line="74" column="31" />
@@ -21,18 +20,6 @@
         <mark key="]" line="1" column="53" />
         <mark key="." line="1" column="53" />
         <mark key="^" line="1" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/index.js" timestamp="1541349694920">
-        <mark key="[" line="44" column="64" />
-        <mark key="]" line="44" column="69" />
-        <mark key="^" line="44" column="69" />
-        <mark key="." line="44" column="69" />
-      </file>
-      <file name="$USER_HOME$/Desktop/PYOUR_base/main_db_worker/Dockerfile" timestamp="1545779577444">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/access_manager/package.json" timestamp="1545780908832">
         <mark key="[" line="1" column="11" />
@@ -46,41 +33,17 @@
         <mark key="^" line="1" column="76" />
         <mark key="." line="1" column="76" />
       </file>
-      <file name="$USER_HOME$/Desktop/PYOUR_base/main_db_worker/app.js" timestamp="1545778438020">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/main_db_worker/server.js" timestamp="1545779811211">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="3" column="20" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/PYOUR_base/public_api/package.json" timestamp="1545780308275">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_types/BaseSubscription.js" timestamp="1541366268031">
-        <mark key="[" line="55" column="40" />
-        <mark key="]" line="55" column="60" />
-        <mark key="." line="55" column="60" />
-        <mark key="^" line="55" column="60" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/PRO_access.js" timestamp="1541360190883">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="9" column="11" />
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/prod/main_vulcanvision.yml" timestamp="1541508689638">
-        <mark key="[" line="130" column="31" />
-        <mark key="]" line="130" column="34" />
-        <mark key="^" line="130" column="34" />
-        <mark key="." line="130" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/CHANGELOG.md" timestamp="1544744710531">
         <mark key="[" line="8" column="4" />
@@ -94,17 +57,93 @@
         <mark key="." line="46" column="17" />
         <mark key="^" line="46" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" timestamp="1544744557544">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
-        <mark key="^" line="158" column="37" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/apple.js" timestamp="1541328123327">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="17" column="36" />
+      </file>
+      <file name="$USER_HOME$/Desktop/PYOUR_base/docker-compose.dev.yml" timestamp="1545784649913">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="11" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/package.json" timestamp="1544281938412">
+        <mark key="[" line="7" column="64" />
+        <mark key="]" line="7" column="64" />
+        <mark key="." line="7" column="64" />
+        <mark key="^" line="7" column="64" />
+      </file>
+      <file name="$USER_HOME$/Desktop/PYOUR_base/docker-compose.yml" timestamp="1545784660470">
+        <mark key="'" line="10" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1544744697422">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="62" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/comments_api.js" timestamp="1545033425217">
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="51" column="22" />
+        <mark key="." line="51" column="22" />
+        <mark key="^" line="51" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1545349912311">
+        <mark key="[" line="822" column="0" />
+        <mark key="]" line="822" column="0" />
+        <mark key="." line="822" column="0" />
+        <mark key="^" line="827" column="2" />
+      </file>
+      <file name="$USER_HOME$/Desktop/PYOUR_base/portal_client/package.json" timestamp="1545780595506">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1545781149847" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/index.js" timestamp="1541349694920">
+        <mark key="[" line="44" column="64" />
+        <mark key="]" line="44" column="69" />
+        <mark key="^" line="44" column="69" />
+        <mark key="." line="44" column="69" />
+      </file>
+      <file name="$USER_HOME$/Desktop/PYOUR_base/main_db_worker/Dockerfile" timestamp="1545779577444">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/PYOUR_base/main_db_worker/app.js" timestamp="1545778438020">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/PYOUR_base/public_api/package.json" timestamp="1545780308275">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_types/BaseSubscription.js" timestamp="1541366268031">
+        <mark key="[" line="55" column="40" />
+        <mark key="]" line="55" column="60" />
+        <mark key="." line="55" column="60" />
+        <mark key="^" line="55" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/prod/main_vulcanvision.yml" timestamp="1541508689638">
+        <mark key="[" line="130" column="31" />
+        <mark key="]" line="130" column="34" />
+        <mark key="^" line="130" column="34" />
+        <mark key="." line="130" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" timestamp="1544744557544">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+        <mark key="^" line="158" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/medical_api/package.json" timestamp="1545779719230">
         <mark key="[" line="6" column="36" />
@@ -117,18 +156,6 @@
         <mark key="]" line="48" column="33" />
         <mark key="." line="48" column="33" />
         <mark key="^" line="48" column="33" />
-      </file>
-      <file name="$USER_HOME$/Desktop/PYOUR_base/docker-compose.dev.yml" timestamp="1545783105035">
-        <mark key="[" line="18" column="21" />
-        <mark key="]" line="18" column="25" />
-        <mark key="." line="18" column="25" />
-        <mark key="^" line="18" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/package.json" timestamp="1544281938412">
-        <mark key="[" line="7" column="64" />
-        <mark key="]" line="7" column="64" />
-        <mark key="." line="7" column="64" />
-        <mark key="^" line="7" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1545767253767">
         <mark key="[" line="798" column="58" />
@@ -160,12 +187,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/PYOUR_base/docker-compose.yml" timestamp="1545783010707">
-        <mark key="'" line="10" column="15" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="50" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="63" column="19" />
+      <file name="$USER_HOME$/Desktop/PYOUR_base/main_db/init/01-filldb.sh" timestamp="1545784334777">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="23" />
+        <mark key="^" line="18" column="22" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/untitled/app.js" timestamp="1543951860316">
         <mark key="[" line="31" column="69" />
@@ -179,24 +205,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1544744697422">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="62" />
-        <mark key="." line="18" column="31" />
-        <mark key="^" line="18" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/comments_api.js" timestamp="1545033425217">
-        <mark key="[" line="51" column="23" />
-        <mark key="]" line="51" column="22" />
-        <mark key="." line="51" column="22" />
-        <mark key="^" line="51" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1545349912311">
-        <mark key="[" line="822" column="0" />
-        <mark key="]" line="822" column="0" />
-        <mark key="." line="822" column="0" />
-        <mark key="^" line="827" column="2" />
       </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/enduser_api/package.json" timestamp="1545780188697">
         <mark key="[" line="1" column="11" />
@@ -314,8 +322,8 @@
       <jump line="9" column="15" filename="$USER_HOME$/Desktop/PYOUR_base/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>crm_users</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -330,7 +338,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>crm_users</text>
+        <text>1</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -348,18 +356,36 @@
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSAuL21haW5fZGIvaW5pdDovZG9ja2VyLWVudHJ5cG9pbnQtaW5pdGRiLmQK</text>
+        <text encoding="base64">ZWNobyAia2VrZWtla2VrZWtla2VrZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLSAuL21haW5fZGIvaW5pdDovZG9ja2VyLWVudHJ5cG9pbnQtaW5pdGRiLmQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGltYWdlOiBwb3N0Z3JlczoxMS4xLWFscGluZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
+      </register>
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">IyAgICBpbWFnZTogcG9zdGdyZXM6MTEuMS1hbHBpbgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>e
 #    networks:
 #      - base_network
@@ -368,26 +394,8 @@
 #      - ./main_db/postgresql:/var/lib/postgresql
 #      - ./main_db/postgresql/data:/var/lib/postgresql/data</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgLSAnMzo0NDMnCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBwb3J0czoKICAgICAgLSAzMDAxOjMwMDA=</text>
-      </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBwb3J0czoKICAgICAgLSAzMDAyOjMwMDA=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBwb3J0czoKICAgICAgLSAzMDAzOjMwMDA=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBwb3J0czoKICAgICAgLSAzMDA0OjMwMDA=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
