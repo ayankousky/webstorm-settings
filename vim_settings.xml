@@ -118,19 +118,17 @@
         <mark key="." line="48" column="33" />
         <mark key="^" line="48" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/PYOUR_base/docker-compose.dev.yml" timestamp="1545782496143">
-        <mark key="[" line="44" column="17" />
-        <mark key="]" line="46" column="20" />
-        <mark key="." line="44" column="17" />
+      <file name="$USER_HOME$/Desktop/PYOUR_base/docker-compose.dev.yml" timestamp="1545783105035">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+        <mark key="^" line="18" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/package.json" timestamp="1544281938412">
         <mark key="[" line="7" column="64" />
         <mark key="]" line="7" column="64" />
         <mark key="." line="7" column="64" />
         <mark key="^" line="7" column="64" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1545662014301">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1545767253767">
         <mark key="[" line="798" column="58" />
@@ -162,12 +160,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/PYOUR_base/docker-compose.yml" timestamp="1545782423949">
-        <mark key="'" line="9" column="15" />
-        <mark key="[" line="16" column="37" />
-        <mark key="]" line="16" column="37" />
-        <mark key="." line="16" column="37" />
-        <mark key="^" line="62" column="19" />
+      <file name="$USER_HOME$/Desktop/PYOUR_base/docker-compose.yml" timestamp="1545783010707">
+        <mark key="'" line="10" column="15" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="50" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="63" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/untitled/app.js" timestamp="1543951860316">
         <mark key="[" line="31" column="69" />
@@ -317,7 +315,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBOT0RFX0VOVj1kZXY=</text>
+        <text>crm_users</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -332,7 +330,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>crm_users</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -349,41 +347,47 @@
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBOT0RFX0VOVj1kZXY=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgLSAuL21haW5fZGIvaW5pdDovZG9ja2VyLWVudHJ5cG9pbnQtaW5pdGRiLmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSAnMzo0NDMnCg==</text>
+        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyAgICBpbWFnZTogcG9zdGdyZXM6MTEuMS1hbHBpbgo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICBwb3J0czoKICAgICAgLSAzMDAxOjMwMDA=</text>
+        <text>e
+#    networks:
+#      - base_network
+#    volumes:
+#      - ./main_db/init:/docker-entrypoint-initdb.d
+#      - ./main_db/postgresql:/var/lib/postgresql
+#      - ./main_db/postgresql/data:/var/lib/postgresql/data</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBwb3J0czoKICAgICAgLSAzMDAyOjMwMDA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLSAnMzo0NDMnCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBwb3J0czoKICAgICAgLSAzMDAzOjMwMDA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICBwb3J0czoKICAgICAgLSAzMDA0OjMwMDA=</text>
+        <text encoding="base64">CiAgICBwb3J0czoKICAgICAgLSAzMDAxOjMwMDA=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICBwb3J0czoKICAgICAgLSAzMDA2OjMwMDA=</text>
+        <text encoding="base64">CiAgICBwb3J0czoKICAgICAgLSAzMDAyOjMwMDA=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICBwb3J0czoKICAgICAgLSAzMDA1OjMwMDA=</text>
+        <text encoding="base64">CiAgICBwb3J0czoKICAgICAgLSAzMDAzOjMwMDA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGJ1aWxhc2VfbmV0d29yawo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBwb3J0czoKICAgICAgLSAzMDA0OjMwMDA=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
