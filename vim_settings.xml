@@ -116,20 +116,16 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/server.js" timestamp="1546655288817">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="58" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db-init.js" timestamp="1546678706625">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1546681388495">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1546686281201">
+        <mark key="[" line="40" column="71" />
+        <mark key="]" line="40" column="79" />
+        <mark key="^" line="40" column="79" />
+        <mark key="." line="40" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1544744697422">
         <mark key="[" line="18" column="0" />
@@ -238,12 +234,8 @@
         <mark key="." line="48" column="33" />
         <mark key="^" line="48" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/package.json" timestamp="1546677502605">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="67" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/auth.js" timestamp="1546679135251" />
-      <file name="/Dummy.txt" timestamp="1546681050037">
+      <file name="/Dummy.txt" timestamp="1546685576803">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.dev.yml" timestamp="1546677905498">
@@ -258,17 +250,17 @@
         <mark key="^" line="798" column="64" />
         <mark key="." line="798" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/userService.js" timestamp="1546679442699">
-        <mark key="[" line="122" column="8" />
-        <mark key="]" line="123" column="9" />
-        <mark key="^" line="123" column="9" />
-        <mark key="." line="123" column="9" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/userService.js" timestamp="1546685703852">
+        <mark key="[" line="108" column="18" />
+        <mark key="]" line="108" column="23" />
+        <mark key="^" line="108" column="23" />
+        <mark key="." line="108" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/users.js" timestamp="1546681000564">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="9" />
-        <mark key="^" line="5" column="9" />
-        <mark key="." line="5" column="9" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/users.js" timestamp="1546685862979">
+        <mark key="[" line="8" column="49" />
+        <mark key="]" line="8" column="49" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/index.js" timestamp="1541106712557">
         <mark key="[" line="8" column="15" />
@@ -434,8 +426,8 @@
       <jump line="15" column="4" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/options.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3Qgb3B0aW9ucyA9IHJlcXVpcmUoJy4uL29wdGlvbnMnKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Z2V0dGluZyA=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -450,7 +442,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGdvdFVzZXI=</text>
+        <text encoding="base64">Z2V0dGluZyA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -468,40 +460,46 @@
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3Qgb3B0aW9ucyA9IHJlcXVpcmUoJy4vb3B0aW9ucycpOwo=</text>
+        <text encoding="base64">cm91dGVyLmdldCgnL3Byb2ZpbGUnLCBhdXRoLCB1c2VyQ29udHJvbGxlci5wcm9maWxlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3Qgb3B0aW9ucyA9IHJlcXVpcmUoJy4uL29wdGlvbnMnKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEuYm9keSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygna2VrZWtla2UnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3Qgand0ID0gcmVxdWlyZSgnanNvbndlYnRva2VuJyk7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gcmVzLmpzb24oe30pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgYmNyeXB0ID0gcmVxdWlyZSgiYmNyeXB0anMiKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICwgZ290VXNlcjsK</text>
+        <text encoding="base64">ICAgICAgcmVzLnN0YXR1cygyMDApLmpzb24ocmVzdWx0KTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
+      <register name="6" type="4">
+        <text>if (user) {
+        return res.status(200).json({
+          user: user,
+        });
+      } else {
+        throw new Error('Smth went wrong while getting user by id!');
+      }</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZ290VXNlciA9IHVzZXI7Cg==</text>
+        <text encoding="base64">Y29uc3Qgb3B0aW9ucyA9IHJlcXVpcmUoJy4uL29wdGlvbnMnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LnRoZW4odXNlciA9PiB7CiAgICAgIAogICAgfSk=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc3Qgand0ID0gcmVxdWlyZSgnanNvbndlYnRva2VuJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
@@ -512,7 +510,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxSVU5cPg==</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
-      <last-substitute encoding="base64">XDxjbGllbnRcPg==</last-substitute>
+      <last-substitute encoding="base64">XDxSVU5cPg==</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
