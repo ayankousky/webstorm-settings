@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/controllers/auth.js" timestamp="1546679488653">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/main_db/Dockerfile" timestamp="1545784400211">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="24" />
@@ -104,11 +99,11 @@
         <mark key="." line="7" column="64" />
         <mark key="^" line="7" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/gulpfile.js" timestamp="1546677755817">
-        <mark key="[" line="33" column="18" />
-        <mark key="]" line="33" column="17" />
-        <mark key="." line="33" column="17" />
-        <mark key="^" line="33" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/gulpfile.js" timestamp="1546699288142">
+        <mark key="[" line="63" column="22" />
+        <mark key="]" line="63" column="22" />
+        <mark key="." line="63" column="22" />
+        <mark key="^" line="63" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/package.json" timestamp="1546677505271">
         <mark key="[" line="8" column="0" />
@@ -126,10 +121,12 @@
         <mark key="." line="23" column="48" />
         <mark key="^" line="23" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db-init.js" timestamp="1546678706625">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db-init.js" timestamp="1546699557651">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="89" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1546689821543">
         <mark key="'" line="36" column="56" />
@@ -137,6 +134,9 @@
         <mark key="]" line="16" column="28" />
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="28" />
+      </file>
+      <file name="$USER_HOME$/Desktop/PYOUR_base/docker-compose.yml" timestamp="1545784660470">
+        <mark key="'" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1544744697422">
         <mark key="[" line="18" column="0" />
@@ -197,7 +197,7 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1546677896834">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1546699893271">
         <mark key="'" line="68" column="8" />
         <mark key="[" line="78" column="22" />
         <mark key="]" line="78" column="22" />
@@ -228,12 +228,11 @@
         <mark key="." line="155" column="0" />
         <mark key="^" line="158" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/options.js" timestamp="1546677717517">
-        <mark key="'" line="15" column="4" />
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="24" />
-        <mark key="^" line="11" column="24" />
-        <mark key="." line="11" column="24" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/options.js" timestamp="1546699695539">
+        <mark key="[" line="16" column="38" />
+        <mark key="]" line="16" column="36" />
+        <mark key="^" line="16" column="36" />
+        <mark key="." line="16" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/medical_api/package.json" timestamp="1545779719230">
         <mark key="[" line="6" column="36" />
@@ -251,15 +250,14 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/auth.js" timestamp="1546679135251" />
-      <file name="/Dummy.txt" timestamp="1546685576803">
+      <file name="/Dummy.txt" timestamp="1546698827917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.dev.yml" timestamp="1546677905498">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.dev.yml" timestamp="1546699880653">
         <mark key="[" line="28" column="20" />
-        <mark key="]" line="28" column="23" />
-        <mark key="." line="28" column="23" />
-        <mark key="^" line="28" column="23" />
+        <mark key="]" line="28" column="20" />
+        <mark key="." line="28" column="20" />
+        <mark key="^" line="28" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1545767253767">
         <mark key="[" line="798" column="58" />
@@ -333,6 +331,9 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/.gitignore" timestamp="1546698616629">
+        <mark key="'" line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/videos/types/fvpBackup.js" timestamp="1543179157753">
         <mark key="[" line="134" column="48" />
         <mark key="]" line="134" column="50" />
@@ -341,12 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4486" column="8" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
-      <jump line="4494" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
-      <jump line="423" column="31" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/channel.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
-      <jump line="4495" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
-      <jump line="3766" column="47" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="3967" column="18" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="3968" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="1144" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
@@ -441,10 +436,16 @@
       <jump line="50" column="29" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" />
       <jump line="18" column="29" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" />
       <jump line="35" column="56" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/.gitignore" />
+      <jump line="89" column="10" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db-init.js" />
+      <jump line="110" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db-init.js" />
+      <jump line="4" column="7" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db-init.js" />
+      <jump line="92" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db-init.js" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db-init.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYW5nZXMucGFzc3dvcmQpCg==</text>
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJ2Vycm9yb3Jvcm9yb3Jvcm9yb3JybycK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -459,7 +460,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>42P04</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -477,40 +478,41 @@
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgYmNyeXB0ID0gcmVxdWlyZSgiYmNyeXB0anMiKTsK</text>
+        <text encoding="base64">CQkJCQl9IGVsc2Ugewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYW5nZXMucGFzc3dvcmQpCg==</text>
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJ2Vycm9yb3Jvcm9yb3Jvcm9yb3JybycK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nCg==</text>
+      <register name="2" type="4">
+        <text>)
+						console.log(pgErr)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2cocGdFcnIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZSh0b2tlblBhcnNlUmVzdWx0LmV4cCAqIDEwMDApKQo=</text>
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJ2Vycm9yb3Jvcm9yb3Jvcm9yb3JybycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0b2tlblBhcnNlUmVzdWx0KTsK</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coY29uZmlnKQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2dvdCB1c2VyIGJ5IGlkJywgdXNlcik7Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgQURNSU5fREIgPSAncHlvdXJfY2xvdWRfZGInOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuZW5kKCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYW5nZXMucGFzc3dvcmQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0KCdMb2NhdGlvbicsICkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
