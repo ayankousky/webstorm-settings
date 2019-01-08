@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/controllers/auth.js" timestamp="1546679488653">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/main_db/Dockerfile" timestamp="1545784400211">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="24" />
@@ -87,17 +92,22 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/package.json" timestamp="1546980111039">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/package.json" timestamp="1546984151487">
+        <mark key="[" line="10" column="68" />
+        <mark key="]" line="10" column="82" />
+        <mark key="." line="10" column="82" />
+        <mark key="^" line="10" column="82" />
       </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/docker-compose.dev.yml" timestamp="1545784649913">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="11" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/auth/auth.service.ts" timestamp="1546984724753">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="42" />
+        <mark key="." line="6" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/package.json" timestamp="1544281938412">
         <mark key="[" line="7" column="64" />
@@ -117,11 +127,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/Dockerfile" timestamp="1546980427461">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="4" />
-        <mark key="^" line="17" column="4" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/Dockerfile" timestamp="1546983732402">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/server.js" timestamp="1546689726190">
         <mark key="[" line="2" column="0" />
@@ -133,7 +143,7 @@
         <mark key="." line="23" column="48" />
         <mark key="^" line="23" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.local.yml" timestamp="1546979972795" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.local.yml" timestamp="1546983783545" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db-init.js" timestamp="1546699557651">
         <mark key="'" line="87" column="0" />
         <mark key="[" line="95" column="0" />
@@ -168,6 +178,11 @@
         <mark key="]" line="822" column="0" />
         <mark key="." line="822" column="0" />
         <mark key="^" line="827" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/auth/signup/signup.component.ts" timestamp="1546984714240">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="5" column="43" />
+        <mark key="." line="5" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/gulpfile.js" timestamp="1546688426094">
         <mark key="[" line="15" column="0" />
@@ -210,12 +225,16 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1546699893271">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1546983773005">
         <mark key="'" line="68" column="8" />
         <mark key="[" line="78" column="22" />
         <mark key="]" line="78" column="22" />
         <mark key="^" line="18" column="7" />
         <mark key="." line="78" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/Dockerfile" timestamp="1546983174689">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_types/BaseSubscription.js" timestamp="1541366268031">
         <mark key="[" line="55" column="40" />
@@ -264,7 +283,7 @@
         <mark key="]" line="7" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/auth.js" timestamp="1546679135251" />
-      <file name="/Dummy.txt" timestamp="1546698827917">
+      <file name="/Dummy.txt" timestamp="1546984718472">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.dev.yml" timestamp="1546699880653">
@@ -459,7 +478,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">UlVOIGVjaG8gYHB3ZGAK</text>
+        <text encoding="base64">Q01EIFsibnBtIiwgInN0YXJ0Il0K</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -474,7 +493,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">IGJ1aWxk</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -492,7 +511,7 @@
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQl9IGVsc2Ugewo=</text>
+        <text encoding="base64">Q01EIFsibnBtIiwgInN0YXJ0Il0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">UlVOIGVjaG8gYHB3ZGAK</text>
