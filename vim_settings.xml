@@ -14,6 +14,7 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
+      <file name="$USER_HOME$/Desktop/Serve_public/PYOURproject/modules/portal_client/conf.dev.nginx" timestamp="1546985228235" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/comments/createBatch.json" timestamp="1544744782423">
         <mark key="[" line="74" column="17" />
         <mark key="]" line="74" column="31" />
@@ -25,6 +26,12 @@
         <mark key="]" line="1" column="53" />
         <mark key="." line="1" column="53" />
         <mark key="^" line="1" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/nginx/conf.dev.nginx" timestamp="1546987874879">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="35" />
+        <mark key="." line="29" column="35" />
+        <mark key="^" line="29" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/access_manager/package.json" timestamp="1545780908832">
         <mark key="[" line="1" column="11" />
@@ -92,11 +99,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/package.json" timestamp="1546984151487">
-        <mark key="[" line="10" column="68" />
-        <mark key="]" line="10" column="82" />
-        <mark key="." line="10" column="82" />
-        <mark key="^" line="10" column="82" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/package.json" timestamp="1546987386316">
+        <mark key="[" line="10" column="94" />
+        <mark key="]" line="10" column="92" />
+        <mark key="." line="10" column="92" />
+        <mark key="^" line="10" column="92" />
       </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/docker-compose.dev.yml" timestamp="1545784649913">
         <mark key="[" line="21" column="0" />
@@ -127,11 +134,17 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/Dockerfile" timestamp="1546983732402">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/Dockerfile" timestamp="1546986342320">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/nginx/conf.local.nginx" timestamp="1546987918157">
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+        <mark key="^" line="29" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/server.js" timestamp="1546689726190">
         <mark key="[" line="2" column="0" />
@@ -143,7 +156,7 @@
         <mark key="." line="23" column="48" />
         <mark key="^" line="23" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.local.yml" timestamp="1546983783545" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.local.yml" timestamp="1546986154404" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db-init.js" timestamp="1546699557651">
         <mark key="'" line="87" column="0" />
         <mark key="[" line="95" column="0" />
@@ -151,6 +164,7 @@
         <mark key="." line="95" column="0" />
         <mark key="^" line="89" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/server/conf.local.nginx" timestamp="1546988443424" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1546689821543">
         <mark key="'" line="36" column="56" />
         <mark key="[" line="15" column="17" />
@@ -225,12 +239,12 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1546983773005">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1546987986813">
         <mark key="'" line="68" column="8" />
-        <mark key="[" line="78" column="22" />
-        <mark key="]" line="78" column="22" />
-        <mark key="^" line="18" column="7" />
-        <mark key="." line="78" column="22" />
+        <mark key="[" line="60" column="26" />
+        <mark key="]" line="60" column="24" />
+        <mark key="^" line="60" column="24" />
+        <mark key="." line="60" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/Dockerfile" timestamp="1546983174689">
         <mark key="[" line="7" column="0" />
@@ -477,8 +491,8 @@
       <jump line="87" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db-init.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q01EIFsibnBtIiwgInN0YXJ0Il0K</text>
+      <register name="&quot;" type="4">
+        <text>portal-client</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -493,7 +507,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGJ1aWxk</text>
+        <text>portal-client</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -511,41 +525,41 @@
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q01EIFsibnBtIiwgInN0YXJ0Il0K</text>
+        <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy9hcHAvbm9kZV9tb2R1bGVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIGVjaG8gYHB3ZGAK</text>
+        <text encoding="base64">ICAgICJzdGFydGluZG9ja2VyIjogImVjaG8gYHB3ZGAiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJ2Vycm9yb3Jvcm9yb3Jvcm9yb3JybycK</text>
+        <text encoding="base64">IyBSVU4gbnBtIGluc3RhbGwgLWcgYW5ndWxhci1jbGkK</text>
       </register>
-      <register name="3" type="4">
-        <text>)
-						console.log(pgErr)</text>
+      <register name="3" type="2">
+        <text encoding="base64">I0NNRCBbIm5wbSIsICJzdGFydCJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgIHJvb3QgL3Vzci9zcmMvYXBwL3NyYzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2cocGdFcnIpCg==</text>
+        <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy9hcHAvbm9kZV9tb2R1bGVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJ2Vycm9yb3Jvcm9yb3Jvcm9yb3JybycpCg==</text>
+        <text encoding="base64">UlVOIGVjaG8gYHB3ZGAK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coY29uZmlnKQo=</text>
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJ2Vycm9yb3Jvcm9yb3Jvcm9yb3JybycK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gY29uc3QgQURNSU5fREIgPSAncHlvdXJfY2xvdWRfZGInOwo=</text>
+      <register name="8" type="4">
+        <text>)
+						console.log(pgErr)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoYW5nZXMucGFzc3dvcmQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
