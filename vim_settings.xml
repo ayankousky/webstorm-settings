@@ -173,11 +173,11 @@
         <mark key="]" line="911" column="87" />
         <mark key="." line="911" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/Dockerfile" timestamp="1547015879788">
-        <mark key="[" line="20" column="7" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="17" />
-        <mark key="^" line="20" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/Dockerfile" timestamp="1547546773674">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/nginx/conf.local.nginx" timestamp="1546987918157">
         <mark key="[" line="29" column="21" />
@@ -280,7 +280,7 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1547016456872">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1547546175019">
         <mark key="'" line="73" column="8" />
         <mark key="[" line="65" column="26" />
         <mark key="]" line="65" column="24" />
@@ -340,6 +340,7 @@
       <file name="/Dummy.txt" timestamp="1547396041014">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.dev.yml" timestamp="1547546197719" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1545767253767">
         <mark key="[" line="798" column="58" />
         <mark key="]" line="798" column="64" />
@@ -541,7 +542,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I1JVTiBucG0gaW5zdGFsbCAtZyAtLXVuc2FmZS1wZXJtIC0tdmVyYm9zZSBAYW5ndWxhci9jbGkK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -577,37 +578,37 @@
         <text encoding="base64">ICAgICAgICAgIDx0aD5TdWdnZXN0aW9uIHdvcmRzPC90aD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I1JVTiBucG0gaW5zdGFsbCAtZyAtLXVuc2FmZS1wZXJtIC0tdmVyYm9zZSBAYW5ndWxhci9jbGkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdXNlcnM6IHJlc3VsdHMub2JqZWN0cywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY291bnQ6IHJlc3VsdHMudG90YWxDb3VudCwK</text>
+        <text encoding="base64">ICAgICAgdXNlcnM6IHJlc3VsdHMub2JqZWN0cywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY291bnQ6IHJlc3VsdHMudG90YWxDb3VudCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCByZXN1bHRzID0gYXdhaXQgKENsb3VkVXNlci5zZWFyY2goJ2ludGVybmFsVXNlcicsIGV2ZW50LmJvZHkucGFyYW1zKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGxldCByZXN1bHRzID0gYXdhaXQgKENsb3VkVXNlci5zZWFyY2goJ2ludGVybmFsVXNlcicsIGV2ZW50LmJvZHkucGFyYW1zKSk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBpZiAob0RhdGEuaXNCYW5uZWQpIHsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">fSBlbHNlIHsKICAgICAgICAgICAgICAgICQoblRkKS5odG1sKGA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLWRhbmdlciBibG9jay1jaGFubmVsIiB0eXBlPSJidXR0b24iPkJsb2NrPC9idXR0b24+YCk7CiAgICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
