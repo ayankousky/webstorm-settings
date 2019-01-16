@@ -124,6 +124,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="17" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/objectStorage/index.js" timestamp="1547670148920">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/package.json" timestamp="1547558723098">
         <mark key="[" line="6" column="47" />
         <mark key="]" line="6" column="44" />
@@ -203,12 +209,12 @@
         <mark key="." line="95" column="0" />
         <mark key="^" line="89" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1547669366651">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1547670303902">
         <mark key="'" line="36" column="56" />
-        <mark key="[" line="139" column="22" />
-        <mark key="]" line="140" column="24" />
-        <mark key="^" line="140" column="24" />
-        <mark key="." line="140" column="24" />
+        <mark key="[" line="138" column="78" />
+        <mark key="]" line="138" column="89" />
+        <mark key="^" line="138" column="89" />
+        <mark key="." line="138" column="89" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1544744697422">
         <mark key="[" line="18" column="0" />
@@ -543,7 +549,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>webpi</text>
+        <text>files.uploadedFile.path</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -558,7 +564,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>webpi</text>
+        <text>files.uploadedFile.path</text>
       </register>
       <register name="m" type="4">
         <keys>
