@@ -170,11 +170,11 @@
         <mark key="." line="75" column="20" />
         <mark key="^" line="75" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/translator/locales/ru.json" timestamp="1547678593928">
-        <mark key="[" line="19" column="3" />
-        <mark key="]" line="28" column="2" />
-        <mark key="." line="28" column="2" />
-        <mark key="^" line="28" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/translator/locales/ru.json" timestamp="1547681831178">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="101" />
+        <mark key="." line="23" column="101" />
+        <mark key="^" line="23" column="101" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/gulpfile.js" timestamp="1546699288142">
         <mark key="[" line="63" column="22" />
@@ -218,12 +218,11 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/storage-blobs-node-quickstart/.env" timestamp="1547668635966" />
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1547680011820">
-        <mark key="'" line="40" column="56" />
-        <mark key="[" line="127" column="98" />
-        <mark key="]" line="127" column="99" />
-        <mark key="." line="127" column="99" />
-        <mark key="^" line="127" column="119" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1547682067799">
+        <mark key="[" line="122" column="56" />
+        <mark key="]" line="122" column="60" />
+        <mark key="." line="122" column="60" />
+        <mark key="^" line="122" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/helpers/request/index.js" timestamp="1547678484248">
         <mark key="[" line="5" column="70" />
@@ -367,17 +366,17 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="11" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/storage-blobs-node-quickstart/client/index.html" timestamp="1547680418217">
-        <mark key="[" line="15" column="57" />
-        <mark key="]" line="15" column="57" />
+      <file name="$USER_HOME$/Desktop/storage-blobs-node-quickstart/client/index.html" timestamp="1547681689694">
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="15" column="42" />
         <mark key="^" line="15" column="57" />
-        <mark key="." line="15" column="57" />
+        <mark key="." line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/translator/locales/en.json" timestamp="1547678604446">
-        <mark key="[" line="27" column="43" />
-        <mark key="]" line="27" column="41" />
-        <mark key="." line="27" column="41" />
-        <mark key="^" line="27" column="41" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/translator/locales/en.json" timestamp="1547681798736">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="97" />
+        <mark key="." line="23" column="96" />
+        <mark key="^" line="23" column="96" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/index.js" timestamp="1541106712557">
         <mark key="[" line="8" column="15" />
@@ -467,7 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/templates/email_unsubscribed.pug" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/templates/new_content_sharing.pug" />
       <jump line="9" column="11" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/comment/comments-list/comments-list.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/comment/comments-list/comments-list.component.html" />
@@ -567,10 +565,11 @@
       <jump line="1301" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="2241" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/ru.json" />
+      <jump line="107" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'users/keksopes/keksov'</text>
+        <text encoding="base64">dGhhdCA=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -585,7 +584,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'users/keksopes/keksov'</text>
+        <text encoding="base64">dGhhdCA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -603,44 +602,40 @@
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aGVscGVycy5lcnJvciA9IHJlcXVpcmUoJy4vZXJyb3InKQo=</text>
+        <text encoding="base64">CQkidW5leHBlY3RlZF9zb2Z0IjogIlNvcnJ5LCB0aGVyZSBpcyBlcnJvciBoYXBwZW5lZCBvbiBzZXJ2ZXIuIFBsZWFzZSB0cnkgYWdhaW4gb3IgdHJ5IGxhdGVyIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaGVscGVycy5yZW5kZXJFcnJvcihyZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmllbGRzKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGhlbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkiZnZwX2ZpbGVfYWxyZWFkeV91cGxvYWRlZCI6ICJlcnJvcnMuZnZwX2ZpbGVfYWxyZWFkeV91cGxvYWRlZCIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIChmaWVsZHMucG9saWN5VHlwZSkgewo=</text>
+      </register>
       <register name="6" type="4">
-        <text>// return res.status(400).json({
-      //   error: new helpers.AppError.BadRequest(translator.createPhrase('users.errors.password_dont_match'))
-      // });</text>
+        <text encoding="base64">Zm9ybVZhbGlkID0gdHJ1ZQogICAgICAsIA==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmIChmb3JtVmFsaWQpIHsK</text>
       </register>
-      <register name="8" type="4">
-        <text>return helpers.request.finish(req, res, {
-        error: new helpers.AppError.BadRequest(translator.createPhrase('users.errors.password_dont_match'))
-      });</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
