@@ -184,11 +184,18 @@
         <mark key="." line="23" column="48" />
         <mark key="^" line="23" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.local.yml" timestamp="1547669077693">
+        <mark key="[" line="44" column="51" />
+        <mark key="]" line="45" column="227" />
+        <mark key="^" line="45" column="227" />
+        <mark key="." line="45" column="227" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/index.html" timestamp="1547559579040">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/storage-blobs-node-quickstart/.env" timestamp="1547668635966" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db-init.js" timestamp="1546699557651">
         <mark key="'" line="87" column="0" />
         <mark key="[" line="95" column="0" />
@@ -196,11 +203,12 @@
         <mark key="." line="95" column="0" />
         <mark key="^" line="89" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1547666001791">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1547669366651">
         <mark key="'" line="36" column="56" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+        <mark key="[" line="139" column="22" />
+        <mark key="]" line="140" column="24" />
+        <mark key="^" line="140" column="24" />
+        <mark key="." line="140" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1544744697422">
         <mark key="[" line="18" column="0" />
@@ -333,9 +341,6 @@
         <mark key="." line="48" column="33" />
         <mark key="^" line="48" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547396041014">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.dev.yml" timestamp="1547564323702" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1545767253767">
         <mark key="[" line="798" column="58" />
@@ -349,17 +354,17 @@
         <mark key="^" line="108" column="23" />
         <mark key="." line="132" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/users.js" timestamp="1547665969064">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/users.js" timestamp="1547667680930">
         <mark key="[" line="11" column="38" />
         <mark key="]" line="11" column="49" />
         <mark key="^" line="11" column="49" />
         <mark key="." line="11" column="49" />
       </file>
-      <file name="$USER_HOME$/Desktop/storage-blobs-node-quickstart/client/index.html" timestamp="1547659251970">
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="16" column="33" />
-        <mark key="." line="16" column="33" />
-        <mark key="^" line="16" column="128" />
+      <file name="$USER_HOME$/Desktop/storage-blobs-node-quickstart/client/index.html" timestamp="1547667739125">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="5" column="61" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/index.js" timestamp="1541106712557">
         <mark key="[" line="8" column="15" />
@@ -537,8 +542,8 @@
       <jump line="2" column="20" filename="$USER_HOME$/Desktop/storage-blobs-node-quickstart/services/file_storage/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>webpi</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -553,7 +558,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>icture</text>
+        <text>webpi</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -571,40 +576,42 @@
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cm91dGVyLmdldCgnL3Bhc3N3b3JkX3Jlc3RvcmUnLCB1c2VyQ29udHJvbGxlci5oYW5kbGVQYXNzd29yZFJlc3RvcmUpOwo=</text>
+        <text encoding="base64">ICBsZXQgYmxvYkNsaWVudCA9IGF6dXJlLmNyZWF0ZUJsb2JTZXJ2aWNlKCdVc2VEZXZlbG9wbWVudFN0b3JhZ2U9dHJ1ZScpLndpdGhGaWx0ZXIobmV3IGF6dXJlLkV4cG9uZW50aWFsUmV0cnlQb2xpY3lGaWx0ZXIoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGVzKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">bGV0IHJlcVVzZXI7CgogIGxldCB0b2tlblBhcnNlUmVzdWx0ID0gand0LnZlcmlmeShyZXEucXVlcnkudG9rZW4sIG9wdGlvbnMudG9rZW5TZWNyZXQpOwoKICAvLyB2ZXJpZnkgaXMgdG9rZW4gc3RpbGwgdmFsaWQKICBpZiAobmV3IERhdGUoKSA+IG5ldyBEYXRlKHRva2VuUGFyc2VSZXN1bHQuZXhwICogMTAwMCkpIHsKICAgIHJldHVybiByZXMKICAgICAgLnJlZGlyZWN0KDMwMiwgYCR7b3B0aW9ucy5wb3J0YWxDbGllbnRVcmx9L2hhbmRsZVJlc2V0UGFzc3dvcmQ/dG9rZW5FeHBpcmVkPTFgKQogIH0KCiAgdXNlclNlcnZpY2UKICAgIC5nZXRVc2VyQnlFbWFpbCh0b2tlblBhcnNlUmVzdWx0LmVtYWlsKQogICAgLnRoZW4oKHVzZXIpID0+IHsKICAgICAgcmVxVXNlciA9IHVzZXI7CiAgICAgIGNvbnNvbGUubG9nKGBoYW5kbGVQYXNzd29yZFJlc3RvcmUgdXNlciBpZDogJHt1c2VyLmlkfWApOwogICAgICByZXR1cm4gdXNlclNlcnZpY2UuZ2V0VXNlclRva2VuKHVzZXIuaWQpOwogICAgfSkKICAgIC50aGVuKGdldFRva2VuUmVzID0+IHsKICAgICAgY29uc29sZS5sb2coZ2V0VG9rZW5SZXMpOwogICAgICByZXR1cm4gcmVzCiAgICAgICAgLnJlZGlyZWN0KDMwMiwgYCR7b3B0aW9ucy5wb3J0YWxDbGllbnRVcmx9L2hhbmRsZVJlc2V0UGFzc3dvcmQ/bmV3VG9rZW49JHtnZXRUb2tlblJlcy5hdXRoVG9rZW59YCkKICAgIH0pCiAgICAuY2F0Y2goZXJyID0+IHsKICAgICAgY29uc29sZS5sb2coJ1RoZXJlIHdhcyBhbiBlcnJvciB3aGlsZSBnZXR0aW5nIHVzZXIgcHJvZmlsZScsIGVycik7CiAgICAgIHJlcy5zdGF0dXMoNTAwKS5qc29uKHttZXNzYWdlOiBgVGhlcmUgd2FzIGFuIGVycm9yIHdoaWxlIGdldHRpbmcgdXNlciBwcm9maWxlLCBlcnJvciBpcyAke2Vycn1gfSk7CiAgICB9KTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMTIzKQo=</text>
+        <text encoding="base64">ICAgIGlmICgkKCIK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">cmVxdWlyZSgnZm9ybWlkYWJsZScpCg==</text>
+      <register name="4" type="4">
+        <text>#itemName&quot;).val().length === 0) {
+      $(&quot;#itemNameError&quot;).html(&quot;You must provide an Name or Id!&quot;);
+    } else {</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCFhbGV4Z28gaHRtbD4K</text>
+        <text encoding="base64">PGJ1dHRvbiBpZD0iY3JlYXRlLWJ1dHRvbiI+Q3JlYXRlIENvbnRhaW4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PCFhbGV4Z28gaHRtbD4K</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZXI8L2J1dHRvbj4KCjxpbnB1dCB0eXBlPSJmaWxlIiBpZD0iZmlsZWlucHV0IiAvPgo8YnV0dG9uIGlkPSJ1cGxvYWQtYnV0dG9uIj5VcGxvYWQ8L2J1dHRvbj4KCjxidXR0b24gaWQ9Imxpc3QtYnV0dG9uIj5MaXN0PC9idXR0b24+Cgo8YnV0dG9uIGlkPSJkZWxldGUtYnV0dG9uIj5EZWxldGU8L2J1dHRvbj4=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I1JVTiBta2RpciAvdXNyL3NyYy9hcHAvZGlzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">I1JVTiBybSAtcmYgL3Vzci9zcmMvYXBwL2Rpc3QK</text>
+      <register name="8" type="4">
+        <text encoding="base64">bGV0IHJlcVVzZXI7CgogIGxldCB0b2tlblBhcnNlUmVzdWx0ID0gand0LnZlcmlmeShyZXEucXVlcnkudG9rZW4sIG9wdGlvbnMudG9rZW5TZWNyZXQpOwoKICAvLyB2ZXJpZnkgaXMgdG9rZW4gc3RpbGwgdmFsaWQKICBpZiAobmV3IERhdGUoKSA+IG5ldyBEYXRlKHRva2VuUGFyc2VSZXN1bHQuZXhwICogMTAwMCkpIHsKICAgIHJldHVybiByZXMKICAgICAgLnJlZGlyZWN0KDMwMiwgYCR7b3B0aW9ucy5wb3J0YWxDbGllbnRVcmx9L2hhbmRsZVJlc2V0UGFzc3dvcmQ/dG9rZW5FeHBpcmVkPTFgKQogIH0KCiAgdXNlclNlcnZpY2UKICAgIC5nZXRVc2VyQnlFbWFpbCh0b2tlblBhcnNlUmVzdWx0LmVtYWlsKQogICAgLnRoZW4oKHVzZXIpID0+IHsKICAgICAgcmVxVXNlciA9IHVzZXI7CiAgICAgIGNvbnNvbGUubG9nKGBoYW5kbGVQYXNzd29yZFJlc3RvcmUgdXNlciBpZDogJHt1c2VyLmlkfWApOwogICAgICByZXR1cm4gdXNlclNlcnZpY2UuZ2V0VXNlclRva2VuKHVzZXIuaWQpOwogICAgfSkKICAgIC50aGVuKGdldFRva2VuUmVzID0+IHsKICAgICAgY29uc29sZS5sb2coZ2V0VG9rZW5SZXMpOwogICAgICByZXR1cm4gcmVzCiAgICAgICAgLnJlZGlyZWN0KDMwMiwgYCR7b3B0aW9ucy5wb3J0YWxDbGllbnRVcmx9L2hhbmRsZVJlc2V0UGFzc3dvcmQ/bmV3VG9rZW49JHtnZXRUb2tlblJlcy5hdXRoVG9rZW59YCkKICAgIH0pCiAgICAuY2F0Y2goZXJyID0+IHsKICAgICAgY29uc29sZS5sb2coJ1RoZXJlIHdhcyBhbiBlcnJvciB3aGlsZSBnZXR0aW5nIHVzZXIgcHJvZmlsZScsIGVycik7CiAgICAgIHJlcy5zdGF0dXMoNTAwKS5qc29uKHttZXNzYWdlOiBgVGhlcmUgd2FzIGFuIGVycm9yIHdoaWxlIGdldHRpbmcgdXNlciBwcm9maWxlLCBlcnJvciBpcyAke2Vycn1gfSk7CiAgICB9KTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCFhbGV4Z28gaHRtbD4K</text>
+        <text encoding="base64">Y29uc29sZS5sb2coMTIzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
