@@ -166,12 +166,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1547395320466">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="911" column="87" />
-        <mark key="]" line="911" column="87" />
-        <mark key="." line="911" column="87" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/Dockerfile" timestamp="1547559574128">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -202,12 +196,11 @@
         <mark key="." line="95" column="0" />
         <mark key="^" line="89" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1546689821543">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1547666001791">
         <mark key="'" line="36" column="56" />
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="16" column="28" />
-        <mark key="^" line="16" column="28" />
-        <mark key="." line="16" column="28" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1544744697422">
         <mark key="[" line="18" column="0" />
@@ -356,11 +349,11 @@
         <mark key="^" line="108" column="23" />
         <mark key="." line="132" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/users.js" timestamp="1546687544247">
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="67" />
-        <mark key="^" line="10" column="67" />
-        <mark key="." line="10" column="67" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/users.js" timestamp="1547665969064">
+        <mark key="[" line="11" column="38" />
+        <mark key="]" line="11" column="49" />
+        <mark key="^" line="11" column="49" />
+        <mark key="." line="11" column="49" />
       </file>
       <file name="$USER_HOME$/Desktop/storage-blobs-node-quickstart/client/index.html" timestamp="1547659251970">
         <mark key="[" line="16" column="33" />
@@ -545,7 +538,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMTIzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -560,7 +553,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>icture</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -578,40 +571,40 @@
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PCFhbGV4Z28gaHRtbD4K</text>
+        <text encoding="base64">cm91dGVyLmdldCgnL3Bhc3N3b3JkX3Jlc3RvcmUnLCB1c2VyQ29udHJvbGxlci5oYW5kbGVQYXNzd29yZFJlc3RvcmUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMTIzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cmVxdWlyZSgnZm9ybWlkYWJsZScpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">bGV0IHJlcVVzZXI7CgogIGxldCB0b2tlblBhcnNlUmVzdWx0ID0gand0LnZlcmlmeShyZXEucXVlcnkudG9rZW4sIG9wdGlvbnMudG9rZW5TZWNyZXQpOwoKICAvLyB2ZXJpZnkgaXMgdG9rZW4gc3RpbGwgdmFsaWQKICBpZiAobmV3IERhdGUoKSA+IG5ldyBEYXRlKHRva2VuUGFyc2VSZXN1bHQuZXhwICogMTAwMCkpIHsKICAgIHJldHVybiByZXMKICAgICAgLnJlZGlyZWN0KDMwMiwgYCR7b3B0aW9ucy5wb3J0YWxDbGllbnRVcmx9L2hhbmRsZVJlc2V0UGFzc3dvcmQ/dG9rZW5FeHBpcmVkPTFgKQogIH0KCiAgdXNlclNlcnZpY2UKICAgIC5nZXRVc2VyQnlFbWFpbCh0b2tlblBhcnNlUmVzdWx0LmVtYWlsKQogICAgLnRoZW4oKHVzZXIpID0+IHsKICAgICAgcmVxVXNlciA9IHVzZXI7CiAgICAgIGNvbnNvbGUubG9nKGBoYW5kbGVQYXNzd29yZFJlc3RvcmUgdXNlciBpZDogJHt1c2VyLmlkfWApOwogICAgICByZXR1cm4gdXNlclNlcnZpY2UuZ2V0VXNlclRva2VuKHVzZXIuaWQpOwogICAgfSkKICAgIC50aGVuKGdldFRva2VuUmVzID0+IHsKICAgICAgY29uc29sZS5sb2coZ2V0VG9rZW5SZXMpOwogICAgICByZXR1cm4gcmVzCiAgICAgICAgLnJlZGlyZWN0KDMwMiwgYCR7b3B0aW9ucy5wb3J0YWxDbGllbnRVcmx9L2hhbmRsZVJlc2V0UGFzc3dvcmQ/bmV3VG9rZW49JHtnZXRUb2tlblJlcy5hdXRoVG9rZW59YCkKICAgIH0pCiAgICAuY2F0Y2goZXJyID0+IHsKICAgICAgY29uc29sZS5sb2coJ1RoZXJlIHdhcyBhbiBlcnJvciB3aGlsZSBnZXR0aW5nIHVzZXIgcHJvZmlsZScsIGVycik7CiAgICAgIHJlcy5zdGF0dXMoNTAwKS5qc29uKHttZXNzYWdlOiBgVGhlcmUgd2FzIGFuIGVycm9yIHdoaWxlIGdldHRpbmcgdXNlciBwcm9maWxlLCBlcnJvciBpcyAke2Vycn1gfSk7CiAgICB9KTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCFhbGV4Z28gaHRtbD4K</text>
+        <text encoding="base64">Y29uc29sZS5sb2coMTIzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCFhbGV4Z28gaHRtbD4K</text>
+        <text encoding="base64">cmVxdWlyZSgnZm9ybWlkYWJsZScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I1JVTiBta2RpciAvdXNyL3NyYy9hcHAvZGlzdAo=</text>
+        <text encoding="base64">PCFhbGV4Z28gaHRtbD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I1JVTiBybSAtcmYgL3Vzci9zcmMvYXBwL2Rpc3QK</text>
+        <text encoding="base64">PCFhbGV4Z28gaHRtbD4K</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCFhbGV4Z28gaHRtbD4K</text>
+        <text encoding="base64">I1JVTiBta2RpciAvdXNyL3NyYy9hcHAvZGlzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCFhbGV4Z28gaHRtbD4K</text>
+        <text encoding="base64">I1JVTiBybSAtcmYgL3Vzci9zcmMvYXBwL2Rpc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCFhbGV4Z28gaHRtbGRkCg==</text>
+        <text encoding="base64">PCFhbGV4Z28gaHRtbD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
