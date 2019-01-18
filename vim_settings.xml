@@ -200,6 +200,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1547809200032">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/Dockerfile" timestamp="1547559574128">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -606,7 +611,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxpbmtzZTp3ZWJzaXRlCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -642,40 +647,161 @@
         <text encoding="base64">cm91dGVyLmdldCgnL3BvbGljeV9pbmZvJywgdXNlckNvbnRyb2xsZXIucG9saWN5SW5mbyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpbmtzZTp3ZWJzaXRlCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text>server {
+    listen 80;
+    listen [::]:80;
+
+    server_name admin.kalad.localhost;
+
+    if ($request_method = 'OPTIONS') {
+      return 200;
+    }
+
+    root /var/www/html;
+
+    index index.html;
+
+    # To allow POST on static pages
+    error_page  405     =200 $uri;
+
+    location / {
+      proxy_pass http://admin-panel;
+      proxy_http_version 1.1;
+      proxy_set_header Upgrade $http_upgrade;
+      proxy_set_header Connection 'upgrade';
+      proxy_set_header Host $host;
+      proxy_set_header X-Forwarded-For $remote_addr;
+      proxy_cache_bypass $http_upgrade;
+      break;
+    }
+
+    location ~* \.(eot|otf|ttf|woff|woff2)$ {
+      add_header Access-Control-Allow-Origin *;
+    }
+
+    location /health-check {
+      return 200;
+      access_log off;
+    }
+  }
+  server {
+    listen 80;
+    listen [::]:80;
+
+    server_name kalad.localhost;
+
+    if ($request_method = 'OPTIONS') {
+      return 200;
+    }
+
+    root /var/www/html;
+
+    index index.html;
+
+    # To allow POST on static pages
+    error_page  405     =200 $uri;
+
+    location / {
+      proxy_pass http://website;
+      proxy_http_version 1.1;
+      proxy_set_header Upgrade $http_upgrade;
+      proxy_set_header Connection 'upgrade';
+      proxy_set_header Host $host;
+      proxy_set_header X-Forwarded-For $remote_addr;
+      proxy_cache_bypass $http_upgrade;
+      break;
+    }
+
+    location ~* \.(eot|otf|ttf|woff|woff2)$ {
+      add_header Access-Control-Allow-Origin *;
+    }
+
+    location /health-check {
+      return 200;
+      access_log off;
+    }
+  }
+  server {
+    listen 80;
+    listen [::]:80;
+
+    server_name webservice.kalad.localhost;
+
+    if ($request_method = 'OPTIONS') {
+      return 200;
+    }
+
+    root /var/www/html;
+
+    index index.html;
+
+    # To allow POST on static pages
+    error_page  405     =200 $uri;
+
+    location / {
+      proxy_pass http://webservice;
+      proxy_http_version 1.1;
+      proxy_set_header Upgrade $http_upgrade;
+      proxy_set_header Connection 'upgrade';
+      proxy_set_header Host $host;
+      proxy_set_header X-Forwarded-For $remote_addr;
+      proxy_cache_bypass $http_upgrade;
+      break;
+    }
+
+    location ~* \.(eot|otf|ttf|woff|woff2)$ {
+      add_header Access-Control-Allow-Origin *;
+    }
+
+    location /health-check {
+      return 200;
+      access_log off;
+    }
+  }</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="4">
+        <text>upstream admin-panel {
+    least_conn;
+    server admin-panel:5000 max_fails=3 fail_timeout=30s;
+  }
+  upstream website {
+    least_conn;
+    server website:3000 max_fails=3 fail_timeout=30s;
+  }
+  upstream webservice {
+    least_conn;
+    server webservice:3000 max_fails=3 fail_timeout=30s;
+  }</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxpbmtzZTp3ZWJzaXRlCg==</text>
+      </register>
+      <register name="6" type="4">
         <text>:
       - media:media
       - admin-panel:admin-panel
       - websit</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZGIuc2V0dGluZ3MpCg==</text>
-      </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZGIuc2V0dGluZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZGIuc2V0dGluZ3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZGIuc2V0dGluZ3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
