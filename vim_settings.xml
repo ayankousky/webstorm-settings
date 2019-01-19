@@ -201,11 +201,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1547904339105">
-        <mark key="[" line="71" column="13" />
-        <mark key="]" line="72" column="17" />
-        <mark key="." line="72" column="17" />
-        <mark key="^" line="72" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1547905234223">
+        <mark key="[" line="62" column="54" />
+        <mark key="]" line="63" column="5" />
+        <mark key="." line="63" column="5" />
+        <mark key="^" line="63" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/Dockerfile" timestamp="1547559574128">
         <mark key="[" line="19" column="0" />
@@ -623,8 +623,8 @@
       <jump line="128" column="3" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZG9tYWluc2xpc3Qg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -660,15 +660,18 @@
         <text encoding="base64">cm91dGVyLmdldCgnL3BvbGljeV9pbmZvJywgdXNlckNvbnRyb2xsZXIucG9saWN5SW5mbyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhcHAudXNlKCkK</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBhcHAudXNlKCkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>server {
     listen 80;
     listen [::]:80;
@@ -781,10 +784,10 @@
     }
   }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>upstream admin-panel {
     least_conn;
     server admin-panel:5000 max_fails=3 fail_timeout=30s;
@@ -798,23 +801,20 @@
     server webservice:3000 max_fails=3 fail_timeout=30s;
   }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpbmtzZTp3ZWJzaXRlCg==</text>
-      </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxpbmtzZTp3ZWJzaXRlCg==</text>
+      </register>
+      <register name="8" type="4">
         <text>:
       - media:media
       - admin-panel:admin-panel
       - websit</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
