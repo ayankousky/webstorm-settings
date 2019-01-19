@@ -9,6 +9,7 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1547902419250" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/settings.js" timestamp="1547769251243">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="22" />
@@ -200,10 +201,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1547809200032">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1547902422894">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="13" column="55" />
+        <mark key="." line="13" column="55" />
+        <mark key="^" line="13" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/Dockerfile" timestamp="1547559574128">
         <mark key="[" line="19" column="0" />
@@ -295,6 +297,11 @@
         <mark key="^" line="64" column="45" />
         <mark key="." line="65" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/api/v1/index.js" timestamp="1547902198007">
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/app.module.ts" timestamp="1547384564402">
         <mark key="[" line="36" column="26" />
         <mark key="]" line="37" column="23" />
@@ -384,8 +391,14 @@
         <mark key="." line="48" column="33" />
         <mark key="^" line="48" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547765668825">
+      <file name="/Dummy.txt" timestamp="1547902135672">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/middlewares/index.js" timestamp="1547902266708">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1545767253767">
         <mark key="[" line="798" column="58" />
@@ -610,8 +623,8 @@
       <jump line="128" column="3" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZG9tYWluc2xpc3Qg</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -626,7 +639,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>auth,</text>
+        <text encoding="base64">ZG9tYWluc2xpc3Qg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -647,12 +660,15 @@
         <text encoding="base64">cm91dGVyLmdldCgnL3BvbGljeV9pbmZvJywgdXNlckNvbnRyb2xsZXIucG9saWN5SW5mbyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhcHAudXNlKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="4">
         <text>server {
     listen 80;
     listen [::]:80;
@@ -765,10 +781,10 @@
     }
   }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>upstream admin-panel {
     least_conn;
     server admin-panel:5000 max_fails=3 fail_timeout=30s;
@@ -782,23 +798,20 @@
     server webservice:3000 max_fails=3 fail_timeout=30s;
   }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGxpbmtzZTp3ZWJzaXRlCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="4">
         <text>:
       - media:media
       - admin-panel:admin-panel
       - websit</text>
       </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
