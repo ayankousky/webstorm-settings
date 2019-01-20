@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/controllers/auth.js" timestamp="1547993689982">
+        <mark key="[" line="19" column="49" />
+        <mark key="]" line="19" column="48" />
+        <mark key="." line="19" column="48" />
+        <mark key="^" line="19" column="48" />
+      </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/main_db/Dockerfile" timestamp="1545784400211">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="24" />
@@ -159,11 +165,17 @@
         <mark key="^" line="45" column="39" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" timestamp="1547991322063">
-        <mark key="[" line="144" column="17" />
-        <mark key="]" line="144" column="14" />
-        <mark key="^" line="144" column="14" />
-        <mark key="." line="144" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" timestamp="1547994638010">
+        <mark key="[" line="142" column="26" />
+        <mark key="]" line="143" column="22" />
+        <mark key="^" line="143" column="22" />
+        <mark key="." line="143" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1547992821833">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="36" />
+        <mark key="^" line="11" column="36" />
+        <mark key="." line="11" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1544744697422">
         <mark key="[" line="18" column="0" />
@@ -230,11 +242,11 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/userService.js" timestamp="1547768331674">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="^" line="97" column="67" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/userService.js" timestamp="1547993093076">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="61" column="45" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/users.js" timestamp="1547769382994">
         <mark key="[" line="11" column="23" />
@@ -283,11 +295,6 @@
         <mark key="]" line="134" column="50" />
         <mark key="." line="134" column="50" />
         <mark key="^" line="134" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/translator/index.js" timestamp="1547672502354">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/users/internal.js" timestamp="1547393237471">
         <mark key="[" line="93" column="24" />
@@ -370,17 +377,12 @@
         <mark key="^" line="50" column="20" />
         <mark key="." line="50" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/index.html" timestamp="1547559579040">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1547769131178">
-        <mark key="'" line="129" column="3" />
-        <mark key="[" line="198" column="1" />
-        <mark key="]" line="198" column="1" />
-        <mark key="^" line="198" column="1" />
-        <mark key="." line="198" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1547993074944">
+        <mark key="'" line="22" column="42" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="65" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/helpers/request/index.js" timestamp="1547678484248">
         <mark key="[" line="5" column="70" />
@@ -429,16 +431,18 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" timestamp="1547993072851">
+        <mark key="'" line="84" column="70" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="84" column="67" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/main_db_worker/app.js" timestamp="1545778438020">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1547769177587">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" timestamp="1544744557544">
         <mark key="[" line="155" column="0" />
@@ -464,7 +468,7 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547921165697">
+      <file name="/Dummy.txt" timestamp="1547993762023">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1545767253767">
@@ -509,11 +513,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/helpers/error/apiStatusCodes.js" timestamp="1547671666708">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/environments/environment.prod.ts" timestamp="1547991746430">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="2" column="32" />
@@ -540,8 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/comment/comments-list/comments-list.component.html" />
-      <jump line="652" column="10" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
       <jump line="659" column="34" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
       <jump line="45" column="1" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
       <jump line="25" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
@@ -640,10 +637,12 @@
       <jump line="107" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" />
       <jump line="74" column="3" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/settingsService.js" />
       <jump line="128" column="3" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" />
+      <jump line="84" column="70" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" />
+      <jump line="22" column="42" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>api.pyour.alex-test-domain.net/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhxdWVyeSkK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -658,7 +657,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>api.pyour.alex-test-domain.net/</text>
+        <text encoding="base64">Y291bnRyeSA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -676,262 +675,40 @@
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cm91dGVyLmdldCgnLzppZCcsIHVzZXJDb250cm9sbGVyLmdldFVzZXJCeUlkKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhxdWVyeSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>server {
-    listen 443 default_server;
-    listen [::]:443 default_server;
-
-    server_name api.kalad.cc api.nakarta.com;
-
-    ssl on;
-    ssl_certificate /etc/nginx/certs/fullchain.pem;
-    ssl_certificate_key /etc/nginx/certs/privkey.pem;
-    ssl_session_timeout 5m;
-    ssl_protocols TLSv1 TLSv1.1 TLSv1.2;
-    ssl_ciphers &quot;ECDHE-ECDSA-CHACHA20-POLY1305:ECDHE-RSA-CHACHA20-POLY1305:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384:DHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES128-SHA256:ECDHE-RSA-AES128-SHA256:ECDHE-ECDSA-AES128-SHA:ECDHE-RSA-AES256-SHA384:ECDHE-RSA-AES128-SHA:ECDHE-ECDSA-AES256-SHA384:ECDHE-ECDSA-AES256-SHA:ECDHE-RSA-AES256-SHA:DHE-RSA-AES128-SHA256:DHE-RSA-AES128-SHA:DHE-RSA-AES256-SHA256:DHE-RSA-AES256-SHA:ECDHE-ECDSA-DES-CBC3-SHA:ECDHE-RSA-DES-CBC3-SHA:EDH-RSA-DES-CBC3-SHA:AES128-GCM-SHA256:AES256-GCM-SHA384:AES128-SHA256:AES256-SHA256:AES128-SHA:AES256-SHA:DES-CBC3-SHA:!DSS&quot;;
-    ssl_prefer_server_ciphers on;
-
-
-    root /var/www/html;
-
-    index index.html;
-
-    # To allow POST on static pages
-    error_page  405     =200 $uri;
-
-    location / {
-      if ($request_method = 'OPTIONS') {
-        add_header Access-Control-Allow-Origin *;
-        return 200;
-      }
-      proxy_pass http://media;
-      proxy_http_version 1.1;
-      proxy_set_header Upgrade $http_upgrade;
-      proxy_set_header Connection 'upgrade';
-      proxy_set_header Host $host;
-      proxy_set_header X-Forwarded-For $remote_addr;
-      proxy_cache_bypass $http_upgrade;
-      break;
-    }
-
-    location ~* \.(eot|otf|ttf|woff|woff2)$ {
-      add_header Access-Control-Allow-Origin *;
-    }
-
-    location /health-check {
-      return 200;
-      access_log off;
-    }
-  }
-
-  ### Setup admin-panel server ###
-  server {
-    listen 80;
-    listen [::]:80;
-
-    server_name admin.nakarta.com admin.kalad.cc;
-    return 301 https://$server_name$request_uri; ## force to use https
-  }
-  server {
-    listen 443;
-    listen [::]:443;
-
-    server_name admin.nakarta.com admin.kalad.cc;
-
-    ssl on;
-    ssl_certificate /etc/nginx/certs/fullchain.pem;
-    ssl_certificate_key /etc/nginx/certs/privkey.pem;
-    ssl_session_timeout 5m;
-    ssl_protocols TLSv1 TLSv1.1 TLSv1.2;
-    ssl_ciphers &quot;ECDHE-ECDSA-CHACHA20-POLY1305:ECDHE-RSA-CHACHA20-POLY1305:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384:DHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES128-SHA256:ECDHE-RSA-AES128-SHA256:ECDHE-ECDSA-AES128-SHA:ECDHE-RSA-AES256-SHA384:ECDHE-RSA-AES128-SHA:ECDHE-ECDSA-AES256-SHA384:ECDHE-ECDSA-AES256-SHA:ECDHE-RSA-AES256-SHA:DHE-RSA-AES128-SHA256:DHE-RSA-AES128-SHA:DHE-RSA-AES256-SHA256:DHE-RSA-AES256-SHA:ECDHE-ECDSA-DES-CBC3-SHA:ECDHE-RSA-DES-CBC3-SHA:EDH-RSA-DES-CBC3-SHA:AES128-GCM-SHA256:AES256-GCM-SHA384:AES128-SHA256:AES256-SHA256:AES128-SHA:AES256-SHA:DES-CBC3-SHA:!DSS&quot;;
-    ssl_prefer_server_ciphers on;
-
-
-    if ($request_method = 'OPTIONS') {
-      return 200;
-    }
-
-    root /var/www/html;
-
-    index index.html;
-
-    # To allow POST on static pages
-    error_page  405     =200 $uri;
-
-    location / {
-      proxy_pass http://admin-panel;
-      proxy_http_version 1.1;
-      proxy_set_header Upgrade $http_upgrade;
-      proxy_set_header Connection 'upgrade';
-      proxy_set_header Host $host;
-      proxy_set_header X-Forwarded-For $remote_addr;
-      proxy_cache_bypass $http_upgrade;
-      break;
-    }
-
-    location ~* \.(eot|otf|ttf|woff|woff2)$ {
-      add_header Access-Control-Allow-Origin *;
-    }
-
-    location /health-check {
-      return 200;
-      access_log off;
-    }
-  }
-
-  ### Setup website ###
-  server {
-    listen 80;
-    listen [::]:80;
-    server_name kalad.cc;
-
-    return 301 https://nakarta.com;
-  }
-  server {
-    listen 443;
-    listen [::]:443;
-
-    server_name kalad.cc;
-
-    return 301 https://nakarta.com;
-
-    ssl on;
-    ssl_certificate /etc/nginx/certs/fullchain.pem;
-    ssl_certificate_key /etc/nginx/certs/privkey.pem;
-    ssl_session_timeout 5m;
-    ssl_protocols TLSv1 TLSv1.1 TLSv1.2;
-    ssl_ciphers &quot;ECDHE-ECDSA-CHACHA20-POLY1305:ECDHE-RSA-CHACHA20-POLY1305:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384:DHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES128-SHA256:ECDHE-RSA-AES128-SHA256:ECDHE-ECDSA-AES128-SHA:ECDHE-RSA-AES256-SHA384:ECDHE-RSA-AES128-SHA:ECDHE-ECDSA-AES256-SHA384:ECDHE-ECDSA-AES256-SHA:ECDHE-RSA-AES256-SHA:DHE-RSA-AES128-SHA256:DHE-RSA-AES128-SHA:DHE-RSA-AES256-SHA256:DHE-RSA-AES256-SHA:ECDHE-ECDSA-DES-CBC3-SHA:ECDHE-RSA-DES-CBC3-SHA:EDH-RSA-DES-CBC3-SHA:AES128-GCM-SHA256:AES256-GCM-SHA384:AES128-SHA256:AES256-SHA256:AES128-SHA:AES256-SHA:DES-CBC3-SHA:!DSS&quot;;
-    ssl_prefer_server_ciphers on;
-
-
-    if ($request_method = 'OPTIONS') {
-      return 200;
-    }
-
-    root /var/www/html;
-
-    index index.html;
-
-    # To allow POST on static pages
-    error_page  405     =200 $uri;
-
-    location / {
-      proxy_pass http://website;
-      proxy_http_version 1.1;
-      proxy_set_header Upgrade $http_upgrade;
-      proxy_set_header Connection 'upgrade';
-      proxy_set_header Host $host;
-      proxy_set_header X-Forwarded-For $remote_addr;
-      proxy_cache_bypass $http_upgrade;
-      break;
-    }
-
-    location ~* \.(eot|otf|ttf|woff|woff2)$ {
-      add_header Access-Control-Allow-Origin *;
-    }
-
-    location /health-check {
-      return 200;
-      access_log off;
-    }
-  }
-  server {
-    listen 80;
-    listen [::]:80;
-
-    server_name webservice.kalad.cc webservice.nakarta.com;
-    return 301 https://$server_name$request_uri;
-  }
-
-  server {
-    listen 443;
-    listen [::]:443;
-
-    server_name webservice.kalad.cc webservice.nakarta.com;
-
-    ssl on;
-    ssl_certificate /etc/nginx/certs/fullchain.pem;
-    ssl_certificate_key /etc/nginx/certs/privkey.pem;
-    ssl_session_timeout 5m;
-    ssl_protocols TLSv1 TLSv1.1 TLSv1.2;
-    ssl_ciphers &quot;ECDHE-ECDSA-CHACHA20-POLY1305:ECDHE-RSA-CHACHA20-POLY1305:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384:DHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES128-SHA256:ECDHE-RSA-AES128-SHA256:ECDHE-ECDSA-AES128-SHA:ECDHE-RSA-AES256-SHA384:ECDHE-RSA-AES128-SHA:ECDHE-ECDSA-AES256-SHA384:ECDHE-ECDSA-AES256-SHA:ECDHE-RSA-AES256-SHA:DHE-RSA-AES128-SHA256:DHE-RSA-AES128-SHA:DHE-RSA-AES256-SHA256:DHE-RSA-AES256-SHA:ECDHE-ECDSA-DES-CBC3-SHA:ECDHE-RSA-DES-CBC3-SHA:EDH-RSA-DES-CBC3-SHA:AES128-GCM-SHA256:AES256-GCM-SHA384:AES128-SHA256:AES256-SHA256:AES128-SHA:AES256-SHA:DES-CBC3-SHA:!DSS&quot;;
-    ssl_prefer_server_ciphers on;
-
-
-    if ($request_method = 'OPTIONS') {
-      return 200;
-    }
-
-    root /var/www/html;
-
-    index index.html;
-
-    # To allow POST on static pages
-    error_page  405     =200 $uri;
-
-    location / {
-      proxy_pass http://webservice;
-      proxy_http_version 1.1;
-      proxy_set_header Upgrade $http_upgrade;
-      proxy_set_header Connection 'upgrade';
-      proxy_set_header Host $host;
-      proxy_set_header X-Forwarded-For $remote_addr;
-      proxy_cache_bypass $http_upgrade;
-      break;
-    }
-
-    location ~* \.(eot|otf|ttf|woff|woff2)$ {
-      add_header Access-Control-Allow-Origin *;
-    }
-
-    location /health-check {
-      return 200;
-      access_log off;
-    }
-  }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>upstream admin-panel {
-    least_conn;
-    server admin-panel:5000 max_fails=3 fail_timeout=30s;
-  }
-  upstream website {
-    least_conn;
-    server website:3000 max_fails=3 fail_timeout=30s;
-  }
-  upstream webservice {
-    least_conn;
-    server webservice:3000 max_fails=3 fail_timeout=30s;
-  }</text>
+        <text encoding="base64">CiAgICAgIGNhc2UgJ20nOgogICAgICAgIHF1ZXJ5LndoZXJlLmhvbm9yaWZpYyA9ICdNci4nOwogICAgICAgIGJyZWFrOw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVxLnBhcmFtcycsIHJlcS5wYXJhbXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJveHlfbm9fY2FjaGUgICAgICRodHRwX3VwZ3JhZGUgJGh0dHBfcGl6ZGVjOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhdXRoKQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJveHlfY2FjaGVfYnlwYXNzICRodHRwX3VwZ3JhZGUgJGh0dHBfbmFodWk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdjcmVhdGVkIHVzZXInLCB1c2VyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJveHlfY2FjaGVfYnlwYXNzICRodHRwX3VwZ3JhZGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdnb3QgdXNlclRva2VuJywgdXNlclRva2VuKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJveHlfY2FjaGVfYnlwYXNzICRodHRwX3VwZ3JhZGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGBnb3QgdXNlciAke3VzZXIuZW1haWx9YCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
