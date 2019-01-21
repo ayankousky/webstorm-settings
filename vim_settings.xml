@@ -265,11 +265,11 @@
         <mark key="^" line="46" column="60" />
         <mark key="." line="46" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/users.js" timestamp="1548015612249">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="18" />
-        <mark key="^" line="15" column="18" />
-        <mark key="." line="15" column="18" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/users.js" timestamp="1548103091025">
+        <mark key="[" line="16" column="38" />
+        <mark key="]" line="16" column="38" />
+        <mark key="^" line="16" column="38" />
+        <mark key="." line="16" column="38" />
       </file>
       <file name="$USER_HOME$/Desktop/storage-blobs-node-quickstart/client/index.html" timestamp="1547769956807">
         <mark key="[" line="11" column="54" />
@@ -394,18 +394,18 @@
         <mark key="^" line="50" column="20" />
         <mark key="." line="50" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1548057409270">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1548103608120">
         <mark key="'" line="22" column="42" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="55" />
-        <mark key="." line="234" column="49" />
-        <mark key="^" line="234" column="49" />
+        <mark key="[" line="282" column="76" />
+        <mark key="]" line="282" column="75" />
+        <mark key="." line="282" column="75" />
+        <mark key="^" line="282" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/helpers/request/index.js" timestamp="1548057753907">
-        <mark key="[" line="6" column="69" />
-        <mark key="]" line="6" column="70" />
-        <mark key="^" line="6" column="70" />
-        <mark key="." line="6" column="70" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/helpers/request/index.js" timestamp="1548103567275">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="52" />
+        <mark key="^" line="6" column="52" />
+        <mark key="." line="6" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/gulpfile.js" timestamp="1547059261295">
         <mark key="[" line="59" column="96" />
@@ -448,12 +448,12 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" timestamp="1548058422975">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" timestamp="1548102986252">
         <mark key="'" line="183" column="0" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="2" column="38" />
-        <mark key="." line="107" column="0" />
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="39" column="27" />
+        <mark key="^" line="39" column="27" />
+        <mark key="." line="39" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/main_db_worker/app.js" timestamp="1545778438020">
         <mark key="[" line="0" column="13" />
@@ -662,7 +662,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>modules</text>
+        <text>)</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -677,7 +677,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>modules</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -695,43 +695,40 @@
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJInN1Y2Nlc3NmdWxseV92ZXJpZmllZCI6ICJVc2VyIHdhcyBzdWNjZXNzZnVsbHkgdmVyaWZpZWQiLAo=</text>
+        <text encoding="base64">cm91dGVyLmRlbGV0ZSgnLzppZCcsIHVzZXJDb250cm9sbGVyLmRlbGV0ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXMuc3RhdHVzKDIwMCkuanNvbih7IG1lc3NhZ2U6ICdVc2VyIHdhcyBzdWNjZXNzZnVsbHkgdmVyaWZpZWQhJyB9KTsK</text>
+        <text encoding="base64">ICBsZXQgYnlBZG1pbiA9IHJlcS5xdWVyeS5hZG1pbiA9PT0gJ3RydWUnOyAvLyBVc2VkIHdoZW4gdXNlciBpcyBjcmVhdGVkIGZyb20gd2Vic2l0ZSBieSBhZG1pbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgdHJhbnNsYXRvciAgPSByZXF1aXJlKCcuLi9zZXJ2aWNlcy90cmFuc2xhdG9yJyk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnc2lnbnVwIHJlcSBib2R5JywgcmVxLmJvZHkpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>nsole.log(jwtVerificationResult)
-    return helpers.request.finish(req, res, {
-      message: new AppMessage.BaseMessage(translator.createPhrase(jwtVerificationResult.messageKey))
-    });</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlS2V5OiBieUFkbWluID8gJ3VzZXJzLm1lc3NhZ2VzLnN1Y2Nlc3NmdWxseV92ZXJpZmllZF9jcmVhdGVkX2J5X2FkbWluJyA6IHVuZGVmaW5lZAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBsZXQgYnlBZG1pbiA9IHJlcS5xdWVyeS5hZG1pbiA9PT0gJ3RydWUnOyAvLyBVc2VkIHdoZW4gdXNlciBpcyBjcmVhdGVkIGZyb20gd2Vic2l0ZSBieSBhZG1pbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2UgPSBuZXcgQXBwTWVzc2FnZS5CYXNlTWVzc2FnZSh0cmFuc2xhdG9yLmNyZWF0ZVBocmFzZShqd3RWZXJpZmljYXRpb25SZXN1bHQubWVzc2FnZUtleSkpCiAgICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgaWYoIWZpcnN0TmFtZSkgewogICAgZmlyc3ROYW1lID0gbG9naW5OYW1lCiAgfQogIGlmKCFsYXN0TmFtZSkgewogICAgbGFzdE5hbWUgPSBsb2dpbk5hbWUKICB9</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgCiAgICAgICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyByZXMuc3RhdHVzKDIwMCkuanNvbih7IG1lc3NhZ2U6ICdVc2VyIHdhcyBzdWNjZXNzZnVsbHkgdmVyaWZpZWQhJyB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y29uc3QgdHJhbnNsYXRvciAgPSByZXF1aXJlKCcuLi9zZXJ2aWNlcy90cmFuc2xhdG9yJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
