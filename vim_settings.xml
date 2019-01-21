@@ -51,6 +51,12 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/scripts/users_addColumn_lastAccessDate.sql" timestamp="1548059329545">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/access_manager/package.json" timestamp="1545780908832">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="24" />
@@ -655,8 +661,8 @@
       <jump line="184" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXMuc3RhdHVzKDIwMCkuanNvbih7IG1lc3NhZ2U6ICdVc2VyIHdhcyBzdWNjZXNzZnVsbHkgdmVyaWZpZWQhJyB9KTsK</text>
+      <register name="&quot;" type="4">
+        <text>modules</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -671,7 +677,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>modules</text>
       </register>
       <register name="m" type="4">
         <keys>
