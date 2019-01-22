@@ -21,11 +21,11 @@
         <mark key="^" line="194" column="4" />
         <mark key="." line="194" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/settings.js" timestamp="1547769251243">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/settings.js" timestamp="1548194628070">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/comments/createBatch.json" timestamp="1544744782423">
         <mark key="[" line="74" column="17" />
@@ -51,11 +51,11 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/scripts/users_addColumn_lastAccessDate.sql" timestamp="1548059329545">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/scripts/users_addColumn_lastAccessDate.sql" timestamp="1548198961876">
         <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/models/clickStats.js" timestamp="1548116512821">
         <mark key="'" line="29" column="0" />
@@ -105,10 +105,6 @@
         <mark key="]" line="372" column="26" />
         <mark key="." line="372" column="26" />
         <mark key="^" line="372" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1548008060957">
-        <mark key="[" line="681" column="0" />
-        <mark key="]" line="681" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/PRO_access.js" timestamp="1541360190883">
         <mark key="[" line="8" column="29" />
@@ -194,11 +190,10 @@
         <mark key="." line="147" column="29" />
         <mark key="^" line="147" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1548118535464">
-        <mark key="[" line="104" column="129" />
-        <mark key="]" line="102" column="38" />
-        <mark key="." line="102" column="38" />
-        <mark key="^" line="102" column="38" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1548198704355">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1544744697422">
         <mark key="[" line="18" column="0" />
@@ -315,6 +310,11 @@
         <mark key="." line="134" column="50" />
         <mark key="^" line="134" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/translator/index.js" timestamp="1547672502354">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/users/internal.js" timestamp="1547393237471">
         <mark key="[" line="93" column="24" />
         <mark key="]" line="93" column="24" />
@@ -396,6 +396,11 @@
         <mark key="^" line="50" column="20" />
         <mark key="." line="50" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/index.html" timestamp="1547559579040">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1548150771642">
         <mark key="'" line="232" column="2" />
         <mark key="[" line="290" column="117" />
@@ -427,11 +432,21 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/app.js" timestamp="1547765614336">
-        <mark key="[" line="65" column="10" />
-        <mark key="]" line="65" column="10" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1547901390795">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/app.js" timestamp="1548195179082">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="152" />
         <mark key="^" line="64" column="45" />
         <mark key="." line="65" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/userRole.js" timestamp="1548198643675">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="1" column="42" />
+        <mark key="." line="1" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/index.js" timestamp="1541349694920">
         <mark key="[" line="44" column="64" />
@@ -458,6 +473,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1548199036151">
+        <mark key="[" line="39" column="54" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" timestamp="1544744557544">
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="0" />
@@ -482,12 +503,14 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/package.json" timestamp="1548013452606">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="31" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1548114454633">
+      <file name="/Dummy.txt" timestamp="1548197797348">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1548197997549">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1545767253767">
         <mark key="[" line="798" column="58" />
@@ -501,11 +524,22 @@
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/settings.js" timestamp="1548013185974">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/portal_api/package.json" timestamp="1545780603327">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/role.js" timestamp="1548198257786">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="45" />
+        <mark key="^" line="1" column="45" />
+        <mark key="." line="1" column="45" />
       </file>
       <file name="$USER_HOME$/Desktop/untitled/views/send.pug" timestamp="1543951526463">
         <mark key="[" line="4" column="0" />
@@ -524,6 +558,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/helpers/error/apiStatusCodes.js" timestamp="1547671666708">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/environments/environment.prod.ts" timestamp="1547991746430">
         <mark key="[" line="2" column="32" />
@@ -654,7 +693,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>password</text>
+        <text encoding="base64">QUREIElGIE5PVCBFWElTVFMg</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -669,7 +708,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>password</text>
+        <text encoding="base64">QUREIElGIE5PVCBFWElTVFMg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -687,41 +726,40 @@
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cm91dGVyLmdldCgnL3Byb2ZpbGUnLCBhdXRoLCB1c2VyQ29udHJvbGxlci5wcm9maWxlKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coT2JqZWN0LmtleXMoZGIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAlxdWVyeS5vcmRlciA9IFtbcGFyYW1zLm9yZGVyLCBvcmRlckRlc3RdXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vZGVsKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CQkJaWYocGFyYW1zLm9yZGVyRGVzdCAmJiAocGFyYW1zLm9yZGVyRGVzdCA9PT0gJ0FTQycgfHwgcGFyYW1zLm9yZGVyRGVzdCA9PT0gJ0RFU0MnKSl7CiAgICAgIAljb25zb2xlLmxvZygnZWJhdCcpCgkJCX0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKE9iamVjdC5rZXlzKGRiKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2tla2UpCg==</text>
+        <text encoding="base64">Ly8gY29uc29sZS5sb2coT2JqZWN0LmtleXMoZGIpKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>keek')
-			console.log(params</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gY29uc29sZS5sb2coT2JqZWN0LmtleXMoZGIpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAlxdWVyeS5vcmRlciA9IFtbcGFyYW1zLm9yZGVyLCBwYXJhbXMuXV0K</text>
+        <text encoding="base64">Ly8gY29uc29sZS5sb2coT2JqZWN0LmtleXMoZGIpKQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgc29sZS5sb2coY291bnQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IAogICAgY29uc29sZS5sb2coY291bnQpCiAgICBjb25zb2xlLmxvZyhjb3VudCkKICAgIGNvbg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coT2JqZWN0LmtleXMoZGIpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhjb3VudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
