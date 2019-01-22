@@ -188,17 +188,17 @@
         <mark key="^" line="45" column="39" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" timestamp="1548056555497">
-        <mark key="[" line="31" column="39" />
-        <mark key="]" line="31" column="39" />
-        <mark key="." line="31" column="39" />
-        <mark key="^" line="31" column="38" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" timestamp="1548117940617">
+        <mark key="[" line="146" column="66" />
+        <mark key="]" line="147" column="29" />
+        <mark key="." line="147" column="29" />
+        <mark key="^" line="147" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1548056698866">
-        <mark key="[" line="36" column="16" />
-        <mark key="]" line="36" column="20" />
-        <mark key="." line="36" column="20" />
-        <mark key="^" line="36" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1548118535464">
+        <mark key="[" line="104" column="129" />
+        <mark key="]" line="102" column="38" />
+        <mark key="." line="102" column="38" />
+        <mark key="^" line="102" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1544744697422">
         <mark key="[" line="18" column="0" />
@@ -658,8 +658,8 @@
       <jump line="29" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/models/clickStats.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>let pipeline = [</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAlxdWVyeS5vcmRlciA9IFtbcGFyYW1zLm9yZGVyLCBvcmRlckRlc3RdXQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -674,7 +674,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>let pipeline = [</text>
+        <text>destination</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -692,106 +692,41 @@
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cm91dGVyLmRlbGV0ZSgnLzppZCcsIHVzZXJDb250cm9sbGVyLmRlbGV0ZSk7Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhjb3VudCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>, {$sort: {_id.date.year:1, _id.date.month
-:
-1, _id.date.day
-:
-1
-}
-},
-{
-  $project: {
-    _id: {
-      $concat: [{$substr: [&quot;$_id.date.year&quot;, 0, -1]}, &quot;-&quot;, {$cond: [{$lt: [&quot;$_id.date.month&quot;, 10]}, &quot;0&quot;, &quot;&quot;]}, {$substr: [&quot;$_id.date.month&quot;, 0, -1]}, &quot;-&quot;, {$cond: [{$lt: [&quot;$_id.date.day&quot;, 10]}, &quot;0&quot;, &quot;&quot;]}, {$substr: [&quot;$_id.date.day&quot;, 0, -1]}]
-    }
-  ,
-    networksTypes: true
-  }
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAlxdWVyeS5vcmRlciA9IFtbcGFyYW1zLm9yZGVyLCBvcmRlckRlc3RdXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>{
-  $match: {
-    createdAt: {
-      $gte: new Date(1540252800000),
-      $lte: new Date(1548115199999)
-    }
-  }
-}, 
-    {
-      $project: 
-        {
-          date: {
-            year: {$year: &quot;$createdAt&quot;}, month: {$month: &quot;$createdAt&quot;}, day: {$subtract: [{$dayOfMonth: &quot;$createdAt&quot;}, {$mod: [{$dayOfMonth: &quot;$createdAt&quot;}, 1]}]}}, cpc: true, cpa: true}}, {$group: {_id: {date: &quot;$date&quot;}, date: {$first: &quot;$date&quot;}, cpc: {$sum: {$cond: [{$gt: [&quot;$cpc&quot;, null]}, 1, 0]}}, cpa: {$sum: {$cond: [{$gt: [&quot;$cpa&quot;, null]}, 1, 0]}}}}, {$group: {_id: {date: &quot;$date&quot;}, networksTypes: {$push: {cpc: &quot;$cpc&quot;, cpa: &quot;$cpa&quot;}}}}, {$unwind: &quot;$networksTypes&quot;}, {$sort: {_id
-.
-date.year
-:
-1, _id.date.month
-:
-1, _id.date.day
-:
-1
-}
-},
-{
-  $project: {
-    _id: {
-      $concat: [{$substr: [&quot;$_id.date.year&quot;, 0, -1]}, &quot;-&quot;, {$cond: [{$lt: [&quot;$_id.date.month&quot;, 10]}, &quot;0&quot;, &quot;&quot;]}, {$substr: [&quot;$_id.date.month&quot;, 0, -1]}, &quot;-&quot;, {$cond: [{$lt: [&quot;$_id.date.day&quot;, 10]}, &quot;0&quot;, &quot;&quot;]}, {$substr: [&quot;$_id.date.day&quot;, 0, -1]}]
-    }
-  ,
-    networksTypes: true
-  }
-}</text>
-      </register>
-      <register name="3" type="4">
-        <text>,
-            month: {$month: &quot;$createdAt&quot;}, day: {$subtract: [{$dayOfMonth: &quot;$createdAt&quot;}, {$mod: [{$dayOfMonth: &quot;$createdAt&quot;}, 1]}]}}, cpc: true, cpa: true}}, {$group: {_id: {date: &quot;$date&quot;}, date: {$first: &quot;$date&quot;}, cpc: {$sum: {$cond: [{$gt: [&quot;$cpc&quot;, null]}, 1, 0]}}, cpa: {$sum: {$cond: [{$gt: [&quot;$cpa&quot;, null]}, 1, 0]}}}}, {$group: {_id: {date: &quot;$date&quot;}, networksTypes: {$push: {cpc: &quot;$cpc&quot;, cpa: &quot;$cpa&quot;}}}}, {$unwind: &quot;$networksTypes&quot;}, {$sort: {_id
-.
-date.year
-:
-1, _id.date.month
-:
-1, _id.date.day
-:
-1
-}
-},
-{
-  $project: {
-    _id: {
-      $concat: [{$substr: [&quot;$_id.date.year&quot;, 0, -1]}, &quot;-&quot;, {$cond: [{$lt: [&quot;$_id.date.month&quot;, 10]}, &quot;0&quot;, &quot;&quot;]}, {$substr: [&quot;$_id.date.month&quot;, 0, -1]}, &quot;-&quot;, {$cond: [{$lt: [&quot;$_id.date.day&quot;, 10]}, &quot;0&quot;, &quot;&quot;]}, {$substr: [&quot;$_id.date.day&quot;, 0, -1]}]
-    }
-  ,
-    networksTypes: true
-  }
-}</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgYnlBZG1pbiA9IHJlcS5xdWVyeS5hZG1pbiA9PT0gJ3RydWUnOyAvLyBVc2VkIHdoZW4gdXNlciBpcyBjcmVhdGVkIGZyb20gd2Vic2l0ZSBieSBhZG1pbgo=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">CQkJaWYocGFyYW1zLm9yZGVyRGVzdCAmJiAocGFyYW1zLm9yZGVyRGVzdCA9PT0gJ0FTQycgfHwgcGFyYW1zLm9yZGVyRGVzdCA9PT0gJ0RFU0MnKSl7CiAgICAgIAljb25zb2xlLmxvZygnZWJhdCcpCgkJCX0=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2tla2UpCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>keek')
+			console.log(params</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnc2lnbnVwIHJlcSBib2R5JywgcmVxLmJvZHkpOwo=</text>
+        <text encoding="base64">ICAgIAlxdWVyeS5vcmRlciA9IFtbcGFyYW1zLm9yZGVyLCBwYXJhbXMuXV0K</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlS2V5OiBieUFkbWluID8gJ3VzZXJzLm1lc3NhZ2VzLnN1Y2Nlc3NmdWxseV92ZXJpZmllZF9jcmVhdGVkX2J5X2FkbWluJyA6IHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">ICAgc29sZS5sb2coY291bnQpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgYnlBZG1pbiA9IHJlcS5xdWVyeS5hZG1pbiA9PT0gJ3RydWUnOyAvLyBVc2VkIHdoZW4gdXNlciBpcyBjcmVhdGVkIGZyb20gd2Vic2l0ZSBieSBhZG1pbgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IAogICAgY29uc29sZS5sb2coY291bnQpCiAgICBjb25zb2xlLmxvZyhjb3VudCkKICAgIGNvbg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhjb3VudCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
