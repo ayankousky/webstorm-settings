@@ -396,12 +396,12 @@
         <mark key="^" line="50" column="20" />
         <mark key="." line="50" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1548145265736">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1548150771642">
         <mark key="'" line="232" column="2" />
-        <mark key="[" line="229" column="24" />
-        <mark key="]" line="230" column="23" />
-        <mark key="." line="230" column="23" />
-        <mark key="^" line="230" column="23" />
+        <mark key="[" line="290" column="117" />
+        <mark key="]" line="290" column="133" />
+        <mark key="." line="290" column="133" />
+        <mark key="^" line="290" column="133" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/helpers/request/index.js" timestamp="1548103567275">
         <mark key="[" line="6" column="41" />
@@ -654,7 +654,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>password</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -669,7 +669,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>password</text>
       </register>
       <register name="m" type="4">
         <keys>
