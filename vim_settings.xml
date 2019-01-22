@@ -272,12 +272,7 @@
         <mark key="^" line="46" column="60" />
         <mark key="." line="46" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/users.js" timestamp="1548103091025">
-        <mark key="[" line="16" column="38" />
-        <mark key="]" line="16" column="38" />
-        <mark key="^" line="16" column="38" />
-        <mark key="." line="16" column="38" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/users.js" timestamp="1548144924879" />
       <file name="$USER_HOME$/Desktop/storage-blobs-node-quickstart/client/index.html" timestamp="1547769956807">
         <mark key="[" line="11" column="54" />
         <mark key="]" line="11" column="60" />
@@ -401,12 +396,12 @@
         <mark key="^" line="50" column="20" />
         <mark key="." line="50" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1548103608120">
-        <mark key="'" line="22" column="42" />
-        <mark key="[" line="282" column="76" />
-        <mark key="]" line="282" column="75" />
-        <mark key="." line="282" column="75" />
-        <mark key="^" line="282" column="75" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1548145265736">
+        <mark key="'" line="232" column="2" />
+        <mark key="[" line="229" column="24" />
+        <mark key="]" line="230" column="23" />
+        <mark key="." line="230" column="23" />
+        <mark key="^" line="230" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/helpers/request/index.js" timestamp="1548103567275">
         <mark key="[" line="6" column="41" />
@@ -556,8 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
-      <jump line="440" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="445" column="57" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="452" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="1451" column="22" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
@@ -656,10 +649,12 @@
       <jump line="14" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/models/clickStats.js" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/models/clickStats.js" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/models/clickStats.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" />
+      <jump line="231" column="2" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAlxdWVyeS5vcmRlciA9IFtbcGFyYW1zLm9yZGVyLCBvcmRlckRlc3RdXQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -674,7 +669,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>destination</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -692,7 +687,7 @@
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhjb3VudCkK</text>
+        <text encoding="base64">cm91dGVyLmdldCgnL3Byb2ZpbGUnLCBhdXRoLCB1c2VyQ29udHJvbGxlci5wcm9maWxlKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAlxdWVyeS5vcmRlciA9IFtbcGFyYW1zLm9yZGVyLCBvcmRlckRlc3RdXQo=</text>
