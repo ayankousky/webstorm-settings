@@ -190,12 +190,12 @@
         <mark key="^" line="119" column="19" />
         <mark key="." line="119" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" timestamp="1548273048875">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" timestamp="1548275594972">
         <mark key="'" line="141" column="0" />
-        <mark key="[" line="55" column="15" />
-        <mark key="]" line="55" column="27" />
-        <mark key="." line="55" column="27" />
-        <mark key="^" line="55" column="27" />
+        <mark key="[" line="168" column="25" />
+        <mark key="]" line="168" column="23" />
+        <mark key="." line="168" column="23" />
+        <mark key="^" line="168" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1548273189305">
         <mark key="[" line="147" column="35" />
@@ -376,11 +376,11 @@
         <mark key="." line="29" column="36" />
         <mark key="^" line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/user.js" timestamp="1548270375409">
-        <mark key="[" line="16" column="30" />
-        <mark key="]" line="16" column="30" />
-        <mark key="." line="16" column="30" />
-        <mark key="^" line="16" column="30" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/user.js" timestamp="1548275619383">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="21" />
+        <mark key="." line="17" column="21" />
+        <mark key="^" line="17" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/package.json" timestamp="1544281938412">
         <mark key="[" line="7" column="64" />
@@ -524,7 +524,7 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548203959005">
+      <file name="/Dummy.txt" timestamp="1548274185161">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1548200986598">
@@ -532,11 +532,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/audioProfile.js" timestamp="1548273211218">
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="18" column="20" />
-        <mark key="^" line="19" column="25" />
-        <mark key="." line="18" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/audioProfile.js" timestamp="1548275561352">
+        <mark key="[" line="14" column="59" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1545767253767">
         <mark key="[" line="798" column="58" />
@@ -713,8 +713,8 @@
       <jump line="141" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQljb25zdCBkYiA9IHJlcXVpcmUoJy4uL2RiL2RiJykK</text>
+      <register name="&quot;" type="4">
+        <text>id</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -729,7 +729,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{ where: target , include: db.userRole}</text>
+        <text>id</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -747,40 +747,40 @@
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb25zdCBkYiA9IHJlcXVpcmUoJy4uL2RiL2RiJykK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEucGFyYW1zKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgVXNlcgogICAgLmZpbmRPbmUoeyB3aGVyZTogdGFyZ2V0ICwgaW5jbHVkZTogZGIudXNlclJvbGV9KQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEucGFyYW1zKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICB7IGlkOiAnYWRtaW4xJywgZmlyc3ROYW1lOiAnQWRtaW4nLCBsYXN0TmFtZTogJ3Rlc3QgMScsIGxvZ2luTmFtZTogJ2FkbWluVGVzdDEnLCBwYXNzd29yZDogJ2F0MScsIGVtYWlsOiAnYWRtaW5UZXN0MUBweW91ci5jb20nLCBjb3VudHJ5OiAnQmVsYXJ1cycsIHJvbGVJZDogMyB9LAo=</text>
+        <text encoding="base64">ICAgIG5ld0F1ZGlvUHJvZmlsZQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgeyBpZDogJ21lZGljMicsIGZpcnN0TmFtZTogJ01lZGljYWwnLCBsYXN0TmFtZTogJ3Byb3ZpZGVyIDInLCBsb2dpbk5hbWU6ICdtcHJvdmlkZXIyJywgcGFzc3dvcmQ6ICdtcDInLCBlbWFpbDogJ21lZGljYWxQcm92aWRlcjJAcHlvdXIuY29tJywgY291bnRyeTogJ0JlbGFydXMnLCByb2xlSWQ6IDIgfSwKICAgICAgeyBpZDogJ3Rlc3R1MScsIGZpcnN0TmFtZTogJ1Rlc3QnLCBsYXN0TmFtZTogJ3VzZXIgMScsIGxvZ2luTmFtZTogJ3Rlc3RVc2VyMScsIHBhc3N3b3JkOiAndHUxJywgZW1haWw6ICd0ZXN0VXNlcjFAcHlvdXIuY29tJywgY291bnRyeTogJ0JlbGFydXMnLCByb2xlSWQ6IDEsIG1lZGljYWxQcm92aWRlcklkOiAnbWVkaWMxJyB9LAogICAgICB7IGlkOiAndGVzdHUyJywgZmlyc3ROYW1lOiAnVGVzdCcsIGxhc3ROYW1lOiAndXNlciAyJywgbG9naW5OYW1lOiAndGVzdFVzZXIyJywgcGFzc3dvcmQ6ICd0dTInLCBlbWFpbDogJ3Rlc3RVc2VyMkBweW91ci5jb20nLCBjb3VudHJ5OiAnQmVsYXJ1cycsIHJvbGVJZDogMSB9LAogICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBsZXQgcm9sZXMgPSBhd2FpdCBkYi51c2VyUm9sZS5nZXRBdmFpbGFibGUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBBdWRpb1Byb2ZpbGUuY3JlYXRlQnVsawo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgVXNlcgogICAgLmZpbmRPbmUoeyB3aGVyZTogdGFyZ2V0ICwgaW5jbHVkZTogZGIudXNlclJvbGV9KQ==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gaW5jbHVkZTogZGIudXNlclJvbGUK</text>
+        <text encoding="base64">ICAgICB7IGlkOiAnYWRtaW4xJywgZmlyc3ROYW1lOiAnQWRtaW4nLCBsYXN0TmFtZTogJ3Rlc3QgMScsIGxvZ2luTmFtZTogJ2FkbWluVGVzdDEnLCBwYXNzd29yZDogJ2F0MScsIGVtYWlsOiAnYWRtaW5UZXN0MUBweW91ci5jb20nLCBjb3VudHJ5OiAnQmVsYXJ1cycsIHJvbGVJZDogMyB9LAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgeyBpZDogJ21lZGljMicsIGZpcnN0TmFtZTogJ01lZGljYWwnLCBsYXN0TmFtZTogJ3Byb3ZpZGVyIDInLCBsb2dpbk5hbWU6ICdtcHJvdmlkZXIyJywgcGFzc3dvcmQ6ICdtcDInLCBlbWFpbDogJ21lZGljYWxQcm92aWRlcjJAcHlvdXIuY29tJywgY291bnRyeTogJ0JlbGFydXMnLCByb2xlSWQ6IDIgfSwKICAgICAgeyBpZDogJ3Rlc3R1MScsIGZpcnN0TmFtZTogJ1Rlc3QnLCBsYXN0TmFtZTogJ3VzZXIgMScsIGxvZ2luTmFtZTogJ3Rlc3RVc2VyMScsIHBhc3N3b3JkOiAndHUxJywgZW1haWw6ICd0ZXN0VXNlcjFAcHlvdXIuY29tJywgY291bnRyeTogJ0JlbGFydXMnLCByb2xlSWQ6IDEsIG1lZGljYWxQcm92aWRlcklkOiAnbWVkaWMxJyB9LAogICAgICB7IGlkOiAndGVzdHUyJywgZmlyc3ROYW1lOiAnVGVzdCcsIGxhc3ROYW1lOiAndXNlciAyJywgbG9naW5OYW1lOiAndGVzdFVzZXIyJywgcGFzc3dvcmQ6ICd0dTInLCBlbWFpbDogJ3Rlc3RVc2VyMkBweW91ci5jb20nLCBjb3VudHJ5OiAnQmVsYXJ1cycsIHJvbGVJZDogMSB9LAogICAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QUREICJyb2xlSWQiIGludDQgTk9UIE5VTEwgREVGQVVMVCgxKQo=</text>
+        <text encoding="base64">ICBBdWRpb1Byb2ZpbGUuY3JlYXRlQnVsawo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
