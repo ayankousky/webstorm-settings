@@ -21,6 +21,12 @@
         <mark key="^" line="194" column="4" />
         <mark key="." line="194" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/userLicense.js" timestamp="1548317088731">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="13" column="12" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/settings.js" timestamp="1548194628070">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -190,14 +196,14 @@
         <mark key="^" line="119" column="19" />
         <mark key="." line="119" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" timestamp="1548281297644">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" timestamp="1548283304605">
         <mark key="'" line="141" column="0" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
-        <mark key="^" line="169" column="21" />
+        <mark key="[" line="200" column="45" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
+        <mark key="^" line="202" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1548282499196">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1548313172153">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="^" line="148" column="3" />
@@ -711,7 +717,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlhdWRpb1Byb2ZpbGVzOiBEYXRhVHlwZXMuQVJSQVkoRGF0YVR5cGVzLlNUUklORyksCg==</text>
+        <text encoding="base64">ICAgICAgdW5pcXVlOiB0cnVlLAo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -726,7 +732,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>title</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -747,37 +753,44 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2ZpbGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlhdWRpb1Byb2ZpbGVzOiBEYXRhVHlwZXMuQVJSQVkoRGF0YVR5cGVzLlNUUklORyksCg==</text>
+        <text encoding="base64">ICAgICAgdW5pcXVlOiB0cnVlLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVwZGF0ZWRQcm9maWxlKQo=</text>
+        <text encoding="base64">ICAgIGkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2ZpbGUpCg==</text>
+      <register name="3" type="4">
+        <text>d: { // set fixed ids, don't change them
+      type: DataTypes.INTEGER,
+      primaryKey: true
+    },</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2ZpbGUpCg==</text>
+        <text encoding="base64">ICBsZXQgdXBkYXRlUmVzdWx0ID0gYXdhaXQgZGIudXNlckxpY2Vuc2UudXBkYXRlT25lKHJlcS5wYXJhbXMuYXVkaW9Qcm9maWxlSWQsIHJlcS5ib2R5LnByb2ZpbGVGaWVsZHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2ZpbGUpCg==</text>
+        <text encoding="base64">ICBsZXQgdXBkYXRlUmVzdWx0ID0gYXdhaXQgZGIudXNlckxpY2Vuc2UudXBkYXRlT25lKHJlcS5wYXJhbXMuYXVkaW9Qcm9maWxlSWQsIHJlcS5ib2R5LnByb2ZpbGVGaWVsZHMpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2ZpbGUpCg==</text>
+      <register name="6" type="8">
+        <text>AudioProfile
+AudioProfile
+AudioProfile
+AudioProfile
+AudioProfile</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2ZpbGUpCg==</text>
+        <text encoding="base64">CQlhdWRpb1Byb2ZpbGVzOiBEYXRhVHlwZXMuQVJSQVkoRGF0YVR5cGVzLlNUUklORyksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEuYm9keSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVwZGF0ZWRQcm9maWxlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEucGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2ZpbGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
