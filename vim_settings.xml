@@ -63,13 +63,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/models/clickStats.js" timestamp="1548116512821">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="29" column="1" />
-        <mark key="]" line="29" column="1" />
-        <mark key="." line="29" column="1" />
-        <mark key="^" line="29" column="1" />
-      </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/access_manager/package.json" timestamp="1545780908832">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="24" />
@@ -199,16 +192,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" timestamp="1548283304605">
         <mark key="'" line="141" column="0" />
-        <mark key="[" line="200" column="45" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
-        <mark key="^" line="202" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1548313172153">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="148" column="3" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1548372825002">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="59" />
+        <mark key="^" line="72" column="53" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1544744697422">
         <mark key="[" line="18" column="0" />
@@ -276,6 +265,12 @@
         <mark key="." line="48" column="33" />
         <mark key="^" line="48" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/deviceLicense.js" timestamp="1548372682986">
+        <mark key="[" line="77" column="3" />
+        <mark key="]" line="78" column="1" />
+        <mark key="." line="78" column="1" />
+        <mark key="^" line="78" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/middlewares/index.js" timestamp="1547914998515">
         <mark key="[" line="13" column="34" />
         <mark key="]" line="14" column="26" />
@@ -287,11 +282,11 @@
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/users.js" timestamp="1548280518930">
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="23" column="91" />
-        <mark key="." line="23" column="91" />
-        <mark key="^" line="23" column="91" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/users.js" timestamp="1548372854596">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/storage-blobs-node-quickstart/client/index.html" timestamp="1547769956807">
         <mark key="[" line="11" column="54" />
@@ -490,13 +485,6 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" timestamp="1548102986252">
-        <mark key="'" line="183" column="0" />
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="39" column="27" />
-        <mark key="^" line="39" column="27" />
-        <mark key="." line="39" column="27" />
-      </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/main_db_worker/app.js" timestamp="1545778438020">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="1" column="0" />
@@ -547,9 +535,9 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/audioProfile.js" timestamp="1548282317976">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/audioProfile.js" timestamp="1548372436484">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="68" />
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1545767253767">
@@ -738,8 +726,8 @@
       <jump line="141" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\&quot;startTs\&quot;:0,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB7IG1vZGVsOiBkYi5kZXZpY2VMaWNlbnNlLCBhczogJ2RldmljZUxpY2Vuc2VzJ30sCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -754,7 +742,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>\&quot;startTs\&quot;:0,</text>
+        <text>audioProfiles</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -772,47 +760,47 @@
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2ZpbGUpCg==</text>
+        <text encoding="base64">ICAgICAgICB7IG1vZGVsOiBkYi5kZXZpY2VMaWNlbnNlLCBhczogJ2RldmljZUxpY2Vuc2VzJ30sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdW5pcXVlOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAge2lkOiAyLCBuYW1lOiAnbWVkaWNhbF9wcm92aWRlcicsIHRpdGxlOiAnTWVkaWNhbCBwcm92aWRlcid9LAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAge2lkOiAzLCBuYW1lOiAnYWRtaW4nLCB0aXRsZTogJ0FkbWluJ30sCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdW5pcXVlOiB0cnVlLAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>d: { // set fixed ids, don't change them
       type: DataTypes.INTEGER,
       primaryKey: true
     },</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBsZXQgdXBkYXRlUmVzdWx0ID0gYXdhaXQgZGIudXNlckxpY2Vuc2UudXBkYXRlT25lKHJlcS5wYXJhbXMuYXVkaW9Qcm9maWxlSWQsIHJlcS5ib2R5LnByb2ZpbGVGaWVsZHMpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBsZXQgdXBkYXRlUmVzdWx0ID0gYXdhaXQgZGIudXNlckxpY2Vuc2UudXBkYXRlT25lKHJlcS5wYXJhbXMuYXVkaW9Qcm9maWxlSWQsIHJlcS5ib2R5LnByb2ZpbGVGaWVsZHMpOwo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text>AudioProfile
 AudioProfile
 AudioProfile
 AudioProfile
 AudioProfile</text>
       </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlhdWRpb1Byb2ZpbGVzOiBEYXRhVHlwZXMuQVJSQVkoRGF0YVR5cGVzLlNUUklORyksCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVwZGF0ZWRQcm9maWxlKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2ZpbGUpCg==</text>
+        <text encoding="base64">CQlhdWRpb1Byb2ZpbGVzOiBEYXRhVHlwZXMuQVJSQVkoRGF0YVR5cGVzLlNUUklORyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
