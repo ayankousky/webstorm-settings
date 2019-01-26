@@ -193,11 +193,11 @@
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" timestamp="1548283304605">
         <mark key="'" line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1548372825002">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="59" />
-        <mark key="^" line="72" column="53" />
-        <mark key="." line="156" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1548541673831">
+        <mark key="[" line="157" column="42" />
+        <mark key="]" line="157" column="53" />
+        <mark key="^" line="157" column="53" />
+        <mark key="." line="157" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1544744697422">
         <mark key="[" line="18" column="0" />
@@ -265,7 +265,7 @@
         <mark key="." line="48" column="33" />
         <mark key="^" line="48" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/deviceLicense.js" timestamp="1548372682986">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/deviceLicense.js" timestamp="1548537754680">
         <mark key="[" line="77" column="3" />
         <mark key="]" line="78" column="1" />
         <mark key="." line="78" column="1" />
@@ -530,10 +530,11 @@
       <file name="/Dummy.txt" timestamp="1548274185161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1548200986598">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1548542283637">
+        <mark key="[" line="32" column="40" />
+        <mark key="]" line="33" column="1" />
+        <mark key="." line="33" column="1" />
+        <mark key="^" line="33" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/audioProfile.js" timestamp="1548372436484">
         <mark key="[" line="37" column="0" />
@@ -727,7 +728,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7IG1vZGVsOiBkYi5kZXZpY2VMaWNlbnNlLCBhczogJ2RldmljZUxpY2Vuc2VzJ30sCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -742,7 +743,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>audioProfiles</text>
+        <text>deviceLicenses</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -760,47 +761,40 @@
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7IG1vZGVsOiBkYi5kZXZpY2VMaWNlbnNlLCBhczogJ2RldmljZUxpY2Vuc2VzJ30sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsgbW9kZWw6IGRiLmRldmljZUxpY2Vuc2UsIGFzOiAnZGV2aWNlTGljZW5zZXMnfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAge2lkOiAyLCBuYW1lOiAnbWVkaWNhbF9wcm92aWRlcicsIHRpdGxlOiAnTWVkaWNhbCBwcm92aWRlcid9LAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAge2lkOiAzLCBuYW1lOiAnYWRtaW4nLCB0aXRsZTogJ0FkbWluJ30sCg==</text>
+        <text encoding="base64">ICAgICAgeyBpZDogJ21hcml1cycsIGZpcnN0TmFtZTogJ01hcml1c3onLCBsYXN0TmFtZTogJ0F1Z3VzdHluaWFrJywgbG9naW5OYW1lOiAnTWFyaXVzejEyJywgcGFzc3dvcmQ6ICckMmEkMTAkbi9xNXRvQ2hvTlNiaC8wdmNqQzFrZUtIS21DN05uQTlFREY2M3VIdzhZZTdub3daOXpYZU8nLCBlbWFpbDogJ21hdWd1c3R5bmlha0BzYW1wbGlmaWVkLWF1ZGlvLmNvbScsIGNvdW50cnk6ICdDYW5hZGEnLCByb2xlSWQ6IDMgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdW5pcXVlOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgeyBpZDogJ2FkbWluMScsIGZpcnN0TmFtZTogJ0FkbWluJywgbGFzdE5hbWU6ICd0ZXN0IDEnLCBsb2dpbk5hbWU6ICdhZG1pblRlc3QxJywgcGFzc3dvcmQ6ICdhdDEnLCBlbWFpbDogJ2FkbWluVGVzdDFAcHlvdXIuY29tJywgY291bnRyeTogJ0JlbGFydXMnLCByb2xlSWQ6IDMgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">ICAgICAgeyBpZDogJ3Rlc3R1MicsIGZpcnN0TmFtZTogJ1Rlc3QnLCBsYXN0TmFtZTogJ3VzZXIgMicsIGxvZ2luTmFtZTogJ3Rlc3RVc2VyMicsIHBhc3N3b3JkOiAndHUyJywgZW1haWw6ICd0ZXN0VXNlcjJAcHlvdXIuY29tJywgY291bnRyeTogJ0JlbGFydXMnLCByb2xlSWQ6IDEgfSwK</text>
       </register>
-      <register name="5" type="4">
-        <text>d: { // set fixed ids, don't change them
-      type: DataTypes.INTEGER,
-      primaryKey: true
-    },</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgeyBpZDogJ3Rlc3R1MScsIGZpcnN0TmFtZTogJ1Rlc3QnLCBsYXN0TmFtZTogJ3VzZXIgMScsIGxvZ2luTmFtZTogJ3Rlc3RVc2VyMScsIHBhc3N3b3JkOiAndHUxJywgZW1haWw6ICd0ZXN0VXNlcjFAcHlvdXIuY29tJywgY291bnRyeTogJ0JlbGFydXMnLCByb2xlSWQ6IDEsIG1lZGljYWxQcm92aWRlcklkOiAnbWVkaWMxJyB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQgdXBkYXRlUmVzdWx0ID0gYXdhaXQgZGIudXNlckxpY2Vuc2UudXBkYXRlT25lKHJlcS5wYXJhbXMuYXVkaW9Qcm9maWxlSWQsIHJlcS5ib2R5LnByb2ZpbGVGaWVsZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgeyBpZDogJ21lZGljMicsIGZpcnN0TmFtZTogJ01lZGljYWwnLCBsYXN0TmFtZTogJ3Byb3ZpZGVyIDInLCBsb2dpbk5hbWU6ICdtcHJvdmlkZXIyJywgcGFzc3dvcmQ6ICdtcDInLCBlbWFpbDogJ21lZGljYWxQcm92aWRlcjJAcHlvdXIuY29tJywgY291bnRyeTogJ0JlbGFydXMnLCByb2xlSWQ6IDIgfSwK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgdXBkYXRlUmVzdWx0ID0gYXdhaXQgZGIudXNlckxpY2Vuc2UudXBkYXRlT25lKHJlcS5wYXJhbXMuYXVkaW9Qcm9maWxlSWQsIHJlcS5ib2R5LnByb2ZpbGVGaWVsZHMpOwo=</text>
+        <text encoding="base64">ICAgICAge2lkOiAyLCBuYW1lOiAnbWVkaWNhbF9wcm92aWRlcicsIHRpdGxlOiAnTWVkaWNhbCBwcm92aWRlcid9LAo=</text>
       </register>
-      <register name="8" type="8">
-        <text>AudioProfile
-AudioProfile
-AudioProfile
-AudioProfile
-AudioProfile</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAge2lkOiAzLCBuYW1lOiAnYWRtaW4nLCB0aXRsZTogJ0FkbWluJ30sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlhdWRpb1Byb2ZpbGVzOiBEYXRhVHlwZXMuQVJSQVkoRGF0YVR5cGVzLlNUUklORyksCg==</text>
+        <text encoding="base64">ICAgICAgdW5pcXVlOiB0cnVlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
