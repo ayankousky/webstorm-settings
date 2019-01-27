@@ -57,6 +57,13 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/models/clickStats.js" timestamp="1548116512821">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="29" column="1" />
+        <mark key="." line="29" column="1" />
+        <mark key="^" line="29" column="1" />
+      </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/access_manager/package.json" timestamp="1545780908832">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="24" />
@@ -187,9 +194,9 @@
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" timestamp="1548283304605">
         <mark key="'" line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1548589874921">
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1548610365907">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="35" />
         <mark key="^" line="157" column="39" />
         <mark key="." line="167" column="0" />
       </file>
@@ -204,6 +211,12 @@
         <mark key="]" line="51" column="22" />
         <mark key="." line="51" column="22" />
         <mark key="^" line="51" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/organizations.js" timestamp="1548610297514">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/helpers/notification/index.js" timestamp="1548055730639">
         <mark key="[" line="7" column="23" />
@@ -259,7 +272,7 @@
         <mark key="." line="48" column="33" />
         <mark key="^" line="48" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/deviceLicense.js" timestamp="1548604556553">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/deviceLicense.js" timestamp="1548605455426">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
@@ -431,11 +444,11 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="6" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/organizations.js" timestamp="1548604717469">
-        <mark key="[" line="5" column="80" />
-        <mark key="]" line="5" column="80" />
-        <mark key="^" line="5" column="80" />
-        <mark key="." line="5" column="80" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/organizations.js" timestamp="1548610255584">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="33" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/gulpfile.js" timestamp="1547059261295">
         <mark key="[" line="59" column="96" />
@@ -466,7 +479,7 @@
         <mark key="^" line="64" column="45" />
         <mark key="." line="65" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/userRole.js" timestamp="1548589879918">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/userRole.js" timestamp="1548605299885">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -483,13 +496,20 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" timestamp="1548102986252">
+        <mark key="'" line="183" column="0" />
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="39" column="27" />
+        <mark key="^" line="39" column="27" />
+        <mark key="." line="39" column="27" />
+      </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/main_db_worker/app.js" timestamp="1545778438020">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1548603599195">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1548610464605">
         <mark key="[" line="38" column="95" />
         <mark key="]" line="38" column="100" />
         <mark key="^" line="38" column="100" />
@@ -528,22 +548,23 @@
       <file name="/Dummy.txt" timestamp="1548544334689">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1548605228806">
-        <mark key="[" line="28" column="102" />
-        <mark key="]" line="29" column="19" />
-        <mark key="." line="29" column="19" />
-        <mark key="^" line="29" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1548610623033">
+        <mark key="'" line="34" column="75" />
+        <mark key="[" line="35" column="50" />
+        <mark key="]" line="35" column="50" />
+        <mark key="." line="35" column="50" />
+        <mark key="^" line="38" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/audioProfile.js" timestamp="1548589815585">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1548605242834">
-        <mark key="[" line="47" column="3" />
-        <mark key="]" line="47" column="4" />
-        <mark key="." line="47" column="4" />
-        <mark key="^" line="26" column="88" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1548610649063">
+        <mark key="[" line="25" column="90" />
+        <mark key="]" line="25" column="122" />
+        <mark key="." line="25" column="122" />
+        <mark key="^" line="25" column="122" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1545767253767">
         <mark key="[" line="798" column="58" />
@@ -629,7 +650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1451" column="22" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="447" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="181" column="28" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
       <jump line="459" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
@@ -729,10 +749,11 @@
       <jump line="231" column="2" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" />
       <jump line="23" column="1" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" />
       <jump line="141" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" />
+      <jump line="34" column="75" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -747,58 +768,60 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvbnRhY3RQZXJzb25JZA==</text>
+        <text>]</text>
       </register>
       <register name="m" type="4">
         <keys>
+          <key char="73" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="106" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
         </keys>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGIub3JnYW5pemF0aW9uLmJlbG9uZ3NUbyhkYi51c2VyLCB7dGFyZ2V0S2V5OiAnaWQnLCBmb3JlaWduS2V5OiAnZmlyc3RDb250YWN0UGVyc29uSWQnLCBhczogJ2ZpcnN0Q29udGFjdFBlcnNvbid9KTsK</text>
+        <text encoding="base64">CQkJCXttb2RlbDogZGIudXNlciwgYXM6IFsnZmlyc3RDb250YWN0UGVyc29uJywgJ3NlY29uZENvbnRhY3RQZXJzb24nXX0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CSAgY29uc29sZS5sb2coaWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gZGIudXNlci5iZWxvbmdzVG8oZGIub3JnYW5pemF0aW9uLCB7YXM6ICdvcmdhbml6YXRpb24nLCBmb3JlaWduS2V5OiAnb3JnYW5pemF0aW9uSWQnfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gZGIub3JnYW5pemF0aW9uLmhhc01hbnkoZGIudXNlciwge2FzOiAndXNlcnMnfSk7Cg==</text>
+        <text encoding="base64">ICByZXMuanNvbigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gZGIub3JnYW5pemF0aW9uLmJlbG9uZ3NUbyhkYi51c2VyLCB7Zm9yZWlnbktleTogJ293bmVySWQnfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZXhwb3J0cy5nZXRVc2VyQnlJZCA9IChyZXEsIHJlcywgbmV4dCkgPT4gewogIC8vIHJlZGlyZWN0IHRvIHRoZSBuZXh0IHJvdXRlIGlmIGl0IGlzIHNlYXJjaCByZXF1ZXN0CiAgaWYgKHJlcS5wYXJhbXMuaWQgPT09ICdzZWFyY2gnIHx8IHJlcS5wYXJhbXMuaWQgPT09ICdyb2xlcycpIHsKICAgIHJldHVybiBuZXh0KCk7CiAgfQoKICBsZXQgdGFyZ2V0OwoKICBpZiAocmVxLnBhcmFtcyAmJiByZXEucGFyYW1zLmlkKSB7CgogICAgdGFyZ2V0ID0geyBpZDogcmVxLnBhcmFtcy5pZCB9OwoKICB9IGVsc2UgewoKICAgIHJldHVybiByZXMuc3RhdHVzKDUwMCkuanNvbih7IG1lc3NhZ2U6ICdTb21ldGhpbmcgd2VudCB3cm9uZyB3aGlsZSBnZXQgdGhlIHVzZXIgYnkgaWQnIH0pOwoKICB9CgogIFVzZXIuZ2V0QnlJZChyZXEucGFyYW1zLmlkKQogICAgLnRoZW4oKHVzZXIpID0+IHsKCiAgICAgIGNvbnNvbGUubG9nKGBmb3VuZCB1c2VyICR7dXNlci5lbWFpbH1gKTsKCiAgICAgIGlmICh1c2VyKSB7CgogICAgICAgIHJlcy5zdGF0dXMoMjAwKS5qc29uKHVzZXIpOwoKICAgICAgfSBlbHNlIHsKCiAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdTbXRuZyB3ZW50IHdyb25nIScpOwogICAgICB9CiAgICB9KQogICAgLmNhdGNoKGVyciA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdUaGVyZSB3YXMgYW4gZXJyb3Igd2hpbGUgZ2V0IHVzZXIgYnkgaWQnLCBlcnIudG9TdHJpbmcoKSk7CgogICAgICByZXMuc3RhdHVzKDUwMCkuanNvbih7IG1lc3NhZ2U6ICdUaGVyZSB3YXMgYW4gZXJyb3Igd2hpbGUgZ2V0IHVzZXIgYnkgaWQnIH0pOwogICAgfSk7Cn07CgpleHBvcnRzLmdldFVzZXJCeUVtYWlsID0gKHJlcSwgcmVzKSA9PiB7CiAgY29uc29sZS5sb2coJ3JlcS5ib2R5JywgcmVxLmJvZHkpOwoKICBsZXQgdGFyZ2V0OwoKICBpZiAocmVxLmJvZHkgJiYgcmVxLmJvZHkuZW1haWwpIHsKCiAgICB0YXJnZXQgPSB7IGVtYWlsOiByZXEuYm9keS5lbWFpbCB9OwoKICB9IGVsc2UgewoKICAgIHJldHVybiByZXMuc3RhdHVzKDUwMCkuanNvbih7IG1lc3NhZ2U6ICdTb21ldGhpbmcgd2VudCB3cm9uZyB3aGlsZSBnZXQgdGhlIHVzZXIgYnkgZW1haWwnIH0pOwoKICB9CgogIFVzZXIKICAgIC5maW5kT25lKHsgd2hlcmU6IHRhcmdldCB9KQogICAgLnRoZW4oKHVzZXIpID0+IHsKCiAgICAgIGNvbnNvbGUubG9nKGBmb3VuZCB1c2VyICR7dXNlci5lbWFpbH1gKTsKCiAgICAgIGlmICh1c2VyKSB7CgogICAgICAgIHJlcy5zdGF0dXMoMjAwKS5qc29uKHVzZXIpOwoKICAgICAgfSBlbHNlIHsKCiAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdTbXRuZyB3ZW50IHdyb25nIScpOwogICAgICB9CiAgICB9KQogICAgLmNhdGNoKGVyciA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdUaGVyZSB3YXMgYW4gZXJyb3Igd2hpbGUgZ2V0IHVzZXIgYnkgZW1haWwnLCBlcnIpOwoKICAgICAgcmVzLnN0YXR1cyg1MDApLmpzb24oeyBtZXNzYWdlOiAnVGhlcmUgd2FzIGFuIGVycm9yIHdoaWxlIGdldCB1c2VyIGJ5IGVtYWlsJyB9KTsKICAgIH0pOwp9OwoKZXhwb3J0cy51cGRhdGVVc2VyID0gKHJlcSwgcmVzKSA9PiB7CiAgbGV0IHVzZXJJZCA9IHJlcS5ib2R5LmlkOwogIGxldCBjaGFuZ2VzID0gcmVxLmJvZHkuY2hhbmdlczsKCiAgVXNlcgogICAgLnVwZGF0ZShjaGFuZ2VzLCB7IHdoZXJlOiB7IGlkOiB1c2VySWQgfSB9KQogICAgLnRoZW4oKHVzZXIpID0+IHsKICAgICAgLy8gY29uc29sZS5sb2coJ3VzZXInLCB1c2VyKTsKICAgICAgaWYgKHVzZXIpIHsKICAgICAgICAvLyBjb25zb2xlLmxvZygnYWZ0ZXIgdXNlciB1cGRhdGUnLCB1c2VyLmlzVmVyaWZpZWQpOwogICAgICAgIHJlcy5zdGF0dXMoMjAwKS5qc29uKHsgbWVzc2FnZTogJ1VzZXIgd2FzIHVwZGF0ZWQhJyB9KTsKCiAgICAgIH0gZWxzZSB7CiAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdTbXRuZyB3ZW50IHdyb25nIScpOwogICAgICB9CiAgICB9KQogICAgLmNhdGNoKGVyciA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdUaGVyZSB3YXMgYW4gZXJyb3Igd2hpbGUgdXBkYXRlIHRoZSB1c2VyIGJ5IGlkJywgZXJyLnRvU3RyaW5nKCkpOwoKICAgICAgcmVzLnN0YXR1cyg1MDApLmpzb24oeyBtZXNzYWdlOiAnVGhlcmUgd2FzIGFuIGVycm9yIHdoaWxlIHVwZGF0ZSB0aGUgdXNlciBieSBpZCcgfSk7CiAgICB9KTsKfTsKCmV4cG9ydHMuZGVsZXRlVXNlciA9IChyZXEsIHJlcykgPT4gewoKfTsKCmV4cG9ydHMuc2VhcmNoID0gYXN5bmMgKHJlcSwgcmVzKSA9PiB7CgogIGxldCBzZWFyY2hSZXN1bHQgPSBhd2FpdCBVc2VyLnNlYXJjaChyZXEucXVlcnkpOwoKICByZXMuanNvbih7CiAgICB1c2Vyczogc2VhcmNoUmVzdWx0LnVzZXJzLm1hcCh1ID0+IFVzZXIucHJvamVjdCgnY2xpZW50JywgdSkpLAogICAgY291bnQ6IHNlYXJjaFJlc3VsdC5jb3VudCwKICB9KQp9OwoKZXhwb3J0cy5kZWxldGUgPSBhc3luYyAocmVxLCByZXMpID0+IHsKICBsZXQgdXNlciA9IGF3YWl0IFVzZXIuZ2V0QnlJZChyZXEucGFyYW1zLmlkKTsKICBsZXQgcmVzdWx0ID0gYXdhaXQgdXNlci5kZWxldGUoKTsKCiAgcmVzLmpzb24oewogICAgc3VjY2VzczogcmVzdWx0LAogIH0pCn07CgpleHBvcnRzLmdldFJvbGVzTGlzdCA9ICBhc3luYyAocmVxLCByZXMpID0+IHsKICBsZXQgcm9sZXMgPSBhd2FpdCBkYi51c2VyUm9sZS5nZXRBdmFpbGFibGUoKTsKCiAgcmVzLmpzb24oewogICAgcm9sZXM6IHJvbGVzCiAgfSkKfTsKCmV4cG9ydHMuY3JlYXRlQXVkaW9Qcm9maWxlID0gYXN5bmMgKHJlcSwgcmVzKSA9PiB7CiAgbGV0IG5ld0F1ZGlvUHJvZmlsZSA9IGF3YWl0IGRiLmF1ZGlvUHJvZmlsZS5jcmVhdGVPbmUocmVxLnBhcmFtcy51c2VySWQsIHJlcS5ib2R5LnByb2ZpbGVGaWVsZHMpOwoKICByZXMuanNvbih7CiAgICBuZXdBdWRpb1Byb2ZpbGUKICB9KQp9OwoKZXhwb3J0cy51cGRhdGVBdWRpb1Byb2ZpbGUgPSBhc3luYyAocmVxLCByZXMpID0+IHsKICBsZXQgdXBkYXRlUmVzdWx0ID0gYXdhaXQgZGIuYXVkaW9Qcm9maWxlLnVwZGF0ZU9uZShyZXEucGFyYW1zLmF1ZGlvUHJvZmlsZUlkLCByZXEuYm9keS5wcm9maWxlRmllbGRzKTsKCiAgcmVzLmpzb24oewogICAgc3VjY2VzczogdXBkYXRlUmVzdWx0WzBdID09PSAxCiAgfSkKfTsKCmV4cG9ydHMuZGVsZXRlQXVkaW9Qcm9maWxlID0gYXN5bmMgKHJlcSwgcmVzKSA9PiB7CiAgbGV0IHByb2ZpbGUgPSBhd2FpdCBkYi5hdWRpb1Byb2ZpbGUuZ2V0QnlJZChyZXEucGFyYW1zLmF1ZGlvUHJvZmlsZUlkKTsKICBhd2FpdCBwcm9maWxlLmRlbGV0ZSgpOwoKICByZXMuanNvbih7CiAgICBzdWNjZXNzOiB0cnVlCiAgfSkKfTsKCmV4cG9ydHMuY3JlYXRlTGljZW5zZSA9IGFzeW5jIChyZXEsIHJlcykgPT4gewogIGxldCBsaWNlbnNlRmllbGRzID0gcmVxLmJvZHkubGljZW5zZUZpZWxkczsKICBsaWNlbnNlRmllbGRzLnVzZXJJZCA9IHJlcS5wYXJhbXMudXNlcklkOwogIGxldCBuZXdMaWNlbnNlID0gYXdhaXQgZGIuZGV2aWNlTGljZW5zZS5jcmVhdGVPbmUocmVxLmJvZHkubGljZW5zZUZpZWxkcyk7CgogIHJlcy5qc29uKHsKICAgIG5ld0xpY2Vuc2UKICB9KQp9OwoKZXhwb3J0cy51cGRhdGVMaWNlbnNlID0gYXN5bmMgKHJlcSwgcmVzKSA9PiB7CiAgbGV0IHVwZGF0ZVJlc3VsdCA9IGF3YWl0IGRiLmRldmljZUxpY2Vuc2UudXBkYXRlT25lKHJlcS5wYXJhbXMubGljZW5zZUlkLCByZXEuYm9keS5saWNlbnNlRmllbGRzKTsKCiAgcmVzLmpzb24oewogICAgc3VjY2VzczogdXBkYXRlUmVzdWx0WzBdID09PSAxCiAgfSkKfTsKCmV4cG9ydHMuZGVsZXRlTGljZW5zZSA9IGFzeW5jIChyZXEsIHJlcykgPT4gewogIGxldCBwcm9maWxlID0gYXdhaXQgZGIuZGV2aWNlTGljZW5zZS5nZXRCeUlkKHJlcS5wYXJhbXMubGljZW5zZUlkKTsKICBhd2FpdCBwcm9maWxlLmRlbGV0ZSgpOwoKICByZXMuanNvbih7CiAgICBzdWNjZXNzOiB0cnVlCiAgfSkKfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
