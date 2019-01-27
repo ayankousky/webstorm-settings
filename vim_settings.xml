@@ -495,11 +495,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1548589121635">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="47" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1548601149902">
+        <mark key="[" line="37" column="102" />
+        <mark key="]" line="37" column="119" />
+        <mark key="^" line="37" column="119" />
+        <mark key="." line="37" column="119" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" timestamp="1544744557544">
         <mark key="[" line="155" column="0" />
@@ -544,11 +544,11 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1548589760617">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="16" />
-        <mark key="^" line="2" column="16" />
-        <mark key="." line="2" column="16" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1548601184489">
+        <mark key="[" line="9" column="44" />
+        <mark key="]" line="9" column="44" />
+        <mark key="^" line="9" column="44" />
+        <mark key="." line="9" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1545767253767">
         <mark key="[" line="798" column="58" />
@@ -737,7 +737,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>settings</text>
+        <text>medicalProvider</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -752,7 +752,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>settings</text>
+        <text>medicalProvider</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -770,7 +770,7 @@
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNldHRpbmdzOiAnL3NldHRpbmdzJywK</text>
+        <text encoding="base64">ZGIudXNlci5iZWxvbmdzVG8oZGIudXNlciwge3RhcmdldEtleTogJ2lkJywgZm9yZWlnbktleTogJ21lZGljYWxQcm92aWRlcklkJywgYXM6ICdtZWRpY2FsUHJvdmlkZXInfSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Owo=</text>
