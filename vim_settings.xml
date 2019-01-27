@@ -522,11 +522,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1548614999061">
-        <mark key="[" line="47" column="68" />
-        <mark key="]" line="48" column="18" />
-        <mark key="^" line="48" column="18" />
-        <mark key="." line="48" column="18" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1548618983402">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" timestamp="1544744557544">
         <mark key="[" line="155" column="0" />
@@ -561,23 +560,23 @@
       <file name="/Dummy.txt" timestamp="1548614615037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1548614840441">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1548619104380">
         <mark key="'" line="34" column="75" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="99" column="38" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="52" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="37" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/audioProfile.js" timestamp="1548589815585">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1548612549539">
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="26" column="26" />
-        <mark key="." line="26" column="26" />
-        <mark key="^" line="26" column="26" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1548619072103">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="23" />
+        <mark key="^" line="29" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1545767253767">
         <mark key="[" line="798" column="58" />
@@ -660,6 +659,12 @@
         <mark key="]" line="196" column="12" />
         <mark key="^" line="196" column="12" />
         <mark key="." line="196" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organizationBrand.js" timestamp="1548618950824">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="53" />
+        <mark key="^" line="1" column="53" />
+        <mark key="." line="1" column="53" />
       </file>
     </filemarks>
     <jumps>
@@ -765,8 +770,8 @@
       <jump line="34" column="75" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>licenseId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB7bW9kZWw6IGRiLm9yZ2FuaXphdGlvbkJyYW5kLCBhczogJ2JyYW5kcyd9LAo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -781,7 +786,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>licenseId</text>
+        <text>role</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -801,139 +806,40 @@
         <text encoding="base64">XDxSVU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVzZXJzOiAnL3VzZXJzJywK</text>
+        <text encoding="base64">ICAgICAgICB7bW9kZWw6IGRiLm9yZ2FuaXphdGlvbkJyYW5kLCBhczogJ2JyYW5kcyd9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYm9keTogCg==</text>
+        <text encoding="base64">ICAgIHsgaWQ6ICdvZzInLCByb2xlSWQ6IDIsIHBhcmVudE9yZ2FuaXphdGlvbklkOiAnb2cxJywgbmFtZTogJ09yZ2FuaXphdGlvbiAyJywgdHlwZTogJ2tlaycsIHNlY29uZENvbnRhY3RQZXJzb25JZDogJ21lZGljMid9LAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>{
-        organizationFields: oFields
-      },</text>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coT2JqZWN0LmtleXMoZGIpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9GaWVsZHMpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">T3JnQnJhbmQuc2VhcmNoID0gYXN5bmMgcGFyYW1zID0+IHsKICAgIGNvbnN0IGRiID0gcmVxdWlyZSgnLi4vZGIvZGInKQogICAgICAsIE9wID0gZGIuU2VxdWVsaXplLk9wCgogICAgbGV0IHF1ZXJ5ID0gewogICAgICB3aGVyZToge30sCiAgICAgIGluY2x1ZGU6IFsKICAgICAgICB7bW9kZWw6IGRiLnVzZXIsIGFzOiAnZmlyc3RDb250YWN0UGVyc29uJ30sCiAgICAgICAge21vZGVsOiBkYi51c2VyLCBhczogJ3NlY29uZENvbnRhY3RQZXJzb24nfSwKICAgICAgICB7bW9kZWw6IGRiLnVzZXJSb2xlLCBhczogJ3JvbGUnfSwKICAgICAgXQogICAgfTsKCiAgICAvLyBmaWx0ZXIgYnkgdXNlciBpbnB1dAogICAgaWYgKHBhcmFtcy5zZWFyY2hUZXh0KXsKICAgICAgcXVlcnkud2hlcmUubmFtZSA9IHtbT3AubGlrZV06IGAlJHtwYXJhbXMuc2VhcmNoVGV4dH0lYH07CiAgICB9CgogICAgLy8gc2VsZWN0IG9yZGVyIGZpZWxkIGFuZCBkaXJlY3Rpb24KICAgIGlmKHBhcmFtcy5vcmRlcikgewogICAgICBsZXQgb3JkZXJEaXIgPSBwYXJhbXMub3JkZXJEaXIgJiYgKHBhcmFtcy5vcmRlckRpciA9PT0gJ0FTQycgfHwgcGFyYW1zLm9yZGVyRGlyID09PSAnREVTQycpID8gcGFyYW1zLm9yZGVyRGlyIDogJ0RFU0MnCiAgICAgIHF1ZXJ5Lm9yZGVyID0gW1twYXJhbXMub3JkZXIsIG9yZGVyRGlyXV0KICAgIH0KCiAgICBsZXQgb3JnYW5pemF0aW9ucyA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkoYXdhaXQgT3JnQnJhbmQuZmluZEFsbChxdWVyeSkpKTsKICAgIGxldCBjb3VudCA9IGF3YWl0IE9yZ0JyYW5kLmNvdW50KHF1ZXJ5KTsKCiAgICByZXR1cm4geyBvcmdhbml6YXRpb25zLCBjb3VudCB9OwogIH07</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cm91dGVyLmdldCgnLzppZCcsIGF1dGgsIHVzZXJDb250cm9sbGVyLmdldEJ5SWQpCg==</text>
+        <text encoding="base64">CSAgY29uc29sZS5sb2coZmllbGRzKQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
-        <text>;
-router.put('/:id', auth, userController.updateById);
-router.get('/profile', auth, userController.profile);
-router.get('/policy', userController.policyInfo);
-router.get('/password_restore', userController.handlePasswordRestore);
-router.get('/search', userController.search);
-router.get('/roles', userController.getAvailableRoles);
-router.put('', auth, userController.updateProfile);
-router.post('/password_restore', userController.passwordRestore);
-router.post('/policy', auth, userController.uploadPolicy);
-router.delete('/policy', auth, userController.deletePolicy);
-router.delete('/:id', userController.delete);
-router.post('/', userController.create);
-
-router.post('/:userId/audio_profiles', userController.createAudioProfile);
-router.put('/:userId/audio_profiles/:audioProfileId', userController.updateAudioProfile);
-router.delete('/:userId/audio_profiles/:audioProfileId', userController.deleteAudioProfile);
-
-router.post('/:userId/device_licenses', userController.createLicense);
-router.put('/:userId/device_licenses/:licenseId', userController.updateLicense);
-router.delete('/:userId/device_licenses/:licenseId', userController.deleteLicense);</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGRiID0gcmVxdWlyZSgnLi4vZGIvZGInKTsK</text>
+      </register>
       <register name="9" type="4">
-        <text>async deleteAudioProfile(audioProfileId, userId) {
-    let reqOptions = {
-      method: 'DELETE',
-      uri: `${options.dbWorkerUrl}/user/${userId}/audio_profiles/${audioProfileId}`,
-      json: true,
-    };
-
-    let result;
-    try {
-      result = await exRequest(reqOptions);
-    } catch (e){
-      console.log(`Error on User.search: ${e.toString()}`);
-      return new AppError.Unexpected();
-    }
-
-    return result;
-  }
-
-  async createLicense(userId, licenseFields) {
-    let reqOptions = {
-      method: 'POST',
-      uri: `${options.dbWorkerUrl}/user/${userId}/device_licenses`,
-      body: {
-        licenseFields
-      },
-      json: true
-    };
-
-    let result;
-    try {
-      result = await exRequest(reqOptions);
-    } catch (e){
-      console.log(`Error on User.search: ${e.toString()}`);
-      return new AppError.Unexpected();
-    }
-
-    return result;
-  }
-
-  async updateLicense(licenseId, userId, licenseFields) {
-    console.log(licenseFields)
-    let reqOptions = {
-      method: 'PUT',
-      uri: `${options.dbWorkerUrl}/user/${userId}/device_licenses/${licenseId}`,
-      body: {
-        licenseFields
-      },
-      json: true,
-    };
-
-    let result;
-    try {
-      result = await exRequest(reqOptions);
-    } catch (e){
-      console.log(`Error on User.search: ${e.toString()}`);
-      return new AppError.Unexpected();
-    }
-
-    return result;
-  }
-
-  async deleteLicense(licenseId, userId) {
-    let reqOptions = {
-      method: 'DELETE',
-      uri: `${options.dbWorkerUrl}/user/${userId}/device_licenses/${licenseId}`,
-      json: true,
-    };
-
-    let result;
-    try {
-      result = await exRequest(reqOptions);
-    } catch (e){
-      console.log(`Error on User.search: ${e.toString()}`);
-      return new AppError.Unexpected();
-    }
-
-    return result;
-  }</text>
+        <text encoding="base64">CiAgICAgIGluY2x1ZGU6IFsKICAgICAgICB7bW9kZWw6IGRiLnVzZXIsIGFzOiAnZmlyc3RDb250YWN0UGVyc29uJ30sCiAgICAgICAge21vZGVsOiBkYi51c2VyLCBhczogJ3NlY29uZENvbnRhY3RQZXJzb24nfSwKICAgICAgICB7bW9kZWw6IGRiLnVzZXJSb2xlLCBhczogJ3JvbGUnfSwKICAgICAgXQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
