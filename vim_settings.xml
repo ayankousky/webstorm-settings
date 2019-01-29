@@ -64,6 +64,11 @@
         <mark key="^" line="45" column="39" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack-dev.yml" timestamp="1548776672403">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" timestamp="1548627398135">
         <mark key="'" line="141" column="0" />
         <mark key="[" line="160" column="45" />
@@ -147,6 +152,13 @@
         <mark key="]" line="126" column="66" />
         <mark key="." line="126" column="66" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" timestamp="1548776146187">
+        <mark key="'" line="65" column="4" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="57" />
+        <mark key="^" line="37" column="57" />
+        <mark key="." line="37" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/middlewares/auth.js" timestamp="1548014451987">
         <mark key="[" line="16" column="33" />
         <mark key="]" line="16" column="56" />
@@ -159,7 +171,7 @@
         <mark key="^" line="10" column="60" />
         <mark key="." line="10" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.temp.yml" timestamp="1548689686635">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.temp.yml" timestamp="1548757054312">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="28" />
         <mark key="." line="5" column="28" />
@@ -282,16 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="28" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/elasticsearch/index.js" />
-      <jump line="459" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
-      <jump line="1151" column="10" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
-      <jump line="46" column="3" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.yml" />
-      <jump line="17" column="15" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.stack.yml" />
-      <jump line="45" column="4" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.stack.yml" />
-      <jump line="52" column="8" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.yml" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.yml" />
-      <jump line="15" column="0" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.yml" />
       <jump line="23" column="0" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.yml" />
       <jump line="102" column="29" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/public.js" />
       <jump line="8" column="439" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/extra/dashboard_action.json" />
@@ -382,10 +384,20 @@
       <jump line="141" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" />
       <jump line="34" column="75" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" />
       <jump line="42" column="12" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/organizations.js" />
+      <jump line="16" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="40" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="49" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="59" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="68" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="77" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="9" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="43" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="52" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="62" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBpbWFnZToKICAgICAgMDE4ODQwNzUxMDI1LmRrci5lY3IudXMtd2VzdC0xLmFtYXpvbmF3cy5jb20va2FsYWQtc2VydmVy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc2tpbUNcCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -400,7 +412,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>linksId: skimlinks</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -417,60 +429,59 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSVU5cPg==</text>
+        <text>depends</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cm91dGVyLmdldCgnL3NlYXJjaCcsIG9yZ2FuaXphdGlvbnNDb250cm9sbGVyLnNlYXJjaCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBpbWFnZToKICAgICAgMDE4ODQwNzUxMDI1LmRrci5lY3IudXMtd2VzdC0xLmFtYXpvbmF3cy5jb20va2FsYWQtc2VydmVy</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgc2tpbUNcCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICB2b2x1bWVzOgogICAgICAtIC4vbW9kdWxlcy9zZXJ2ZXIvY2VydHM6L2V0Yy9uZ2lueC9jZXJ0cw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGltYWdlOiBhcnViYW5pay9yZXZlbnVlLW1hbmFnZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltYWdlOiBhcnViYW5pay93ZWJzZXJ2aWNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltYWdlOiBheWFua291c2t5L3dlYnNpdGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltYWdlOiBheWFua291c2t5L2FkbWluX3BhbmVsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGltYWdlOiBheWFua291c2t5L2thbGFkX2ltcG9ydGVyCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWxsb3dOdWxsOgo=</text>
+        <text encoding="base64">ICAgIGltYWdlOiBheWFua291c2t5L2thbGFkX2RiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBsZXQgcmVzdWx0ID0gYXdhaXQgZGIudXNlci51cGRhdGUoe29yZ2FuaXphdGlvbklkOiAnb2cxJ30sIHt3aGVyZToge2lkOiAndGVzdHUxJ319KQo=</text>
+        <text encoding="base64">ICAgIGltYWdlOiBheWFua291c2t5L2thbGFkX21lZGlhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gZGIub3JnYW5pemF0aW9uLmhhc01hbnkoZGIudXNlciwge2FzOiAndXNlcnJycnMnLCBvbkRlbGV0ZTogJ0NBU0NBREUnfSk7Cg==</text>
+        <text encoding="base64">ICAgIGltYWdla291c2t5L2thbGFkX3NlcnZlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSVU5cPg==</last-search>
+      <last-search>depends</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSVU5cPg==</last-pattern>
+      <last-pattern>depends</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute encoding="base64">XDxSVU5cPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2Nrc1w+</entry>
         <entry encoding="base64">XDxyb290XD4=</entry>
         <entry encoding="base64">XDxpbmRleEpzb25LZXlcPg==</entry>
         <entry>warmup: tr</entry>
@@ -490,6 +501,7 @@
         <entry encoding="base64">XDx1cGxvYWRTdHJlYW1Ub1MzXD4=</entry>
         <entry encoding="base64">XDxjbGllbnRcPg==</entry>
         <entry encoding="base64">XDxSVU5cPg==</entry>
+        <entry>depends</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
