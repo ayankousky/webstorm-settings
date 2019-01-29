@@ -240,12 +240,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1548787904840">
-        <mark key="'" line="11" column="8" />
-        <mark key="[" line="94" column="2" />
-        <mark key="]" line="94" column="6" />
-        <mark key="^" line="94" column="6" />
-        <mark key="." line="94" column="6" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1548788019936">
+        <mark key="'" line="17" column="17" />
+        <mark key="[" line="123" column="12" />
+        <mark key="]" line="123" column="12" />
+        <mark key="^" line="123" column="12" />
+        <mark key="." line="123" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/app.js" timestamp="1548228016887">
         <mark key="[" line="49" column="0" />
@@ -266,6 +266,7 @@
         <mark key="^" line="39" column="27" />
         <mark key="." line="39" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1548787924186" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1547807326589">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -329,7 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/clicks_counter.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/clicks_counter.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/invalid_videos.js" />
       <jump line="344" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
@@ -429,10 +429,11 @@
       <jump line="63" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
       <jump line="56" column="72" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
       <jump line="12" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="17" column="17" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>public_api_network</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -447,7 +448,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>public_api_network</text>
       </register>
       <register name="m" type="4">
         <keys>
