@@ -152,12 +152,12 @@
         <mark key="]" line="126" column="66" />
         <mark key="." line="126" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" timestamp="1548776146187">
-        <mark key="'" line="65" column="4" />
-        <mark key="[" line="37" column="33" />
-        <mark key="]" line="37" column="57" />
-        <mark key="^" line="37" column="57" />
-        <mark key="." line="37" column="57" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" timestamp="1548778494384">
+        <mark key="'" line="91" column="25" />
+        <mark key="[" line="91" column="23" />
+        <mark key="]" line="91" column="25" />
+        <mark key="^" line="91" column="25" />
+        <mark key="." line="91" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/middlewares/auth.js" timestamp="1548014451987">
         <mark key="[" line="16" column="33" />
@@ -210,9 +210,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1548689472714">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="23" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1548778401099">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="7" column="28" />
         <mark key="." line="14" column="23" />
         <mark key="^" line="89" column="44" />
       </file>
@@ -294,23 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Desktop/NET_Core/docker-compose.yml" />
-      <jump line="102" column="29" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/public.js" />
-      <jump line="8" column="439" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/extra/dashboard_action.json" />
-      <jump line="77" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/public.js" />
-      <jump line="744" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" />
-      <jump line="131" column="59" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/prod/main_vulcanvision.yml" />
-      <jump line="847" column="75" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
-      <jump line="1302" column="7" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
-      <jump line="1290" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
-      <jump line="860" column="35" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
-      <jump line="110" column="17" filename="$USER_HOME$/Documents/Projects/Philip_CRM/project/CRMPhilipLow-devops/README.md" />
-      <jump line="1402" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/view_history.js" />
-      <jump line="1708" column="1" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
-      <jump line="2214" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/view_history.js" />
-      <jump line="33" column="20" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/video/videoPlayVideo.json" />
       <jump line="1317" column="35" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="64" column="26" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user_history.js" />
       <jump line="1337" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
@@ -387,17 +370,34 @@
       <jump line="16" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
       <jump line="40" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
       <jump line="49" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
-      <jump line="59" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
       <jump line="68" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
       <jump line="77" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
       <jump line="9" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
       <jump line="43" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
       <jump line="52" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
       <jump line="62" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="1" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="5" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="20" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="33" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="47" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="59" column="28" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="70" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="81" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="90" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="92" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="4" column="28" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="19" column="27" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="32" column="24" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="46" column="24" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="57" column="27" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="69" column="29" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="80" column="32" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
+      <jump line="91" column="25" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2tpbUNcCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -412,7 +412,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>linksId: skimlinks</text>
+        <text>s</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -429,10 +429,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>depends</text>
+        <text>ayankousky</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cm91dGVyLmdldCgnL3NlYXJjaCcsIG9yZ2FuaXphdGlvbnNDb250cm9sbGVyLnNlYXJjaCk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICBpbWFnZToKICAgICAgYXlhbmtvdXNreS9rYWxhZF9zZXJ2ZXI=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgc2tpbUNcCg==</text>
@@ -472,9 +472,9 @@
       </register>
     </registers>
     <search>
-      <last-search>depends</last-search>
+      <last-search>ayankousky</last-search>
       <last-offset />
-      <last-pattern>depends</last-pattern>
+      <last-pattern>ayankousky</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute encoding="base64">XDxSVU5cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -482,8 +482,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb290XD4=</entry>
-        <entry encoding="base64">XDxpbmRleEpzb25LZXlcPg==</entry>
         <entry>warmup: tr</entry>
         <entry>dev</entry>
         <entry encoding="base64">XDxiYWNrdXBGb2xkZXJzXD4=</entry>
@@ -502,6 +500,8 @@
         <entry encoding="base64">XDxjbGllbnRcPg==</entry>
         <entry encoding="base64">XDxSVU5cPg==</entry>
         <entry>depends</entry>
+        <entry>build</entry>
+        <entry>ayankousky</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
