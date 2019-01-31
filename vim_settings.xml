@@ -241,11 +241,11 @@
         <mark key="." line="822" column="0" />
         <mark key="^" line="827" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/redis.js" timestamp="1548875474340">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="29" />
-        <mark key="^" line="2" column="29" />
-        <mark key="." line="2" column="29" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/redis.js" timestamp="1548927970399">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="5" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/bin/push_all_images.sh" timestamp="1548785349835">
         <mark key="[" line="9" column="0" />
@@ -366,6 +366,7 @@
         <mark key="." line="90" column="39" />
         <mark key="^" line="90" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1548925492432" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/channels-table/channels-table.component.ts" timestamp="1547397459709">
         <mark key="[" line="43" column="54" />
         <mark key="]" line="43" column="54" />
@@ -505,6 +506,7 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="6" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1548924397933" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/organizations.js" timestamp="1548627612785">
         <mark key="'" line="42" column="12" />
         <mark key="[" line="16" column="14" />
@@ -611,7 +613,7 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548828798291">
+      <file name="/Dummy.txt" timestamp="1548924319790">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1548625557771">
@@ -840,7 +842,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>'</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -860,7 +862,7 @@
         <text>39</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbS5jRGF0ZSA9IG5ldyBEYXRlKCkuZ2V0VGltZSgpICsgaTsK</text>
+        <text encoding="base64">ICAgICAgcG9ydDogNjM3OSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -869,31 +871,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gLyoqKioqKioqKioqKioqKiAzOSBmaW5kIGZpbGVzIHdpdGhvdXQgbGlua3MgKioqKioqKioqKioqKi8K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmVlZGJhY2spCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwYXJhbS5jRGF0ZSA9IGk7Cg==</text>
+        <text encoding="base64">Y29uc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpKQo=</text>
+        <text encoding="base64">Ly8gLyoqKioqKioqKioqKioqKiAzOSBmaW5kIGZpbGVzIHdpdGhvdXQgbGlua3MgKioqKioqKioqKioqKi8K</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYmF0Y2hQYXJhbXMpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmVlZGJhY2spCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBwYXJhbS5jRGF0ZSA9IGk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYmF0Y2hQYXJhbXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
