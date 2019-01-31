@@ -241,11 +241,11 @@
         <mark key="." line="822" column="0" />
         <mark key="^" line="827" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/redis.js" timestamp="1548932309018">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/redis.js" timestamp="1548933199380">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/bin/push_all_images.sh" timestamp="1548785349835">
         <mark key="[" line="9" column="0" />
@@ -467,6 +467,7 @@
         <mark key="." line="7" column="64" />
         <mark key="^" line="7" column="64" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/network.js" timestamp="1548932711620" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/gulpfile.js" timestamp="1546699288142">
         <mark key="[" line="63" column="22" />
         <mark key="]" line="63" column="22" />
@@ -827,7 +828,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -842,7 +843,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>master.kalad.58tuxn.usw1.cache.amazonaws.com</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -865,37 +866,37 @@
         <text encoding="base64">ICAgICAgcG9ydDogNjM3OSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CkVuZ2luZTo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gLyoqKioqKioqKioqKioqKiAzOSBmaW5kIGZpbGVzIHdpdGhvdXQgbGlua3MgKioqKioqKioqKioqKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmVlZGJhY2spCg==</text>
+        <text encoding="base64">Y29uc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwYXJhbS5jRGF0ZSA9IGk7Cg==</text>
+        <text encoding="base64">Ly8gLyoqKioqKioqKioqKioqKiAzOSBmaW5kIGZpbGVzIHdpdGhvdXQgbGlua3MgKioqKioqKioqKioqKi8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
