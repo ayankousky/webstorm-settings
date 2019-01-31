@@ -204,11 +204,6 @@
         <mark key="^" line="119" column="19" />
         <mark key="." line="119" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack-dev.yml" timestamp="1548776672403">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" timestamp="1548627398135">
         <mark key="'" line="141" column="0" />
         <mark key="[" line="160" column="45" />
@@ -313,11 +308,6 @@
         <mark key="." line="48" column="33" />
         <mark key="^" line="48" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/deviceLicense.js" timestamp="1548605455426">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/middlewares/index.js" timestamp="1547914998515">
         <mark key="[" line="13" column="34" />
         <mark key="]" line="14" column="26" />
@@ -372,11 +362,6 @@
         <mark key="]" line="43" column="54" />
         <mark key="^" line="43" column="54" />
         <mark key="." line="43" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/comments/create.json" timestamp="1548317861760">
-        <mark key="[" line="126" column="66" />
-        <mark key="]" line="126" column="66" />
-        <mark key="." line="126" column="66" />
       </file>
       <file name="$USER_HOME$/Desktop/untitled/app.js" timestamp="1543951860316">
         <mark key="[" line="31" column="69" />
@@ -443,11 +428,6 @@
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.temp.yml" timestamp="1548757054312">
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/helpers/response/index.js" timestamp="1547675111747">
         <mark key="[" line="11" column="0" />
@@ -540,12 +520,7 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/organizations.js" timestamp="1548688551159">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1548937017459">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1548939926067">
         <mark key="'" line="17" column="17" />
         <mark key="[" line="153" column="22" />
         <mark key="]" line="156" column="64" />
@@ -596,6 +571,12 @@
         <mark key="." line="155" column="0" />
         <mark key="^" line="158" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1548939961059">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="1" />
+        <mark key="." line="82" column="1" />
+        <mark key="^" line="82" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/http-server.js" timestamp="1548599547091">
         <mark key="[" line="9" column="58" />
         <mark key="]" line="9" column="58" />
@@ -635,6 +616,7 @@
         <mark key="." line="13" column="43" />
         <mark key="^" line="13" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1548940021649" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1545767253767">
         <mark key="[" line="798" column="58" />
         <mark key="]" line="798" column="64" />
@@ -652,11 +634,6 @@
         <mark key="]" line="8" column="16" />
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/settings.js" timestamp="1548013185974">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/portal_api/package.json" timestamp="1545780603327">
         <mark key="[" line="1" column="11" />
@@ -828,7 +805,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2tla2VrZWUnKQo=</text>
+        <text encoding="base64">ICAgICAgeWFkb3JlQXBpS2V5OiA5RDRoU3owaDhZTnZpVzRkRVAxV1B4bzF1NmxXRnpwT2N0NjUzNm1jNGFIbTdMQUxBQ0lxYTZzRmNOQlJtMEZ6CiAgICAgIGZpeGVySWQ6IGZpeGVyCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -866,7 +843,7 @@
         <text encoding="base64">Y29uc29sZS5sb2coJ2tla2VrZWUnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgeWFkb3JlQXBpS2V5OiA5RDRoU3owaDhZTnZpVzRkRVAxV1B4bzF1NmxXRnpwT2N0NjUzNm1jNGFIbTdMQUxBQ0lxYTZzRmNOQlJtMEZ6CiAgICAgIGZpeGVySWQ6IGZpeGVyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -875,22 +852,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2tlaycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaG9zdG5hbWU6IHJlZGlzCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2tlaycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgaG9zdG5hbWU6IHJlZGlzCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CkVuZ2luZTo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CkVuZ2luZTo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
