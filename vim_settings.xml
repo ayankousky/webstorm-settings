@@ -58,13 +58,6 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/models/clickStats.js" timestamp="1548116512821">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1548828537318">
         <mark key="[" line="577" column="4" />
         <mark key="]" line="582" column="3" />
@@ -229,18 +222,11 @@
         <mark key="." line="51" column="22" />
         <mark key="^" line="51" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1547672142705">
-        <mark key="'" line="2241" column="0" />
-        <mark key="[" line="822" column="0" />
-        <mark key="]" line="822" column="0" />
-        <mark key="." line="822" column="0" />
-        <mark key="^" line="827" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/redis.js" timestamp="1548936916935">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="17" column="31" />
-        <mark key="." line="17" column="31" />
-        <mark key="^" line="17" column="31" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/redis.js" timestamp="1548942604273">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/bin/push_all_images.sh" timestamp="1548785349835">
         <mark key="[" line="9" column="0" />
@@ -375,17 +361,10 @@
         <mark key="." line="134" column="50" />
         <mark key="^" line="134" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/index.js" timestamp="1548941912113">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/index.js" timestamp="1548941933188">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.stack.yml" timestamp="1548778620290">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="70" column="25" />
-        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/translator/index.js" timestamp="1547672502354">
         <mark key="[" line="6" column="0" />
@@ -459,8 +438,11 @@
         <mark key="." line="63" column="22" />
         <mark key="^" line="63" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1547949109425">
-        <mark key="[" line="6" column="6" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1548943278619">
+        <mark key="'" line="35" column="11" />
+        <mark key="[" line="44" column="2" />
+        <mark key="]" line="44" column="3" />
+        <mark key="." line="44" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/Dockerfile" timestamp="1547559574128">
         <mark key="[" line="19" column="0" />
@@ -500,6 +482,12 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/services/cache/index.js" timestamp="1548942826693">
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="34" column="24" />
+        <mark key="^" line="34" column="24" />
+        <mark key="." line="34" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/gulpfile.js" timestamp="1547059261295">
         <mark key="[" line="59" column="96" />
         <mark key="]" line="59" column="96" />
@@ -519,7 +507,7 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1548939926067">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1548943310347">
         <mark key="'" line="17" column="17" />
         <mark key="[" line="153" column="22" />
         <mark key="]" line="156" column="64" />
@@ -570,7 +558,7 @@
         <mark key="." line="155" column="0" />
         <mark key="^" line="158" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1548939961059">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1548943230443">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="1" />
         <mark key="." line="82" column="1" />
@@ -594,7 +582,7 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548924319790">
+      <file name="/Dummy.txt" timestamp="1548943030765">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1548625557771">
@@ -701,10 +689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/aws/secret_manager/index.js" />
-      <jump line="161" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" />
-      <jump line="158" column="89" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" />
-      <jump line="157" column="28" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" />
       <jump line="8" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/myinfo.json" />
       <jump line="184" column="37" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" />
       <jump line="117" column="37" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
@@ -801,10 +785,14 @@
       <jump line="107" column="31" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/comments/createBatch.json" />
       <jump line="118" column="31" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/comments/createBatch.json" />
       <jump line="586" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="46" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" />
+      <jump line="101" column="24" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" />
+      <jump line="33" column="11" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" />
+      <jump line="35" column="11" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2tla2VrZWUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBwYXNzd29yZDogJ2tDR2V1NGRmajJWSGEyVXA5WScsCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -819,7 +807,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">cmVzIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -836,52 +824,52 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>39</text>
+        <text>admin-pan</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2tla2VrZWUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiByZXNvbHZlKEpTT04ucGFyc2UocmVwbHkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2tla2VrZWUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBwYXNzd29yZDogJ2tDR2V1NGRmajJWSGEyVXA5WScsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2tla2VrZWUnKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgpjbGllbnQub24oJ2Vycm9yJywgKGVycik9PiB7CiAgY29uc29sZS5sb2coZXJyKQp9KTsKCgpjbGllbnQuZ2V0KCJmb29fcmFuZDAwMDAwMDAwMDAwMCIsIGZ1bmN0aW9uIChlcnIsIHJlcGx5KSB7CiAgY29uc29sZS5sb2coSlNPTi5wYXJzZShyZXBseSkpOyAvLyBXaWxsIHByaW50IGBPS2AKfSk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2tla2VrZWUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgeWFkb3JlQXBpS2V5OiA5RDRoU3owaDhZTnZpVzRkRVAxV1B4bzF1NmxXRnpwT2N0NjUzNm1jNGFIbTdMQUxBQ0lxYTZzRmNOQlJtMEZ6CiAgICAgIGZpeGVySWQ6IGZpeGVyCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2tla2VrZWUnKQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2tlaycpCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2tla2VrZWUnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaG9zdG5hbWU6IHJlZGlzCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2tla2VrZWUnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2tla2VrZWUnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>39</last-search>
+      <last-search>admin-pan</last-search>
       <last-offset />
-      <last-pattern>39</last-pattern>
+      <last-pattern>admin-pan</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute encoding="base64">XDxSVU5cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -889,7 +877,6 @@
     </search>
     <history>
       <history-search>
-        <entry>requi</entry>
         <entry>conc</entry>
         <entry>helpe</entry>
         <entry>lambda.invok</entry>
@@ -909,6 +896,7 @@
         <entry encoding="base64">XDx0ZXh0XD4=</entry>
         <entry>comment 2</entry>
         <entry>39</entry>
+        <entry>admin-pan</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
