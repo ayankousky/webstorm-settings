@@ -296,6 +296,12 @@
         <mark key="^" line="272" column="10" />
         <mark key="." line="223" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/.foreverignore" timestamp="1548997561284">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+      </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/public_api/package.json" timestamp="1545780308275">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="20" />
@@ -548,11 +554,11 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/services/cache/index.js" timestamp="1548965901301">
-        <mark key="[" line="61" column="20" />
-        <mark key="]" line="62" column="14" />
-        <mark key="^" line="62" column="14" />
-        <mark key="." line="62" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/services/cache/index.js" timestamp="1548998147617">
+        <mark key="[" line="58" column="2" />
+        <mark key="]" line="58" column="2" />
+        <mark key="^" line="58" column="1" />
+        <mark key="." line="58" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/domain.js" timestamp="1548996617331">
         <mark key="'" line="247" column="4" />
@@ -585,7 +591,7 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1548943310347">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1548997498495">
         <mark key="'" line="17" column="17" />
         <mark key="[" line="153" column="22" />
         <mark key="]" line="156" column="64" />
@@ -666,7 +672,7 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548966398856">
+      <file name="/Dummy.txt" timestamp="1548998143172">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1548625557771">
@@ -880,8 +886,8 @@
       <jump line="471" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/subdomain.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR0bCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -896,7 +902,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
