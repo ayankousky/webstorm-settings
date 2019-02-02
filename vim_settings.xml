@@ -113,6 +113,13 @@
         <mark key="^" line="13" column="65" />
         <mark key="." line="13" column="65" />
       </file>
+      <file name="$USER_HOME$/Desktop/docker-compose.prod.yml" timestamp="1549124285311">
+        <mark key="'" line="59" column="33" />
+        <mark key="[" line="59" column="32" />
+        <mark key="]" line="59" column="57" />
+        <mark key="^" line="59" column="57" />
+        <mark key="." line="59" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1547403505566">
         <mark key="[" line="372" column="26" />
         <mark key="]" line="372" column="26" />
@@ -805,7 +812,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/campaign.js" />
       <jump line="137" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/campaign.js" />
       <jump line="207" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/campaign.js" />
       <jump line="277" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/campaign.js" />
@@ -905,10 +911,11 @@
       <jump line="21" column="63" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
       <jump line="20" column="84" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
       <jump line="21" column="17" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
+      <jump line="59" column="33" filename="$USER_HOME$/Desktop/docker-compose.prod.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZG9ja2VyIHB1c2ggMDE4ODQwNzUxMDI1LmRrci5lY3IudXMtd2VzdC0xLmFtYXpvbmF3cy5jb20va2FsYWQtd2Vic2l0ZTpsYXRlc3QK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHg2OHdsdjR5Nng4aHJjYnJyd291b21nOWY=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -923,7 +930,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>links</text>
+        <text encoding="base64">IHg2OHdsdjR5Nng4aHJjYnJyd291b21nOWY=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -940,7 +947,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>db</text>
+        <text>h612t9nq3y9ttftqmmfe5aby5</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAga2FsYWRfbmV0d29yazoK</text>
@@ -985,9 +992,9 @@
       </register>
     </registers>
     <search>
-      <last-search>db</last-search>
+      <last-search>h612t9nq3y9ttftqmmfe5aby5</last-search>
       <last-offset />
-      <last-pattern>db</last-pattern>
+      <last-pattern>h612t9nq3y9ttftqmmfe5aby5</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute encoding="base64">XDxSVU5cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -995,7 +1002,6 @@
     </search>
     <history>
       <history-search>
-        <entry>image</entry>
         <entry encoding="base64">XDxkXD4=</entry>
         <entry encoding="base64">XDx1cGxvYWRTdHJlYW1Ub1MzXD4=</entry>
         <entry encoding="base64">XDxjbGllbnRcPg==</entry>
@@ -1015,6 +1021,7 @@
         <entry>media</entry>
         <entry>d</entry>
         <entry>db</entry>
+        <entry>h612t9nq3y9ttftqmmfe5aby5</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
