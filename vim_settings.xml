@@ -660,6 +660,12 @@
         <mark key="." line="9" column="58" />
         <mark key="^" line="9" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitlab-ci.yml" timestamp="1549107910308">
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="18" />
+        <mark key="." line="26" column="18" />
+        <mark key="^" line="26" column="18" />
+      </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/medical_api/package.json" timestamp="1545779719230">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="6" column="42" />
@@ -887,7 +893,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>production</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -902,7 +908,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>production</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -925,13 +931,13 @@
         <text encoding="base64">ICAgIGxldCB0dGwgPSBjYWNoZVNlcnZpY2UuZ2V0VFRMZm9yUXVlcnkocmVxLnF1ZXJ5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR0bCkK</text>
+        <text encoding="base64">ICAgIC0gZWNobyBydW4gdGVzdHMgaW4gdGhpcyBzZWN0aW9uCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR0bCkK</text>
+        <text encoding="base64">ICAgIC0gcHJvZHVjdGlvbgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR0bCkK</text>
@@ -943,16 +949,16 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR0bCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR0bCkK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICA6IDM2MDAgKiAxMDAwOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR0bCkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">bGV0IHR0bCA9IHJlcS5xdWVyeS5zdGFydF9kYXRlICYmIHJlcS5xdWVyeS5lbmRfZGF0ZQogICAgICA/IChuZXcgRGF0ZShyZXEucXVlcnkuZW5kX2RhdGUpIC0gbmV3IERhdGUocmVxLnF1ZXJ5LnN0YXJ0X2RhdGUpKSAvIDMwCiAgICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICA6IDM2MDAgKiAxMDAwOwo=</text>
