@@ -246,12 +246,11 @@
         <mark key="." line="17" column="30" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/product.js" timestamp="1549210974148">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/product.js" timestamp="1549211983709">
         <mark key="'" line="4" column="66" />
-        <mark key="[" line="145" column="41" />
-        <mark key="]" line="146" column="20" />
-        <mark key="^" line="146" column="20" />
-        <mark key="." line="146" column="20" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/bin/push_all_images.sh" timestamp="1549121251606">
         <mark key="[" line="9" column="0" />
@@ -373,11 +372,11 @@
         <mark key="." line="90" column="39" />
         <mark key="^" line="90" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/products.js" timestamp="1549210964555">
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="16" />
-        <mark key="." line="20" column="16" />
-        <mark key="^" line="20" column="16" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/products.js" timestamp="1549212385278">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/channels-table/channels-table.component.ts" timestamp="1547397459709">
         <mark key="[" line="43" column="54" />
@@ -481,6 +480,12 @@
         <mark key="]" line="7" column="64" />
         <mark key="." line="7" column="64" />
         <mark key="^" line="7" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/network.js" timestamp="1548966276725">
+        <mark key="'" line="231" column="4" />
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="231" column="53" />
+        <mark key="." line="232" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/gulpfile.js" timestamp="1546699288142">
         <mark key="[" line="63" column="22" />
@@ -879,7 +884,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text encoding="base64">YXdhIA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -894,7 +899,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text encoding="base64">YXdhIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -926,42 +931,37 @@
         <text encoding="base64">ICAgICAgICB7IG1vZGVsOiBkYi5vcmdhbml6YXRpb24sIGFzOiAnYnJhbmRPcmdhbml6YXRpb24nfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWFyY2hSZXN1bHQucHJvZHVjdHMubWFwKGFzeW5jIHAgPT4gYXdhaXQgUHJvZHVjdC5wcm9qZWN0KCdjbGllbnQnLCBwLnRvSlNPTigpKSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLyBdLAo=</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhwcm9kdWN0KQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>/ include: [
-      //   { model: db.role},
-      //   { model: db.user, as: 'medicalProvider'},
-      //   { model: db.audioProfile, as: 'audioProfiles'},
-      //   { model: db.deviceLicense, as: 'deviceLicenses'},
-      //</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWFyY2hSZXN1bHQucHJvZHVjdHNbMF0udG9KU09OKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsgbW9kZWw6IGRiLmRldmljZUxpY2Vuc2UsIGFzOiAnZGV2aWNlTGljZW5zZXMnfSwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2R1Y3RzWzBdLnRvSlNPTigpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsgbW9kZWw6IGRiLmF1ZGlvUHJvZmlsZSwgYXM6ICdhdWRpb1Byb2ZpbGVzJ30sCg==</text>
+        <text encoding="base64">ICAgIAkvLyByYXc6IHRydWUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsgbW9kZWw6IGRiLnVzZXIsIGFzOiAnbWVkaWNhbFByb3ZpZGVyJ30sCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdxdWVyeScpCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsgbW9kZWw6IGRiLnJvbGV9LAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgY29uc29sZS5sb2coZmllbGRzKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2R1Y3RzLmZvckVhY2gocD0+Y29uc29sZS5sb2coT2JqZWN0LmtleXMocCkpKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2R1Y3RzLmZvckVhY2gocD0+Y29uc29sZS5sb2cocC50b0pTT04oKSkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
