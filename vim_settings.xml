@@ -264,11 +264,11 @@
         <mark key="^" line="21" column="24" />
         <mark key="." line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/organization/organization-available-products-table/organization-available-products-table.component.ts" timestamp="1549487044014">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="45" />
-        <mark key="^" line="91" column="43" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/organization/organization-available-products-table/organization-available-products-table.component.ts" timestamp="1549491183427">
+        <mark key="[" line="170" column="8" />
+        <mark key="]" line="170" column="21" />
+        <mark key="." line="170" column="21" />
+        <mark key="^" line="170" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/helpers/notification/index.js" timestamp="1548055730639">
         <mark key="[" line="7" column="23" />
@@ -420,6 +420,12 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="107" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/organization/organization-available-products-table/organization-available-products-table.component.html" timestamp="1549491190859">
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="59" />
+        <mark key="^" line="13" column="59" />
+        <mark key="." line="13" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/middlewares/auth.js" timestamp="1548014451987">
         <mark key="[" line="16" column="33" />
         <mark key="]" line="16" column="56" />
@@ -516,14 +522,15 @@
         <mark key="^" line="50" column="20" />
         <mark key="." line="50" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/users/user-info/user-info.component.ts" timestamp="1549486910466">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/users/user-info/user-info.component.ts" timestamp="1549489145176">
         <mark key="[" line="254" column="0" />
         <mark key="]" line="254" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/services/organization.service.ts" timestamp="1549486296214">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/services/organization.service.ts" timestamp="1549488440833">
+        <mark key="[" line="84" column="37" />
+        <mark key="]" line="84" column="40" />
+        <mark key="." line="84" column="40" />
+        <mark key="^" line="84" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/config/index.js" timestamp="1548957573300">
         <mark key="[" line="4" column="12" />
@@ -889,8 +896,8 @@
       <jump line="4" column="66" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/product.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuYXZhaWxhYmxlUHJvZHVjdHMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>addNewLine</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -905,7 +912,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>productFields</text>
+        <text>addNewLine</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -934,42 +941,40 @@
         <text encoding="base64">XDw0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuYXZhaWxhYmxlUHJvZHVjdHMpCg==</text>
+        <text encoding="base64">ICAgICAgPHRoIGNsYXNzPSJjb2wtMyB0YWJsZS1sZWZ0LW1hcmdpbiBhbGlnbi1zZWxmLWNlbnRlciI+UHJvZHVjdCBJRDwvdGg+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY3VycmVudEVkaXRhYmxlRGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY3VycmVudEVkaXRhYmxlRGF0YSkK</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY3VycmVudEVkaXRhYmxlRGF0YSA9IHt9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0SWQ6IHRoaXMucHJvZHVjdEl0ZW1zLmNvbnRyb2xzW2luZGV4XS52YWx1ZSAmJiB0aGlzLnByb2R1Y3RJdGVtcy5jb250cm9sc1tpbmRleF0udmFsdWUucHJvZHVjdElkID8gdGhpcy5wcm9kdWN0SXRlbXMuY29udHJvbHNbaW5kZXhdLnZhbHVlLnByb2R1Y3RJZCA6ICcnLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZXZpY2VJZDogdGhpcy5wcm9kdWN0SXRlbXMuY29udHJvbHNbaW5kZXhdLnZhbHVlICYmIHRoaXMucHJvZHVjdEl0ZW1zLmNvbnRyb2xzW2luZGV4XS52YWx1ZS5kZXZpY2VJZCA/IHRoaXMucHJvZHVjdEl0ZW1zLmNvbnRyb2xzW2luZGV4XS52YWx1ZS5kZXZpY2VJZCA6ICcnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbW9kZWxOdW1iZXI6ICcnCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaXNFZGl0TW9kZVtpbmRleF0gPyB0aGlzLnNhdmVQcm9kdWN0Um93RGF0YShpbmRleCkgOiB0aGlzLnNob3dVc2VyUG9wdXAoaW5kZXgsIGxlbmd0aCk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="4">
-        <text>,
-      firmwareLicense: '',
-      medicalFlag: false</text>
+        <text encoding="base64">CgogIC8vIHB1YmxpYyBjcmVhdGVQcm9kdWN0Rm9ybUl0ZW0oaXRlbT86IGFueSk6IEZvcm1Hcm91cCB7CiAgLy8gICBpZiAoIWl0ZW0pIHsKICAvLyAgICAgaXRlbSA9IHt9OwogIC8vICAgfQogIC8vCiAgLy8gICBpdGVtLnByb2R1Y3ROYW1lID0gaXRlbSA/ICJQcm9kdWN0IE5hbWUgZG9lc24ndCBleGlzdCB5ZXQiIDogJyc7CiAgLy8gICBpdGVtLm1lZGljYWxGbGFnID0gaXRlbS5tZWRpY2FsRmxhZyA/ICJZZXMiIDogIk5vIjsKICAvLyAgIHJldHVybiB0aGlzLmZiLmdyb3VwKHsKICAvLyAgICAgcHJvZHVjdElkOiBbeyB2YWx1ZTogaXRlbSA/IGl0ZW0uaWQgOiAnJywgZGlzYWJsZWQ6IHRydWUgfV0sCiAgLy8gICAgIHByb2R1Y3ROYW1lOiBbeyB2YWx1ZTogaXRlbSA/IGl0ZW0ubmFtZTogJycsIGRpc2FibGVkOiB0cnVlIH1dLAogIC8vICAgICBvcmdhbml6YXRpb25JZDogW3sgdmFsdWU6IGl0ZW0gPyBpdGVtLm9yZ2FuaXphdGlvbklkOiAnJywgZGlzYWJsZWQ6IHRydWUgfV0sCiAgLy8gICB9KTsKICAvLyB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbE51bWJlcjogdGhpLnByb2R1Y3RJdGVtcy5jb250cm9sc1tpbmRleF0udmFsdWUubWVkaWNhbEZsYWcgPT0gIlllcyIK</text>
+        <text encoding="base64">ICBwdWJsaWMgZ2VuZXJhdGVBdmFpbGFibGVQcm9kdWN0c0Zvcm1Db250cm9scyhkYXRhOiBhbnlbXSkgewo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cy5wcm9kdWN0SXRlbXMuY29udHJvbHNbaW5kZXhdLnZhbHVlICYmIHRoaXMucHJvZHVjdEl0ZW1zLmNvbnRyb2xzW2luZGV4XS52YWx1ZS5tb2RlbE51bWJlciA/IHRoaXMucHJvZHVjdEl0ZW1zLmNvbnRyb2xzW2luZGV4XS52YWx1ZS5tb2RlbE51bWJlciA6ICcnLAogICAgICAgIGZpcm13YXJlTGljZW5zZTogdGhpcy5wcm9kdWN0SXRlbXMuY29udHJvbHNbaW5kZXhdLnZhbHVlICYmIHRoaXMucHJvZHVjdEl0ZW1zLmNvbnRyb2xzW2luZGV4XS52YWx1ZS5maXJtd2FyZUxpY2Vuc2UgPyB0aGlzLnByb2R1Y3RJdGVtcy5jb250cm9sc1tpbmRleF0udmFsdWUuZmlybXdhcmVMaWNlbnNlIDogJycsCiAgICAgICAgbWVkaWNhbEZsYWc6IHRoaXM=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmNyZWF0ZVByb2R1Y3RzRm9ybSh0aGlzLmF2YWlsYWJsZVByb2R1Y3RzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
