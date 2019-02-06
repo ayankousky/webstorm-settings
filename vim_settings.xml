@@ -264,11 +264,11 @@
         <mark key="^" line="21" column="24" />
         <mark key="." line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/organization/organization-available-products-table/organization-available-products-table.component.ts" timestamp="1549484783870">
-        <mark key="[" line="78" column="6" />
-        <mark key="]" line="79" column="28" />
-        <mark key="^" line="79" column="28" />
-        <mark key="." line="79" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/organization/organization-available-products-table/organization-available-products-table.component.ts" timestamp="1549487044014">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="45" />
+        <mark key="^" line="91" column="43" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/helpers/notification/index.js" timestamp="1548055730639">
         <mark key="[" line="7" column="23" />
@@ -516,9 +516,14 @@
         <mark key="^" line="50" column="20" />
         <mark key="." line="50" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/users/user-info/user-info.component.ts" timestamp="1549484680530">
-        <mark key="[" line="290" column="0" />
-        <mark key="]" line="290" column="73" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/users/user-info/user-info.component.ts" timestamp="1549486910466">
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/services/organization.service.ts" timestamp="1549486296214">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/config/index.js" timestamp="1548957573300">
         <mark key="[" line="4" column="12" />
@@ -884,8 +889,8 @@
       <jump line="4" column="66" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/product.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IF09ImF2YWlsYWJsZVByb2R1Y3RzIg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuYXZhaWxhYmxlUHJvZHVjdHMpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -900,7 +905,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IF09ImF2YWlsYWJsZVByb2R1Y3RzIg==</text>
+        <text>productFields</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -929,52 +934,42 @@
         <text encoding="base64">XDw0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIFthdmFpbGFibGVQcm9kdWN0c109ImF2YWlsYWJsZVByb2R1Y3RzIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuYXZhaWxhYmxlUHJvZHVjdHMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY3VycmVudEVkaXRhYmxlRGF0YSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGUgfHwgJyc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY3VycmVudEVkaXRhYmxlRGF0YSkK</text>
       </register>
-      <register name="3" type="4">
-        <text>;
-    formData.controls['productName'].value || '';
-    formData.controls['productName'].valu</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY3VycmVudEVkaXRhYmxlRGF0YSA9IHt9Owo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">bGV0IGF1ZGlvUHJvZmlsZUlkID0gCmxldCBhdWRpb1Byb2ZpbGVJZCA9IApsZXQgYXVkaW9Qcm9maWxlSWQgPSA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0SWQ6IHRoaXMucHJvZHVjdEl0ZW1zLmNvbnRyb2xzW2luZGV4XS52YWx1ZSAmJiB0aGlzLnByb2R1Y3RJdGVtcy5jb250cm9sc1tpbmRleF0udmFsdWUucHJvZHVjdElkID8gdGhpcy5wcm9kdWN0SXRlbXMuY29udHJvbHNbaW5kZXhdLnZhbHVlLnByb2R1Y3RJZCA6ICcnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZWRpY2FsRmxhZzogW3sgdmFsdWU6IGl0ZW0gPyBpdGVtLm1lZGljYWxGbGFnIDogJycsIGRpc2FibGVkOiB0cnVlIH1dCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXZpY2VJZDogdGhpcy5wcm9kdWN0SXRlbXMuY29udHJvbHNbaW5kZXhdLnZhbHVlICYmIHRoaXMucHJvZHVjdEl0ZW1zLmNvbnRyb2xzW2luZGV4XS52YWx1ZS5kZXZpY2VJZCA/IHRoaXMucHJvZHVjdEl0ZW1zLmNvbnRyb2xzW2luZGV4XS52YWx1ZS5kZXZpY2VJZCA6ICcnLAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>productName: [{ value: item ? &quot;Product Name doesn't exist yet&quot; : '', disabled: true }],
-      modelNumber: [{ value: item ? item.modelNumber : '', disabled: true }],
-      firmwareLicense: [{ value: item ? item.firmwareLicense : '', disabled: true }],
-      m</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgbW9kZWxOdW1iZXI6ICcnCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICBpdGVtLnByb2R1Y3ROYW1lID0gaXRlbSA/ICJQcm9kdWN0IE5hbWUgZG9lc24ndCBleGlzdCB5ZXQiIDogJyc7CiAgICBpdGVtLm1lZGljYWxGbGFnID0gaXRlbS5tZWRpY2FsRmxhZyA/ICJZZXMiIDogIk5vIjs=</text>
+        <text>,
+      firmwareLicense: '',
+      medicalFlag: false</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgcmVzdWx0ID0gYXdhaXQgb3JnYW5pemF0aW9uU2VydmljZS5kZWxldGVJbnZpdGUocmVxLnBhcmFtcy5icmFuZElkLCByZXEucGFyYW1zLm9yZ2FuaXphdGlvbklkKTsK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbE51bWJlcjogdGhpLnByb2R1Y3RJdGVtcy5jb250cm9sc1tpbmRleF0udmFsdWUubWVkaWNhbEZsYWcgPT0gIlllcyIK</text>
       </register>
-      <register name="9" type="8">
-        <text>Brand
-Brand
-Brand
-Brand
-Brand
-Brand
-Brand
-Brand</text>
+      <register name="9" type="4">
+        <text encoding="base64">cy5wcm9kdWN0SXRlbXMuY29udHJvbHNbaW5kZXhdLnZhbHVlICYmIHRoaXMucHJvZHVjdEl0ZW1zLmNvbnRyb2xzW2luZGV4XS52YWx1ZS5tb2RlbE51bWJlciA/IHRoaXMucHJvZHVjdEl0ZW1zLmNvbnRyb2xzW2luZGV4XS52YWx1ZS5tb2RlbE51bWJlciA6ICcnLAogICAgICAgIGZpcm13YXJlTGljZW5zZTogdGhpcy5wcm9kdWN0SXRlbXMuY29udHJvbHNbaW5kZXhdLnZhbHVlICYmIHRoaXMucHJvZHVjdEl0ZW1zLmNvbnRyb2xzW2luZGV4XS52YWx1ZS5maXJtd2FyZUxpY2Vuc2UgPyB0aGlzLnByb2R1Y3RJdGVtcy5jb250cm9sc1tpbmRleF0udmFsdWUuZmlybXdhcmVMaWNlbnNlIDogJycsCiAgICAgICAgbWVkaWNhbEZsYWc6IHRoaXM=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
