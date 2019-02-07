@@ -75,6 +75,12 @@
         <mark key="." line="147" column="34" />
         <mark key="^" line="147" column="34" />
       </file>
+      <file name="$USER_HOME$/Desktop/whitelist_short_DE.csv" timestamp="1549519295808">
+        <mark key="[" line="65" column="15" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/main_db_worker/server.js" timestamp="1545779811211">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -106,7 +112,12 @@
         <mark key="." line="372" column="26" />
         <mark key="^" line="372" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/api/v0/index.js" timestamp="1549518278876" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/api/v0/index.js" timestamp="1549519172765">
+        <mark key="[" line="107" column="18" />
+        <mark key="]" line="107" column="28" />
+        <mark key="^" line="107" column="28" />
+        <mark key="." line="107" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/Dockerfile" timestamp="1548963098345">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -472,6 +483,12 @@
         <mark key="]" line="63" column="22" />
         <mark key="." line="63" column="22" />
         <mark key="^" line="63" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1549518969744">
+        <mark key="'" line="35" column="11" />
+        <mark key="[" line="44" column="2" />
+        <mark key="]" line="44" column="3" />
+        <mark key="." line="44" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/Dockerfile" timestamp="1547559574128">
         <mark key="[" line="19" column="0" />
@@ -840,7 +857,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHByb2R1Y3RJZA==</text>
+        <text encoding="base64">IHJlcQ==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -855,29 +872,18 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHByb2R1Y3RJZA==</text>
+        <text encoding="base64">IHJlcQ==</text>
       </register>
       <register name="m" type="4">
         <keys>
-          <key char="118" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
         </keys>
       </register>
       <register name="/" type="4">
