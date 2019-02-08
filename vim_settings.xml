@@ -33,6 +33,18 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.html" timestamp="1549607182436">
+        <mark key="[" line="59" column="14" />
+        <mark key="]" line="78" column="12" />
+        <mark key="." line="78" column="12" />
+        <mark key="^" line="78" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.scss" timestamp="1549607232551">
+        <mark key="[" line="212" column="42" />
+        <mark key="]" line="213" column="20" />
+        <mark key="." line="213" column="20" />
+        <mark key="^" line="213" column="20" />
+      </file>
       <file name="$USER_HOME$/Desktop/untitled/views/send.jade" timestamp="1543952005916">
         <mark key="[" line="1" column="41" />
         <mark key="]" line="1" column="53" />
@@ -298,11 +310,11 @@
         <mark key="^" line="130" column="34" />
         <mark key="." line="130" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/interceptors/error-interceptor.ts" timestamp="1549605543544">
-        <mark key="[" line="19" column="46" />
-        <mark key="]" line="19" column="52" />
-        <mark key="^" line="19" column="52" />
-        <mark key="." line="19" column="52" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/interceptors/error-interceptor.ts" timestamp="1549607206407">
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="19" column="36" />
+        <mark key="^" line="19" column="36" />
+        <mark key="." line="19" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/options.js" timestamp="1549208394296">
         <mark key="[" line="10" column="21" />
@@ -508,9 +520,12 @@
         <mark key="^" line="50" column="20" />
         <mark key="." line="50" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/users/user-info/user-info.component.ts" timestamp="1549489145176">
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" timestamp="1549607147413">
+        <mark key="'" line="273" column="0" />
+        <mark key="[" line="291" column="34" />
+        <mark key="]" line="291" column="32" />
+        <mark key="^" line="291" column="32" />
+        <mark key="." line="291" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/services/organization.service.ts" timestamp="1549488440833">
         <mark key="[" line="84" column="37" />
@@ -653,7 +668,7 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549604888538">
+      <file name="/Dummy.txt" timestamp="1549605692447">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/users/user-info/user-info.component.html" timestamp="1549484509004" />
@@ -767,7 +782,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/campaign.js" />
       <jump line="228" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/campaign.js" />
       <jump line="90" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/campaign.js" />
       <jump line="158" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/campaign.js" />
@@ -867,10 +881,11 @@
       <jump line="59" column="33" filename="$USER_HOME$/Desktop/docker-compose.prod.yml" />
       <jump line="4" column="66" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/product.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" />
+      <jump line="270" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGVycm9yTWVzc2FnZQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmJ0bi1tZXNzYWdlLXBvcHVwIHsK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -885,7 +900,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGVycm9yTWVzc2FnZQ==</text>
+        <text>message</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -900,60 +915,72 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDw0XD4=</text>
+        <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQl0aGlzLnBvcHVwU2VydmljZS5zaG93UG9wdXAoJ2Vycm9yLXBvcHVwJywgZXJyb3JNZXNzYWdlKTsK</text>
+        <text encoding="base64">CQl0aGlzLmVycm9yUG9wdXBNZXNzYWdlID0gIiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBoZWxwZXJzLnJlcXVlc3QuZmluaXNoKHJlcSwgcmVzLCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmJ0bi1tZXNzYWdlLXBvcHVwIHsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBoZWxwZXJzLnJlcXVlc3QuZmluaXNoKHJlcSwgcmVzLCB7Cg==</text>
+      <register name="2" type="8">
+        <text>message
+message
+message
+message
+message
+message
+message
+message
+message
+message</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gaGVscGVycy5yZXF1ZXN0LmZpbmlzaChyZXEsIHJlcywgewo=</text>
+        <text encoding="base64">ICAgIHRoaXMuaW5mb1BvcHVwUmVmID0gdGhpcy5tb2RhbFNlcnZpY2Uuc2hvdyh0aGlzLm1lc3NhZ2VQb3B1cCwgeyBiYWNrZHJvcDogJ3N0YXRpYycsIGtleWJvYXJkOiBmYWxzZSB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJdGhpcy5tZXNzYWdlUG9wdXBSZWYuaGlkZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJdGhpcy5tZXNzYWdlUG9wdXBSZWYuaGlkZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgb3Blbk1lc3NhZ2VQb3B1cCgpIHsK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="7" type="8">
+        <text>message
+message
+message
+message</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVzLnN0YXR1cygyMDEpLmpzb24oeyBtZXNzYWdlOiBgVXNlciB3YXMgY3JlYXRlZCEgR28gdG8gJHtlbWFpbH0gdG8gdmVyaWZpY2F0ZSB5b3VyIGFjY291bnQhYCB9KTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgkJaWY=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGVycm9yOiBuZXcgQXBwRXJyb3IuQmFzZUVycm9yKHRyYW5zbGF0b3IuY3JlYXRlUGhyYXNlKCd1c2Vycy5lcnJvcnMuYWxyZWFkeV9yZWdpc3RlcmVkJyksIFN0YXR1c0NvZGVzLkFscmVhZHlSZWdpc3RlcmVkKSwK</text>
+      <register name="9" type="8">
+        <text>error
+error</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDw0XD4=</last-search>
+      <last-search>error</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDw0XD4=</last-pattern>
+      <last-pattern>error</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute encoding="base64">XDw0XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGxvYWRTdHJlYW1Ub1MzXD4=</entry>
         <entry encoding="base64">XDxjbGllbnRcPg==</entry>
         <entry encoding="base64">XDxSVU5cPg==</entry>
         <entry>depends</entry>
@@ -973,6 +1000,7 @@
         <entry>db</entry>
         <entry>h612t9nq3y9ttftqmmfe5aby5</entry>
         <entry encoding="base64">XDw0XD4=</entry>
+        <entry>error</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
