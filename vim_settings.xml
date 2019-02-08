@@ -337,17 +337,23 @@
         <mark key="^" line="24" column="44" />
         <mark key="." line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/options.js" timestamp="1549208394296">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="28" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="10" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/options.js" timestamp="1549658260025">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+        <mark key="." line="11" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/server/conf.dev.nginx" timestamp="1545781984143">
         <mark key="[" line="48" column="24" />
         <mark key="]" line="48" column="33" />
         <mark key="." line="48" column="33" />
         <mark key="^" line="48" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/hardware.js" timestamp="1549657471865">
+        <mark key="[" line="37" column="51" />
+        <mark key="]" line="37" column="52" />
+        <mark key="^" line="37" column="52" />
+        <mark key="." line="37" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/middlewares/index.js" timestamp="1547914998515">
         <mark key="[" line="13" column="34" />
@@ -576,6 +582,12 @@
         <mark key="^" line="26" column="103" />
         <mark key="." line="26" column="103" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/hardware.js" timestamp="1549658144926">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="41" column="65" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/gulpfile.js" timestamp="1547059261295">
         <mark key="[" line="59" column="96" />
         <mark key="]" line="59" column="96" />
@@ -657,6 +669,12 @@
         <mark key="^" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/hardware.js" timestamp="1549657503598">
+        <mark key="[" line="2" column="51" />
+        <mark key="]" line="2" column="51" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/products.js" timestamp="1549213735438">
         <mark key="[" line="10" column="50" />
         <mark key="]" line="10" column="45" />
@@ -675,11 +693,11 @@
         <mark key="." line="155" column="0" />
         <mark key="^" line="158" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/http-server.js" timestamp="1549208405312">
-        <mark key="[" line="37" column="38" />
-        <mark key="]" line="37" column="41" />
-        <mark key="." line="37" column="41" />
-        <mark key="^" line="37" column="41" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/http-server.js" timestamp="1549658268490">
+        <mark key="[" line="39" column="45" />
+        <mark key="]" line="39" column="42" />
+        <mark key="^" line="39" column="42" />
+        <mark key="." line="39" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitlab-ci.yml" timestamp="1549115321974">
         <mark key="[" line="20" column="0" />
@@ -922,7 +940,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, StatusCodes.AlreadyRegistered</text>
+        <text>ns</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -937,7 +955,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, StatusCodes.AlreadyRegistered</text>
+        <text>ns</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -955,40 +973,40 @@
         <text>or(msg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGVycm9yKQo=</text>
+        <text encoding="base64">ICAgIHByb2R1Y3RzICAgICA6ICcvcHJvZHVjdHMnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gZXJyb3I6IG5ldyBBcHBFcnJvci5CYXNlRXJyb3IodHJhbnNsYXRvci5jcmVhdGVQaHJhc2UoJ3VzZXJzLmVycm9ycy5hbHJlYWR5X3JlZ2lzdGVyZWQnKSwgU3RhdHVzQ29kZXMuQWxyZWFkeVJlZ2lzdGVyZWQpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbmFtZTogaGFyZHdhcmVGaWVsZHMubmFtZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">ICAgICAgLy8gZXJyb3I6IG5ldyBBcHBFcnJvci5CYXNlRXJyb3IodHJhbnNsYXRvci5jcmVhdGVQaHJhc2UoJ3VzZXJzLmVycm9ycy5hbHJlYWR5X3JlZ2lzdGVyZWQnKSwgU3RhdHVzQ29kZXMuQWxyZWFkeVJlZ2lzdGVyZWQpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJZXJyb3JNZXNzYWdlID0gCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWxldCBlcnJvck1lc3NhZ2UgPSA7Cg==</text>
+        <text encoding="base64">CQkJCQkJZXJyb3JNZXNzYWdlID0gCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCSAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnJvcikK</text>
+        <text encoding="base64">CQkJCWxldCBlcnJvck1lc3NhZ2UgPSA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdlcnJvcicpCg==</text>
+        <text encoding="base64">CQkJCSAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
