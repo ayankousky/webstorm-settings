@@ -283,11 +283,6 @@
         <mark key="." line="46" column="24" />
         <mark key="^" line="46" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/firmwareFunction.js" timestamp="1549661998478">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/redis.js" timestamp="1548942604273">
         <mark key="[" line="17" column="29" />
         <mark key="]" line="17" column="30" />
@@ -335,6 +330,12 @@
         <mark key="]" line="1" column="20" />
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/organizations.js" timestamp="1549786068323">
+        <mark key="[" line="68" column="21" />
+        <mark key="]" line="68" column="21" />
+        <mark key="." line="68" column="21" />
+        <mark key="^" line="67" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/public_api/package.json" timestamp="1545780308275">
         <mark key="[" line="1" column="11" />
@@ -414,11 +415,11 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/userService.js" timestamp="1549783479402">
-        <mark key="[" line="190" column="11" />
-        <mark key="]" line="190" column="23" />
-        <mark key="^" line="190" column="23" />
-        <mark key="." line="190" column="23" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/userService.js" timestamp="1549785937043">
+        <mark key="[" line="163" column="146" />
+        <mark key="]" line="163" column="159" />
+        <mark key="^" line="163" column="159" />
+        <mark key="." line="163" column="159" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/users.js" timestamp="1548372854596">
         <mark key="[" line="7" column="20" />
@@ -437,6 +438,12 @@
         <mark key="]" line="78" column="55" />
         <mark key="^" line="59" column="53" />
         <mark key="." line="78" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/db/index.js" timestamp="1549786173205">
+        <mark key="[" line="38" column="28" />
+        <mark key="]" line="38" column="40" />
+        <mark key="." line="38" column="40" />
+        <mark key="^" line="38" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/translator/locales/en.json" timestamp="1549604040592">
         <mark key="[" line="10" column="0" />
@@ -563,6 +570,12 @@
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="1" />
         <mark key="^" line="9" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/index.js" timestamp="1549785547533">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="13" />
+        <mark key="." line="31" column="13" />
+        <mark key="^" line="31" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/helpers/response/index.js" timestamp="1547675111747">
         <mark key="[" line="11" column="0" />
@@ -1026,7 +1039,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHBhcmFtcw==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1041,7 +1054,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHBhcmFtcw==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1059,40 +1072,41 @@
         <text encoding="base64">XDxhd2FpdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlsZXQgaW52aXRlID0gT2JqZWN0LmFzc2lnbih7fSwgb2JqKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYWxsVXNlck9yZ0lkcycpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcykKCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdrZWsnKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhbGxVc2VyT3JnSWRzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHBhcmFtcy51c2VySWQgJiYgIShhd2FpdCBhY2Nlc3NTZXJ2aWNkZGUudmVyaWZ5UGVybWlzc2lvbigndXNlcnM6cmVhZCcsIHtjdXJyVXNlciwgY3Vyck9yZywgcmVhZFVzZXJJZDogcGFyYW1zLnVzZXJJZH0pKSl7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYWxsVXNlck9yZ0lkcykK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>')
+  console.log('allUserOrgIds'</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygna2Vla2VrJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
