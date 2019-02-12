@@ -214,6 +214,7 @@
         <mark key="^" line="124" column="112" />
         <mark key="." line="124" column="112" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1549951633675" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/firmwares.js" timestamp="1549663666037">
         <mark key="[" line="16" column="35" />
         <mark key="]" line="16" column="36" />
@@ -724,12 +725,12 @@
         <mark key="^" line="64" column="45" />
         <mark key="." line="65" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1549950742212">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1549952071238">
         <mark key="'" line="812" column="9" />
-        <mark key="[" line="844" column="93" />
-        <mark key="]" line="844" column="93" />
-        <mark key="." line="844" column="93" />
-        <mark key="^" line="161" column="24" />
+        <mark key="[" line="836" column="7" />
+        <mark key="]" line="836" column="7" />
+        <mark key="." line="836" column="7" />
+        <mark key="^" line="836" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/userRole.js" timestamp="1548627434254">
         <mark key="[" line="23" column="44" />
@@ -774,12 +775,14 @@
         <mark key="." line="10" column="45" />
         <mark key="^" line="10" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1549820638233" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" timestamp="1544744557544">
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="0" />
         <mark key="." line="155" column="0" />
         <mark key="^" line="158" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1549518338149" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/http-server.js" timestamp="1549661713582">
         <mark key="[" line="43" column="34" />
         <mark key="]" line="43" column="49" />
@@ -804,9 +807,13 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1549951504775">
+        <mark key="'" line="1023" column="2" />
+      </file>
       <file name="/Dummy.txt" timestamp="1549948520587">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/users/user-info/user-info.component.html" timestamp="1549484509004" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1549839067930">
         <mark key="'" line="34" column="75" />
         <mark key="[" line="100" column="0" />
@@ -924,7 +931,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/endpoint.js" />
       <jump line="80" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/endpoint.js" />
       <jump line="16" column="15" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/geo.js" />
       <jump line="82" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/geo.js" />
@@ -1024,6 +1030,7 @@
       <jump line="812" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
       <jump line="308" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="1023" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
