@@ -51,6 +51,13 @@
         <mark key="." line="23" column="10" />
         <mark key="^" line="23" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/comments/createBatch.json" timestamp="1548828009667">
+        <mark key="'" line="118" column="31" />
+        <mark key="[" line="129" column="31" />
+        <mark key="]" line="129" column="32" />
+        <mark key="^" line="138" column="6" />
+        <mark key="." line="129" column="32" />
+      </file>
       <file name="$USER_HOME$/Desktop/untitled/views/send.jade" timestamp="1543952005916">
         <mark key="[" line="1" column="41" />
         <mark key="]" line="1" column="53" />
@@ -220,6 +227,13 @@
         <mark key="^" line="16" column="36" />
         <mark key="." line="16" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/helpers/message/index.js" timestamp="1549616135744">
+        <mark key="'" line="16" column="21" />
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="21" />
+        <mark key="^" line="30" column="21" />
+        <mark key="." line="30" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/options.js" timestamp="1549869340791">
         <mark key="[" line="11" column="33" />
         <mark key="]" line="11" column="41" />
@@ -237,6 +251,13 @@
         <mark key="]" line="62" column="0" />
         <mark key="^" line="37" column="104" />
         <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" timestamp="1549807826386">
+        <mark key="'" line="140" column="0" />
+        <mark key="[" line="124" column="63" />
+        <mark key="]" line="124" column="71" />
+        <mark key="." line="124" column="71" />
+        <mark key="^" line="124" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1549879495613">
         <mark key="[" line="184" column="0" />
@@ -674,12 +695,12 @@
         <mark key="." line="59" column="96" />
         <mark key="^" line="59" column="96" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1549946201652">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1549947026805">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1570" column="18" />
-        <mark key="]" line="1570" column="19" />
-        <mark key="." line="1570" column="19" />
-        <mark key="^" line="1570" column="40" />
+        <mark key="[" line="1595" column="57" />
+        <mark key="]" line="1596" column="20" />
+        <mark key="." line="1596" column="20" />
+        <mark key="^" line="1596" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/services/index.js" timestamp="1548959059548">
         <mark key="[" line="4" column="37" />
@@ -717,6 +738,13 @@
         <mark key="]" line="49" column="152" />
         <mark key="^" line="64" column="45" />
         <mark key="." line="65" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1549947260855">
+        <mark key="'" line="844" column="19" />
+        <mark key="[" line="844" column="0" />
+        <mark key="]" line="844" column="0" />
+        <mark key="." line="844" column="0" />
+        <mark key="^" line="831" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/userRole.js" timestamp="1548627434254">
         <mark key="[" line="23" column="44" />
@@ -911,13 +939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/network.js" />
-      <jump line="159" column="32" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/network.js" />
-      <jump line="131" column="27" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/network.js" />
-      <jump line="8" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/domain.js" />
-      <jump line="152" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/domain.js" />
-      <jump line="252" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/domain.js" />
-      <jump line="364" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/domain.js" />
       <jump line="432" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/domain.js" />
       <jump line="72" column="17" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/endpoint.js" />
       <jump line="127" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/endpoint.js" />
@@ -1011,12 +1032,17 @@
       <jump line="24" column="99" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" />
       <jump line="100" column="25" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="822" column="55" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
+      <jump line="823" column="32" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
+      <jump line="824" column="65" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
+      <jump line="829" column="8" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
+      <jump line="831" column="103" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
+      <jump line="5" column="33" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
+      <jump line="847" column="19" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>o
-o
-o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coc3RhdHMpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1031,7 +1057,7 @@ o</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>organizations</text>
+        <text>s3Helper</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1046,54 +1072,52 @@ o</text>
         </keys>
       </register>
       <register name="/" type="4">
-        <text>email</text>
+        <text>await</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cm91dGVyLmdldCgnL3NlYXJjaCcsIGF1dGgsIHVzZXJDb250cm9sbGVyLnNlYXJjaCk7Cg==</text>
+        <text encoding="base64">CQkJY29uc3QgVmlkZW8gPSBkeW5hbW9vc2UubW9kZWwoY29uZmlnLkREQi50YWJsZXMudmlkZW9zLm5hbWUpCg==</text>
       </register>
-      <register name="1" type="8">
-        <text>o
-o
-o</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coc3RhdHMpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9yZ2FuaXphdGlvblNlcnZpY2UgPSByZXF1aXJlKCcuL29yZ2FuaXphdGlvblNlcnZpY2UnKTsK</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coYFN0YXRzIGZvciAke2NoYW5uZWxJZH0uIGFsbDogJHthbGxWaWRlb3MubGVuZ3RofTsgdzogJHthbGxXb3JraW5nVmlkZW9zLmxlbmd0aH07IHU6ICR7YWxsVXBsb2FkZWRWaWRlb3MubGVuZ3RofTsgczogJHthbGxTYXZlZFZpZGVvcy5sZW5ndGh9OyBzaXplOiAke01hdGguZmxvb3IodG90YWxTaXplT2ZWaWRlb3MgLyAxMDI0IC8gMTAyNCAvIDEwMjQgKiAxMDAwMCkgLyAxMDAwMH0gR2JgKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgczNIZWxwZXIgPSByZXF1aXJlKCcuLi9saWIvaGVscGVycy9hd3MvczMnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHNlYXJjaFBhcmFtcykK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdzZWFyY2hQYXJhbXMnKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgIGxldCBzdGF0c0lubGluZSA9ICcnOwogICAgICBzdGF0c0lubGluZSArPSBgJHtzdGF0cy5jaGFubmVsSWR9YCArIChuZXcgQXJyYXkoNyAtIHN0YXRzLmNoYW5uZWxJZC5sZW5ndGgpKS5qb2luKCcgJyk7CiAgICAgIHN0YXRzSW5saW5lICs9IGAke3N0YXRzLm93bmVyRW1haWx9YCArIChuZXcgQXJyYXkoNDAgLSBzdGF0cy5vd25lckVtYWlsLmxlbmd0aCkpLmpvaW4oJyAnKTsKICAgICAgc3RhdHNJbmxpbmUgKz0gYCR7c3RhdHMudG90YWxWaWRlb3N9YCArIChuZXcgQXJyYXkoMTAgLSAoc3RhdHMudG90YWxWaWRlb3MgKyAnJykubGVuZ3RoKSkuam9pbignICcpOwogICAgICBzdGF0c0lubGluZSArPSBgJHtzdGF0cy53b3JraW5nVmlkZW9zfWAgKyAobmV3IEFycmF5KDEwIC0gKHN0YXRzLndvcmtpbmdWaWRlb3MgKyAnJykubGVuZ3RoKSkuam9pbignICcpOwogICAgICBzdGF0c0lubGluZSArPSBgJHtzdGF0cy51cGxvYWRlZFZpZGVvc31gICsgKG5ldyBBcnJheSgxMCAtIChzdGF0cy51cGxvYWRlZFZpZGVvcyArICcnKS5sZW5ndGgpKS5qb2luKCcgJyk7CiAgICAgIHN0YXRzSW5saW5lICs9IGAke3N0YXRzLnNhdmVkVmlkZW9zfWAgKyAobmV3IEFycmF5KDEwIC0gKHN0YXRzLnNhdmVkVmlkZW9zICsgJycpLmxlbmd0aCkpLmpvaW4oJyAnKTsKICAgICAgc3RhdHNJbmxpbmUgKz0gYCR7c3RhdHMudG90YWxVcGxvYWRlZFNpemV9YCArIChuZXcgQXJyYXkoMTAgLSBzdGF0cy50b3RhbFVwbG9hZGVkU2l6ZS5sZW5ndGgpKS5qb2luKCcgJyk7CiAgICAgIGNvbnNvbGUubG9nKHN0YXRzSW5saW5lKQ==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBzZWFyY2hQYXJhbXMgPSBhd2FpdCBmaWx0ZXJTZWFyY2hQYXJhbXMocGFyYW1zLCB7Y3VyclVzZXIsIGN1cnJPcmd9KTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">bGV0IGNoYW5uZWxPd25lciA9IGF3YWl0IChVc2VyLmdldEJ5SWQoY2hhbm5lbC51c2VySWQpKTsKICAgIGxldCBhbGxWaWRlb3MgPSBhd2FpdCBWaWRlby5nZXRBbGxGcm9tQ2hhbm5lbChjaGFubmVsSWQpOwogICAgbGV0IGFsbFdvcmtpbmdWaWRlb3MgPSBhbGxWaWRlb3MuZmlsdGVyKHYgPT4gdi5pc1VwbG9hZGVkKTsKICAgIGxldCBhbGxVcGxvYWRlZFZpZGVvcyA9IGFsbFdvcmtpbmdWaWRlb3MuZmlsdGVyKHYgPT4gIXYuczNsaW5rKTsKICAgIGxldCBhbGxTYXZlZFZpZGVvcyA9IGFsbFdvcmtpbmdWaWRlb3MuZmlsdGVyKHYgPT4gISF2LnMzbGluayk7CiAgICBsZXQgdG90YWxTaXplT2ZWaWRlb3MgPSAwOwogICAgYXdhaXQgUHJvbWlzZS5hbGwoYWxsVXBsb2FkZWRWaWRlb3MubWFwKGFzeW5jIHYgPT57CiAgICAgIGxldCBzM0hlbHBlciA9IHJlcXVpcmUoJy4uL2xpYi9oZWxwZXJzL2F3cy9zMycpOwogICAgICBsZXQgc2l6ZSA9IGF3YWl0IHMzSGVscGVyLmdldE9iamVjdFNpemUoe0J1Y2tldDogY29uZmlnLkJVQ0tFVCwgS2V5OiBgJHt2LnMza2V5fSR7di5pZH0uZnZwYH0pOwogICAgICB0b3RhbFNpemVPZlZpZGVvcys9c2l6ZTsKICAgIH0pKTsKICAgIC8vIGNvbnNvbGUubG9nKGBTdGF0cyBmb3IgJHtjaGFubmVsSWR9LiBhbGw6ICR7YWxsVmlkZW9zLmxlbmd0aH07IHc6ICR7YWxsV29ya2luZ1ZpZGVvcy5sZW5ndGh9OyB1OiAke2FsbFVwbG9hZGVkVmlkZW9zLmxlbmd0aH07IHM6ICR7YWxsU2F2ZWRWaWRlb3MubGVuZ3RofTsgc2l6ZTogJHtNYXRoLmZsb29yKHRvdGFsU2l6ZU9mVmlkZW9zIC8gMTAyNCAvIDEwMjQgLyAxMDI0ICogMTAwMDApIC8gMTAwMDB9IEdiYCk7CgogICAgbGV0IHN0YXRzID0gewogICAgICBjaGFubmVsSWQ6IGNoYW5uZWxJZCwKICAgICAgdG90YWxWaWRlb3M6IGFsbFZpZGVvcy5sZW5ndGgsCiAgICAgIHdvcmtpbmdWaWRlb3M6IGFsbFdvcmtpbmdWaWRlb3MubGVuZ3RoLAogICAgICB1cGxvYWRlZFZpZGVvczogYWxsVXBsb2FkZWRWaWRlb3MubGVuZ3RoLAogICAgICBzYXZlZFZpZGVvczogYWxsU2F2ZWRWaWRlb3MubGVuZ3RoLAogICAgICB0b3RhbFVwbG9hZGVkU2l6ZTogYCR7TWF0aC5mbG9vcih0b3RhbFNpemVPZlZpZGVvcyAvIDEwMjQgLyAxMDI0IC8gMTAyNCAqIDEwMDAwKSAvIDEwMDAwfSBHYmAsCiAgICAgIG93bmVyRW1haWw6IGNoYW5uZWxPd25lciA/IGNoYW5uZWxPd25lci5lbWFpbCA6ICdObyBvd25lcicsCiAgICB9Ow==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">bGV0IGNoYW5uZWxPd25lciA9IGF3YWl0IChVc2VyLmdldEJ5SWQoY2hhbm5lbC51c2VySWQpKTsKICAgIGxldCBhbGxWaWRlb3MgPSBhd2FpdCBWaWRlby5nZXRBbGxGcm9tQ2hhbm5lbChjaGFubmVsSWQpOwogICAgbGV0IGFsbFdvcmtpbmdWaWRlb3MgPSBhbGxWaWRlb3MuZmlsdGVyKHYgPT4gdi5pc1VwbG9hZGVkKTsKICAgIGxldCBhbGxVcGxvYWRlZFZpZGVvcyA9IGFsbFdvcmtpbmdWaWRlb3MuZmlsdGVyKHYgPT4gIXYuczNsaW5rKTsKICAgIGxldCBhbGxTYXZlZFZpZGVvcyA9IGFsbFdvcmtpbmdWaWRlb3MuZmlsdGVyKHYgPT4gISF2LnMzbGluayk7CiAgICBsZXQgdG90YWxTaXplT2ZWaWRlb3MgPSAwOwogICAgYXdhaXQgUHJvbWlzZS5hbGwoYWxsVXBsb2FkZWRWaWRlb3MubWFwKGFzeW5jIHYgPT57CiAgICAgIGxldCBzM0hlbHBlciA9IHJlcXVpcmUoJy4uL2xpYi9oZWxwZXJzL2F3cy9zMycpOwogICAgICBsZXQgc2l6ZSA9IGF3YWl0IHMzSGVscGVyLmdldE9iamVjdFNpemUoe0J1Y2tldDogY29uZmlnLkJVQ0tFVCwgS2V5OiBgJHt2LnMza2V5fSR7di5pZH0uZnZwYH0pOwogICAgICB0b3RhbFNpemVPZlZpZGVvcys9c2l6ZTsKICAgIH0pKTsKICAgIC8vIGNvbnNvbGUubG9nKGBTdGF0cyBmb3IgJHtjaGFubmVsSWR9LiBhbGw6ICR7YWxsVmlkZW9zLmxlbmd0aH07IHc6ICR7YWxsV29ya2luZ1ZpZGVvcy5sZW5ndGh9OyB1OiAke2FsbFVwbG9hZGVkVmlkZW9zLmxlbmd0aH07IHM6ICR7YWxsU2F2ZWRWaWRlb3MubGVuZ3RofTsgc2l6ZTogJHtNYXRoLmZsb29yKHRvdGFsU2l6ZU9mVmlkZW9zIC8gMTAyNCAvIDEwMjQgLyAxMDI0ICogMTAwMDApIC8gMTAwMDB9IEdiYCk7CgogICAgbGV0IHN0YXRzID0gewogICAgICBjaGFubmVsSWQ6IGNoYW5uZWxJZCwKICAgICAgdG90YWxWaWRlb3M6IGFsbFZpZGVvcy5sZW5ndGgsCiAgICAgIHdvcmtpbmdWaWRlb3M6IGFsbFdvcmtpbmdWaWRlb3MubGVuZ3RoLAogICAgICB1cGxvYWRlZFZpZGVvczogYWxsVXBsb2FkZWRWaWRlb3MubGVuZ3RoLAogICAgICBzYXZlZFZpZGVvczogYWxsU2F2ZWRWaWRlb3MubGVuZ3RoLAogICAgICB0b3RhbFVwbG9hZGVkU2l6ZTogYCR7TWF0aC5mbG9vcih0b3RhbFNpemVPZlZpZGVvcyAvIDEwMjQgLyAxMDI0IC8gMTAyNCAqIDEwMDAwKSAvIDEwMDAwfSBHYmAsCiAgICAgIG93bmVyRW1haWw6IGNoYW5uZWxPd25lciA/IGNoYW5uZWxPd25lci5lbWFpbCA6ICdObyBvd25lcicsCiAgICB9OwogICAgbGV0IHN0YXRzSW5saW5lID0gJyc7CiAgICBzdGF0c0lubGluZSs9IGAke3N0YXRzLmNoYW5uZWxJZH1gICsgKG5ldyBBcnJheSg3IC0gc3RhdHMuY2hhbm5lbElkLmxlbmd0aCkpLmpvaW4oJyAnKTsKICAgIHN0YXRzSW5saW5lKz0gYCR7c3RhdHMub3duZXJFbWFpbH1gICsgKG5ldyBBcnJheSg0MCAtIHN0YXRzLm93bmVyRW1haWwubGVuZ3RoKSkuam9pbignICcpOwogICAgc3RhdHNJbmxpbmUrPSBgJHtzdGF0cy50b3RhbFZpZGVvc31gICsgKG5ldyBBcnJheSgxMCAtIChzdGF0cy50b3RhbFZpZGVvcyArICcnKS5sZW5ndGgpKS5qb2luKCcgJyk7CiAgICBzdGF0c0lubGluZSs9IGAke3N0YXRzLndvcmtpbmdWaWRlb3N9YCArIChuZXcgQXJyYXkoMTAgLSAoc3RhdHMud29ya2luZ1ZpZGVvcyArICcnKS5sZW5ndGgpKS5qb2luKCcgJyk7CiAgICBzdGF0c0lubGluZSs9IGAke3N0YXRzLnVwbG9hZGVkVmlkZW9zfWAgKyAobmV3IEFycmF5KDEwIC0gKHN0YXRzLnVwbG9hZGVkVmlkZW9zICsgJycpLmxlbmd0aCkpLmpvaW4oJyAnKTsKICAgIHN0YXRzSW5saW5lKz0gYCR7c3RhdHMuc2F2ZWRWaWRlb3N9YCArIChuZXcgQXJyYXkoMTAgLSAoc3RhdHMuc2F2ZWRWaWRlb3MgKyAnJykubGVuZ3RoKSkuam9pbignICcpOwogICAgc3RhdHNJbmxpbmUrPSBgJHtzdGF0cy50b3RhbFVwbG9hZGVkU2l6ZX1gICsgKG5ldyBBcnJheSgxMCAtIHN0YXRzLnRvdGFsVXBsb2FkZWRTaXplLmxlbmd0aCkpLmpvaW4oJyAnKTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>email</last-search>
+      <last-search>await</last-search>
       <last-offset />
-      <last-pattern>email</last-pattern>
+      <last-pattern>await</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>or(msg</last-substitute>
       <last-dir>1</last-dir>
@@ -1101,8 +1125,6 @@ o</text>
     </search>
     <history>
       <history-search>
-        <entry>comment 2</entry>
-        <entry>39</entry>
         <entry>admin-pan</entry>
         <entry>response.resu</entry>
         <entry>response.result = await</entry>
@@ -1121,6 +1143,8 @@ o</text>
         <entry>users</entry>
         <entry>asdf</entry>
         <entry>email</entry>
+        <entry>awit</entry>
+        <entry>await</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
