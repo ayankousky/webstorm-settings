@@ -130,6 +130,12 @@
         <mark key="^" line="105" column="79" />
         <mark key="." line="105" column="79" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1550134747500">
+        <mark key="[" line="934" column="36" />
+        <mark key="]" line="934" column="36" />
+        <mark key="^" line="934" column="36" />
+        <mark key="." line="934" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/Dockerfile" timestamp="1548963098345">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -1028,8 +1034,8 @@
       <jump line="1629" column="20" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG90YWxDaGFubmVsc1NpemUpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1062,7 +1068,7 @@
         <text>async</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZzLmFwcGVuZEZpbGVTeW5jKCcvVXNlcnMvYWxleC9EZXNrdG9wL2NoYW5uZWxzX3N0YXRzLmNzdicsIGAke3N0YXRzLmNoYW5uZWxJZH0sJHtzdGF0cy5vd25lckVtYWlsfSwke3N0YXRzLnRvdGFsVmlkZW9zfWApCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG90YWxDaGFubmVsc1NpemUpCg==</text>
       </register>
       <register name="1" type="8">
         <text>'/Users/alex/Desktop/channels_stats.csv'
