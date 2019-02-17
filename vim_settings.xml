@@ -162,11 +162,11 @@
         <mark key="^" line="70" column="19" />
         <mark key="." line="70" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/PRO_access.js" timestamp="1550406268000">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="48" />
-        <mark key="." line="119" column="0" />
-        <mark key="^" line="118" column="44" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/PRO_access.js" timestamp="1550410151882">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="114" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="114" column="94" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/storage_providers/VulcamStorage.js" timestamp="1542958228869">
         <mark key="[" line="46" column="15" />
@@ -209,6 +209,12 @@
         <mark key="]" line="75" column="20" />
         <mark key="." line="75" column="20" />
         <mark key="^" line="75" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/errors/apiStatusCodes.js" timestamp="1550410288221">
+        <mark key="[" line="36" column="59" />
+        <mark key="]" line="36" column="60" />
+        <mark key="." line="36" column="60" />
+        <mark key="^" line="36" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/translator/locales/ru.json" timestamp="1549872102644">
         <mark key="[" line="21" column="22" />
@@ -291,11 +297,11 @@
         <mark key="^" line="37" column="54" />
         <mark key="." line="37" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1550406373861">
-        <mark key="[" line="475" column="30" />
-        <mark key="]" line="475" column="30" />
-        <mark key="^" line="475" column="29" />
-        <mark key="." line="475" column="30" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1550410306000">
+        <mark key="[" line="153" column="118" />
+        <mark key="]" line="153" column="139" />
+        <mark key="." line="153" column="139" />
+        <mark key="^" line="153" column="139" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/users.js" timestamp="1549868953012">
         <mark key="[" line="161" column="19" />
@@ -617,7 +623,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" timestamp="1550403475259">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" timestamp="1550409831972">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -702,11 +708,11 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/en.json" timestamp="1550405968341">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="105" />
-        <mark key="." line="79" column="102" />
-        <mark key="^" line="79" column="102" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/en.json" timestamp="1550410243455">
+        <mark key="[" line="98" column="57" />
+        <mark key="]" line="98" column="57" />
+        <mark key="." line="98" column="57" />
+        <mark key="^" line="98" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/services/cache/index.js" timestamp="1549520578867">
         <mark key="[" line="26" column="40" />
@@ -719,6 +725,12 @@
         <mark key="]" line="74" column="0" />
         <mark key="^" line="55" column="45" />
         <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1550410325584">
+        <mark key="[" line="123" column="41" />
+        <mark key="]" line="123" column="41" />
+        <mark key="." line="123" column="41" />
+        <mark key="^" line="123" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/gulpfile.js" timestamp="1547059261295">
         <mark key="[" line="59" column="96" />
@@ -857,7 +869,7 @@
         <mark key="." line="1366" column="53" />
         <mark key="^" line="1366" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550404127240">
+      <file name="/Dummy.txt" timestamp="1550410205199">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1549839067930">
@@ -1074,7 +1086,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>upload new video</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1089,7 +1101,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>upload new video</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1107,48 +1119,40 @@
         <text>async</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhgY3VyclVzZXJTcGFjZTogJHtjdXJyVXNlclNwYWNlfWApCg==</text>
+        <text encoding="base64">U3RhdHVzQ29kZXMuQ2Fubm90TW92ZVJvb3RGb2xkZXIgICAgICAgICAgICAgICAgICAgICAgID0gNjMwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjdXJyVXNlclNwYWNlKQo=</text>
+        <text encoding="base64">ICBsZXQgY3VyclVzZXIgPSBhd2FpdCAoQ2xvdWRVc2VyLmdldEJ5SWQoY3VyclVzZXJJZCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1Yi5wZXJtaXNzaW9ucy52aWRlb3Nfc2l6ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBjCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzdWIucGVybWlzc2lvbnMudmlkZW9zX3NpemUnKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>onst LicenseService = new Services.LicenseService(currUserId);
-  // if (!LicenseService.isVideoCreateEnabled()){
-  //   console.log('Not enabled to create video');
-  //   context.succeed({
-  //     created: false,
-  //     error: new AppErrors.Unexpected('Not enabled to create video')
-  //   });
-  //   return;
-  // }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpZiAoY3VyclVzZXJTcGFjZSAmJiBjdXJyVXNlclNwYWNlICE9PSAwKSByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxKQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICByZXR1cm4gcmVxRW5kKHsKICAgICAgY3JlYXRlZDogZmFsc2UsCiAgICAgIGVycm9yOiBuZXcgQXBwRXJyb3JzLk5vdEFsbG93ZWQoLCBTdGF0dXNDb2Rlcy5DaGFubmVsQmxvY2tlZCkKICAgICAgY3JlYXRlX2NoZWNrX3N1YgogICAgfSwge3N0YXR1c0NvZGU6IDQwM30pOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICByZXR1cm4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhd2FpdChTZXJ2aWNlcy5TdWJzY3JpcHRpb25NYW5hZ2VyLmNoZWNrQWNjZXNzKCdQUk8nLCBhdXRoU2VydmljZS5wYXlsb2FkLmVtYWlsLCAnc2hhcmluZ3M6Y3JlYXRlJykpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygna2tla2VrZScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
