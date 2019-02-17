@@ -69,11 +69,11 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/index.js" timestamp="1550428936540">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="8" column="32" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/index.js" timestamp="1550431667559">
+        <mark key="'" line="24" column="25" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1548828537318">
         <mark key="[" line="577" column="4" />
@@ -281,6 +281,12 @@
         <mark key="." line="153" column="139" />
         <mark key="^" line="153" column="139" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" timestamp="1550432306407">
+        <mark key="[" line="20" column="40" />
+        <mark key="]" line="20" column="43" />
+        <mark key="^" line="20" column="43" />
+        <mark key="." line="20" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/users.js" timestamp="1549868953012">
         <mark key="[" line="161" column="19" />
         <mark key="]" line="161" column="0" />
@@ -461,11 +467,11 @@
         <mark key="^" line="44" column="34" />
         <mark key="." line="44" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/mock/index.js" timestamp="1550429922649">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-        <mark key="^" line="4" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/mock/index.js" timestamp="1550431733942">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="5" column="9" />
+        <mark key="." line="3" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/untitled/app.js" timestamp="1543951860316">
         <mark key="[" line="31" column="69" />
@@ -742,6 +748,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/users/user_api.js" timestamp="1550432004200">
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1550412004310" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/hardware.js" timestamp="1549657503598">
         <mark key="[" line="2" column="51" />
@@ -784,13 +794,6 @@
         <mark key="]" line="1" column="3" />
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1550403817732">
-        <mark key="'" line="1023" column="2" />
-        <mark key="[" line="1366" column="52" />
-        <mark key="]" line="1366" column="53" />
-        <mark key="." line="1366" column="53" />
-        <mark key="^" line="1366" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/package.json" timestamp="1550428769751" />
       <file name="/Dummy.txt" timestamp="1550410205199">
@@ -900,7 +903,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/geo.js" />
       <jump line="201" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/geo.js" />
       <jump line="277" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/geo.js" />
       <jump line="135" column="22" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/networkType.js" />
@@ -1000,17 +1002,11 @@
       <jump line="1629" column="20" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="600" column="4" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" />
+      <jump line="24" column="25" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>Creds
-Creds
-Creds
-Creds
-Creds
-Creds
-Creds
-Creds</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGZ1bmN0aW9u</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1025,7 +1021,7 @@ Creds</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ayankousky@yahoo.com</text>
+        <text encoding="base64">IGZ1bmN0aW9u</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1043,47 +1039,40 @@ Creds</text>
         <text>async</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0ZXN0MVVzZXJDcmVkcyAgIDoge2VtYWlsOiAndGVzdHVzZXIxQHB5b3VyLmNvbScsIHBhc3N3b3JkOiAnNDgxNTE2J30sIAo=</text>
+        <text encoding="base64">ICAgICAgcmVzdWx0LmJvZHkudG9rZW4uZXhwaXJlc0luLnNob3VsZC5iZS5ub3QubnVsbDsK</text>
       </register>
-      <register name="1" type="8">
-        <text>Creds
-Creds
-Creds
-Creds
-Creds
-Creds
-Creds
-Creds</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IF9lbnZfZW52X2VudiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBub1N1YnNVc2VyICAgICAgIDoge2VtYWlsOiAneGFlcm8tOTRAcmFtYmxlci5ydScsIHBhc3N3b3JkOiAnNDgxNTE2MjM0Mid9LAo=</text>
+        <text encoding="base64">ICAgICAgLy8gcmVzdWx0LmJvZHkudG9rZW4ubWVzc2FnZS5zaG91bGQuYmUuZXEoJ0xvZ2luIG9yIHBhc3N3b3JkIGlzIGluY29ycmVjdCcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzZWNvbmRVc2VyQ3JlZHMgIDoge2VtYWlsOiAnc2NyaXB0NDgxNTE2MjM0MkBnbWFpbC5jb20nLCBwYXNzd29yZDogJzQ4MTUxNid9LCAvLyB1c2VySWQ6IDUwMDA3NzsgYmFja3Vwc0NoYW5uZWxJZDogNTYsIHB1YmxpY0NoYW5uZWxJZCA1Nwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBlbWFpbDogYXlhbmtvdXNreUBlbGlsaW5rLmNvbSAgIHVzZXI6IDQxOyAgICAgYmFja3Vwc0NoYW5uZWxJZDogNTIsIHB1YmxpY0NoYW5uZWxJZCA2MQo=</text>
+        <text encoding="base64">ICAgICAgcmVzdWx0LmJvZHkudG9rZW4uc2hvdWxkLmJlLm5vdC5udWxsOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CmxldCBwcm9kRW52ID0gewogIHNlcnZlclVybCAgICAgICAgOiAnaHR0cHM6Ly9hcGkudnVsY2FtLnR2L3Byb2QnLAogIG1haW5Vc2VyQ3JlZHMgICAgOiB7ZW1haWw6ICdheWFua291c2t5QHlhaG9vLmNvbScsIHBhc3N3b3JkOiAnNDgxNTE2MjM0Mnhha2VyJ30sCiAgc2Vjb25kVXNlckNyZWRzICA6IHtlbWFpbDogJ3NjcmlwdDQ4MTUxNjIzNDJAZ21haWwuY29tJywgcGFzc3dvcmQ6ICc0ODE1MTYyMzQyeGFrZXInfSwKICBub1N1YnNVc2VyICAgICAgIDoge2VtYWlsOiAneGFlcm8tOTRAcmFtYmxlci5ydScsIHBhc3N3b3JkOiAnNDgxNTE2MjM0Mid9LAogIGZhY2Vib29rVXNlckNyZWRzOiB7ZmJ0b2tlbjogJ0VBQVpBSjBSMHJiYUVCQUFmZE5HenJqZjhaQU9aQVpCVndaQWE0MjRsZUU3MWtFaktaQ2J3Vzc2SmlEZWpPUDlMZHRVWkNmeFZlYkhEZU5VWFVPM1h0dU5ldEpaQmRyUkllZnZBS2ttOWdaQjhHcEc0MTM5b2tteXQyUmtuZXdMR3ZJY1V6UHN6NzRaQUNBWXdZTHNqc2dxZjFDOVh3dmRRYkxFWkN2bHRuYlpBcm1jYU9HbVZDQnpkQ3lBSSd9LCAgLy8gaHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjMuMC9vYXV0aC9hY2Nlc3NfdG9rZW4/Z3JhbnRfdHlwZT1mYl9leGNoYW5nZV90b2tlbiZjbGllbnRfaWQ9JmNsaWVudF9zZWNyZXQ9JmZiX2V4Y2hhbmdlX3Rva2VuPQp9Ow==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmYWNlYm9va1VzZXJDcmVkczoge2ZidG9rZW46ICdFQUFIR2V6MmVBRUlCQUNvRTdwZkxURUJiQnRZUTNuNGFEeFFpVEMybjZQMmQ1QVdIWkJDa3VqU2pEeGZhSzI3Umd3WkI1QVdaQjR2dVZsM25JaWt0WFJ6WVpDZ0ZCTVRyN2RaQjgxZ2FFeWNsV0xwTWROVU85ckZISnltTWE2UEllQ3dMc21xZHpRZk1qa1hheEkzdjVTbkcxS3BPSllQa1pEJ30sICAvLyBodHRwczovL2dyYXBoLmZhY2Vib29rLmNvbS92My4wL29hdXRoL2FjY2Vzc190b2tlbj9ncmFudF90eXBlPWZiX2V4Y2hhbmdlX3Rva2VuJmNsaWVudF9pZD0mY2xpZW50X3NlY3JldD0mZmJfZXhjaGFuZ2VfdG9rZW49Cg==</text>
+        <text encoding="base64">ICAgICAgcmVzdWx0LmJvZHkuZXJyb3Iuc2hvdWxkLmJlLm5vdC5udWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmlmIChzdGFnZSAhPT0gY29uZmlnLnNlcnZlcmxlc3Muc3RhZ2UpewogIGNvbnNvbGUubG9nKCcqKioqKioqKiBXYXJuaW5nIHRlc3RzIHN0YWdlIGFuZCBjb25maWcgc3RhZ2UgZG9lcyBub3QgbWF0Y2ggKioqKioqKionKTsKICByZXR1cm47Cn0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlc2NyaWJlKCdMb2dpbiBlbmRwb2ludHMnLCBmdW5jdGlvbigpewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
