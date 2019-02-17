@@ -162,11 +162,11 @@
         <mark key="^" line="70" column="19" />
         <mark key="." line="70" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/PRO_access.js" timestamp="1541360190883">
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="9" column="11" />
-        <mark key="^" line="9" column="11" />
-        <mark key="." line="9" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/PRO_access.js" timestamp="1550393724467">
+        <mark key="[" line="69" column="7" />
+        <mark key="]" line="69" column="7" />
+        <mark key="^" line="67" column="39" />
+        <mark key="." line="69" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/storage_providers/VulcamStorage.js" timestamp="1542958228869">
         <mark key="[" line="46" column="15" />
@@ -1058,7 +1058,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text encoding="base64">CiAgICAgIGlmIChhcHBsZUlkLmluY2x1ZGVzKCdsdmwzJykpIHsKICAgICAgICByZXR1cm4gMjcwODsKICAgICAgfQ==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1073,7 +1073,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text encoding="base64">IDQ1MjA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1091,10 +1091,10 @@
         <text>async</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG90YWxDaGFubmVsc1NpemUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAob3B0aW9ucy5pc1RyaWFsKSByZXR1cm4gNDUyMDsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgIGlmIChhcHBsZUlkLmluY2x1ZGVzKCdsdmwzJykpIHsKICAgICAgICByZXR1cm4gMjcwODsKICAgICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1118,16 +1118,13 @@
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG90YWxDaGFubmVsc1NpemUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RvdGFsQ2hhbm5lbHNTaXplJykK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG90YWxDaGFubmVsc1NpemUpCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>'/Users/alex/Desktop/channels_stats.csv'
-'/Users/alex/Desktop/channels_stats.csv'
-'/Users/alex/Desktop/channels_stats.csv'
-'/Users/alex/Desktop/channels_stats.csv'</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RvdGFsQ2hhbm5lbHNTaXplJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
