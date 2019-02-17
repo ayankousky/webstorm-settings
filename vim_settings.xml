@@ -281,11 +281,11 @@
         <mark key="." line="153" column="139" />
         <mark key="^" line="153" column="139" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" timestamp="1550432306407">
-        <mark key="[" line="20" column="40" />
-        <mark key="]" line="20" column="43" />
-        <mark key="^" line="20" column="43" />
-        <mark key="." line="20" column="43" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" timestamp="1550433876927">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="36" column="37" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/users.js" timestamp="1549868953012">
         <mark key="[" line="161" column="19" />
@@ -1005,8 +1005,8 @@
       <jump line="24" column="25" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGZ1bmN0aW9u</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1048,31 +1048,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuYm9keSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmVzdWx0LmJvZHkudG9rZW4ubWVzc2FnZS5zaG91bGQuYmUuZXEoJ0xvZ2luIG9yIHBhc3N3b3JkIGlzIGluY29ycmVjdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAuc2VuZCh7ZW1haWw6IG1vY2tzLmVudi51c2Vycy5hbGV4LmVtYWlsLCBwYXNzd29yZDogbW9ja3MuZW52LnVzZXJzLmFsZXgucGFzc3dvcmR9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0LmJvZHkudG9rZW4uc2hvdWxkLmJlLm5vdC5udWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZQo=</text>
+        <text encoding="base64">ICAgICAgLy8gcmVzdWx0LmJvZHkudG9rZW4ubWVzc2FnZS5zaG91bGQuYmUuZXEoJ0xvZ2luIG9yIHBhc3N3b3JkIGlzIGluY29ycmVjdCcpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0LmJvZHkuZXJyb3Iuc2hvdWxkLmJlLm5vdC5udWxsOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgcmVzdWx0LmJvZHkudG9rZW4uc2hvdWxkLmJlLm5vdC5udWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaWJlKCdMb2dpbiBlbmRwb2ludHMnLCBmdW5jdGlvbigpewo=</text>
+        <text encoding="base64">ICAgICAgZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
