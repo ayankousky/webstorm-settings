@@ -251,7 +251,7 @@
         <mark key="^" line="37" column="104" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1549879495613">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1550440174225">
         <mark key="[" line="185" column="0" />
         <mark key="]" line="185" column="0" />
         <mark key="^" line="185" column="69" />
@@ -281,11 +281,11 @@
         <mark key="." line="153" column="139" />
         <mark key="^" line="153" column="139" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" timestamp="1550439403451">
-        <mark key="[" line="62" column="24" />
-        <mark key="]" line="62" column="25" />
-        <mark key="^" line="62" column="23" />
-        <mark key="." line="62" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" timestamp="1550440292756">
+        <mark key="[" line="70" column="43" />
+        <mark key="]" line="70" column="43" />
+        <mark key="^" line="70" column="43" />
+        <mark key="." line="70" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/users.js" timestamp="1549868953012">
         <mark key="[" line="161" column="19" />
@@ -587,11 +587,6 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" timestamp="1550409831972">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/index.js" timestamp="1547379850109">
         <mark key="[" line="29" column="22" />
         <mark key="]" line="29" column="36" />
@@ -646,11 +641,11 @@
         <mark key="." line="33" column="65" />
         <mark key="^" line="33" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1549879569524">
-        <mark key="[" line="393" column="57" />
-        <mark key="]" line="393" column="72" />
-        <mark key="." line="393" column="72" />
-        <mark key="^" line="393" column="72" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1550440265116">
+        <mark key="[" line="69" column="32" />
+        <mark key="]" line="69" column="37" />
+        <mark key="." line="69" column="37" />
+        <mark key="^" line="69" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/config/index.js" timestamp="1548957573300">
         <mark key="[" line="4" column="12" />
@@ -1007,7 +1002,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>videos</text>
+        <text>post</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1022,7 +1017,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>videos</text>
+        <text>post</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1039,8 +1034,8 @@
       <register name="/" type="4">
         <text>async</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aWQ6ICcnLCA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuYm9keSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
