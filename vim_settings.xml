@@ -274,12 +274,12 @@
         <mark key="." line="153" column="139" />
         <mark key="^" line="153" column="139" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" timestamp="1550471549425">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" timestamp="1550523403645">
         <mark key="'" line="281" column="42" />
-        <mark key="[" line="299" column="54" />
-        <mark key="]" line="299" column="55" />
-        <mark key="^" line="299" column="55" />
-        <mark key="." line="299" column="55" />
+        <mark key="[" line="323" column="27" />
+        <mark key="]" line="323" column="36" />
+        <mark key="." line="323" column="36" />
+        <mark key="^" line="323" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/users.js" timestamp="1550443690346">
         <mark key="[" line="98" column="0" />
@@ -640,11 +640,11 @@
         <mark key="." line="33" column="65" />
         <mark key="^" line="33" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1550442746154">
-        <mark key="[" line="398" column="26" />
-        <mark key="]" line="398" column="36" />
-        <mark key="." line="398" column="36" />
-        <mark key="^" line="398" column="36" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1550524266107">
+        <mark key="[" line="340" column="0" />
+        <mark key="]" line="341" column="42" />
+        <mark key="^" line="341" column="42" />
+        <mark key="." line="341" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/config/index.js" timestamp="1548957573300">
         <mark key="[" line="4" column="12" />
@@ -742,6 +742,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="7" column="12" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" timestamp="1550524175894">
+        <mark key="'" line="24" column="99" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="60" />
+        <mark key="." line="119" column="114" />
+        <mark key="^" line="119" column="114" />
       </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/main_db_worker/app.js" timestamp="1545778438020">
         <mark key="[" line="0" column="13" />
@@ -1025,8 +1032,8 @@
       <jump line="158" column="20" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>brandId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1041,7 +1048,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>brandId</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1059,40 +1066,40 @@
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJicmFuZElkIjogcmVxLmJvZHkuYnJhbmRJZCwK</text>
+        <text encoding="base64">ICAsIFN0YXR1c0NvZGVzID0gcmVxdWlyZSgnLi4vaGVscGVycy9lcnJvci9hcGlTdGF0dXNDb2RlcycpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICByZWxlYXNlRGF0ZTogewoJCSAgdHlwZTogRGF0YVR5cGVzLkRBVEUsCiAgICB9LAogICAgb2Jzb2xldGVEYXRlOiB7CiAgICAgIHR5cGU6IERhdGFUeXBlcy5EQVRFLAogICAgfSw=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgZmlybXdhcmUgPSBhd2FpdCBGaXJtd2FyZS5nZXRCeUlkKHJlcS5wYXJhbXMuZmlybXdhcmVJZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cm91dGVyLmdldCgnL3JlZ2lvbnMnLCBmaXJtd2FyZUNvbnRyb2xsZXIuZ2V0QXZhaWxhYmxlUmVnaW9ucyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgaWYoWydzZWFyY2gnLCAncmVnaW9ucyddLmluZGV4T2YocmVxLnBhcmFtcy5maXJtd2FyZUlkKSAhPT0gLTEpewogICAgcmV0dXJuIG5leHQoKTsKICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBSb2xlID0gc2VxdWVsaXplLmRlZmluZSgncm9sZScsIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwYXNzd29yZCA9IGhhc2g7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
