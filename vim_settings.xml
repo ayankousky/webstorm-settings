@@ -281,11 +281,12 @@
         <mark key="." line="153" column="139" />
         <mark key="^" line="153" column="139" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" timestamp="1550444185301">
-        <mark key="[" line="213" column="44" />
-        <mark key="]" line="245" column="79" />
-        <mark key="." line="245" column="79" />
-        <mark key="^" line="245" column="79" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" timestamp="1550471549425">
+        <mark key="'" line="281" column="42" />
+        <mark key="[" line="299" column="54" />
+        <mark key="]" line="299" column="55" />
+        <mark key="^" line="299" column="55" />
+        <mark key="." line="299" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/users.js" timestamp="1550443690346">
         <mark key="[" line="98" column="0" />
@@ -418,11 +419,11 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/userService.js" timestamp="1549879505793">
-        <mark key="[" line="234" column="19" />
-        <mark key="]" line="235" column="28" />
-        <mark key="^" line="235" column="28" />
-        <mark key="." line="235" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/userService.js" timestamp="1550470926945">
+        <mark key="[" line="210" column="51" />
+        <mark key="]" line="210" column="62" />
+        <mark key="." line="210" column="62" />
+        <mark key="^" line="210" column="62" />
       </file>
       <file name="$USER_HOME$/Desktop/storage-blobs-node-quickstart/client/index.html" timestamp="1547769956807">
         <mark key="[" line="11" column="54" />
@@ -466,7 +467,7 @@
         <mark key="^" line="44" column="34" />
         <mark key="." line="44" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/mock/index.js" timestamp="1550441582712">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/mock/index.js" timestamp="1550470088655">
         <mark key="[" line="13" column="36" />
         <mark key="]" line="13" column="55" />
         <mark key="^" line="13" column="55" />
@@ -803,12 +804,12 @@
         <mark key="^" line="1366" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/package.json" timestamp="1550428769751" />
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1550443020994">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1550470432297">
         <mark key="'" line="117" column="16" />
-        <mark key="[" line="123" column="149" />
-        <mark key="]" line="123" column="157" />
-        <mark key="." line="123" column="157" />
-        <mark key="^" line="123" column="157" />
+        <mark key="[" line="117" column="20" />
+        <mark key="]" line="117" column="42" />
+        <mark key="." line="117" column="42" />
+        <mark key="^" line="117" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1548965516630">
         <mark key="[" line="7" column="11" />
@@ -908,7 +909,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="22" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/networkType.js" />
       <jump line="153" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/networkType.js" />
       <jump line="224" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/networkType.js" />
       <jump line="132" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/networkType.js" />
@@ -1008,10 +1008,11 @@
       <jump line="24" column="25" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/index.js" />
       <jump line="34" column="37" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" />
       <jump line="117" column="16" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
+      <jump line="275" column="42" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuYm9keSkK</text>
+      <register name="&quot;" type="4">
+        <text>lf</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1026,7 +1027,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>streetName</text>
+        <text>lf</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1044,41 +1045,42 @@
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0LmJvZHkudXNlci5vcmdhbml6YXRpb24pLnRvLmJlLm5vdC51bmRlZmluZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgcmVzdWx0LnVzZXJzLnB1c2goY3VyclVzZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuYm9keSkK</text>
+        <text encoding="base64">ICAgICAgICAgIG51bGwsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>role).to.be.not.undefined;
-        expect(result.body.user.streetName</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygna2VrZWsnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuc3RhdHVzQ29kZS5zaG91bGQuYmUuZXEoMjAwKTsKICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXN1bHQuc3RhdHVzQ29kZS5zaG91bGQuYmUuZXEoNDAzKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyg5KQo=</text>
+      <register name="5" type="4">
+        <text>;
+        console.log(result.body.users.length)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyg4KQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFsbENoaWxkcmVuSWRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuYm9keSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyg3KQo=</text>
+      <register name="8" type="4">
+        <text>role).to.be.not.undefined;
+        expect(result.body.user.streetName</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyg2KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
