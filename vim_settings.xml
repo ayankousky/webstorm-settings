@@ -135,11 +135,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/organizationService.js" timestamp="1549879452601">
-        <mark key="[" line="70" column="14" />
-        <mark key="]" line="70" column="19" />
-        <mark key="^" line="70" column="19" />
-        <mark key="." line="70" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/organizationService.js" timestamp="1550586172809">
+        <mark key="[" line="91" column="28" />
+        <mark key="]" line="91" column="32" />
+        <mark key="^" line="91" column="32" />
+        <mark key="." line="91" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/PRO_access.js" timestamp="1550410151882">
         <mark key="[" line="125" column="0" />
@@ -213,7 +213,6 @@
         <mark key="^" line="124" column="112" />
         <mark key="." line="124" column="112" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1550411432429" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/firmwares.js" timestamp="1550520397842">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -243,7 +242,6 @@
         <mark key="^" line="119" column="19" />
         <mark key="." line="119" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/firmwares.js" timestamp="1550520386731" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1550579467963">
         <mark key="[" line="181" column="0" />
         <mark key="]" line="181" column="48" />
@@ -293,18 +291,17 @@
         <mark key="." line="17" column="30" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="/firmwares.js" timestamp="1550520827155" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/bin/push_all_images.sh" timestamp="1549121251606">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="1" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/organizations.js" timestamp="1549810749890">
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="8" column="10" />
-        <mark key="^" line="8" column="10" />
-        <mark key="." line="8" column="10" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/organizations.js" timestamp="1550586050009">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="60" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="16" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/organization/organization-available-products-table/organization-available-products-table.component.ts" timestamp="1549517520364">
         <mark key="[" line="163" column="75" />
@@ -455,6 +452,12 @@
         <mark key="]" line="5" column="38" />
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/organization.js" timestamp="1550586330498">
+        <mark key="'" line="37" column="38" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/channels-table/channels-table.component.ts" timestamp="1549950603439">
         <mark key="[" line="44" column="31" />
@@ -666,6 +669,13 @@
         <mark key="^" line="26" column="103" />
         <mark key="." line="26" column="103" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/organizations.js" timestamp="1550585660326">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="25" />
+        <mark key="]" line="52" column="37" />
+        <mark key="^" line="52" column="37" />
+        <mark key="." line="52" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/hardware.js" timestamp="1549659892253">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -703,11 +713,11 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/organizations.js" timestamp="1549877399063">
-        <mark key="[" line="11" column="64" />
-        <mark key="]" line="11" column="69" />
-        <mark key="." line="11" column="69" />
-        <mark key="^" line="11" column="69" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/organizations.js" timestamp="1550586338830">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+        <mark key="^" line="19" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/firmware.js" timestamp="1549660095314">
         <mark key="[" line="37" column="52" />
@@ -751,7 +761,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1550472235316" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/firmwares.js" timestamp="1550582032336">
         <mark key="[" line="11" column="48" />
         <mark key="]" line="11" column="47" />
@@ -770,11 +779,11 @@
         <mark key="." line="10" column="45" />
         <mark key="^" line="10" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1550579679517">
-        <mark key="[" line="50" column="56" />
-        <mark key="]" line="50" column="72" />
-        <mark key="." line="50" column="72" />
-        <mark key="^" line="50" column="72" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1550585927604">
+        <mark key="[" line="56" column="3" />
+        <mark key="]" line="56" column="19" />
+        <mark key="." line="56" column="19" />
+        <mark key="^" line="56" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" timestamp="1544744557544">
         <mark key="[" line="155" column="0" />
@@ -794,7 +803,6 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/shared_video.js" timestamp="1550439129344" />
       <file name="$USER_HOME$/Desktop/PYOUR_base/medical_api/package.json" timestamp="1545779719230">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="6" column="42" />
@@ -814,9 +822,15 @@
         <mark key="." line="1366" column="53" />
         <mark key="^" line="1366" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/package.json" timestamp="1550428769751" />
       <file name="/Dummy.txt" timestamp="1550566151608">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1550585730766">
+        <mark key="'" line="34" column="75" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="100" column="34" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1550582148431">
         <mark key="'" line="115" column="18" />
@@ -921,17 +935,14 @@
         <mark key="^" line="196" column="12" />
         <mark key="." line="196" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organizationBrand.js" timestamp="1548621648682">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="33" />
-        <mark key="^" line="8" column="33" />
-        <mark key="." line="8" column="33" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organizationBrand.js" timestamp="1550585848976">
+        <mark key="[" line="78" column="27" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/networkType.js" />
-      <jump line="262" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/networkType.js" />
-      <jump line="329" column="14" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/subdomain.js" />
       <jump line="391" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/subdomain.js" />
       <jump line="533" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/subdomain.js" />
       <jump line="257" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/subdomain.js" />
@@ -1029,10 +1040,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/firmware.js" />
       <jump line="158" column="20" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
       <jump line="115" column="18" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
+      <jump line="41" column="37" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/organizations.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/organizations.js" />
+      <jump line="37" column="38" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/organization.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5KQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygyKQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1047,7 +1061,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXVkaW8gcHJvZmlsZSBvZiA=</text>
+        <text encoding="base64">R0V0IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1065,73 +1079,40 @@
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnRhY3Q6IHtpZDogJ2NvbnRjdCcsIGVtYWlsOiAnb2cxY29udGFjdEBweW91ci5jb20nLCBwYXNzd29yZDogJzQ4MTUxNid9LAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5KQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygyKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5zZW5kKHtlbWFpbDogbW9ja3MuZW52LnVzZXJzLnRlc3QzLmVtYWlsLCBwYXNzd29yZDogbW9ja3MuZW52LnVzZXJzLnRlc3QzLnBhc3N3b3JkfSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxKQo=</text>
       </register>
-      <register name="3" type="8">
-        <text>alProvider
-alProvider</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5zdGF0dXNDb2RlLnNob3VsZC5iZS5lcSgyMDApcykudG8uYmUubm90LnVuZGVmaW5lZDsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">bGV0IGZpbHRlclNlYXJjaFBhcmFtcyA9IGFzeW5jIChwYXJhbXMsIHtjdXJyVXNlciwgY3Vyck9yZ30pID0+IHsKICAgICAgY29uc3QgYWNjZXNzU2VydmljZSAgID0gcmVxdWlyZSgnLi9hY2Nlc3NTZXJ2aWNlJyk7CgogICAgICBsZXQgc2VhcmNoUGFyYW1zICAgICAgICAgICAgID0gT2JqZWN0LmFzc2lnbih7fSwgcGFyYW1zKTsKICAgICAgc2VhcmNoUGFyYW1zLm9yZ2FuaXphdGlvbklkcyA9IHVuZGVmaW5lZDsgLy8gc2VjdXJpdHkgcmVhc29uCgogICAgICAvLyBpZiB1c2VyIGNhbiBwZXJmb3JtIGFueSByZWFkIGFjdGlvbiAtIGRvbid0IGZpbHRlciBwYXJhbXMKICAgICAgaWYgKGF3YWl0IGFjY2Vzc1NlcnZpY2UudmVyaWZ5UGVybWlzc2lvbignb3JnczphbGw6cmVhZCcsIHtjdXJyVXNlcn0pKSB7CiAgICAgICAgcmV0dXJuIHNlYXJjaFBhcmFtczsKICAgICAgfQoKICAgICAgLy8gc2V0dXAgZGVmYXVsdCBwYXJhbXMgdG8gZmlsdGVyIG91dCBub3QgYXV0aG9yaXplZCByZXF1ZXN0cwogICAgICBpZiAoIXNlYXJjaFBhcmFtcy5vcmdhbml6YXRpb25JZHMpIHsKICAgICAgICBsZXQgYWxsQ2hpbGRyZW5PcmdzID0gYXdhaXQgdGhpcy5nZXRBbGxDaGlsZHJlbihbCiAgICAgICAgICAgIC4uLmN1cnJVc2VyLmZpcnN0Q29udGFjdE9yZ2FuaXphdGlvbnMsCiAgICAgICAgICAgIC4uLmN1cnJVc2VyLnNlY29uZENvbnRhY3RPcmdhbml6YXRpb25zLAogICAgICAgICAgICBjdXJyVXNlci5vcmdhbml6YXRpb24sCiAgICAgICAgICBdLmZpbHRlcihvID0+ICEhbykubWFwKG8gPT4gby5pZCkpOwogICAgICAgIHNlYXJjaFBhcmFtcy5vcmdhbml6YXRpb25JZHMgPSBbCiAgICAgICAgICBjdXJyVXNlci5vcmdhbml6YXRpb24sCiAgICAgICAgICAuLi5jdXJyVXNlci5maXJzdENvbnRhY3RPcmdhbml6YXRpb25zLAogICAgICAgICAgLi4uY3VyclVzZXIuc2Vjb25kQ29udGFjdE9yZ2FuaXphdGlvbnMsCiAgICAgICAgICAuLi5hbGxDaGlsZHJlbk9yZ3MsCiAgICAgICAgXS5maWx0ZXIobyA9PiAhIW8pLm1hcChvID0+IG8uaWQpOwogICAgICAgIC8vIGNvbnNvbGUubG9nKCdPcmdhbml6YXRpb25zOiBzZWFyY2hQYXJhbXMub3JnYW5pemF0aW9uSWRzJykKICAgICAgICAvLyBjb25zb2xlLmxvZyhzZWFyY2hQYXJhbXMub3JnYW5pemF0aW9uSWRzKQogICAgICB9CgogICAgICByZXR1cm4gc2VhcmNoUGFyYW1zOwogICAgfTs=</text>
       </register>
-      <register name="6" type="4">
-        <text>;
-          expect(result.body.user.id).to.be.not.undefined;
-          expect(result.body.user.honorific).to.be.not.undefined;
-          expect(result.body.user.firstName).to.be.not.undefined;
-          expect(result.body.user.lastName).to.be.not.undefined;
-          expect(result.body.user.loginName).to.be.not.undefined;
-          expect(result.body.user.email).to.be.not.undefined;
-          expect(result.body.user.country).to.be.not.undefined;
-          expect(result.body.user.lastAccessDate).to.be.not.undefined;
-          expect(result.body.user.language).to.be.not.undefined;
-          expect(result.body.user.userType).to.be.not.undefined;
-          expect(result.body.user.medicalProviderId).to.be.not.undefined;
-          expect(result.body.user.streetNumber).to.be.not.undefined;
-          expect(result.body.user.unitNumber).to.be.not.undefined;
-          expect(result.body.user.cityOrVillage).to.be.not.undefined;
-          expect(result.body.user.provinceOrState).to.be.not.undefined;
-          expect(result.body.user.postalCode).to.be.not.undefined;
-          expect(result.body.user.cellPhone).to.be.not.undefined;
-          expect(result.body.user.mobileAppRevision).to.be.not.undefined;
-          expect(result.body.user.mobileType).to.be.not.undefined;
-          expect(result.body.user.medicalUserFlag).to.be.not.undefined;
-          expect(result.body.user.isVerified).to.be.not.undefined;
-          expect(result.body.user.createdAt).to.be.not.undefined;
-          expect(result.body.user.updatedAt).to.be.not.undefined;
-          expect(result.body.user.roleId).to.be.not.undefined;
-          expect(result.body.user.organizationId).to.be.not.undefined;
-          expect(result.body.user.role).to.be.not.undefined;
-          expect(result.body.user.medicalProvider).to.be.not.undefined;
-          expect(result.body.user.deviceLicenses).to.be.not.undefined;
-          expect(result.body.user.organization).to.be.not.undefined;
-          expect(result.body.user.firstContactOrganizations).to.be.not.undefined;
-          expect(result.body.user.secondContactOrganizations).to.be.not.undefined;
-          expect(result.body.user.audioProfile</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpdCgnVXNlciBDQU4gTk9UIFJFQUQgYXVkaW8gcHJvZmlsZSBvZiB1c2VycyBmcm9tIGhpcyBvcmdhbml6YXRpb24nLCBhc3luYyAoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQoJ1VzZXIgQ0FOIE5PVCBSRUFEIGF1ZGlvIHByb2ZpbGUgb2YgdXNlcnMgZnJvbSBoaXMgb3JnYW5pemF0aW9uJywgYXN5bmMgKCkgPT4gewo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IC8vIGZpbmQgYWxsIGNoaWxkcmVuIG9mIG9yZ2FuaXphdGlvbgogICAgaWYgKHBhcmFtcy5hbGxDaGlsZHJlbk9mKSB7CiAgICAgIGxldCBhbGxDaGlsZHJlbklkcyA9IGF3YWl0IGdldENoaWxkT3JnSWRzKHBhcmFtcy5hbGxDaGlsZHJlbk9mKTsKICAgICAgcXVlcnkud2hlcmUgPSB7aWQ6IGFsbENoaWxkcmVuSWRzfTsKICAgICAgcmV0dXJuIHsgb3JnYW5pemF0aW9uczogYXdhaXQgT3JnYW5pemF0aW9uLmZpbmRBbGwocXVlcnkpLCBjb3VudDogYXdhaXQgT3JnYW5pemF0aW9uLmNvdW50KHF1ZXJ5KSB9OwogICAgfQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS51c2VyLmF1ZGlvUHJvZmlsZXMpLnRvLmJlLm5vdC51bmRlZmluZWQ7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gZ2V0Q2hpbGRPcmdJZHMob3JnSWQpewogICAgICBpZiAoIW9yZ0lkKSByZXR1cm4gW107CgogICAgICBsZXQgaWRzID0gW107CiAgICAgIGxldCBjaGlsZHJlbk9yZ3MgPSBhd2FpdCBkYi5vcmdhbml6YXRpb24uZmluZEFsbCh7CiAgICAgICAgd2hlcmU6IHtwYXJlbnRPcmdhbml6YXRpb25JZDogb3JnSWR9CiAgICAgIH0pOwogICAgICBsZXQgcmVzdWx0ID0gYXdhaXQgUHJvbWlzZS5hbGwoY2hpbGRyZW5PcmdzLm1hcChhc3luYyBjaE8gPT4gewogICAgICAgIHJldHVybiBhd2FpdCBnZXRDaGlsZE9yZ0lkcyhjaE8uaWQpOwogICAgICB9KSk7CiAgICAgIGxldCBjaGlsZHJlbklkcyA9IHJlc3VsdC5yZWR1Y2UoKHByZXYsIG5leHQpID0+IFsuLi5wcmV2LCAuLi5uZXh0XSwgW10pOwogICAgICBpZHMgPSBbLi4uaWRzLCAuLi5jaGlsZHJlbk9yZ3MubWFwKG8gPT4gby5pZCksIC4uLmNoaWxkcmVuSWRzXTsKICAgICAgcmV0dXJuIGlkczsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
