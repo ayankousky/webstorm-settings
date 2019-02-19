@@ -274,12 +274,12 @@
         <mark key="." line="153" column="139" />
         <mark key="^" line="153" column="139" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" timestamp="1550523403645">
-        <mark key="'" line="281" column="42" />
-        <mark key="[" line="323" column="27" />
-        <mark key="]" line="323" column="36" />
-        <mark key="." line="323" column="36" />
-        <mark key="^" line="323" column="36" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" timestamp="1550564842273">
+        <mark key="'" line="286" column="42" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
+        <mark key="^" line="167" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/users.js" timestamp="1550443690346">
         <mark key="[" line="98" column="0" />
@@ -640,11 +640,11 @@
         <mark key="." line="33" column="65" />
         <mark key="^" line="33" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1550524266107">
-        <mark key="[" line="340" column="0" />
-        <mark key="]" line="341" column="42" />
-        <mark key="^" line="341" column="42" />
-        <mark key="." line="341" column="42" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1550564483306">
+        <mark key="[" line="378" column="71" />
+        <mark key="]" line="378" column="71" />
+        <mark key="^" line="378" column="71" />
+        <mark key="." line="378" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/config/index.js" timestamp="1548957573300">
         <mark key="[" line="4" column="12" />
@@ -719,11 +719,10 @@
         <mark key="^" line="37" column="54" />
         <mark key="." line="37" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/app.js" timestamp="1548228016887">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="152" />
-        <mark key="^" line="64" column="45" />
-        <mark key="." line="65" column="10" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/app.js" timestamp="1550564405522">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/userRole.js" timestamp="1548627434254">
         <mark key="[" line="23" column="44" />
@@ -820,11 +819,12 @@
         <mark key="^" line="1366" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/package.json" timestamp="1550428769751" />
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1550517971145">
-        <mark key="'" line="158" column="20" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1550564724670">
+        <mark key="'" line="115" column="18" />
+        <mark key="[" line="119" column="31" />
+        <mark key="]" line="120" column="1" />
+        <mark key="." line="120" column="1" />
+        <mark key="^" line="120" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1548965516630">
         <mark key="[" line="7" column="11" />
@@ -1003,7 +1003,6 @@
       <jump line="3" column="762" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db/init/01-filldb.sh" />
       <jump line="62" column="32" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" />
       <jump line="114" column="17" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
-      <jump line="115" column="4" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
       <jump line="24" column="99" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" />
       <jump line="100" column="25" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="822" column="55" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
@@ -1030,6 +1029,7 @@
       <jump line="266" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/firmware.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/firmware.js" />
       <jump line="158" column="20" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
+      <jump line="115" column="18" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1048,7 +1048,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">U2VhcmNoIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1066,7 +1066,7 @@
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAsIFN0YXR1c0NvZGVzID0gcmVxdWlyZSgnLi4vaGVscGVycy9lcnJvci9hcGlTdGF0dXNDb2RlcycpCg==</text>
+        <text encoding="base64">ICAgICAgZGVzY3JpYmUoJ1NlYXJjaCB1c2VycycsIGFzeW5jICgpPT4gewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1078,28 +1078,36 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5zdGF0dXNDb2RlKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>{
+              &quot;email&quot;: &quot;testuser@test.com&quot;,
+              &quot;userName&quot;: &quot;test&quot;,
+              &quot;password&quot;: &quot;481516&quot;,
+            }</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5zdGF0dXNDb2RlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5KTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBwYXNzd29yZCA9IGhhc2g7Cg==</text>
+      <register name="9" type="4">
+        <text>{
+              &quot;email&quot;: &quot;testuser@test.com&quot;,
+              &quot;userName&quot;: &quot;test&quot;,
+              &quot;password&quot;: &quot;481516&quot;,
+            }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
