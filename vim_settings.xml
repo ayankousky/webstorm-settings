@@ -274,12 +274,12 @@
         <mark key="." line="153" column="139" />
         <mark key="^" line="153" column="139" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" timestamp="1550566283911">
-        <mark key="'" line="286" column="42" />
-        <mark key="[" line="376" column="0" />
-        <mark key="]" line="376" column="64" />
-        <mark key="^" line="363" column="41" />
-        <mark key="." line="376" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" timestamp="1550574693693">
+        <mark key="'" line="300" column="42" />
+        <mark key="[" line="213" column="11" />
+        <mark key="]" line="214" column="7" />
+        <mark key="^" line="214" column="7" />
+        <mark key="." line="214" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/users.js" timestamp="1550566207971">
         <mark key="[" line="44" column="20" />
@@ -818,11 +818,12 @@
       <file name="/Dummy.txt" timestamp="1550566151608">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1550566218619">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1550574112333">
         <mark key="'" line="115" column="18" />
-        <mark key="]" line="120" column="1" />
-        <mark key="." line="120" column="1" />
-        <mark key="^" line="120" column="1" />
+        <mark key="[" line="598" column="21" />
+        <mark key="]" line="598" column="22" />
+        <mark key="." line="598" column="22" />
+        <mark key="^" line="617" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1548965516630">
         <mark key="[" line="7" column="11" />
@@ -1031,7 +1032,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS5lcnJvci5tZXNzYWdlKS50by5ub3QuYmUudW5kZWZpbmVkOwo=</text>
+        <text encoding="base64">ICAgICAgZGVzY3JpYmUoJ1JlYWQgdXNlcnMnLCBhc3luYyAoKT0+IHsK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1046,7 +1047,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y3JlYXRlIA==</text>
+        <text>.undefined;</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1064,43 +1065,40 @@
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS5lcnJvci5tZXNzYWdlKS50by5ub3QuYmUudW5kZWZpbmVkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS51c2VyLmF1ZGlvUHJvZmlsZXMubGVuZ3RoKS50by5iZS5ub3QudW5kZWZpbmVkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVzY3JpYmUoJ1JlYWQgdXNlcnMnLCBhc3luYyAoKT0+IHsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICByZXN1bHQuc3RhdHVzQ29kZS5zaG91bGQuYmUuZXEoMjAwKTsKICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS51c2VyLmlkKS50by5iZS5ub3QudW5kZWZpbmVkOwogICAgICAgICAgZXhwZWN0KHJlc3VsdC5ib2R5LnVzZXIuaG9ub3JpZmljKS50by5iZS5ub3QudW5kZWZpbmVkOwogICAgICAgICAgZXhwZWN0KHJlc3VsdC5ib2R5LnVzZXIuZmlyc3ROYW1lKS50by5iZS5ub3QudW5kZWZpbmVkOwogICAgICAgICAgZXhwZWN0KHJlc3VsdC5ib2R5LnVzZXIubGFzdE5hbWUpLnRvLmJlLm5vdC51bmRlZmluZWQ7CiAgICAgICAgICBleHBlY3QocmVzdWx0LmJvZHkudXNlci5sb2dpbk5hbWUpLnRvLmJlLm5vdC51bmRlZmluZWQ7CiAgICAgICAgICBleHBlY3QocmVzdWx0LmJvZHkudXNlci5lbWFpbCkudG8uYmUubm90LnVuZGVmaW5lZDsKICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS51c2VyLmNvdW50cnkpLnRvLmJlLm5vdC51bmRlZmluZWQ7CiAgICAgICAgICBleHBlY3QocmVzdWx0LmJvZHkudXNlci5sYXN0QWNjZXNzRGF0ZSkudG8uYmUubm90LnVuZGVmaW5lZDsKICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS51c2VyLmxhbmd1YWdlKS50by5iZS5ub3QudW5kZWZpbmVkOwogICAgICAgICAgZXhwZWN0KHJlc3VsdC5ib2R5LnVzZXIudXNlclR5cGUpLnRvLmJlLm5vdC51bmRlZmluZWQ7CiAgICAgICAgICBleHBlY3QocmVzdWx0LmJvZHkudXNlci5tZWRpY2FsUHJvdmlkZXJJZCkudG8uYmUubm90LnVuZGVmaW5lZDsKICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS51c2VyLnN0cmVldE51bWJlcikudG8uYmUubm90LnVuZGVmaW5lZDsKICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS51c2VyLnVuaXROdW1iZXIpLnRvLmJlLm5vdC51bmRlZmluZWQ7CiAgICAgICAgICBleHBlY3QocmVzdWx0LmJvZHkudXNlci5jaXR5T3JWaWxsYWdlKS50by5iZS5ub3QudW5kZWZpbmVkOwogICAgICAgICAgZXhwZWN0KHJlc3VsdC5ib2R5LnVzZXIucHJvdmluY2VPclN0YXRlKS50by5iZS5ub3QudW5kZWZpbmVkOwogICAgICAgICAgZXhwZWN0KHJlc3VsdC5ib2R5LnVzZXIucG9zdGFsQ29kZSkudG8uYmUubm90LnVuZGVmaW5lZDsKICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS51c2VyLmNlbGxQaG9uZSkudG8uYmUubm90LnVuZGVmaW5lZDsKICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS51c2VyLm1vYmlsZUFwcFJldmlzaW9uKS50by5iZS5ub3QudW5kZWZpbmVkOwogICAgICAgICAgZXhwZWN0KHJlc3VsdC5ib2R5LnVzZXIubW9iaWxlVHlwZSkudG8uYmUubm90LnVuZGVmaW5lZDsKICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS51c2VyLm1lZGljYWxVc2VyRmxhZykudG8uYmUubm90LnVuZGVmaW5lZDsKICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS51c2VyLmlzVmVyaWZpZWQpLnRvLmJlLm5vdC51bmRlZmluZWQ7CiAgICAgICAgICBleHBlY3QocmVzdWx0LmJvZHkudXNlci5jcmVhdGVkQXQpLnRvLmJlLm5vdC51bmRlZmluZWQ7CiAgICAgICAgICBleHBlY3QocmVzdWx0LmJvZHkudXNlci51cGRhdGVkQXQpLnRvLmJlLm5vdC51bmRlZmluZWQ7CiAgICAgICAgICBleHBlY3QocmVzdWx0LmJvZHkudXNlci5yb2xlSWQpLnRvLmJlLm5vdC51bmRlZmluZWQ7CiAgICAgICAgICBleHBlY3QocmVzdWx0LmJvZHkudXNlci5vcmdhbml6YXRpb25JZCkudG8uYmUubm90LnVuZGVmaW5lZDsKICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS51c2VyLnJvbGUpLnRvLmJlLm5vdC51bmRlZmluZWQ7CiAgICAgICAgICBleHBlY3QocmVzdWx0LmJvZHkudXNlci5tZWRpY2FsUHJvdmlkZXIpLnRvLmJlLm5vdC51bmRlZmluZWQ7CiAgICAgICAgICBleHBlY3QocmVzdWx0LmJvZHkudXNlci5kZXZpY2VMaWNlbnNlcykudG8uYmUubm90LnVuZGVmaW5lZDsKICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS51c2VyLm9yZ2FuaXphdGlvbikudG8uYmUubm90LnVuZGVmaW5lZDsKICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS51c2VyLmZpcnN0Q29udGFjdE9yZ2FuaXphdGlvbnMpLnRvLmJlLm5vdC51bmRlZmluZWQ7CiAgICAgICAgICBleHBlY3QocmVzdWx0LmJvZHkudXNlci5zZWNvbmRDb250YWN0T3JnYW5pemF0aW9ucykudG8uYmUubm90LnVuZGVmaW5lZDs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGNyZWF0ZWRVc2VyID0gcmVzdWx0LmJvZHkudXNlci5iZS51bmRlZmluZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS51c2VyLmF1ZGlvUHJvZmlsZXMubGVuZ3RoKS50by5iZS5lcSgwKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>;
-          // createdUser.email.should.be.eq(test1UserFields.email);
-          // expect(createdUser.id).to.be.not.undefined;
-          // expect(createdUser.password).to</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS51c2VyLmF1ZGlvUHJvZmlsZXMpLnRvLmJlLm5vdC51bmRlZmluZWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5zdGF0dXNDb2RlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5LnVzZXIuYXVkaW9Qcm9maWxlcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGNyZWF0ZWRVc2VyID0gcmVzdWx0LmJvZHkudXNlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIHJlc3VsdC5zdGF0dXNDb2RlLnNob3VsZC5iZS5lcSgyMDEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
