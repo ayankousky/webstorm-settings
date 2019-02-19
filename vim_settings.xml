@@ -274,17 +274,18 @@
         <mark key="." line="153" column="139" />
         <mark key="^" line="153" column="139" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" timestamp="1550564842273">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" timestamp="1550566283911">
         <mark key="'" line="286" column="42" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
-        <mark key="^" line="167" column="8" />
+        <mark key="[" line="376" column="0" />
+        <mark key="]" line="376" column="64" />
+        <mark key="^" line="363" column="41" />
+        <mark key="." line="376" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/users.js" timestamp="1550443690346">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/users.js" timestamp="1550566207971">
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="26" />
+        <mark key="." line="44" column="26" />
+        <mark key="^" line="44" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/redis.js" timestamp="1548942604273">
         <mark key="[" line="17" column="29" />
@@ -581,11 +582,6 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" timestamp="1550409831972">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/index.js" timestamp="1547379850109">
         <mark key="[" line="29" column="22" />
         <mark key="]" line="29" column="36" />
@@ -640,11 +636,11 @@
         <mark key="." line="33" column="65" />
         <mark key="^" line="33" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1550564483306">
-        <mark key="[" line="378" column="71" />
-        <mark key="]" line="378" column="71" />
-        <mark key="^" line="378" column="71" />
-        <mark key="." line="378" column="71" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1550566148171">
+        <mark key="[" line="316" column="51" />
+        <mark key="]" line="316" column="56" />
+        <mark key="^" line="316" column="56" />
+        <mark key="." line="316" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/config/index.js" timestamp="1548957573300">
         <mark key="[" line="4" column="12" />
@@ -819,9 +815,11 @@
         <mark key="^" line="1366" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/package.json" timestamp="1550428769751" />
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1550564724670">
+      <file name="/Dummy.txt" timestamp="1550566151608">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1550566218619">
         <mark key="'" line="115" column="18" />
-        <mark key="[" line="119" column="31" />
         <mark key="]" line="120" column="1" />
         <mark key="." line="120" column="1" />
         <mark key="^" line="120" column="1" />
@@ -1033,7 +1031,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS5lcnJvci5tZXNzYWdlKS50by5ub3QuYmUudW5kZWZpbmVkOwo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1048,7 +1046,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2VhcmNoIA==</text>
+        <text encoding="base64">Y3JlYXRlIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1066,7 +1064,7 @@
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVzY3JpYmUoJ1NlYXJjaCB1c2VycycsIGFzeW5jICgpPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChyZXN1bHQuYm9keS5lcnJvci5tZXNzYWdlKS50by5ub3QuYmUudW5kZWZpbmVkOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1078,36 +1076,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGNyZWF0ZWRVc2VyID0gcmVzdWx0LmJvZHkudXNlci5iZS51bmRlZmluZWQ7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5zdGF0dXNDb2RlKTsK</text>
+      <register name="5" type="4">
+        <text>;
+          // createdUser.email.should.be.eq(test1UserFields.email);
+          // expect(createdUser.id).to.be.not.undefined;
+          // expect(createdUser.password).to</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-              &quot;email&quot;: &quot;testuser@test.com&quot;,
-              &quot;userName&quot;: &quot;test&quot;,
-              &quot;password&quot;: &quot;481516&quot;,
-            }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5zdGF0dXNDb2RlKQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5zdGF0dXNDb2RlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdC5ib2R5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGNyZWF0ZWRVc2VyID0gcmVzdWx0LmJvZHkudXNlcjsK</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-              &quot;email&quot;: &quot;testuser@test.com&quot;,
-              &quot;userName&quot;: &quot;test&quot;,
-              &quot;password&quot;: &quot;481516&quot;,
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIHJlc3VsdC5zdGF0dXNDb2RlLnNob3VsZC5iZS5lcSgyMDEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
