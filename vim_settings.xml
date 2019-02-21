@@ -111,11 +111,11 @@
         <mark key="^" line="17" column="40" />
         <mark key="." line="17" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/docker-compose.prod.yml" timestamp="1550724077577">
-        <mark key="[" line="69" column="20" />
-        <mark key="]" line="70" column="97" />
-        <mark key="^" line="70" column="97" />
-        <mark key="." line="70" column="97" />
+      <file name="$USER_HOME$/Desktop/docker-compose.prod.yml" timestamp="1550726074993">
+        <mark key="[" line="215" column="21" />
+        <mark key="]" line="215" column="28" />
+        <mark key="^" line="215" column="28" />
+        <mark key="." line="215" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1547403505566">
         <mark key="[" line="372" column="26" />
@@ -436,11 +436,11 @@
         <mark key="^" line="95" column="1" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1550725303150">
-        <mark key="[" line="37" column="27" />
-        <mark key="]" line="37" column="27" />
-        <mark key="^" line="37" column="27" />
-        <mark key="." line="37" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1550726458520">
+        <mark key="[" line="38" column="14" />
+        <mark key="]" line="38" column="25" />
+        <mark key="^" line="38" column="25" />
+        <mark key="." line="38" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/translator/locales/en.json" timestamp="1549872059041">
         <mark key="[" line="21" column="0" />
@@ -466,17 +466,18 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1550725548886" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/channels-table/channels-table.component.ts" timestamp="1549950603439">
         <mark key="[" line="44" column="31" />
         <mark key="]" line="44" column="34" />
         <mark key="^" line="44" column="34" />
         <mark key="." line="44" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/index.js" timestamp="1550725278034">
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="22" />
-        <mark key="^" line="20" column="22" />
-        <mark key="." line="20" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/index.js" timestamp="1550726222464">
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="26" />
+        <mark key="." line="22" column="26" />
+        <mark key="^" line="22" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/mock/index.js" timestamp="1550582524037">
         <mark key="[" line="13" column="78" />
@@ -806,23 +807,17 @@
         <mark key="." line="155" column="0" />
         <mark key="^" line="158" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1550725179150">
-        <mark key="[" line="45" column="21" />
-        <mark key="]" line="45" column="20" />
-        <mark key="^" line="45" column="20" />
-        <mark key="." line="45" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/http-server.js" timestamp="1549661713582">
         <mark key="[" line="43" column="34" />
         <mark key="]" line="43" column="49" />
         <mark key="^" line="43" column="49" />
         <mark key="." line="43" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitlab-ci.yml" timestamp="1550724382025">
-        <mark key="[" line="34" column="3" />
-        <mark key="]" line="34" column="3" />
-        <mark key="." line="34" column="3" />
-        <mark key="^" line="34" column="3" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitlab-ci.yml" timestamp="1550726867948">
+        <mark key="[" line="31" column="60" />
+        <mark key="]" line="31" column="71" />
+        <mark key="." line="31" column="71" />
+        <mark key="^" line="31" column="71" />
       </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/medical_api/package.json" timestamp="1545779719230">
         <mark key="[" line="6" column="36" />
@@ -1063,8 +1058,8 @@
       <jump line="37" column="38" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/organization.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhBUFBfU0VUVElOR1MpCg==</text>
+      <register name="&quot;" type="4">
+        <text>type</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1097,40 +1092,83 @@
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhBUFBfU0VUVElOR1MpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codHlwZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ldHdvcmspCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICB2b2x1bWVzOgogICAgICAtIC4vbW9kdWxlcy9vZmZlcnMtaW1wb3J0ZXI6L3Vzci9zcmMvb2ZmZXJzLWltcG9ydGVyCiAgICAgIC0gL3Vzci9zcmMvb2ZmZXJzLWltcG9ydGVyL25vZGVfbW9kdWxlcw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGUpCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICBidWlsZDoKICAgICAgY29udGV4dDogLi9tb2R1bGVzL29mZmVycy1pbXBvcnRlcgogICAgICBkb2NrZXJmaWxlOiAuL0RvY2tlcmZpbGU=</text>
+        <text encoding="base64">CiAgICAgIE5PREVfRU5WOiBwcm9kCiAgICAgIEFQUF9TRVRUSU5HUzogImJpbGxpZ2VyIgogICAgICBhZG1pbkVtYWlsOiBheWFua291c2t5QGVsaWxpbmsuY29tCiAgICAgICMjIHNwZWNpZnkgbmV0d29yayBJRHMKICAgICAgem9vbUlkOiB6b29tCiAgICAgIGNvbXByaWdvSWQ6IGNvbXByaWdvCiAgICAgIGNvbm5leGl0eUlkOiBjb25uZXhpdHkKICAgICAgY29ubmV4aXR5UHVibGlzaGVySWQ6IDYyMjEyOAogICAgICBjb25uZXhpdHlBcGlLZXk6IDgyY2I3NmRhZmZjYTNiYmJjMGUwMjc3OGU5MGVmMzM4CiAgICAgIGJpbGxpZ2VySWQ6IGJpbGxpZ2VyCiAgICAgIGJpbGxpZ2VyVXNlcm5hbWU6IGthbGFkX3Byb2RfZXhwb3J0CiAgICAgIGJpbGxpZ2VyUGFzc3dvcmQ6IDVHRTFtc3BpQngKICAgICAgYmlsbGlnZXJSZXBvcnRVc2VyOiBrYWxhZF9wcm9kX2V4cG9ydAogICAgICBiaWxsaWdlclJlcG9ydFBhc3M6IDVHRTFtc3BpQngKICAgICAgIyMgeWllbGRLaXQKICAgICAgeWllbGRLaXRJZDogeWllbGRLaXQKICAgICAgeWllbGRLaXRTaXRlSWQ6IGQ5ZTgyNTJmZDg1ODRjYjc4YzU0YTJiNWY0Nzk3MWM3CiAgICAgIHlpZWxkS2l0S2V5OiA5YTRlNzk5Y2I5YWMxNDBkOGIyODU4NzgyNGFmNGQ3MAogICAgICB5aWVsZEtpdFNlY3JldEtleTogYjI4MWQ2YTE0MDZiZWZmMGRmZTIyZWEyNGE1ZjFiMmMKICAgICAgIyMgZW5kIHlpZWxkS2l0CiAgICAgICMjIHNraW1saW5rcwogICAgICBza2ltbGlua3NJZDogc2tpbWxpbmtzCiAgICAgIHNraW1saW5rc0FwaUtleTogZjE0MzM1MzBhMWQxMDJiMTUyNjM2NmI3OWQyOWJjZmQKICAgICAgc2tpbWxpbmtzQWNjb3VudFR5cGU6IHB1Ymxpc2hlcl9hZG1pbgogICAgICBza2ltbGlua3NBY2NvdW50SWQ6IDExODg3NQogICAgICAjIyBlbmQgc2tpbWxpbmtzCiAgICAgIGFjY2Vzc0tleUlkOiBBS0lBSjJCTTQ1Qk1NT0FOMlcyQQogICAgICBzZWNyZXRBY2Nlc3NLZXk6IEpDN0RnSWtHeDBidnBBU1BuRmpxSllqQUNaUkpIR3FqNmhxWFZiRjMKICAgICAgIyMgczI0CiAgICAgIHMyNElkOiBzMjQKICAgICAgczI0VXNlcm5hbWU6IHMyNC1jc3YtbmFrYXJ0YQogICAgICBzMjRQYXNzd29yZDoga3RERDRtZFE1VXQzMlVCSwogICAgICAjIyBlbmQgczI0CiAgICAgICMjIHZnbGluawogICAgICB2aWdsaW5rSWQ6IHZpZ2xpbmsKICAgICAgdmlnbGlua1NlY3JldEtleTogc2VjcmV0IDM1ZmEzYzMyNWRjM2IwMWE4YzQ3ZWE5YWM4YzI1NWYzZjNmN2YyOWQKICAgICAgdmlnbGlua0FwaUtleTogNTg2MTdhNDdhZjBjOGE0MWQ2OGM0NDczNDBjZjcyMzAKICAgICAgIyMgZW5kIHZnbGluawogICAgICAjIyBrZWxrbwogICAgICBrZWxrb29JZDoga2Vsa29vCiAgICAgIGtlbGtvb1VzZXJuYW1lOiBrYWxhZFVHCiAgICAgIGtlbGtvb1Bhc3N3b3JkOiBJZ0V2cGVob3ViOQogICAgICAjIyBlbmQga2Vsa28KICAgICAgZml4ZXJJZDogZml4ZXI=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygyKQo=</text>
+      <register name="4" type="4">
+        <text>NODE_ENV: prod
+      APP_SETTINGS: &quot;billiger&quot;
+      adminEmail: ayankousky@elilink.com
+      ## specify network IDs
+      zoomId: zoom
+      comprigoId: comprigo
+      connexityId: connexity
+      connexityPublisherId: 622128
+      connexityApiKey: 82cb76daffca3bbbc0e02778e90ef338
+      billigerId: billiger
+      billigerUsername: kalad_prod_export
+      billigerPassword: 5GE1mspiBx
+      billigerReportUser: kalad_prod_export
+      billigerReportPass: 5GE1mspiBx
+      ## yieldKit
+      yieldKitId: yieldKit
+      yieldKitSiteId: d9e8252fd8584cb78c54a2b5f47971c7
+      yieldKitKey: 9a4e799cb9ac140d8b28587824af4d70
+      yieldKitSecretKey: b281d6a1406beff0dfe22ea24a5f1b2c
+      ## end yieldKit
+      ## skimlinks
+      skimlinksId: skimlinks
+      skimlinksApiKey: f1433530a1d102b1526366b79d29bcfd
+      skimlinksAccountType: publisher_admin
+      skimlinksAccountId: 118875
+      ## end skimlinks
+      accessKeyId: AKIAJ2BM45BMMOAN2W2A
+      secretAccessKey: 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
+      ## s24
+      s24Id: s24
+      s24Username: s24-csv-nakarta
+      s24Password: ktDD4mdQ5Ut32UBK
+      ## end s24
+      ## vglink
+      viglinkId: viglink
+      viglinkSecretKey: secret 35fa3c325dc3b01a8c47ea9ac8c255f3f3f7f29d
+      viglinkApiKey: 58617a47af0c8a41d68c447340cf7230
+      ## end vglink
+      ## kelko
+      kelkooId: kelkoo
+      kelkooUsername: kaladUG
+      kelkooPassword: IgEvpehoub9
+      ## end kelko
+      fixerId: fixer</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygxKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICB2b2x1bWVzOgogICAgICAtIC4vbW9kdWxlcy9vZmZlcnMtaW1wb3J0ZXI6L3Vzci9zcmMvb2ZmZXJzLWltcG9ydGVyCiAgICAgIC0gL3Vzci9zcmMvb2ZmZXJzLWltcG9ydGVyL25vZGVfbW9kdWxlcw==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBidWlsZDoKICAgICAgY29udGV4dDogLi9tb2R1bGVzL29mZmVycy1pbXBvcnRlcgogICAgICBkb2NrZXJmaWxlOiAuL0RvY2tlcmZpbGU=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">bGV0IGZpbHRlclNlYXJjaFBhcmFtcyA9IGFzeW5jIChwYXJhbXMsIHtjdXJyVXNlciwgY3Vyck9yZ30pID0+IHsKICAgICAgY29uc3QgYWNjZXNzU2VydmljZSAgID0gcmVxdWlyZSgnLi9hY2Nlc3NTZXJ2aWNlJyk7CgogICAgICBsZXQgc2VhcmNoUGFyYW1zICAgICAgICAgICAgID0gT2JqZWN0LmFzc2lnbih7fSwgcGFyYW1zKTsKICAgICAgc2VhcmNoUGFyYW1zLm9yZ2FuaXphdGlvbklkcyA9IHVuZGVmaW5lZDsgLy8gc2VjdXJpdHkgcmVhc29uCgogICAgICAvLyBpZiB1c2VyIGNhbiBwZXJmb3JtIGFueSByZWFkIGFjdGlvbiAtIGRvbid0IGZpbHRlciBwYXJhbXMKICAgICAgaWYgKGF3YWl0IGFjY2Vzc1NlcnZpY2UudmVyaWZ5UGVybWlzc2lvbignb3JnczphbGw6cmVhZCcsIHtjdXJyVXNlcn0pKSB7CiAgICAgICAgcmV0dXJuIHNlYXJjaFBhcmFtczsKICAgICAgfQoKICAgICAgLy8gc2V0dXAgZGVmYXVsdCBwYXJhbXMgdG8gZmlsdGVyIG91dCBub3QgYXV0aG9yaXplZCByZXF1ZXN0cwogICAgICBpZiAoIXNlYXJjaFBhcmFtcy5vcmdhbml6YXRpb25JZHMpIHsKICAgICAgICBsZXQgYWxsQ2hpbGRyZW5PcmdzID0gYXdhaXQgdGhpcy5nZXRBbGxDaGlsZHJlbihbCiAgICAgICAgICAgIC4uLmN1cnJVc2VyLmZpcnN0Q29udGFjdE9yZ2FuaXphdGlvbnMsCiAgICAgICAgICAgIC4uLmN1cnJVc2VyLnNlY29uZENvbnRhY3RPcmdhbml6YXRpb25zLAogICAgICAgICAgICBjdXJyVXNlci5vcmdhbml6YXRpb24sCiAgICAgICAgICBdLmZpbHRlcihvID0+ICEhbykubWFwKG8gPT4gby5pZCkpOwogICAgICAgIHNlYXJjaFBhcmFtcy5vcmdhbml6YXRpb25JZHMgPSBbCiAgICAgICAgICBjdXJyVXNlci5vcmdhbml6YXRpb24sCiAgICAgICAgICAuLi5jdXJyVXNlci5maXJzdENvbnRhY3RPcmdhbml6YXRpb25zLAogICAgICAgICAgLi4uY3VyclVzZXIuc2Vjb25kQ29udGFjdE9yZ2FuaXphdGlvbnMsCiAgICAgICAgICAuLi5hbGxDaGlsZHJlbk9yZ3MsCiAgICAgICAgXS5maWx0ZXIobyA9PiAhIW8pLm1hcChvID0+IG8uaWQpOwogICAgICAgIC8vIGNvbnNvbGUubG9nKCdPcmdhbml6YXRpb25zOiBzZWFyY2hQYXJhbXMub3JnYW5pemF0aW9uSWRzJykKICAgICAgICAvLyBjb25zb2xlLmxvZyhzZWFyY2hQYXJhbXMub3JnYW5pemF0aW9uSWRzKQogICAgICB9CgogICAgICByZXR1cm4gc2VhcmNoUGFyYW1zOwogICAgfTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
