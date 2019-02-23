@@ -236,11 +236,11 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.local.yml" timestamp="1550938885059">
-        <mark key="[" line="40" column="52" />
-        <mark key="]" line="40" column="52" />
-        <mark key="^" line="40" column="52" />
-        <mark key="." line="40" column="52" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.local.yml" timestamp="1550941668387">
+        <mark key="[" line="42" column="94" />
+        <mark key="]" line="42" column="92" />
+        <mark key="^" line="42" column="92" />
+        <mark key="." line="42" column="92" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db-init.js" timestamp="1549219340479">
         <mark key="[" line="119" column="38" />
@@ -708,9 +708,9 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="122" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/gulpfile.js" timestamp="1550938840125">
-        <mark key="[" line="59" column="96" />
-        <mark key="]" line="59" column="96" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/gulpfile.js" timestamp="1550941510350">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="55" />
         <mark key="." line="59" column="96" />
         <mark key="^" line="59" column="96" />
       </file>
@@ -785,10 +785,10 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/Dockerfile" timestamp="1550939001384">
-        <mark key="[" line="7" column="18" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/Dockerfile" timestamp="1550941801692">
+        <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="18" />
-        <mark key="^" line="7" column="24" />
+        <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/products.js" timestamp="1549213735438">
@@ -833,11 +833,11 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/package.json" timestamp="1550938998506">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="10" />
-        <mark key="^" line="7" column="10" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/package.json" timestamp="1550941819109">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="6" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1550768190114">
         <mark key="'" line="115" column="18" />
@@ -1053,7 +1053,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>t</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1068,7 +1068,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>t</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1086,7 +1086,7 @@
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy9hcHAvbm9kZV9tb2R1bGVzCg==</text>
+        <text encoding="base64">CQkJJ1BPUlRBTF9DTElFTlRfVVJMJzogJ2h0dHA6Ly9wb3J0YWxfY2xpZW50OjMwMDAnLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy9hcHAvcGFja2FnZS1sb2NrLmpzb24K</text>
