@@ -219,7 +219,6 @@
         <mark key="^" line="124" column="112" />
         <mark key="." line="124" column="112" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1550812878039" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/firmwares.js" timestamp="1550520397842">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -465,7 +464,6 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/offersImporter/index.js" timestamp="1550725548886" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/channels-table/channels-table.component.ts" timestamp="1549950603439">
         <mark key="[" line="44" column="31" />
         <mark key="]" line="44" column="34" />
@@ -741,7 +739,6 @@
         <mark key="^" line="37" column="54" />
         <mark key="." line="37" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1550725192701" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/app.js" timestamp="1550564405522">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -771,7 +768,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1550754664446" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1550914029351">
+        <mark key="[" line="23" column="42" />
+        <mark key="]" line="25" column="37" />
+        <mark key="^" line="25" column="37" />
+        <mark key="." line="25" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/firmwares.js" timestamp="1550582032336">
         <mark key="[" line="11" column="48" />
         <mark key="]" line="11" column="47" />
@@ -1040,7 +1042,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>node_modules</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1055,7 +1057,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>node_modules</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1073,7 +1075,7 @@
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3Vic2NyaXB0aW9ucykK</text>
+        <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy9hcHAvbm9kZV9tb2R1bGVzCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3Vic2NyaXB0aW9ucykK</text>
