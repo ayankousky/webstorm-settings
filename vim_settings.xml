@@ -739,6 +739,7 @@
         <mark key="^" line="37" column="54" />
         <mark key="." line="37" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1550930721900" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/app.js" timestamp="1550564405522">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -768,11 +769,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1550914029351">
-        <mark key="[" line="23" column="42" />
-        <mark key="]" line="25" column="37" />
-        <mark key="^" line="25" column="37" />
-        <mark key="." line="25" column="37" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1550931116313">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/firmwares.js" timestamp="1550582032336">
         <mark key="[" line="11" column="48" />
@@ -1041,8 +1041,8 @@
       <jump line="37" column="38" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/organization.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>node_modules</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy9hcHAvcGFja2FnZS1sb2NrLmpzb24K</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1078,24 +1078,36 @@
         <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy9hcHAvbm9kZV9tb2R1bGVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3Vic2NyaXB0aW9ucykK</text>
+        <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy9hcHAvcGFja2FnZS1sb2NrLmpzb24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N1YnNjcmlwdGlvbnMnKQo=</text>
+        <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy9hcHAvcGFja2FnZS1sb2NrLmpzb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ldHdvcmspCg==</text>
+        <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy93ZWJzZXJ2aWNlL25vZGVfbW9kdWxlcwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3Vic2NyaXB0aW9ucykK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3N1YnNjcmlwdGlvbnMnKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ldHdvcmspCg==</text>
+      </register>
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGUpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgIE5PREVfRU5WOiBwcm9kCiAgICAgIEFQUF9TRVRUSU5HUzogImJpbGxpZ2VyIgogICAgICBhZG1pbkVtYWlsOiBheWFua291c2t5QGVsaWxpbmsuY29tCiAgICAgICMjIHNwZWNpZnkgbmV0d29yayBJRHMKICAgICAgem9vbUlkOiB6b29tCiAgICAgIGNvbXByaWdvSWQ6IGNvbXByaWdvCiAgICAgIGNvbm5leGl0eUlkOiBjb25uZXhpdHkKICAgICAgY29ubmV4aXR5UHVibGlzaGVySWQ6IDYyMjEyOAogICAgICBjb25uZXhpdHlBcGlLZXk6IDgyY2I3NmRhZmZjYTNiYmJjMGUwMjc3OGU5MGVmMzM4CiAgICAgIGJpbGxpZ2VySWQ6IGJpbGxpZ2VyCiAgICAgIGJpbGxpZ2VyVXNlcm5hbWU6IGthbGFkX3Byb2RfZXhwb3J0CiAgICAgIGJpbGxpZ2VyUGFzc3dvcmQ6IDVHRTFtc3BpQngKICAgICAgYmlsbGlnZXJSZXBvcnRVc2VyOiBrYWxhZF9wcm9kX2V4cG9ydAogICAgICBiaWxsaWdlclJlcG9ydFBhc3M6IDVHRTFtc3BpQngKICAgICAgIyMgeWllbGRLaXQKICAgICAgeWllbGRLaXRJZDogeWllbGRLaXQKICAgICAgeWllbGRLaXRTaXRlSWQ6IGQ5ZTgyNTJmZDg1ODRjYjc4YzU0YTJiNWY0Nzk3MWM3CiAgICAgIHlpZWxkS2l0S2V5OiA5YTRlNzk5Y2I5YWMxNDBkOGIyODU4NzgyNGFmNGQ3MAogICAgICB5aWVsZEtpdFNlY3JldEtleTogYjI4MWQ2YTE0MDZiZWZmMGRmZTIyZWEyNGE1ZjFiMmMKICAgICAgIyMgZW5kIHlpZWxkS2l0CiAgICAgICMjIHNraW1saW5rcwogICAgICBza2ltbGlua3NJZDogc2tpbWxpbmtzCiAgICAgIHNraW1saW5rc0FwaUtleTogZjE0MzM1MzBhMWQxMDJiMTUyNjM2NmI3OWQyOWJjZmQKICAgICAgc2tpbWxpbmtzQWNjb3VudFR5cGU6IHB1Ymxpc2hlcl9hZG1pbgogICAgICBza2ltbGlua3NBY2NvdW50SWQ6IDExODg3NQogICAgICAjIyBlbmQgc2tpbWxpbmtzCiAgICAgIGFjY2Vzc0tleUlkOiBBS0lBSjJCTTQ1Qk1NT0FOMlcyQQogICAgICBzZWNyZXRBY2Nlc3NLZXk6IEpDN0RnSWtHeDBidnBBU1BuRmpxSllqQUNaUkpIR3FqNmhxWFZiRjMKICAgICAgIyMgczI0CiAgICAgIHMyNElkOiBzMjQKICAgICAgczI0VXNlcm5hbWU6IHMyNC1jc3YtbmFrYXJ0YQogICAgICBzMjRQYXNzd29yZDoga3RERDRtZFE1VXQzMlVCSwogICAgICAjIyBlbmQgczI0CiAgICAgICMjIHZnbGluawogICAgICB2aWdsaW5rSWQ6IHZpZ2xpbmsKICAgICAgdmlnbGlua1NlY3JldEtleTogc2VjcmV0IDM1ZmEzYzMyNWRjM2IwMWE4YzQ3ZWE5YWM4YzI1NWYzZjNmN2YyOWQKICAgICAgdmlnbGlua0FwaUtleTogNTg2MTdhNDdhZjBjOGE0MWQ2OGM0NDczNDBjZjcyMzAKICAgICAgIyMgZW5kIHZnbGluawogICAgICAjIyBrZWxrbwogICAgICBrZWxrb29JZDoga2Vsa29vCiAgICAgIGtlbGtvb1VzZXJuYW1lOiBrYWxhZFVHCiAgICAgIGtlbGtvb1Bhc3N3b3JkOiBJZ0V2cGVob3ViOQogICAgICAjIyBlbmQga2Vsa28KICAgICAgZml4ZXJJZDogZml4ZXI=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>NODE_ENV: prod
       APP_SETTINGS: &quot;billiger&quot;
       adminEmail: ayankousky@elilink.com
@@ -1140,18 +1152,6 @@
       kelkooPassword: IgEvpehoub9
       ## end kelko
       fixerId: fixer</text>
-      </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICB2b2x1bWVzOgogICAgICAtIC4vbW9kdWxlcy9vZmZlcnMtaW1wb3J0ZXI6L3Vzci9zcmMvb2ZmZXJzLWltcG9ydGVyCiAgICAgIC0gL3Vzci9zcmMvb2ZmZXJzLWltcG9ydGVyL25vZGVfbW9kdWxlcw==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBidWlsZDoKICAgICAgY29udGV4dDogLi9tb2R1bGVzL29mZmVycy1pbXBvcnRlcgogICAgICBkb2NrZXJmaWxlOiAuL0RvY2tlcmZpbGU=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
