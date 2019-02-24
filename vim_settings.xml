@@ -235,7 +235,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.local.yml" timestamp="1550948668174">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.local.yml" timestamp="1550989204935">
         <mark key="]" line="38" column="225" />
         <mark key="^" line="38" column="225" />
         <mark key="." line="38" column="225" />
@@ -430,6 +430,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.dev.yml" timestamp="1550989099072" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/userService.js" timestamp="1550470926945">
         <mark key="[" line="210" column="51" />
         <mark key="]" line="210" column="62" />
@@ -810,11 +811,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1550948482925">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="34" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="51" column="33" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1550989080244">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="52" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/firmwares.js" timestamp="1550582032336">
         <mark key="[" line="11" column="48" />
@@ -1098,7 +1099,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgIC0gZW5kdXNlcl9hcGkK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1134,19 +1135,19 @@
         <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy9hcHAvbm9kZV9tb2R1bGVzLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgIC0gZW5kdXNlcl9hcGkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJvY2Vzcy5vbigndW5oYW5kbGVkUmVqZWN0aW9uJywgZXJyID0+IGNvbnNvbGUubG9nKGVycikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJvY2Vzcy5vbigndW5oYW5kbGVkUmVqZWN0aW9uJywgZXJyID0+IGNvbnNvbGUubG9nKGVyci50b1N0cmluZygpKSk7Cg==</text>
+        <text encoding="base64">cHJvY2Vzcy5vbigndW5oYW5kbGVkUmVqZWN0aW9uJywgZXJyID0+IGNvbnNvbGUubG9nKGVycikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJvY2Vzcy5vbigndW5oYW5kbGVkUmVqZWN0aW9uJywgZXJyID0+IGNvbnNvbGUubG9nKGVyci50b1N0cmluZygpKSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1158,13 +1159,13 @@
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgYXV0aCA9IHJlcXVpcmUoJy4uL21pZGRsZXdhcmVzL2F1dGgnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Y29uc3QgYXV0aCA9IHJlcXVpcmUoJy4uL21pZGRsZXdhcmVzL2F1dGgnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgYXV0aCA9IHJlcXVpcmUoJy4uL21pZGRsZXdhcmVzL2F1dGgnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
