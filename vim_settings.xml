@@ -290,11 +290,11 @@
         <mark key="." line="100" column="43" />
         <mark key="^" line="100" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/pFuncItem.js" timestamp="1551032972393">
-        <mark key="[" line="21" column="7" />
-        <mark key="]" line="21" column="24" />
-        <mark key="^" line="21" column="24" />
-        <mark key="." line="21" column="24" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/pFuncItem.js" timestamp="1551033623585">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="48" />
+        <mark key="^" line="18" column="47" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/firmwareFunction.js" timestamp="1551021661864" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/redis.js" timestamp="1548942604273">
@@ -303,9 +303,9 @@
         <mark key="." line="17" column="30" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/product.js" timestamp="1551030955545">
-        <mark key="[" line="43" column="43" />
-        <mark key="]" line="44" column="49" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/product.js" timestamp="1551033597737">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="29" />
         <mark key="." line="44" column="49" />
         <mark key="^" line="44" column="49" />
       </file>
@@ -1137,8 +1137,8 @@
       <jump line="136" column="18" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>medicalFlag</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgInVuaXQiICAgICAgICAgICAgICA6IHBGdW5JdGVtRmllbGRzLnVuaXQsCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1153,7 +1153,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>medicalFlag</text>
+        <text>firmwareFunctionId</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1171,21 +1171,24 @@
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQgbmV3UHJvZHVjdCA9IChhd2FpdCBwcm9kdWN0U2VydmljZS5nZXQoY3JlYXRlUmVzdWx0Lm5ld1Byb2R1Y3QuaWQpKS5wcm9kdWN0OyAvLyBnZXQgcHJvZHVjdCB3aXRoIHJlc29sdmVkIGpvaW5zCg==</text>
+        <text encoding="base64">ICAgICAgInVuaXQiICAgICAgICAgICAgICA6IHBGdW5JdGVtRmllbGRzLnVuaXQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkgIHR5cGU6IFN0cmluZy4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CglQRnVuY0l0ZW0uc2VhcmNoID0gYXN5bmMgcGFyYW1zID0+IHsKCQljb25zdCBTZXF1ZWxpemUgPSByZXF1aXJlKCdzZXF1ZWxpemUnKTsKCQljb25zdCBPcCA9IFNlcXVlbGl6ZS5PcDsKCQljb25zdCBkYiA9IHJlcXVpcmUoJy4uL2RiL2RiJykKCiAgICBsZXQgcXVlcnkgPSB7CgkJCXdoZXJlOiB7fSwKICAgICAgaW5jbHVkZTogWwogICAgICBdLAogICAgfTsKCiAgICAvLyBmaWx0ZXIgYnkgY3JlYXRlZEF0IGZpZWxkCgkJaWYgKHBhcmFtcy5jcmVhdGVkQXRHdCl7CiAgICAJcXVlcnkud2hlcmUuY3JlYXRlZEF0ID0gcXVlcnkud2hlcmUuY3JlYXRlZEF0IHx8IHt9OwogICAgICBxdWVyeS53aGVyZS5jcmVhdGVkQXRbT3AuZ3RdID0gbmV3IERhdGUocGFyYW1zLmNyZWF0ZWRBdEd0IC0gMCk7CgkJfQoJCWlmIChwYXJhbXMuY3JlYXRlZEF0THQpewogICAgCXF1ZXJ5LndoZXJlLmNyZWF0ZWRBdCA9IHF1ZXJ5LndoZXJlLmNyZWF0ZWRBdCB8fCB7fTsKICAgICAgcXVlcnkud2hlcmUuY3JlYXRlZEF0W09wLmx0XSA9IG5ldyBEYXRlKHBhcmFtcy5jcmVhdGVkQXRMdCAtIDApOwoJCX0KCgkJLy8gc2VsZWN0IG9yZGVyIGZpZWxkIGFuZCBkaXJlY3Rpb24KCQlpZihwYXJhbXMub3JkZXIpIHsKICAgIAlsZXQgb3JkZXJEaXIgPSBwYXJhbXMub3JkZXJEaXIgJiYgKHBhcmFtcy5vcmRlckRpciA9PT0gJ0FTQycgfHwgcGFyYW1zLm9yZGVyRGlyID09PSAnREVTQycpID8gcGFyYW1zLm9yZGVyRGlyIDogJ0RFU0MnCiAgICAJcXVlcnkub3JkZXIgPSBbW3BhcmFtcy5vcmRlciwgb3JkZXJEaXJdXQogICAgfQoKICAgIGxldCBmaXJtd2FyZXMgPSBhd2FpdCBQRnVuY0l0ZW0uZmluZEFsbChxdWVyeSk7CiAgICAvLyBjb25zb2xlLmxvZyhxdWVyeSkKICAgIC8vIGNvbnNvbGUubG9nKCdxdWVyeScpCiAgICBxdWVyeS5kaXN0aW5jdCA9IHRydWU7CiAgICBsZXQgY291bnQgPSBhd2FpdCBQRnVuY0l0ZW0uY291bnQocXVlcnkpCiAgICAvLyBjb25zb2xlLmxvZygncmVzdWx0JykKICAgIC8vIGNvbnNvbGUubG9nKHJlc3VsdCkKICAgIC8vIGNvbnNvbGUubG9nKHJlc3VsdC5sZW5ndGgpCgoJCXJldHVybiB7IGZpcm13YXJlcywgY291bnQgfTsKCX07</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB7IG1vCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>del: db.hardware, as: 'hardwares'},
         { model: db.firmwareFunction, as: 'functions'},
         {
@@ -1194,10 +1197,13 @@
           },
         },</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIHsgbQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="4">
         <text>odel: db.hardware, as: 'hardwares'},
           {model: db.firmwareFunction, as: 'functions'},
           {
@@ -1206,17 +1212,11 @@
             },
           },</text>
       </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbUZpcm13YXJlSWQgICAgICAgIDogcHJvZHVjdEZpZWxkcy5tRmlybXdhcmVJZCwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
