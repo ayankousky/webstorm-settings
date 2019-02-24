@@ -284,11 +284,11 @@
         <mark key="." line="100" column="43" />
         <mark key="^" line="100" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/pFuncItem.js" timestamp="1551034306049">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="48" />
-        <mark key="^" line="18" column="47" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/pFuncItem.js" timestamp="1551036915200">
+        <mark key="[" line="44" column="28" />
+        <mark key="]" line="44" column="27" />
+        <mark key="^" line="44" column="27" />
+        <mark key="." line="44" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/firmwareFunction.js" timestamp="1551021661864" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/redis.js" timestamp="1548942604273">
@@ -482,6 +482,12 @@
         <mark key="]" line="5" column="38" />
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/products.js" timestamp="1551036928153">
+        <mark key="[" line="86" column="25" />
+        <mark key="]" line="86" column="25" />
+        <mark key="^" line="86" column="25" />
+        <mark key="." line="86" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/admin-panel/src/app/channels-table/channels-table.component.ts" timestamp="1549950603439">
         <mark key="[" line="44" column="31" />
@@ -822,17 +828,17 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/products.js" timestamp="1551033975472">
-        <mark key="[" line="14" column="69" />
-        <mark key="]" line="14" column="74" />
-        <mark key="." line="14" column="74" />
-        <mark key="^" line="14" column="74" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/products.js" timestamp="1551036389206">
+        <mark key="[" line="14" column="49" />
+        <mark key="]" line="14" column="52" />
+        <mark key="." line="14" column="52" />
+        <mark key="^" line="14" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1551034904257">
-        <mark key="[" line="69" column="67" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="70" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1551035625611">
+        <mark key="[" line="77" column="105" />
+        <mark key="]" line="77" column="105" />
+        <mark key="." line="77" column="105" />
+        <mark key="^" line="75" column="103" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" timestamp="1544744557544">
         <mark key="[" line="155" column="0" />
@@ -1087,7 +1093,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIpCg==</text>
+        <text encoding="base64">ICBhd2FpdCBQRnVuY0l0ZW0uZGVsZXRlKGZ1bmNJdGVtLmlkKTsK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1102,7 +1108,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>productId</text>
+        <text encoding="base64">dXBkYXRlRnVuY3Rpb24g</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1123,37 +1129,40 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIpCg==</text>
+        <text encoding="base64">ICBhd2FpdCBQRnVuY0l0ZW0uZGVsZXRlKGZ1bmNJdGVtLmlkKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEpCg==</text>
+        <text encoding="base64">ICAgIHByb2R1Y3QsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvCg==</text>
+        <text encoding="base64">ICAgIHByb2R1Y3RGdW5jdGlvbkl0ZW06IGZ1bmNJdGVtLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBmdW5jSXRlbSA9IGF3YWl0IFBGdW5jSXRlbS5nZXRCeUlkKGZ1bmNJdGVtLmlkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGl0ZW06IGZ1bmNJdGVtLAo=</text>
+        <text encoding="base64">ICBwcm9kdWN0ID0gYXdhaXQgUHJvZHVjdC5nZXRCeUlkKHByb2R1Y3QuaWQpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ld1Byb2R1Y3Q6IGF3YWl0IFByb2R1Y3QucHJvamVjdCgnY2xpZW50JywgbmV3UHJvZHVjdC50b0pTT04oKSksCg==</text>
+      <register name="6" type="4">
+        <text>{
+    firmwareFunctionId: req.body.productFunctionFields.firmwareFunctionId || undefined,
+    unit              : req.body.productFunctionFields.unit || undefined,
+  }</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgcmVzdWx0ID0gYXdhaXQgZXhpc3RpbmdGaXJtd2FyZS5hZGRGdW5jdGlvbnMocmVxLnBhcmFtcy5maXJtd2FyZUZ1bmN0aW9uSWQpOwo=</text>
+        <text encoding="base64">ICBsZXQgZnVuYyA9IGF3YWl0IEZpcm13YXJlRnVuY3Rpb24uZ2V0QnlJZChyZXEuYm9keS5wcm9kdWN0RnVuY3Rpb25GaWVsZHMuZmlybXdhcmVGdW5jdGlvbklkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBmdW5jSXRlbS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBpZiAocmVxLmJvZHkuaXNNZWRpY2FsKSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
