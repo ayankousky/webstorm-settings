@@ -9,12 +9,12 @@
         <mark key="^" line="194" column="4" />
         <mark key="." line="194" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/product.js" timestamp="1551079228775">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/product.js" timestamp="1551079263008">
         <mark key="'" line="21" column="2" />
-        <mark key="[" line="108" column="37" />
-        <mark key="]" line="109" column="21" />
-        <mark key="." line="109" column="21" />
-        <mark key="^" line="109" column="21" />
+        <mark key="[" line="101" column="45" />
+        <mark key="]" line="101" column="48" />
+        <mark key="." line="101" column="48" />
+        <mark key="^" line="101" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.html" timestamp="1549615305235">
         <mark key="[" line="68" column="53" />
@@ -1098,8 +1098,8 @@
       <jump line="21" column="2" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/product.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhd2FpdCBmaXJtd2FyZVNlcnZpY2UudXBkYXRlUmV2aXNpb24ocmV2aXNpb24uaWQsIHsK</text>
+      <register name="&quot;" type="4">
+        <text>Revision</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1114,7 +1114,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, revision</text>
+        <text>Revision</text>
       </register>
       <register name="m" type="4">
         <keys>
