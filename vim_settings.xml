@@ -9,12 +9,12 @@
         <mark key="^" line="194" column="4" />
         <mark key="." line="194" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/product.js" timestamp="1551039338007">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/product.js" timestamp="1551075507477">
         <mark key="'" line="21" column="2" />
-        <mark key="[" line="85" column="109" />
-        <mark key="]" line="85" column="109" />
-        <mark key="." line="85" column="109" />
-        <mark key="^" line="85" column="61" />
+        <mark key="[" line="101" column="70" />
+        <mark key="]" line="101" column="69" />
+        <mark key="." line="101" column="69" />
+        <mark key="^" line="101" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.html" timestamp="1549615305235">
         <mark key="[" line="68" column="53" />
@@ -146,11 +146,11 @@
         <mark key="^" line="134" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/firmwareFunction.js" timestamp="1551021661864" />
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/product.js" timestamp="1551034175527">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="29" />
-        <mark key="." line="44" column="49" />
-        <mark key="^" line="44" column="49" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/product.js" timestamp="1551075190112">
+        <mark key="[" line="74" column="44" />
+        <mark key="]" line="74" column="44" />
+        <mark key="." line="74" column="44" />
+        <mark key="^" line="74" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/bin/push_all_images.sh" timestamp="1549121251606">
         <mark key="[" line="9" column="0" />
@@ -800,10 +800,11 @@
         <mark key="^" line="183" column="6" />
         <mark key="." line="183" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/products.js" timestamp="1551039268483">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/products.js" timestamp="1551075233386">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="58" />
+        <mark key="." line="13" column="58" />
+        <mark key="^" line="13" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organizationInvite.js" timestamp="1549783342650">
         <mark key="[" line="98" column="0" />
@@ -872,7 +873,7 @@
         <mark key="^" line="26" column="103" />
         <mark key="." line="26" column="103" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/hardware.js" timestamp="1551006650793">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/hardware.js" timestamp="1551075141054">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="^" line="55" column="45" />
@@ -890,6 +891,7 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/firmware.js" timestamp="1551075248318" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/organizations.js" timestamp="1550586338830">
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="28" />
@@ -1097,7 +1099,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, req.body.productFunctionFields</text>
+        <text>, revision</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1112,7 +1114,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, req.body.productFunctionFields</text>
+        <text>, revision</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1130,40 +1132,40 @@
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVxLmJvZHknKQo=</text>
+        <text encoding="base64">ICBsZXQgcHJvZHVjdCA9IChhd2FpdCBwcm9kdWN0U2VydmljZS5nZXQocmVxLnBhcmFtcy5wcm9kdWN0SWQpKS5wcm9kdWN0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3RGdW5jdGlvbkl0ZW06IGRlbGV0ZVJlc3VsdC5wcm9kdWN0RnVuY3Rpb25JdGVtCg==</text>
+        <text encoding="base64">ICByZXZpc2lvbiA9IChhd2FpdCBmaXJtd2FyZVNlcnZpY2UuZ2V0UmV2aXNpb24ocmV2aXNpb24uaWQpKS5maXJtd2FyZVJldmlzaW9uOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEuYm9keSkK</text>
+        <text encoding="base64">ICBmaXJtd2FyZSA9IChhd2FpdCBmaXJtd2FyZVNlcnZpY2UuZ2V0KGZpcm13YXJlLmlkKSkuZmlybXdhcmU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVxLmJvZHknKQo=</text>
+        <text encoding="base64">ICBsZXQgcmV2aXNpb24gPSBmaXJtd2FyZS5yZXZpc2lvbnMuZmluZChyID0+IHIuaWQgPT09IHJlcS5wYXJhbXMuZmlybXdhcmVSZXZpc2lvbklkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEucGFyYW1zKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVxLnBhcmFtcycpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">aWYgKCFyZXEuZmlsZXMuZmlybXdhcmVSZXZpc2lvbkZpbGUgfHwgIXJlcS5maWxlcy5maXJtd2FyZVJldmlzaW9uRmlsZS5sZW5ndGgpIHsKICAgIHJldHVybiBoZWxwZXJzLnJlcXVlc3QuZmluaXNoKHJlcSwgcmVzLCB7CiAgICAgIGVycm9yOiBuZXcgQXBwRXJyb3IuQmFkUmVxdWVzdCh0cmFuc2xhdG9yLmNyZWF0ZVBocmFzZSgnZmlybXdhcmVzLmVycm9ycy5yZXZfZmlsZV9ub3Rfc2VsZWN0ZWQnKSksCiAgICB9KTsKICB9CgogIGlmICghYXdhaXQgYWNjZXNzU2VydmljZS52ZXJpZnlQZXJtaXNzaW9uKCdmbXc6dXBkYXRlJywge2N1cnJVc2VySWQ6IHJlcS5hdXRoVG9rZW5EYXRhLnVzZXJJZH0pKSB7CiAgICByZXR1cm4gaGVscGVycy5yZXF1ZXN0LmZpbmlzaChyZXEsIHJlcywgewogICAgICBlcnJvcjogbmV3IEFwcEVycm9yLk5vdEFsbG93ZWQoKSwKICAgIH0pOwogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0cy5hZGRGdW5jdGlvbiA9IGFzeW5jIChyZXEsIHJlcykgPT4gewogIGxldCBjcmVhdGVSZXN1bHQgPSAoYXdhaXQgcHJvZHVjdFNlcnZpY2UuY3JlYXRlRnVuY3Rpb25JdGVtKHJlcS5ib2R5LnByb2R1Y3RJZCwgcmVxLmJvZHkucHJvZHVjdEZ1bmN0aW9uRmllbGRzLCByZXEuYm9keS5pc01lZGljYWwpKSAvLyBnZXQgcHJvZHVjdCB3aXRoIHJlc29sdmVkIGpvaW5zCgo=</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEyMykK</text>
+        <text encoding="base64">ICAgIHN1Y2Nlc3M6IGRlbGV0ZVJlc3VsdCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ld0l0ZW0pCg==</text>
+        <text encoding="base64">ICByZXR1cm4gaGVscGVycy5yZXF1ZXN0LmZpbmlzaChyZXEsIHJlcywgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEuYm9keSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
