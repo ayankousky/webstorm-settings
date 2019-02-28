@@ -983,11 +983,11 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/package.json" timestamp="1551380368681">
-        <mark key="[" line="46" column="23" />
-        <mark key="]" line="46" column="21" />
-        <mark key="." line="46" column="21" />
-        <mark key="^" line="46" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/package.json" timestamp="1551386473026">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="45" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/main_db_worker/app.js" timestamp="1545778438020">
         <mark key="[" line="0" column="13" />
@@ -1185,10 +1185,8 @@
       <jump line="774" column="53" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>.2
-.2
-.2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJzaGFycCI6ICJeMC4yMS4zIiwK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1223,46 +1221,46 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLy8gKioqKioqKioqKioqKioqIEJFIENBUkVGVUwuIGluZmluaXR5IGxvb3Agd2FybmluZy4gTWV0YWRhdGEucmVzaXplZCBzaG91bGQgYmUgc2V0ICoqKioqKioqKioqKgo=</text>
       </register>
-      <register name="1" type="8">
-        <text>.2
-.2
-.2</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJzaGFycCI6ICJeMC4yMS4zIiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="8">
+        <text>.2
+.2
+.2</text>
+      </register>
+      <register name="3" type="8">
         <text>11
 11
 11</text>
-      </register>
-      <register name="3" type="8">
-        <text>8.11.2
-8.11.2
-8.11.2</text>
       </register>
       <register name="4" type="8">
         <text>8.11.2
 8.11.2
 8.11.2</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1ldGFkYXRhKQo=</text>
+      <register name="5" type="8">
+        <text>8.11.2
+8.11.2
+8.11.2</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbWcgbWV0YWRhdGEnKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1ldGFkYXRhKQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJzaGFycCI6ICJeMC4xNy4zIgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbWcgbWV0YWRhdGEnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1ldGFkYXRhLndpZHRoKQo=</text>
+        <text encoding="base64">ICAgICJzaGFycCI6ICJeMC4xNy4zIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtZXRhZGF0YScpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1ldGFkYXRhLndpZHRoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
