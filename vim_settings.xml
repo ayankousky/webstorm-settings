@@ -427,7 +427,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551381920864">
+      <file name="/Dummy.txt" timestamp="1551384409678">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1551209508351">
@@ -669,6 +669,12 @@
         <mark key="]" line="17" column="30" />
         <mark key="." line="17" column="30" />
         <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nodejs_install_8.sh" timestamp="1551385166575">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="21" column="30" />
+        <mark key="." line="21" column="30" />
+        <mark key="^" line="21" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1551372965300">
         <mark key="[" line="112" column="25" />
@@ -1180,9 +1186,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="8">
-        <text>8.11.2
-8.11.2
-8.11.2</text>
+        <text>.2
+.2
+.2</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1218,39 +1224,45 @@
         <text encoding="base64">ICAgICAgLy8gKioqKioqKioqKioqKioqIEJFIENBUkVGVUwuIGluZmluaXR5IGxvb3Agd2FybmluZy4gTWV0YWRhdGEucmVzaXplZCBzaG91bGQgYmUgc2V0ICoqKioqKioqKioqKgo=</text>
       </register>
       <register name="1" type="8">
-        <text>8.11.2
-8.11.2
-8.11.2</text>
+        <text>.2
+.2
+.2</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1ldGFkYXRhKQo=</text>
+      <register name="2" type="8">
+        <text>11
+11
+11</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbWcgbWV0YWRhdGEnKQo=</text>
+      <register name="3" type="8">
+        <text>8.11.2
+8.11.2
+8.11.2</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJzaGFycCI6ICJeMC4xNy4zIgo=</text>
+      <register name="4" type="8">
+        <text>8.11.2
+8.11.2
+8.11.2</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1ldGFkYXRhLndpZHRoKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1ldGFkYXRhKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtZXRhZGF0YScpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbWcgbWV0YWRhdGEnKQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChtZXRhZGF0YS53aSkK</text>
+        <text encoding="base64">ICAgICJzaGFycCI6ICJeMC4xNy4zIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnR28gYW5kIHJlc2l6ZScpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1ldGFkYXRhLndpZHRoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHRCdWZmZXIpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtZXRhZGF0YScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
