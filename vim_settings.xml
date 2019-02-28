@@ -465,12 +465,12 @@
         <mark key="." line="6" column="50" />
         <mark key="^" line="6" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/image.js" timestamp="1551366402817">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/image.js" timestamp="1551376761000">
         <mark key="'" line="13" column="28" />
-        <mark key="[" line="5" column="85" />
-        <mark key="]" line="5" column="85" />
-        <mark key="^" line="5" column="85" />
-        <mark key="." line="5" column="85" />
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="68" />
+        <mark key="." line="5" column="44" />
       </file>
       <file name="/Dummy.txt" timestamp="1551362354858">
         <mark key="[" line="0" column="0" />
@@ -619,10 +619,11 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1551374588905">
-        <mark key="[" line="964" column="0" />
-        <mark key="]" line="964" column="0" />
-        <mark key="." line="964" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1551376620228">
+        <mark key="[" line="913" column="31" />
+        <mark key="]" line="913" column="31" />
+        <mark key="." line="913" column="31" />
+        <mark key="^" line="913" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/storage_providers/VulcamStorage.js" timestamp="1542958228869">
         <mark key="[" line="46" column="15" />
@@ -1233,7 +1234,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{id: '500101'}</text>
+        <text encoding="base64">aGVpZ2h0ID0gNjQwLCA=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1248,7 +1249,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{id: '500101'}</text>
+        <text encoding="base64">aGVpZ2h0ID0gNjQwLCA=</text>
       </register>
       <register name="m" type="4">
         <keys>
