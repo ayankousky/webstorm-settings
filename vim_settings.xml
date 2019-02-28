@@ -123,7 +123,7 @@
         <mark key="^" line="124" column="112" />
         <mark key="." line="124" column="112" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1551364210046" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1551372937435" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/firmwares.js" timestamp="1550520397842">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -315,11 +315,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" timestamp="1550813146291">
-        <mark key="[" line="37" column="22" />
-        <mark key="]" line="37" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" timestamp="1551373185688">
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="40" column="30" />
         <mark key="^" line="37" column="22" />
-        <mark key="." line="37" column="22" />
+        <mark key="." line="40" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/user.js" timestamp="1549782536158">
         <mark key="[" line="11" column="7" />
@@ -615,7 +615,7 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1551366501193">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1551372900767">
         <mark key="[" line="908" column="127" />
         <mark key="]" line="908" column="127" />
         <mark key="^" line="908" column="127" />
@@ -710,6 +710,12 @@
         <mark key="]" line="17" column="30" />
         <mark key="." line="17" column="30" />
         <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1551372965300">
+        <mark key="[" line="112" column="25" />
+        <mark key="]" line="112" column="31" />
+        <mark key="." line="112" column="31" />
+        <mark key="^" line="112" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/organizations.js" timestamp="1550586050009">
         <mark key="[" line="16" column="0" />
@@ -1213,8 +1219,8 @@
       <jump line="46" column="28" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/image.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>yahoo</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1229,7 +1235,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'jpg'</text>
+        <text>yahoo</text>
       </register>
       <register name="m" type="4">
         <keys>
