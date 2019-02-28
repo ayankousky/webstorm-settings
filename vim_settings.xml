@@ -135,6 +135,11 @@
         <mark key="." line="11" column="41" />
         <mark key="^" line="11" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.local.yml" timestamp="1551005684730">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/firmwares.js" timestamp="1551034036990">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="82" />
@@ -379,11 +384,10 @@
         <mark key="." line="59" column="96" />
         <mark key="^" line="59" column="96" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1551342279093">
-        <mark key="[" line="582" column="34" />
-        <mark key="]" line="582" column="34" />
-        <mark key="^" line="606" column="21" />
-        <mark key="." line="582" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1551375161186">
+        <mark key="[" line="582" column="37" />
+        <mark key="]" line="582" column="37" />
+        <mark key="." line="582" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/portal_client/package.json" timestamp="1545780595506">
         <mark key="[" line="1" column="11" />
@@ -615,11 +619,10 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1551372900767">
-        <mark key="[" line="908" column="127" />
-        <mark key="]" line="908" column="127" />
-        <mark key="^" line="908" column="127" />
-        <mark key="." line="908" column="127" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1551374588905">
+        <mark key="[" line="964" column="0" />
+        <mark key="]" line="964" column="0" />
+        <mark key="." line="964" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/storage_providers/VulcamStorage.js" timestamp="1542958228869">
         <mark key="[" line="46" column="15" />
@@ -704,6 +707,11 @@
         <mark key="]" line="100" column="43" />
         <mark key="." line="100" column="43" />
         <mark key="^" line="100" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/pFuncItem.js" timestamp="1551039051734">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/redis.js" timestamp="1548942604273">
         <mark key="[" line="17" column="29" />
@@ -807,6 +815,11 @@
         <mark key="]" line="14" column="26" />
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.dev.yml" timestamp="1551003788351">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/userService.js" timestamp="1550470926945">
         <mark key="[" line="210" column="51" />
@@ -1220,7 +1233,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>yahoo</text>
+        <text>{id: '500101'}</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1235,7 +1248,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>yahoo</text>
+        <text>{id: '500101'}</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1253,40 +1266,40 @@
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2cocHV0UmVzdWx0KQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2l6ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2hhbm5lbFN0YXRzKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAvLyAudGhlbihidWZmZXIgPT4gUzMucHV0T2JqZWN0KHsKICAgIC8vICAgICBCb2R5OiBidWZmZXIsCiAgICAvLyAgICAgQnVja2V0OiBCVUNLRVQsCiAgICAvLyAgICAgQ29udGVudFR5cGU6ICdpbWFnZS9wbmcnLAogICAgLy8gICAgIEtleToga2V5LAogICAgLy8gICB9KS5wcm9taXNlKCk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyByZXN1bHQuQm9keQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjaGFubmVsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBTMy5nZXRPYmplY3Qoe0J1Y2tldDogQlVDS0VULCBLZXk6IG9yaWdpbmFsS2V5fSkucHJvbWlzZSgpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG90YWxDaGFubmVsc1NpemUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG90YWxDaGFubmVsc1NpemUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG90YWxDaGFubmVsc1NpemUpCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBvcmlnaW5hbEtleSA9IG1hdGNoWzRdOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG90YWxDaGFubmVsc1NpemUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBoZWlnaHQgPSBwYXJzZUludChtYXRjaFszXSwgMTApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCB3aWR0aCA9IHBhcnNlSW50KG1hdGNoWzJdLCAxMCk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAvLyAudGhlbihidWZmZXIgPT4gUzMucHV0T2JqZWN0KHsKICAgIC8vICAgICBCb2R5OiBidWZmZXIsCiAgICAvLyAgICAgQnVja2V0OiBCVUNLRVQsCiAgICAvLyAgICAgQ29udGVudFR5cGU6ICdpbWFnZS9wbmcnLAogICAgLy8gICAgIEtleToga2V5LAogICAgLy8gICB9KS5wcm9taXNlKCk=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
