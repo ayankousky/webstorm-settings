@@ -374,7 +374,12 @@
         <mark key="." line="59" column="96" />
         <mark key="^" line="59" column="96" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1551298784598" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1551342279093">
+        <mark key="[" line="582" column="34" />
+        <mark key="]" line="582" column="34" />
+        <mark key="^" line="606" column="21" />
+        <mark key="." line="582" column="34" />
+      </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/portal_client/package.json" timestamp="1545780595506">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="23" />
@@ -451,7 +456,7 @@
         <mark key="." line="6" column="50" />
         <mark key="^" line="6" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551210837841">
+      <file name="/Dummy.txt" timestamp="1551341866419">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1551209508351">
@@ -597,6 +602,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="3" column="20" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1551342977602">
+        <mark key="[" line="599" column="0" />
+        <mark key="]" line="599" column="0" />
+        <mark key="." line="599" column="0" />
+        <mark key="^" line="584" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/storage_providers/VulcamStorage.js" timestamp="1542958228869">
         <mark key="[" line="46" column="15" />
@@ -1171,7 +1182,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZSgpIC0gZCkK</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coYHByaXZhdGVEYXRhOiAke3ByaXZhdGVEYXRhLm9jY3VwaWVkU2l6ZX1gKQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1186,7 +1197,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IDogdW5kZWZpbmVkOw==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1207,37 +1218,45 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZSgpIC0gZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZSgpIC0gZCkK</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coYHByaXZhdGVEYXRhOiAke3ByaXZhdGVEYXRhLm9jY3VwaWVkU2l6ZX1gKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZSgpIC0gZCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYHRvdGFsQ2hhbm5lbHNTaXplOiAke3RvdGFsQ2hhbm5lbHNTaXplfWApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZSgpIC0gZCkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnMTIzMTIzMScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZSgpIC0gZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnX19fX19fX19fX19fX19fX19fX19fJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQgZCA9IG5ldyBEYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGF3YWl0IHUuc2F2ZSgpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZSgpIC0gZCkK</text>
+      <register name="7" type="4">
+        <text>if (u.picture) {
+      let userPicture = u.picture;
+      u.picture       = userPicture + 'abc';
+      await u.save();
+      u.picture = userPicture;
+      await u.save();
+    }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKCkgLSBkKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV3IERhdGUoKSAtIGQpCg==</text>
+      <register name="9" type="4">
+        <text>{
+    
+  }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
