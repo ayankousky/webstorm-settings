@@ -131,10 +131,11 @@
         <mark key="." line="11" column="41" />
         <mark key="^" line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.local.yml" timestamp="1551005684730">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.prod-config.yml" timestamp="1551810380936">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/hardwares.js" timestamp="1549659126338">
         <mark key="[" line="37" column="52" />
@@ -337,11 +338,6 @@
         <mark key="." line="59" column="96" />
         <mark key="^" line="59" column="96" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1551375161186">
-        <mark key="[" line="582" column="37" />
-        <mark key="]" line="582" column="37" />
-        <mark key="." line="582" column="37" />
-      </file>
       <file name="$USER_HOME$/Desktop/PYOUR_base/portal_client/package.json" timestamp="1545780595506">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="23" />
@@ -354,7 +350,12 @@
         <mark key="^" line="37" column="54" />
         <mark key="." line="37" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1550930721900" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1551810350519">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1551389443611">
         <mark key="'" line="775" column="53" />
         <mark key="[" line="601" column="0" />
@@ -398,6 +399,12 @@
         <mark key="." line="76" column="53" />
         <mark key="^" line="76" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1551810376471">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/scripts/users_addCoulumn_roleId.sql" timestamp="1548228938667">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="1" column="3" />
@@ -416,6 +423,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.test.yml" timestamp="1551810384663">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1551387395415">
         <mark key="[" line="0" column="0" />
@@ -639,11 +652,6 @@
         <mark key="." line="100" column="43" />
         <mark key="^" line="100" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/pFuncItem.js" timestamp="1551039051734">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/redis.js" timestamp="1548942604273">
         <mark key="[" line="17" column="29" />
         <mark key="]" line="17" column="30" />
@@ -752,11 +760,6 @@
         <mark key="]" line="14" column="26" />
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.dev.yml" timestamp="1551003788351">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/userService.js" timestamp="1550470926945">
         <mark key="[" line="210" column="51" />
@@ -1168,7 +1171,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJzaGFycCI6ICJeMC4yMS4zIiwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1204,45 +1207,45 @@
         <text encoding="base64">ICAgICAgLy8gKioqKioqKioqKioqKioqIEJFIENBUkVGVUwuIGluZmluaXR5IGxvb3Agd2FybmluZy4gTWV0YWRhdGEucmVzaXplZCBzaG91bGQgYmUgc2V0ICoqKioqKioqKioqKgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzaGFycCI6ICJeMC4yMS4zIiwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIEtleSAgICAgICAgOiBzM2tleSArICcubGFyZ2UnLAo=</text>
+        <text encoding="base64">ICAgICJzaGFycCI6ICJeMC4yMS4zIiwK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIC8vIEtleSAgICAgICAgOiBzM2tleSArICcubGFyZ2UnLAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIEtleSAgICAgICAgOiBzM2tleSArICcubGFyZ2UnLAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICJzaGFycCI6ICJeMC4yMS4zIiwK</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>.2
 .2
 .2</text>
-      </register>
-      <register name="6" type="8">
-        <text>11
-11
-11</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="8">
-        <text>8.11.2
-8.11.2
-8.11.2</text>
+        <text>11
+11
+11</text>
       </register>
       <register name="8" type="8">
         <text>8.11.2
 8.11.2
 8.11.2</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1ldGFkYXRhKQo=</text>
+      <register name="9" type="8">
+        <text>8.11.2
+8.11.2
+8.11.2</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
