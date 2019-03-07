@@ -180,6 +180,12 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/mock/index.js" timestamp="1551943208897">
+        <mark key="[" line="4" column="67" />
+        <mark key="]" line="4" column="66" />
+        <mark key="^" line="4" column="66" />
+        <mark key="." line="4" column="66" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_types/BaseSubscription.js" timestamp="1541366268031">
         <mark key="[" line="55" column="40" />
         <mark key="]" line="55" column="60" />
@@ -197,6 +203,13 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1551943372636">
+        <mark key="'" line="1258" column="46" />
+        <mark key="[" line="3699" column="27" />
+        <mark key="]" line="3699" column="28" />
+        <mark key="." line="3699" column="28" />
+        <mark key="^" line="1855" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/options.js" timestamp="1549661711110">
         <mark key="[" line="13" column="28" />
@@ -394,6 +407,13 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="58" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/users/user_api.js" timestamp="1551943332788">
+        <mark key="'" line="205" column="14" />
+        <mark key="[" line="453" column="85" />
+        <mark key="]" line="453" column="119" />
+        <mark key="." line="453" column="119" />
+        <mark key="^" line="453" column="119" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1551891974064">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="12" />
@@ -430,6 +450,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/channel_video.js" timestamp="1551943307026">
+        <mark key="[" line="340" column="111" />
+        <mark key="]" line="340" column="119" />
+        <mark key="." line="340" column="119" />
+        <mark key="^" line="340" column="119" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/scripts/users_addCoulumn_roleId.sql" timestamp="1548228938667">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="1" column="3" />
@@ -455,7 +481,7 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551937879483">
+      <file name="/Dummy.txt" timestamp="1551943362250">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1551209508351">
@@ -1093,9 +1119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/domain.js" />
-      <jump line="247" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/domain.js" />
-      <jump line="54" column="23" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/campaign.js" />
       <jump line="156" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/campaign.js" />
       <jump line="226" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/campaign.js" />
       <jump line="223" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/campaign.js" />
@@ -1193,10 +1216,13 @@
       <jump line="70" column="6" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/product.js" />
       <jump line="46" column="28" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/image.js" />
       <jump line="774" column="53" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
+      <jump line="747" column="38" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
+      <jump line="1258" column="46" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
+      <jump line="205" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/users/user_api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7bW9kZWw6IGRiLmhhcmR3YXJlLCBhczogJ2hhcmR3YXJlJ30sCg==</text>
+      <register name="&quot;" type="4">
+        <text>110000</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1211,7 +1237,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>email, firstName, lastName, country, password, userName</text>
+        <text>110000</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1229,7 +1255,7 @@
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7bW9kZWw6IGRiLmhhcmR3YXJlLCBhczogJ2hhcmR3YXJlJ30sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAocmVxUmVzdWx0LmhlYWRlcnNbJ2NvbnRlbnQtbGVuZ3RoJ10gLSAwKS5zaG91bGQuYmUuZ3JlYXRlclRoYW4oMTEwMDAwKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB7bW9kZWw6IGRiLmZpcm13YXJlLCBhczogJ2Zpcm13YXJlJ30sCg==</text>
