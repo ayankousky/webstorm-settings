@@ -204,12 +204,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1551943372636">
-        <mark key="'" line="1258" column="46" />
-        <mark key="[" line="3699" column="27" />
-        <mark key="]" line="3699" column="28" />
-        <mark key="." line="3699" column="28" />
-        <mark key="^" line="1855" column="63" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1551944414669">
+        <mark key="'" line="1260" column="93" />
+        <mark key="[" line="1860" column="80" />
+        <mark key="]" line="1860" column="93" />
+        <mark key="." line="1860" column="93" />
+        <mark key="^" line="1860" column="93" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/options.js" timestamp="1549661711110">
         <mark key="[" line="13" column="28" />
@@ -1119,8 +1119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/campaign.js" />
-      <jump line="226" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/campaign.js" />
       <jump line="223" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/campaign.js" />
       <jump line="222" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/campaign.js" />
       <jump line="88" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/campaign.js" />
@@ -1219,10 +1217,12 @@
       <jump line="747" column="38" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="1258" column="46" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
       <jump line="205" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/users/user_api.js" />
+      <jump line="3699" column="27" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
+      <jump line="1260" column="93" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>110000</text>
+        <text>mocks.user.getLoginFields('main').email</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1237,7 +1237,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>110000</text>
+        <text>mocks.user.getLoginFields('main').email</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1255,7 +1255,7 @@
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAocmVxUmVzdWx0LmhlYWRlcnNbJ2NvbnRlbnQtbGVuZ3RoJ10gLSAwKS5zaG91bGQuYmUuZ3JlYXRlclRoYW4oMTEwMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmJvZHkubmV3U2hhcmluZ3NbMF0uZnJvbUVtYWlsLnNob3VsZC5iZS5lcShtb2Nrcy51c2VyLmdldExvZ2luRmllbGRzKCdtYWluJykuZW1haWwpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB7bW9kZWw6IGRiLmZpcm13YXJlLCBhczogJ2Zpcm13YXJlJ30sCg==</text>
