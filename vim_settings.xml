@@ -274,11 +274,11 @@
         <mark key="^" line="38" column="27" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1552217731067">
-        <mark key="[" line="226" column="9" />
-        <mark key="]" line="226" column="8" />
-        <mark key="^" line="226" column="8" />
-        <mark key="." line="226" column="8" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1552218060477">
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="197" column="19" />
+        <mark key="." line="197" column="19" />
+        <mark key="^" line="197" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/swagger/index.js" timestamp="1544744697422">
         <mark key="[" line="18" column="0" />
@@ -1243,8 +1243,8 @@
       <jump line="155" column="191" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1259,7 +1259,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>{ model: db.deviceLicense, as: 'deviceLicenses'}</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1280,22 +1280,26 @@
         <text encoding="base64">ICAgICAgICB7IG1vZGVsOiBkYi51c2VyLCBhczogJ21lZGljYWxQcm92aWRlcid9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgbGV0IHRhcmdldDsKICBpZiAocmVxLnBhcmFtcyAmJiByZXEucGFyYW1zLmlkKSB7CiAgICB0YXJnZXQgPSB7IGlkOiByZXEucGFyYW1zLmlkIH07CiAgfSBlbHNlIHsKICAgIHJldHVybiByZXMuc3RhdHVzKDUwMCkuanNvbih7IG1lc3NhZ2U6ICdTb21ldGhpbmcgd2VudCB3cm9uZyB3aGlsZSBnZXQgdGhlIHVzZXIgYnkgaWQnIH0pOwogIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>{
+        model: db.role, as: 'roles', include: {
+          model: db.rolePermission, as: 'permissions',
+        }
+      },</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgbGV0IHRhcmdldDsKICBpZiAocmVxLnBhcmFtcyAmJiByZXEucGFyYW1zLmlkKSB7CiAgICB0YXJnZXQgPSB7IGlkOiByZXEucGFyYW1zLmlkIH07CiAgfSBlbHNlIHsKICAgIHJldHVybiByZXMuc3RhdHVzKDUwMCkuanNvbih7IG1lc3NhZ2U6ICdTb21ldGhpbmcgd2VudCB3cm9uZyB3aGlsZSBnZXQgdGhlIHVzZXIgYnkgaWQnIH0pOwogIH0=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1307,10 +1311,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IAogICAgLnRoZW4oKHVzZXIpID0+IHsKICAgICAgY29uc29sZS5sb2cobmV3IERhdGUoKSkKICAgIH0pCiAgICAuY2F0Y2goZXJyID0+IHsKICAgICAgY29uc29sZS5sb2coJ1RoZXJlIHdhcyBhbiBlcnJvciB3aGlsZSBnZXQgdXNlciBieSBpZCcsIGVyci50b1N0cmluZygpKTsKCiAgICAgIHJlcy5zdGF0dXMoNTAwKS5qc29uKHsgbWVzc2FnZTogJ1RoZXJlIHdhcyBhbiBlcnJvciB3aGlsZSBnZXQgdXNlciBieSBpZCcgfSk7CiAgICB9KTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
