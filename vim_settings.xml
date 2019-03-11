@@ -16,6 +16,7 @@
         <mark key="." line="25" column="31" />
         <mark key="^" line="25" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.local.yml" timestamp="1552336026102" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" timestamp="1552237218397">
         <mark key="'" line="116" column="0" />
         <mark key="[" line="115" column="59" />
@@ -28,6 +29,11 @@
         <mark key="[" line="186" column="0" />
         <mark key="]" line="186" column="0" />
         <mark key="." line="186" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/productService.js" timestamp="1552232426963">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/product.js" timestamp="1552232331070">
         <mark key="[" line="168" column="0" />
@@ -46,6 +52,11 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/devices.js" timestamp="1552214165893">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/controllers/v0/users.js" timestamp="1552239655732">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -58,6 +69,12 @@
         <mark key="." line="176" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/products.js" timestamp="1552232921726" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1552336017116">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
       <file name="/Dummy.txt" timestamp="1552238944036">
         <mark key="[" line="0" column="0" />
       </file>
@@ -72,6 +89,12 @@
         <mark key="]" line="42" column="20" />
         <mark key="." line="42" column="20" />
         <mark key="^" line="42" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/server/conf.local.nginx" timestamp="1552336858601">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="203" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="99" column="200" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1552235280509">
         <mark key="[" line="162" column="51" />
@@ -107,6 +130,11 @@
         <mark key="^" line="25" column="143" />
         <mark key="." line="25" column="143" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/server/conf.dev.nginx" timestamp="1552336882932">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1552237703887">
         <mark key="[" line="398" column="58" />
         <mark key="]" line="398" column="55" />
@@ -118,6 +146,11 @@
         <mark key="]" line="80" column="0" />
         <mark key="^" line="73" column="29" />
         <mark key="." line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/environments/environment.ts" timestamp="1552336167694">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/helpers/request/index.js" timestamp="1552233300465" />
     </filemarks>
@@ -225,7 +258,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgICAgYWRkX2hlYWRlciBBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzICdPcmlnaW4sIEFjY2VwdCwgUmFuZ2UsIFgtUmVxdWVzdGVkLVdpdGgsIENvbnRlbnQtVHlwZSwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1NZXRob2QsIEFjY2Vzcy1Db250cm9sLVJlcXVlc3QtSGVhZGVycywgQ29udGVudC1kaXNwb3NpdGlvbic7Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -240,7 +273,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0ge30=</text>
+        <text>Origin, Accept, Range, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, Content-disposition</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -258,43 +291,40 @@
         <text>req</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQgdXNlciA9IGF3YWl0IFVzZXIuZ2V0QnlJZChyZXEuYXV0aFRva2VuRGF0YS51c2VySWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhZGRfaGVhZGVyIEFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMgJ09yaWdpbiwgQWNjZXB0LCBSYW5nZSwgWC1SZXF1ZXN0ZWQtV2l0aCwgQ29udGVudC1UeXBlLCBBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LU1ldGhvZCwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1IZWFkZXJzLCBDb250ZW50LWRpc3Bvc2l0aW9uLCBhdXRob3JpemF0aW9uJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgICAgYWRkX2hlYWRlciBBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzICdPcmlnaW4sIEFjY2VwdCwgUmFuZ2UsIFgtUmVxdWVzdGVkLVdpdGgsIENvbnRlbnQtVHlwZSwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1NZXRob2QsIEFjY2Vzcy1Db250cm9sLVJlcXVlc3QtSGVhZGVycywgQ29udGVudC1kaXNwb3NpdGlvbic7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICBhZGRfaGVhZGVyIEFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMgJ09yaWdpbiwgQWNjZXB0LCBSYW5nZSwgWC1SZXF1ZXN0ZWQtV2l0aCwgQ29udGVudC1UeXBlLCBBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LU1ldGhvZCwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1IZWFkZXJzLCBDb250ZW50LWRpc3Bvc2l0aW9uJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICBhZGRfaGVhZGVyIEFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMgJ09yaWdpbiwgQWNjZXB0LCBSYW5nZSwgWC1SZXF1ZXN0ZWQtV2l0aCwgQ29udGVudC1UeXBlLCBBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LU1ldGhvZCwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1IZWFkZXJzLCBDb250ZW50LWRpc3Bvc2l0aW9uJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKCkpCg==</text>
+        <text encoding="base64">IyAgICAgICAgYWRkX2hlYWRlciBBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzICdPcmlnaW4sIEFjY2VwdCwgUmFuZ2UsIFgtUmVxdWVzdGVkLVdpdGgsIENvbnRlbnQtVHlwZSwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1NZXRob2QsIEFjY2Vzcy1Db250cm9sLVJlcXVlc3QtSGVhZGVycywgQ29udGVudC1kaXNwb3NpdGlvbic7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1cmkpCg==</text>
+        <text encoding="base64">IyAgICAgICAgYWRkX2hlYWRlciBBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzICdPcmlnaW4sIEFjY2VwdCwgUmFuZ2UsIFgtUmVxdWVzdGVkLVdpdGgsIENvbnRlbnQtVHlwZSwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1NZXRob2QsIEFjY2Vzcy1Db250cm9sLVJlcXVlc3QtSGVhZGVycywgQ29udGVudC1kaXNwb3NpdGlvbic7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhyZXEuYXV0aFRva2VuRGF0YS51c2VySWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRfaGVhZGVyIEFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMgJ09yaWdpbiwgQWNjZXB0LCBSYW5nZSwgWC1SZXF1ZXN0ZWQtV2l0aCwgQ29udGVudC1UeXBlLCBBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LU1ldGhvZCwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1IZWFkZXJzLCBDb250ZW50LWRpc3Bvc2l0aW9uJzsK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBsZXQgdXNlciA9IGF3YWl0IFVzZXIuZ2V0QnlJZChyZXEuYXV0aFRva2VuRGF0YS51c2VySWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5UGFyYW1zT2JqLmV4Y2x1ZGUgPSBvcHRzLmV4Y2x1ZGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>opts.
-opts.
-opts.
-opts.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
