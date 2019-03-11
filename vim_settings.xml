@@ -69,6 +69,12 @@
         <mark key="." line="176" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/products.js" timestamp="1552232921726" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" timestamp="1552337992095">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="63" column="1" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1552336017116">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="12" />
@@ -78,8 +84,8 @@
       <file name="/Dummy.txt" timestamp="1552238944036">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1552238057985">
-        <mark key="'" line="155" column="191" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1552337019799">
+        <mark key="'" line="155" column="39" />
         <mark key="[" line="160" column="0" />
         <mark key="]" line="160" column="0" />
         <mark key="." line="160" column="0" />
@@ -250,15 +256,15 @@
       <jump line="166" column="208" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
       <jump line="165" column="206" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
       <jump line="164" column="191" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
-      <jump line="155" column="191" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
       <jump line="2" column="19" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" />
       <jump line="160" column="15" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/users.js" />
       <jump line="116" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" />
+      <jump line="155" column="39" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICAgICAgYWRkX2hlYWRlciBBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzICdPcmlnaW4sIEFjY2VwdCwgUmFuZ2UsIFgtUmVxdWVzdGVkLVdpdGgsIENvbnRlbnQtVHlwZSwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1NZXRob2QsIEFjY2Vzcy1Db250cm9sLVJlcXVlc3QtSGVhZGVycywgQ29udGVudC1kaXNwb3NpdGlvbic7Cg==</text>
+        <text encoding="base64">ICAvLyBsZXQgZW1haWxIdG1sID0gYDxwPlRvIGVtYWlsIHZlcmlmaWNhdGlvbiBjbGljayBoZXJlICR7dmVyaWZpY2F0aW9uVXJsfTwvcD5gOwo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -273,7 +279,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Origin, Accept, Range, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, Content-disposition</text>
+        <text>newUser</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -288,52 +294,52 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>req</text>
+        <text>ema</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRfaGVhZGVyIEFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMgJ09yaWdpbiwgQWNjZXB0LCBSYW5nZSwgWC1SZXF1ZXN0ZWQtV2l0aCwgQ29udGVudC1UeXBlLCBBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LU1ldGhvZCwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1IZWFkZXJzLCBDb250ZW50LWRpc3Bvc2l0aW9uLCBhdXRob3JpemF0aW9uJzsK</text>
+        <text encoding="base64">ICBsZXQgZW1haWxIdG1sID0gYDxwPlRvIGVtYWlsIHZlcmlmaWNhdGlvbiBjbGljayBoZXJlICR7dmVyaWZpY2F0aW9uVXJsfTwvcD5gOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgICAgYWRkX2hlYWRlciBBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzICdPcmlnaW4sIEFjY2VwdCwgUmFuZ2UsIFgtUmVxdWVzdGVkLVdpdGgsIENvbnRlbnQtVHlwZSwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1NZXRob2QsIEFjY2Vzcy1Db250cm9sLVJlcXVlc3QtSGVhZGVycywgQ29udGVudC1kaXNwb3NpdGlvbic7Cg==</text>
+        <text encoding="base64">ICAvLyBsZXQgZW1haWxIdG1sID0gYDxwPlRvIGVtYWlsIHZlcmlmaWNhdGlvbiBjbGljayBoZXJlICR7dmVyaWZpY2F0aW9uVXJsfTwvcD5gOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAgICBhZGRfaGVhZGVyIEFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMgJ09yaWdpbiwgQWNjZXB0LCBSYW5nZSwgWC1SZXF1ZXN0ZWQtV2l0aCwgQ29udGVudC1UeXBlLCBBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LU1ldGhvZCwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1IZWFkZXJzLCBDb250ZW50LWRpc3Bvc2l0aW9uJzsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXdVc2VyLmZpcnN0TmFtZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAgICBhZGRfaGVhZGVyIEFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMgJ09yaWdpbiwgQWNjZXB0LCBSYW5nZSwgWC1SZXF1ZXN0ZWQtV2l0aCwgQ29udGVudC1UeXBlLCBBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LU1ldGhvZCwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1IZWFkZXJzLCBDb250ZW50LWRpc3Bvc2l0aW9uJzsK</text>
+        <text encoding="base64">IyAgICAgICAgYWRkX2hlYWRlciBBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzICdPcmlnaW4sIEFjY2VwdCwgUmFuZ2UsIFgtUmVxdWVzdGVkLVdpdGgsIENvbnRlbnQtVHlwZSwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1NZXRob2QsIEFjY2Vzcy1Db250cm9sLVJlcXVlc3QtSGVhZGVycywgQ29udGVudC1kaXNwb3NpdGlvbic7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAgICAgYWRkX2hlYWRlciBBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzICdPcmlnaW4sIEFjY2VwdCwgUmFuZ2UsIFgtUmVxdWVzdGVkLVdpdGgsIENvbnRlbnQtVHlwZSwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1NZXRob2QsIEFjY2Vzcy1Db250cm9sLVJlcXVlc3QtSGVhZGVycywgQ29udGVudC1kaXNwb3NpdGlvbic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICBhZGRfaGVhZGVyIEFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMgJ09yaWdpbiwgQWNjZXB0LCBSYW5nZSwgWC1SZXF1ZXN0ZWQtV2l0aCwgQ29udGVudC1UeXBlLCBBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LU1ldGhvZCwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1IZWFkZXJzLCBDb250ZW50LWRpc3Bvc2l0aW9uJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICAgICAgYWRkX2hlYWRlciBBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzICdPcmlnaW4sIEFjY2VwdCwgUmFuZ2UsIFgtUmVxdWVzdGVkLVdpdGgsIENvbnRlbnQtVHlwZSwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1NZXRob2QsIEFjY2Vzcy1Db250cm9sLVJlcXVlc3QtSGVhZGVycywgQ29udGVudC1kaXNwb3NpdGlvbic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAgICBhZGRfaGVhZGVyIEFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMgJ09yaWdpbiwgQWNjZXB0LCBSYW5nZSwgWC1SZXF1ZXN0ZWQtV2l0aCwgQ29udGVudC1UeXBlLCBBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LU1ldGhvZCwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1IZWFkZXJzLCBDb250ZW50LWRpc3Bvc2l0aW9uJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRfaGVhZGVyIEFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMgJ09yaWdpbiwgQWNjZXB0LCBSYW5nZSwgWC1SZXF1ZXN0ZWQtV2l0aCwgQ29udGVudC1UeXBlLCBBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LU1ldGhvZCwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1IZWFkZXJzLCBDb250ZW50LWRpc3Bvc2l0aW9uJzsK</text>
+        <text encoding="base64">IyAgICAgICAgYWRkX2hlYWRlciBBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzICdPcmlnaW4sIEFjY2VwdCwgUmFuZ2UsIFgtUmVxdWVzdGVkLVdpdGgsIENvbnRlbnQtVHlwZSwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1NZXRob2QsIEFjY2Vzcy1Db250cm9sLVJlcXVlc3QtSGVhZGVycywgQ29udGVudC1kaXNwb3NpdGlvbic7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgICAgYWRkX2hlYWRlciBBY2Nlc3MtQ29udHJvbC1BbGxvdy1IZWFkZXJzICdPcmlnaW4sIEFjY2VwdCwgUmFuZ2UsIFgtUmVxdWVzdGVkLVdpdGgsIENvbnRlbnQtVHlwZSwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1NZXRob2QsIEFjY2Vzcy1Db250cm9sLVJlcXVlc3QtSGVhZGVycywgQ29udGVudC1kaXNwb3NpdGlvbic7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRfaGVhZGVyIEFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMgJ09yaWdpbiwgQWNjZXB0LCBSYW5nZSwgWC1SZXF1ZXN0ZWQtV2l0aCwgQ29udGVudC1UeXBlLCBBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LU1ldGhvZCwgQWNjZXNzLUNvbnRyb2wtUmVxdWVzdC1IZWFkZXJzLCBDb250ZW50LWRpc3Bvc2l0aW9uJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ldyBEYXRlKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>req</last-search>
+      <last-search>ema</last-search>
       <last-offset />
-      <last-pattern>req</last-pattern>
+      <last-pattern>ema</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>email</last-substitute>
       <last-dir>1</last-dir>
@@ -359,8 +365,8 @@
         <entry>async</entry>
         <entry>email</entry>
         <entry>mariu</entry>
-        <entry>ema</entry>
         <entry>req</entry>
+        <entry>ema</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
