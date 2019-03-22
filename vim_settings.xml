@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1553266085421" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/index.js" timestamp="1552232191569">
         <mark key="[" line="24" column="37" />
         <mark key="]" line="25" column="31" />
@@ -31,6 +32,13 @@
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1553148285334" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/server/Dockerfile" timestamp="1553265907276">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/server/conf.local.nginx" timestamp="1552336858601">
         <mark key="[" line="55" column="0" />
@@ -79,10 +87,16 @@
         <mark key="]" line="552" column="16" />
         <mark key="." line="552" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/server/conf.prod.nginx" timestamp="1553266564233">
+        <mark key="[" line="82" column="11" />
+        <mark key="]" line="87" column="11" />
+        <mark key="^" line="87" column="11" />
+        <mark key="." line="87" column="11" />
+      </file>
       <file name="/Dummy.txt" timestamp="1553263450257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1553263743219">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1553264026324">
         <mark key="'" line="155" column="16" />
         <mark key="[" line="160" column="0" />
         <mark key="]" line="160" column="0" />
@@ -222,8 +236,9 @@
       <jump line="155" column="16" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://api.pyour.alex-test-domain.net/</text>
+      <register name="&quot;" type="8">
+        <text>80
+80</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -238,7 +253,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>http://api.pyour.alex-test-domain.net/</text>
+        <text>0</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -256,40 +271,41 @@
         <text>ema</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhcGlVUkw6ICJodHRwOi8vYXBpLnB5b3VyLmFsZXgtdGVzdC1kb21haW4ubmV0LyIsIC8vICBkZXYK</text>
+        <text encoding="base64">Q09QWSAuL2NvbmYuJE5PREVfRU5WLm5naW54IC9ldGMvbmdpbngvbmdpbnguY29uZgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXFSZXNwb25zZS5jb21tZW50cykK</text>
+      <register name="1" type="8">
+        <text>80
+80</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhjb21tZW50cykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29tbWVudC5mZWVkYmFjayAgICAgICA9IGRiQ29tbWVudC5mZWVkYmFjayB8fCBudWxsOwo=</text>
+        <text encoding="base64">ICAgIHNzbCBvbjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVsZXRlIGNvbW1lbnQudXNlckRpc2xpa2U7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXFSZXNwb25zZS5jb21tZW50cykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVsZXRlIGNvbW1lbnQudXNlckxpa2U7Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhjb21tZW50cykK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbW1lbnQuZGlzbGlrZWQgPSAhIWNvbW1lbnQudXNlckRpc2xpa2U7Cg==</text>
+        <text encoding="base64">ICAgICAgY29tbWVudC5mZWVkYmFjayAgICAgICA9IGRiQ29tbWVudC5mZWVkYmFjayB8fCBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbW1lbnQubGlrZWQgICAgPSAhIWNvbW1lbnQudXNlckxpa2U7Cg==</text>
+        <text encoding="base64">ICAgICAgZGVsZXRlIGNvbW1lbnQudXNlckRpc2xpa2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
