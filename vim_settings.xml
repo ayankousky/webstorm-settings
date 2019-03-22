@@ -27,6 +27,11 @@
         <mark key="." line="42" column="20" />
         <mark key="^" line="42" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/server/conf.dev.nginx" timestamp="1553263459529">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/server/conf.local.nginx" timestamp="1552336858601">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="203" />
@@ -74,6 +79,15 @@
         <mark key="]" line="552" column="16" />
         <mark key="." line="552" column="16" />
       </file>
+      <file name="/Dummy.txt" timestamp="1553263450257">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1553263743219">
+        <mark key="'" line="155" column="16" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/db/index.js" timestamp="1552239339999">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -97,6 +111,12 @@
         <mark key="]" line="260" column="0" />
         <mark key="." line="260" column="0" />
         <mark key="^" line="219" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/environments/environment.prod.ts" timestamp="1553263471273">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+        <mark key="^" line="2" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -199,11 +219,11 @@
       <jump line="160" column="15" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/users.js" />
       <jump line="116" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" />
-      <jump line="155" column="39" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
+      <jump line="155" column="16" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>http://api.pyour.alex-test-domain.net/</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -218,7 +238,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>http://api.pyour.alex-test-domain.net/</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -236,7 +256,7 @@
         <text>ema</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVsZXRlIGNvbW1lbnQudXNlckxpa2U7Cg==</text>
+        <text encoding="base64">ICBhcGlVUkw6ICJodHRwOi8vYXBpLnB5b3VyLmFsZXgtdGVzdC1kb21haW4ubmV0LyIsIC8vICBkZXYK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXFSZXNwb25zZS5jb21tZW50cykK</text>
