@@ -87,13 +87,13 @@
         <mark key="]" line="552" column="16" />
         <mark key="." line="552" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/server/conf.prod.nginx" timestamp="1553266564233">
-        <mark key="[" line="82" column="11" />
-        <mark key="]" line="87" column="11" />
-        <mark key="^" line="87" column="11" />
-        <mark key="." line="87" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/server/conf.prod.nginx" timestamp="1553267186950">
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="^" line="159" column="63" />
+        <mark key="." line="160" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553263450257">
+      <file name="/Dummy.txt" timestamp="1553266858811">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1553264026324">
@@ -236,9 +236,8 @@
       <jump line="155" column="16" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>80
-80</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -273,27 +272,61 @@
       <register name="0" type="2">
         <text encoding="base64">Q09QWSAuL2NvbmYuJE5PREVfRU5WLm5naW54IC9ldGMvbmdpbngvbmdpbnguY29uZgo=</text>
       </register>
-      <register name="1" type="8">
-        <text>80
-80</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICByb290IC92YXIvd3d3L2h0bWw7CgogICAgaW5kZXggaW5kZXguaHRtbDsKCiAgICAjIFRvIGFsbG93IFBPU1Qgb24gc3RhdGljIHBhZ2VzCiAgICBlcnJvcl9wYWdlICA0MDUgICAgID0yMDAgJHVyaTsKCiAgICBsb2NhdGlvbiAvIHsKICAgICAgaWYgKCRyZXF1ZXN0X21ldGhvZCA9ICdPUFRJT05TJykgewogICAgICAgIGFkZF9oZWFkZXIgQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luICo7CiAgICAgICAgYWRkX2hlYWRlciBBY2Nlc3MtQ29udHJvbC1BbGxvdy1DcmVkZW50aWFscyB0cnVlOwogICAgICAgIGFkZF9oZWFkZXIgQWNjZXNzLUNvbnRyb2wtQWxsb3ctSGVhZGVycyAnT3JpZ2luLCBBY2NlcHQsIFJhbmdlLCBYLVJlcXVlc3RlZC1XaXRoLCBDb250ZW50LVR5cGUsIEFjY2Vzcy1Db250cm9sLVJlcXVlc3QtTWV0aG9kLCBBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LUhlYWRlcnMsIENvbnRlbnQtZGlzcG9zaXRpb24sIGF1dGhvcml6YXRpb24nOwojICAgICAgICBhZGRfaGVhZGVyIEFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMgJyonOwogICAgICAgIGFkZF9oZWFkZXIgQWNjZXNzLUNvbnRyb2wtRXhwb3NlLUhlYWRlcnMgJ1gtTXktQ3VzdG9tLUhlYWRlciwgWC1Bbm90aGVyLUN1c3RvbS1IZWFkZXInOwogICAgICAgIGFkZF9oZWFkZXIgQWNjZXNzLUNvbnRyb2wtQWxsb3ctTWV0aG9kcyAnR0VULCBQT1NULCBPUFRJT05TLCBQVVQsIERFTEVURSwgUEFUQ0gnOwogICAgICAgIHJldHVybiAyMDA7CiAgICAgIH0KCiAgICAgIHByb3h5X3Bhc3MgaHR0cDovL3B1YmxpY19jbGllbnQ7CiAgICAgIHByb3h5X2h0dHBfdmVyc2lvbiAxLjE7CiAgICAgIHByb3h5X3NldF9oZWFkZXIgVXBncmFkZSAkaHR0cF91cGdyYWRlOwogICAgICBwcm94eV9zZXRfaGVhZGVyIENvbm5lY3Rpb24gJ3VwZ3JhZGUnOwogICAgICBwcm94eV9zZXRfaGVhZGVyIEhvc3QgJGhvc3Q7CiAgICAgIHByb3h5X3NldF9oZWFkZXIgWC1Gb3J3YXJkZWQtRm9yICRyZW1vdGVfYWRkcjsKICAgICAgcHJveHlfY2FjaGVfYnlwYXNzICRodHRwX3VwZ3JhZGU7CiAgICAgIGJyZWFrOwogICAgfQoKIyAgICBsb2NhdGlvbiB+KiBcLihlb3R8b3RmfHR0Znx3b2ZmfHdvZmYyKSQgewojICAgICAgYWRkX2hlYWRlciBBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4gKjsKIyAgICB9CgogICAgbG9jYXRpb24gL2hlYWx0aC1jaGVjayB7CiAgICAgIHJldHVybiAyMDA7CiAgICAgIGFjY2Vzc19sb2cgb2ZmOwogICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNzbCBvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXFSZXNwb25zZS5jb21tZW50cykK</text>
+      <register name="5" type="4">
+        <text>root /var/www/html;
+
+    index index.html;
+
+    # To allow POST on static pages
+    error_page  405     =200 $uri;
+
+    location / {
+      if ($request_method = 'OPTIONS') {
+        add_header Access-Control-Allow-Origin *;
+        add_header Access-Control-Allow-Credentials true;
+        add_header Access-Control-Allow-Headers 'Origin, Accept, Range, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, Content-disposition, authorization';
+#        add_header Access-Control-Allow-Headers '*';
+        add_header Access-Control-Expose-Headers 'X-My-Custom-Header, X-Another-Custom-Header';
+        add_header Access-Control-Allow-Methods 'GET, POST, OPTIONS, PUT, DELETE, PATCH';
+        return 200;
+      }
+
+      proxy_pass http://mobile_api;
+      proxy_http_version 1.1;
+      proxy_set_header Upgrade $http_upgrade;
+      proxy_set_header Connection 'upgrade';
+      proxy_set_header Host $host;
+      proxy_set_header X-Forwarded-For $remote_addr;
+      proxy_cache_bypass $http_upgrade;
+      break;
+    }
+
+    #    location ~* \.(eot|otf|ttf|woff|woff2)$ {
+    #      add_header Access-Control-Allow-Origin *;
+    #    }
+
+    location /health-check {
+      return 200;
+      access_log off;
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhjb21tZW50cykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
@@ -302,10 +335,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29tbWVudC5mZWVkYmFjayAgICAgICA9IGRiQ29tbWVudC5mZWVkYmFjayB8fCBudWxsOwo=</text>
+        <text encoding="base64">ICAgIGxpc3RlbiAgICAgIDgwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVsZXRlIGNvbW1lbnQudXNlckRpc2xpa2U7Cg==</text>
+        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIHNpZ251cC5teXNpdGUuY29tOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
