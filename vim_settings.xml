@@ -70,7 +70,8 @@
         <mark key="." line="45" column="68" />
         <mark key="^" line="45" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" timestamp="1552337992095">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" timestamp="1553273647550">
+        <mark key="'" line="74" column="0" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="^" line="64" column="1" />
@@ -93,7 +94,7 @@
         <mark key="^" line="159" column="63" />
         <mark key="." line="160" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553266858811">
+      <file name="/Dummy.txt" timestamp="1553273764760">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1553264026324">
@@ -134,7 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/network.js" />
       <jump line="79" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/network.js" />
       <jump line="153" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/network.js" />
       <jump line="231" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/network.js" />
@@ -234,6 +234,7 @@
       <jump line="116" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" />
       <jump line="155" column="16" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
