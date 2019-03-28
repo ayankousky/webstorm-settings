@@ -3,12 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1553266085421" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/services/translator/locales/en.json" timestamp="1552232534293">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="71" />
+        <mark key="." line="45" column="68" />
+        <mark key="^" line="45" column="68" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/index.js" timestamp="1552232191569">
         <mark key="[" line="24" column="37" />
         <mark key="]" line="25" column="31" />
         <mark key="." line="25" column="31" />
         <mark key="^" line="25" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" timestamp="1553273647550">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="64" column="1" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/middlewares/auth.js" timestamp="1552226098079">
         <mark key="[" line="25" column="147" />
@@ -16,11 +28,41 @@
         <mark key="^" line="25" column="143" />
         <mark key="." line="25" column="143" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user_lists.js" timestamp="1553749674268">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="69" column="71" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1552336017116">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/controllers/v0/users.js" timestamp="1552239655732">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
         <mark key="^" line="103" column="82" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" timestamp="1553150812347">
+        <mark key="[" line="552" column="16" />
+        <mark key="]" line="552" column="16" />
+        <mark key="." line="552" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/sharings/get.json" timestamp="1553748358176">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="433" />
+        <mark key="." line="11" column="433" />
+        <mark key="^" line="11" column="433" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/server/conf.prod.nginx" timestamp="1553267186950">
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="^" line="159" column="63" />
+        <mark key="." line="160" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/helpers/request/index.js" timestamp="1552236728938">
         <mark key="[" line="42" column="19" />
@@ -33,12 +75,51 @@
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1553148285334" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" timestamp="1553749580030">
+        <mark key="[" line="64" column="13" />
+        <mark key="]" line="64" column="13" />
+        <mark key="^" line="64" column="13" />
+        <mark key="." line="64" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1553749644604">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1553749394769">
+        <mark key="[" line="587" column="51" />
+        <mark key="]" line="587" column="63" />
+        <mark key="." line="587" column="63" />
+        <mark key="^" line="587" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1553264026324">
+        <mark key="'" line="155" column="16" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1553748541969" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/db/index.js" timestamp="1552239339999">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/translator/locales/en.json" timestamp="1552232590999">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="71" />
+        <mark key="^" line="43" column="78" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/server/Dockerfile" timestamp="1553265907276">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="4" column="28" />
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/comments/getCommentsForVideo.json" timestamp="1553149248204">
+        <mark key="[" line="35" column="16" />
+        <mark key="]" line="36" column="19" />
+        <mark key="." line="36" column="19" />
+        <mark key="^" line="36" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/server/conf.local.nginx" timestamp="1552336858601">
         <mark key="[" line="55" column="0" />
@@ -52,6 +133,12 @@
         <mark key="^" line="398" column="55" />
         <mark key="." line="398" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment.js" timestamp="1553149982495">
+        <mark key="[" line="260" column="0" />
+        <mark key="]" line="260" column="0" />
+        <mark key="." line="260" column="0" />
+        <mark key="^" line="219" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1552235280509">
         <mark key="[" line="162" column="51" />
         <mark key="]" line="162" column="67" />
@@ -64,69 +151,6 @@
         <mark key="^" line="73" column="29" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/services/translator/locales/en.json" timestamp="1552232534293">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="71" />
-        <mark key="." line="45" column="68" />
-        <mark key="^" line="45" column="68" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" timestamp="1553273647550">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="64" column="1" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1552336017116">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" timestamp="1553150812347">
-        <mark key="[" line="552" column="16" />
-        <mark key="]" line="552" column="16" />
-        <mark key="." line="552" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/server/conf.prod.nginx" timestamp="1553267186950">
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="0" />
-        <mark key="^" line="159" column="63" />
-        <mark key="." line="160" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1553273764760">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1553264026324">
-        <mark key="'" line="155" column="16" />
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="0" />
-        <mark key="." line="160" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/db/index.js" timestamp="1552239339999">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="3" column="39" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/translator/locales/en.json" timestamp="1552232590999">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="71" />
-        <mark key="^" line="43" column="78" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/comments/getCommentsForVideo.json" timestamp="1553149248204">
-        <mark key="[" line="35" column="16" />
-        <mark key="]" line="36" column="19" />
-        <mark key="." line="36" column="19" />
-        <mark key="^" line="36" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment.js" timestamp="1553149982495">
-        <mark key="[" line="260" column="0" />
-        <mark key="]" line="260" column="0" />
-        <mark key="." line="260" column="0" />
-        <mark key="^" line="219" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/environments/environment.prod.ts" timestamp="1553263471273">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="35" />
@@ -135,7 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/network.js" />
       <jump line="153" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/network.js" />
       <jump line="231" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/network.js" />
       <jump line="131" column="7" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/networkType.js" />
@@ -235,10 +258,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" />
       <jump line="155" column="16" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
       <jump line="74" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user_lists.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlcnNGcm9tKQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -253,7 +277,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>{project: 'internal'}</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -271,60 +295,25 @@
         <text>ema</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q09QWSAuL2NvbmYuJE5PREVfRU5WLm5naW54IC9ldGMvbmdpbngvbmdpbnguY29uZgo=</text>
+        <text encoding="base64">ICAgICAgcGFyYW1zLnByb2plY3QgPSBwYXJhbXMucHJvamVjdCB8fCAnY2xpZW50JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlcnNGcm9tKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICByb290IC92YXIvd3d3L2h0bWw7CgogICAgaW5kZXggaW5kZXguaHRtbDsKCiAgICAjIFRvIGFsbG93IFBPU1Qgb24gc3RhdGljIHBhZ2VzCiAgICBlcnJvcl9wYWdlICA0MDUgICAgID0yMDAgJHVyaTsKCiAgICBsb2NhdGlvbiAvIHsKICAgICAgaWYgKCRyZXF1ZXN0X21ldGhvZCA9ICdPUFRJT05TJykgewogICAgICAgIGFkZF9oZWFkZXIgQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luICo7CiAgICAgICAgYWRkX2hlYWRlciBBY2Nlc3MtQ29udHJvbC1BbGxvdy1DcmVkZW50aWFscyB0cnVlOwogICAgICAgIGFkZF9oZWFkZXIgQWNjZXNzLUNvbnRyb2wtQWxsb3ctSGVhZGVycyAnT3JpZ2luLCBBY2NlcHQsIFJhbmdlLCBYLVJlcXVlc3RlZC1XaXRoLCBDb250ZW50LVR5cGUsIEFjY2Vzcy1Db250cm9sLVJlcXVlc3QtTWV0aG9kLCBBY2Nlc3MtQ29udHJvbC1SZXF1ZXN0LUhlYWRlcnMsIENvbnRlbnQtZGlzcG9zaXRpb24sIGF1dGhvcml6YXRpb24nOwojICAgICAgICBhZGRfaGVhZGVyIEFjY2Vzcy1Db250cm9sLUFsbG93LUhlYWRlcnMgJyonOwogICAgICAgIGFkZF9oZWFkZXIgQWNjZXNzLUNvbnRyb2wtRXhwb3NlLUhlYWRlcnMgJ1gtTXktQ3VzdG9tLUhlYWRlciwgWC1Bbm90aGVyLUN1c3RvbS1IZWFkZXInOwogICAgICAgIGFkZF9oZWFkZXIgQWNjZXNzLUNvbnRyb2wtQWxsb3ctTWV0aG9kcyAnR0VULCBQT1NULCBPUFRJT05TLCBQVVQsIERFTEVURSwgUEFUQ0gnOwogICAgICAgIHJldHVybiAyMDA7CiAgICAgIH0KCiAgICAgIHByb3h5X3Bhc3MgaHR0cDovL3B1YmxpY19jbGllbnQ7CiAgICAgIHByb3h5X2h0dHBfdmVyc2lvbiAxLjE7CiAgICAgIHByb3h5X3NldF9oZWFkZXIgVXBncmFkZSAkaHR0cF91cGdyYWRlOwogICAgICBwcm94eV9zZXRfaGVhZGVyIENvbm5lY3Rpb24gJ3VwZ3JhZGUnOwogICAgICBwcm94eV9zZXRfaGVhZGVyIEhvc3QgJGhvc3Q7CiAgICAgIHByb3h5X3NldF9oZWFkZXIgWC1Gb3J3YXJkZWQtRm9yICRyZW1vdGVfYWRkcjsKICAgICAgcHJveHlfY2FjaGVfYnlwYXNzICRodHRwX3VwZ3JhZGU7CiAgICAgIGJyZWFrOwogICAgfQoKIyAgICBsb2NhdGlvbiB+KiBcLihlb3R8b3RmfHR0Znx3b2ZmfHdvZmYyKSQgewojICAgICAgYWRkX2hlYWRlciBBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4gKjsKIyAgICB9CgogICAgbG9jYXRpb24gL2hlYWx0aC1jaGVjayB7CiAgICAgIHJldHVybiAyMDA7CiAgICAgIGFjY2Vzc19sb2cgb2ZmOwogICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlcnNUbykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZW1haWxzRnJvbSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codW5pcUVtYWlsc1RvKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>root /var/www/html;
-
-    index index.html;
-
-    # To allow POST on static pages
-    error_page  405     =200 $uri;
-
-    location / {
-      if ($request_method = 'OPTIONS') {
-        add_header Access-Control-Allow-Origin *;
-        add_header Access-Control-Allow-Credentials true;
-        add_header Access-Control-Allow-Headers 'Origin, Accept, Range, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, Content-disposition, authorization';
-#        add_header Access-Control-Allow-Headers '*';
-        add_header Access-Control-Expose-Headers 'X-My-Custom-Header, X-Another-Custom-Header';
-        add_header Access-Control-Allow-Methods 'GET, POST, OPTIONS, PUT, DELETE, PATCH';
-        return 200;
-      }
-
-      proxy_pass http://mobile_api;
-      proxy_http_version 1.1;
-      proxy_set_header Upgrade $http_upgrade;
-      proxy_set_header Connection 'upgrade';
-      proxy_set_header Host $host;
-      proxy_set_header X-Forwarded-For $remote_addr;
-      proxy_cache_bypass $http_upgrade;
-      break;
-    }
-
-    #    location ~* \.(eot|otf|ttf|woff|woff2)$ {
-    #      add_header Access-Control-Allow-Origin *;
-    #    }
-
-    location /health-check {
-      return 200;
-      access_log off;
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -333,13 +322,13 @@
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnZXRTaGEK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxpc3RlbiAgICAgIDgwOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">cmVkVG9Vc2VyKHVzZXJJZCwgcGFyYW1zID0ge3Byb2plY3Q6ICdpbnRlcm5hbCd9KXsKICAgIHJldHVybiBhc3luYygoKT0+ewoKICAgICAgY29uc3QgVXNlciA9IHJlcXVpcmUoJy4vdXNlcicpCiAgICAgICAgLCAgIFZpZGVvID0gZHluYW1vb3NlLm1vZGVsKGNvbmZpZy5EREIudGFibGVzLnZpZGVvcy5uYW1lKQogICAgICAgICwgICBGb2xkZXIgPSBkeW5hbW9vc2UubW9kZWwoY29uZmlnLkREQi50YWJsZXMuZm9sZGVycy5uYW1lKQoKICAgICAgbGV0IGN1cnJVc2VyID0gYXdhaXQoVXNlci5nZXRCeUlkKHVzZXJJZCkpCgogICAgICAvKioqIGJ1aWxkIHF1ZXJ5ICoqKi8KICAgICAgbGV0IHF1ZXJ5ID0gQ29udGVudFNoYXJpbmcucXVlcnkoJ2VtYWlsJykuZXEoY3VyclVzZXIuZW1haWwpOwoKICAgICAgLy8gc29ydCBmaWVsZAogICAgICBpZiAoIXBhcmFtcy5zb3J0KXsKICAgICAgICBxdWVyeS53aGVyZSgnY0RhdGUnKS5ndCgwKQogICAgICB9IGVsc2UgewogICAgICAgIHBhcmFtcy5zb3J0ID09PSAnZGF0ZScgJiYgcXVlcnkud2hlcmUoJ2NEYXRlJykuZ3QoMCk7CiAgICAgIH0KICAgICAgLy8gc29ydCBvcmRlcgogICAgICBpZiAocGFyYW1zLm9yZGVyKXsKICAgICAgICBwYXJhbXMub3JkZXIgPT09ICdhc2NlbmRpbmcnID8gcXVlcnkuYXNjZW5kaW5nKCkgOiBxdWVyeS5kZXNjZW5kaW5nKCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgcXVlcnkuZGVzY2VuZGluZygpOwogICAgICB9CgogICAgICAvLyBvbmx5IGFjY2VwdGVkCiAgICAgIGlmIChwYXJhbXMuaW52aXRhdGlvbkFjY2VwdGVkICE9PSB1bmRlZmluZWQpewogICAgICAgIHF1ZXJ5LmZpbHRlcignYWNjZXB0ZWQnKS5lcShwYXJhbXMuaW52aXRhdGlvbkFjY2VwdGVkID09PSAndHJ1ZScpCiAgICAgIH0KCiAgICAgIC8vIGZvciBwYWdpbmF0aW9uCiAgICAgIGlmKHBhcmFtcy5zdGFydEF0KXsKICAgICAgICBsZXQgbGFzdFNoYXJpbmdLZXlzID0gQ29udGVudFNoYXJpbmcucGFyc2VJZChwYXJhbXMuc3RhcnRBdCk7CiAgICAgICAgbGV0IGxhc3RTaGFyaW5nID0gYXdhaXQoQ29udGVudFNoYXJpbmcuZ2V0KHsKICAgICAgICAgIGVtYWlsOiBsYXN0U2hhcmluZ0tleXMuZW1haWwsCiAgICAgICAgICBpZCAgIDogcGFyYW1zLnN0YXJ0QXQsCiAgICAgICAgfSkpOwogICAgICAgIHF1ZXJ5LnN0YXJ0QXQoewogICAgICAgICAgLy8gY2hhbm5lbElkOiB7UzogbGFzdFNoYXJpbmcuY2hhbm5lbElkfSwKICAgICAgICAgIC8vIHZpZGVvSWQ6IHtTOiBsYXN0U2hhcmluZy52aWRlb0lkfSwKICAgICAgICAgIC8vIGZvbGRlcklkOiB7UzogbGFzdFNoYXJpbmcuZm9sZGVySWR9LAogICAgICAgICAgZW1haWw6IHtTOiBsYXN0U2hhcmluZy5lbWFpbH0sCiAgICAgICAgICBjRGF0ZToge046IG5ldyBEYXRlKGxhc3RTaGFyaW5nLmNEYXRlKSAtIDAgKyAnJ30sCiAgICAgICAgICBpZCAgIDoge1M6IHBhcmFtcy5zdGFydEF0fSwKICAgICAgICB9KTsKICAgICAgfQogICAgICBpZiAocGFyYW1zLmxpbWl0KSB7CiAgICAgICAgcXVlcnkubGltaXQocGFyYW1zLmxpbWl0IC0gMCk7CiAgICAgIH0KCiAgICAgIGxldCBzaGFyaW5ncyA9IGF3YWl0KGF3c0hlbHBlci5keW5hbW9kYi5keW5hbW9vc2VUYWtlKHF1ZXJ5LCBwYXJhbXMubGltaXQpKQogICAgICAgICwgbGFzdEtleSA9IHNoYXJpbmdzLmxhc3RLZXkgJiYgc2hhcmluZ3MubGFzdEtleS5pZC5TOwoKICAgICAgLy8gY29uc29sZS5sb2coc2hhcmluZ3MubGFzdEtleSkKICAgICAgLy8gaWYgbm8gc2hhcmluZ3MgZm91bmQKICAgICAgaWYgKHNoYXJpbmdzLmxlbmd0aCA9PT0gMCkgcmV0dXJuIFtdOwogICAgICAvLyByZXRyaWV2ZSB2aWRlb0lkIGFuZCBjaGFubmVsSWQgZm9yIGJhdGNoR2V0CiAgICAgIGxldCBjb250ZW50cyA9IGF3YWl0KFByb21pc2UuYWxsKHNoYXJpbmdzLm1hcChzaD0+ewogICAgICAgIGlmIChzaC52aWRlb0lkKXsKICAgICAgICAgIGxldCB2aWRlbyA9IGF3YWl0KFZpZGVvLmdldEJ5SWQoc2gudmlkZW9JZCkpOwogICAgICAgICAgaWYgKCF2aWRlbyl7CiAgICAgICAgICAgIHJldHVybiB1bmRlZmluZWQ7CiAgICAgICAgICB9CgogICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgY29udGVudDogYXdhaXQodmlkZW8ucHJvamVjdCgnY2xpZW50JykpLAogICAgICAgICAgICBzaGFyaW5nOiBhd2FpdChDb250ZW50U2hhcmluZy5wcm9qZWN0KCdpbnRlcm5hbCcsIHNoKSksCiAgICAgICAgICAgIHR5cGU6ICd2aWRlbycsCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGlmIChzaC5mb2xkZXJJZCl7CiAgICAgICAgICBsZXQgZm9sZGVyID0gYXdhaXQoRm9sZGVyLmdldEJ5SWQoc2guZm9sZGVySWQpKTsKICAgICAgICAgIGlmICghZm9sZGVyKXsKICAgICAgICAgICAgcmV0dXJuIHVuZGVmaW5lZDsKICAgICAgICAgIH0KCiAgICAgICAgICBmb2xkZXIuY29udGVudFR5cGUgPSAnZm9sZGVyJzsKICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIGNvbnRlbnQ6IGF3YWl0KGZvbGRlci5wcm9qZWN0KCdjbGllbnQnKSksCiAgICAgICAgICAgIHNoYXJpbmc6IGF3YWl0KENvbnRlbnRTaGFyaW5nLnByb2plY3QoJ2ludGVybmFsJywgc2gpKSwKICAgICAgICAgICAgdHlwZTogJ2ZvbGRlcicsCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9KSkpOwogICAgICBjb250ZW50cyA9IGNvbnRlbnRzLmZpbHRlcihmID0+ICEhZik7CiAgICAgIC8vIGZpbHRlciBkdXBsaWNhdGVzCiAgICAgIC8vIHNoYXJpbmdzID0gXy51bmlxV2l0aChzaGFyaW5ncywgXy5pc0VxdWFsKTsKICAgICAgLy8gbGV0IHZpZGVvcyA9IGF3YWl0KFZpZGVvLmJhdGNoR2V0KHNoYXJpbmdzKSk7CgogICAgICAvLyBzb3J0IGJ5IHNoYXJpbmdzIGRhdGUgY3JlYXRpb24KICAgICAgbGV0IHJlc3VsdHMgPSBjb250ZW50czsKICAgICAgcmVzdWx0cy5sYXN0S2V5ID0gbGFzdEtleTsgLy8gYWRkIGxhc3Qga2V5IGluIHJlc3V0bHMKICAgICAgcmV0dXJuIHJlc3VsdHM7CgogICAgfSkoKTsKICB9LA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlcnZlcl9uYW1lIHNpZ251cC5teXNpdGUuY29tOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
