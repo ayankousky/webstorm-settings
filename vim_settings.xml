@@ -14,7 +14,7 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/scripts/users_updateCol_medicalProviderId.sql" timestamp="1554415795995">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/scripts/users_updateCol_medicalProviderId.sql" timestamp="1554648864502">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
@@ -95,7 +95,12 @@
         <mark key="." line="587" column="63" />
         <mark key="^" line="587" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1554415751305" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1554648889671">
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="43" />
+        <mark key="." line="19" column="43" />
+        <mark key="^" line="19" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" timestamp="1553264026324">
         <mark key="'" line="155" column="16" />
         <mark key="[" line="160" column="0" />
@@ -144,7 +149,7 @@
         <mark key="." line="260" column="0" />
         <mark key="^" line="219" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1552235280509">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1554648880547">
         <mark key="[" line="162" column="51" />
         <mark key="]" line="162" column="67" />
         <mark key="^" line="162" column="67" />
@@ -267,7 +272,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>users</text>
+        <text>INTEGER</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -282,7 +287,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>users</text>
+        <text>INTEGER</text>
       </register>
       <register name="m" type="4">
         <keys>
