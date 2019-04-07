@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/product.js" timestamp="1554657531752">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="71" column="96" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/product.js" timestamp="1554658692345">
+        <mark key="[" line="138" column="32" />
+        <mark key="]" line="138" column="33" />
+        <mark key="." line="138" column="33" />
+        <mark key="^" line="138" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/firmware.js" timestamp="1554654180231">
         <mark key="[" line="17" column="0" />
@@ -131,11 +131,11 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/firmware.js" timestamp="1554655024010">
-        <mark key="[" line="80" column="6" />
-        <mark key="]" line="80" column="2" />
-        <mark key="^" line="80" column="2" />
-        <mark key="." line="80" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/firmware.js" timestamp="1554659547798">
+        <mark key="[" line="94" column="55" />
+        <mark key="]" line="94" column="79" />
+        <mark key="." line="94" column="79" />
+        <mark key="^" line="94" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/translator/locales/en.json" timestamp="1554652757567">
         <mark key="[" line="41" column="0" />
@@ -332,7 +332,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgInJldmlzaW9uTnVtYmVyIiAgICAgOiBwcm9kdWN0RmllbGRzLnJldmlzaW9uTnVtYmVyID8gcHJvZHVjdEZpZWxkcy5yZXZpc2lvbk51bWJlciAtIDAgOiAwLAo=</text>
+        <text encoding="base64">ICAgICAgd2hlcmU6IHtpZDogJ2hkMyd9Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -347,7 +347,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'123ads'</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -365,43 +365,43 @@
         <text>ema</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgInJldmlzaW9uTnVtYmVyIiAgICAgOiBwcm9kdWN0RmllbGRzLnJldmlzaW9uTnVtYmVyID8gcGFyc2VJbnQocHJvZHVjdEZpZWxkcy5yZXZpc2lvbk51bWJlciwgMTApIDogMCwK</text>
+        <text encoding="base64">ICAgICAgICAgIHsgbW9kZWw6IGRiLmhhcmR3YXJlLCBhczogJ2hhcmR3YXJlcycsIHdoZXJlOiB7aWQ6ICdoZDEnfX0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgInJldmlzaW9uTnVtYmVyIiAgICAgOiBwcm9kdWN0RmllbGRzLnJldmlzaW9uTnVtYmVyID8gcHJvZHVjdEZpZWxkcy5yZXZpc2lvbk51bWJlciAtIDAgOiAwLAo=</text>
+        <text encoding="base64">ICAgICAgd2hlcmU6IHtpZDogJ2hkMyd9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgInJldmlzaW9uTnVtYmVyIiAgICAgOiBwcm9kdWN0RmllbGRzLnJldmlzaW9uTnVtYmVyIC0gMCwK</text>
+        <text encoding="base64">ICAgICAgICAgIHsgbW9kZWw6IGRiLmhhcmR3YXJlLCBhczogJ2hhcmR3YXJlcycsIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgInJldmlzaW9uTnVtYmVyIiAgICAgOiBwcm9kdWN0RmllbGRzLnJldmlzaW9uTnVtYmVyID8gcHJvZHVjdEZpZWxkcy5yZXZpc2lvbk51bWJlciAtIDAgOiAwLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgInJldmlzaW9uTnVtYmVyIiAgICAgOiBwcm9kdWN0RmllbGRzLnJldmlzaW9uTnVtYmVyLAo=</text>
+        <text encoding="base64">ICAgICAgInJldmlzaW9uTnVtYmVyIiAgICAgOiBwcm9kdWN0RmllbGRzLnJldmlzaW9uTnVtYmVyIC0gMCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdCh1cGRhdGVSZXN1bHQuYm9keS5wcm9kdWN0Lm1vZGVsTnVtYmVyKS50by5iZS5lcShgQi5wcjExLm9nMS5icjEudnZ1LjFgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ2YXJpYXRpb25OdW1iZXIiICAgIDogInZ2diIK</text>
+        <text encoding="base64">ICAgICAgInJldmlzaW9uTnVtYmVyIiAgICAgOiBwcm9kdWN0RmllbGRzLnJldmlzaW9uTnVtYmVyLAo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="8">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdCh1cGRhdGVSZXN1bHQuYm9keS5wcm9kdWN0Lm1vZGVsTnVtYmVyKS50by5iZS5lcShgQi5wcjExLm9nMS5icjEudnZ1LjFgKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ2YXJpYXRpb25OdW1iZXIiICAgIDogInZ2diIK</text>
+      </register>
+      <register name="9" type="8">
         <text>vn1
 vn1
 vn1
 vn1</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
