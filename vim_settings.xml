@@ -3,6 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/firmware.js" timestamp="1554651285796">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/services/translator/locales/en.json" timestamp="1554651965873">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="40" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/index.js" timestamp="1552232191569">
         <mark key="[" line="24" column="37" />
         <mark key="]" line="25" column="31" />
@@ -69,6 +80,12 @@
         <mark key="^" line="43" column="63" />
         <mark key="." line="160" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/firmwareService.js" timestamp="1554651732414">
+        <mark key="[" line="345" column="67" />
+        <mark key="]" line="346" column="15" />
+        <mark key="." line="346" column="15" />
+        <mark key="^" line="346" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/helpers/request/index.js" timestamp="1552236728938">
         <mark key="[" line="42" column="19" />
         <mark key="]" line="42" column="20" />
@@ -113,11 +130,11 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/translator/locales/en.json" timestamp="1554358374448">
-        <mark key="[" line="27" column="127" />
-        <mark key="]" line="27" column="127" />
-        <mark key="^" line="8" column="56" />
-        <mark key="." line="27" column="127" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/translator/locales/en.json" timestamp="1554651963129">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="96" />
+        <mark key="^" line="40" column="85" />
+        <mark key="." line="40" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/server/Dockerfile" timestamp="1553265907276">
         <mark key="[" line="4" column="24" />
@@ -271,8 +288,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user_lists.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>INTEGER</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJInJldmlzaW9uc19tYXRjaF9wYXR0ZXJuIjogIlJldmlzaW9uIG5hbWUgc2hvdWxkIG1hdGNoIHBhdHRlcm4gXCJuKy5uKy5uKy5uKy5uXCIiLAo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -287,7 +304,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>INTEGER</text>
+        <text>n</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -305,55 +322,40 @@
         <text>ema</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW1zLnByb2plY3QgPSBwYXJhbXMucHJvamVjdCB8fCAnY2xpZW50JzsK</text>
+        <text encoding="base64">CQkJInJldmlzaW9uc19tYXRjaF9wYXR0ZXJuIjogIlJldmlzaW9uIG5hbWUgc2hvdWxkIG1hdGNoIHBhdHRlcm4gXCJubm4ubm5uLm5ubi5ubm4uMS8yLzNcIiIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJIm5vdF92ZXJpZmllZCI6ICJQbGVhc2UgZmlyc3QgY2hlY2sgeW91ciBlbWFpbCBhbmQgY29uZmlybSB5b3VyIGFjY291bnQgYmVmb3JlIGxvZ2dpbmcgaW4uIiwK</text>
+        <text encoding="base64">CQkJInJldmlzaW9uc19tYXRjaF9wYXR0ZXJuIjogIlJldmlzaW9uIG5hbWUgc2hvdWxkIG1hdGNoIHBhdHRlcm4gXCJuKy5uKy5uKy5uKy5uXCIiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJInJldmlzaW9uc19tYXRjaF9wYXR0ZXJuIjogIlJldmlzaW9uIG5hbWUgc2hvdWxkIG1hdGNoIHBhdHRlcm4gXCJubm4ubm5uLm5ubi5ubm4ubm5uXCIiLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgbG9jYXRpb24gLyB7CiAgICAgICAgICB0cnlfZmlsZXMgJHVyaSAkdXJpLyA9NDA0OwogICAgICAgIH0KICAgICAgICBsb2NhdGlvbiB+IFwucGhwJCB7CiAgICAgICAgICByb290IC9ob21lL2FkYmxvY2svdGhlLWFkYmxvY2tlcjsKICAgICAgICAgICAgICAgIGluY2x1ZGUgc25pcHBldHMvZmFzdGNnaS1waHAuY29uZjsKICAgICAgICAgICAgICAgIGZhc3RjZ2lfcGFzcyB1bml4Oi9ydW4vcGhwL3BocDcuMC1mcG0uc29jazsKICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFwcFJldmlzaW9uTmFtZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhcHBSZXZpc2lvbk5hbWUnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpcm13YXJlUmV2aXNpb25GaWVsZHMubmFtZSkK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
-        <text>server {
-        listen 80;
-
-        root /home/adblock/the-adblocker;
-        index index.php index.html index.htm index.nginx-debian.html;
-
-        server_name kalad.media www.kalad.media;
-
-        location / {
-                try_files $uri $uri/ =404;
-        }
-        location ~ \.php$ {
-                include snippets/fastcgi-php.conf;
-                fastcgi_pass unix:/run/php/php7.0-fpm.sock;
-        }
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpbnB1dCByZXZpc2lvbicpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNyZWF0ZVJldlJlc3VsdC5uZXdSZXZpc2lvbikK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgbG9jYXRpb24gLyB7CiAgICAgICAgICAgICAgICBpZiAoJGh0dHBfdXNlcl9hZ2VudCB+IEZpcmVmb3gpIHsKICAgICAgICAgICAgcm9vdCAgIC9ob21lL2FkYmxvY2svdGhlLWFkYmxvY2tlci9maXJlZm94OwogICAgICAgICAgfQoKICAgICAgICAgIGlmICgkaHR0cF91c2VyX2FnZW50IH4gQ2hyb21lKSB7CiAgICAgICAgICAgIHJvb3QgICAvaG9tZS9hZGJsb2NrL3RoZS1hZGJsb2NrZXIvZ29vZ2xlX2Nocm9tZTsKICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHRyeV9maWxlcyAkdXJpICR1cmkvID00MDQ7CiAgICAgICAgfQogICAgICAgIGxvY2F0aW9uIH4gXC5waHAkIHsKICAgICAgICAgIHJvb3QgL2hvbWUvYWRibG9jay90aGUtYWRibG9ja2VyOwogICAgICAgICAgICAgICAgaW5jbHVkZSBzbmlwcGV0cy9mYXN0Y2dpLXBocC5jb25mOwogICAgICAgICAgICAgICAgZmFzdGNnaV9wYXNzIHVuaXg6L3J1bi9waHAvcGhwNy4wLWZwbS5zb2NrOwogICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5ib2R5LmZpcm13YXJlUmV2aXNpb25OYW1lKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
