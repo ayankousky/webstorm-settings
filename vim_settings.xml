@@ -172,11 +172,11 @@
         <mark key="." line="260" column="0" />
         <mark key="^" line="219" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1554759012927">
-        <mark key="[" line="121" column="39" />
-        <mark key="]" line="122" column="21" />
-        <mark key="^" line="122" column="21" />
-        <mark key="." line="122" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1554759853292">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="^" line="124" column="21" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/helpers/request/index.js" timestamp="1552230643129">
         <mark key="[" line="80" column="0" />
@@ -331,7 +331,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgd2hlcmU6IHtpZDogJ2hkMyd9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcykK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -367,40 +367,37 @@
         <text encoding="base64">ICAgICAgICAgIHsgbW9kZWw6IGRiLmhhcmR3YXJlLCBhczogJ2hhcmR3YXJlcycsIHdoZXJlOiB7aWQ6ICdoZDEnfX0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgd2hlcmU6IHtpZDogJ2hkMyd9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsgbW9kZWw6IGRiLmhhcmR3YXJlLCBhczogJ2hhcmR3YXJlcycsIH0sCg==</text>
+        <text encoding="base64">ICAgICAgd2hlcmU6IHtpZDogJ2hkMyd9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgInJldmlzaW9uTnVtYmVyIiAgICAgOiBwcm9kdWN0RmllbGRzLnJldmlzaW9uTnVtYmVyID8gcHJvZHVjdEZpZWxkcy5yZXZpc2lvbk51bWJlciAtIDAgOiAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsgbW9kZWw6IGRiLmhhcmR3YXJlLCBhczogJ2hhcmR3YXJlcycsIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgInJldmlzaW9uTnVtYmVyIiAgICAgOiBwcm9kdWN0RmllbGRzLnJldmlzaW9uTnVtYmVyIC0gMCwK</text>
+        <text encoding="base64">ICAgICAgInJldmlzaW9uTnVtYmVyIiAgICAgOiBwcm9kdWN0RmllbGRzLnJldmlzaW9uTnVtYmVyID8gcHJvZHVjdEZpZWxkcy5yZXZpc2lvbk51bWJlciAtIDAgOiAwLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgInJldmlzaW9uTnVtYmVyIiAgICAgOiBwcm9kdWN0RmllbGRzLnJldmlzaW9uTnVtYmVyIC0gMCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgInJldmlzaW9uTnVtYmVyIiAgICAgOiBwcm9kdWN0RmllbGRzLnJldmlzaW9uTnVtYmVyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdCh1cGRhdGVSZXN1bHQuYm9keS5wcm9kdWN0Lm1vZGVsTnVtYmVyKS50by5iZS5lcShgQi5wcjExLm9nMS5icjEudnZ1LjFgKTsK</text>
+        <text encoding="base64">ICAgICAgInJldmlzaW9uTnVtYmVyIiAgICAgOiBwcm9kdWN0RmllbGRzLnJldmlzaW9uTnVtYmVyLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ2YXJpYXRpb25OdW1iZXIiICAgIDogInZ2diIK</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdCh1cGRhdGVSZXN1bHQuYm9keS5wcm9kdWN0Lm1vZGVsTnVtYmVyKS50by5iZS5lcShgQi5wcjExLm9nMS5icjEudnZ1LjFgKTsK</text>
       </register>
-      <register name="9" type="8">
-        <text>vn1
-vn1
-vn1
-vn1</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ2YXJpYXRpb25OdW1iZXIiICAgIDogInZ2diIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
