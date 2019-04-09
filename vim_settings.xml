@@ -187,11 +187,13 @@
         <mark key="." line="260" column="0" />
         <mark key="^" line="219" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1554837044503">
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="22" column="20" />
-        <mark key="." line="22" column="20" />
-        <mark key="^" line="22" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1554838041558">
+        <mark key="'" line="32" column="4" />
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="8" />
+        <mark key="m" line="22" column="20" />
+        <mark key="." line="26" column="8" />
+        <mark key="^" line="24" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/helpers/request/index.js" timestamp="1552230643129">
         <mark key="[" line="80" column="0" />
@@ -250,8 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/networkType.js" />
-      <jump line="79" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/networkType.js" />
       <jump line="148" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/networkType.js" />
       <jump line="217" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/networkType.js" />
       <jump line="337" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/subdomain.js" />
@@ -350,10 +350,12 @@
       <jump line="186" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" />
       <jump line="146" column="74" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" />
       <jump line="135" column="72" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/devices/devices_api.js" />
+      <jump line="22" column="20" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" />
+      <jump line="32" column="4" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGZhbHNl</text>
+        <text encoding="base64">CiAgICAgIHNldDogZnVuY3Rpb24gKHZhbCkgewogICAgICAgIGNvbnNvbGUubG9nKHRoaXMpCiAgICAgICAgcmV0dXJuICdrZWsnCiAgICAgIH0=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -368,7 +370,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZhbHNl</text>
+        <text>this</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -388,23 +390,23 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHNlYXJjaFJlc3VsdC5ib2R5LmNvdW50LnNob3VsZC5iZS5lcSgxKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgIHNldDogZnVuY3Rpb24gKHZhbCkgewogICAgICAgIGNvbnNvbGUubG9nKHRoaXMpCiAgICAgICAgcmV0dXJuICdrZWsnCiAgICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaW5jbHVkZS53aGVyZS5tb2RlbE51bWJlcj0ge1tPcC5saWtlXTogYCUke3BhcmFtcy5tb2RlbE51bWJlcn0lYH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcykK</text>
+        <text encoding="base64">ICAgICAgaW5jbHVkZS53aGVyZS5tb2RlbE51bWJlcj0ge1tPcC5saWtlXTogYCUke3BhcmFtcy5tb2RlbE51bWJlcn0lYH07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaW5jbHVkZS53aGVyZS5uYW1lID0ge1tPcC5saWtlXTogYCUke3BhcmFtcy5icmFuZE5hbWV9JWB9Owo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaW5jbHVkZS53aGVyZS5uYW1lID0ge1tPcC5saWtlXTogYCUke3BhcmFtcy5icmFuZE5hbWV9JWB9Owo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -413,13 +415,13 @@
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
