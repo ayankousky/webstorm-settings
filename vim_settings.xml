@@ -187,13 +187,18 @@
         <mark key="." line="260" column="0" />
         <mark key="^" line="219" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1554844467529">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" timestamp="1554845580384">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1554845577602">
         <mark key="'" line="28" column="4" />
-        <mark key="[" line="96" column="20" />
+        <mark key="[" line="85" column="25" />
         <mark key="m" line="22" column="20" />
-        <mark key="]" line="96" column="21" />
-        <mark key="." line="96" column="21" />
-        <mark key="^" line="95" column="6" />
+        <mark key="]" line="85" column="23" />
+        <mark key="^" line="85" column="23" />
+        <mark key="." line="85" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/helpers/request/index.js" timestamp="1552230643129">
         <mark key="[" line="80" column="0" />
@@ -212,13 +217,6 @@
         <mark key="]" line="2" column="35" />
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/firmwares/firmwares_api.js" timestamp="1554653271893">
-        <mark key="'" line="445" column="127" />
-        <mark key="[" line="457" column="120" />
-        <mark key="]" line="457" column="121" />
-        <mark key="^" line="457" column="124" />
-        <mark key="." line="457" column="121" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/users/user_api.js" timestamp="1554653984284">
         <mark key="'" line="186" column="0" />
@@ -354,11 +352,8 @@
       <jump line="32" column="4" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>after
-after
-after
-after</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygna2VrZWtlJykK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -373,7 +368,7 @@ after</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, );</text>
+        <text>firstName</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -393,29 +388,26 @@ after</text>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIuZmlyc3ROYW1lKQo=</text>
       </register>
-      <register name="1" type="8">
-        <text>after
-after
-after
-after</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygna2VrZWtlJykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLmZ1bGxOYW1lID0gYCR7dXNlci5maXJzdE5hbWV9ICR7dXNlci5sYXN0TmFtZX1gOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLmZ1bGxOYW1lID0gYCR7dXNlci5maXJzdE5hbWV9ICR7dXNlci5sYXN0TmFtZX1gOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyKQo=</text>
+        <text encoding="base64">ICAvLyB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyLmZ1bGxOYW1lKQo=</text>
+        <text encoding="base64">CSAvLyAgY29uc29sZS5sb2coMTApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLmZ1bGxOYW1lID0gYCR7dXNlci5maXJzdE5hbWV9ICR7dXNlci5sYXN0TmFtZX1gOwo=</text>
+        <text encoding="base64">ICAvLyBVc2VyLnByb3RvdHlwZS5iZWZvcmVVcGRhdGUodXNlciA9PiB7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
@@ -423,16 +415,11 @@ after</text>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgVXNlci5hZGRIb29rKCdhZnRlckNyZWF0ZScsICh1c2VyLCBvcHRpb25zKSA9PiB7CiAgICAvLyAndHJhbnNhY3Rpb24nIHdpbGwgYmUgYXZhaWxhYmxlIGluIG9wdGlvbnMudHJhbnNhY3Rpb24KCiAgICAvLyBUaGlzIG9wZXJhdGlvbiB3aWxsIGJlIHBhcnQgb2YgdGhlIHNhbWUgdHJhbnNhY3Rpb24gYXMgdGhlCiAgICAvLyBvcmlnaW5hbCBVc2VyLmNyZWF0ZSBjYWxsLgogICAgcmV0dXJuIFVzZXIudXBkYXRlKHsKICAgICAgbW9vZDogJ3NhZCcKICAgIH0pCiAgfSk7CgogIFVzZXIuYmVmb3JlQ3JlYXRlKHVzZXIgPT4gewogICAgY29uc29sZS5sb2coMSkKICB9KQoKICBVc2VyLmJlZm9yZVNhdmUodXNlciA9PiB7CiAgICBjb25zb2xlLmxvZygxKQogIH0pCiAgVXNlci5iZWZvcmVVcGRhdGUodXNlciA9PiB7CiAgICBjb25zb2xlLmxvZygxKQogIH0pCiAgVXNlci5iZWZvcmVWYWxpZGF0ZSh1c2VyID0+IHsKICAgIGNvbnNvbGUubG9nKDIpCiAgICBjb25zb2xlLmxvZyh1c2VyLmZpcnN0TmFtZSkKICAgIGNvbnNvbGUubG9nKHVzZXIubGFzdE5hbWUpCiAgfSk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="4">
-        <text>{
-      where: {
-        id: user.id
-      },
-      transaction: options.transaction
-    }</text>
+        <text encoding="base64">VXNlci5iZWZvcmVCdWxrVXBkYXRlKHVzZXIgPT4gewoJICBjb25zb2xlLmxvZyg5KQogIH0pOwoKICBVc2VyLmFkZEhvb2soJ2JlZm9yZUJ1bGtVcGRhdGUnLCAodXNlciwgb3B0aW9ucykgPT4gewogICAgY29uc29sZS5sb2coMTApCiAgfSk7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
