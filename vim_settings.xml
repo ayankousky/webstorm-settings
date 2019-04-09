@@ -187,13 +187,13 @@
         <mark key="." line="260" column="0" />
         <mark key="^" line="219" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1554838041558">
-        <mark key="'" line="32" column="4" />
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="26" column="8" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1554844467529">
+        <mark key="'" line="28" column="4" />
+        <mark key="[" line="96" column="20" />
         <mark key="m" line="22" column="20" />
-        <mark key="." line="26" column="8" />
-        <mark key="^" line="24" column="34" />
+        <mark key="]" line="96" column="21" />
+        <mark key="." line="96" column="21" />
+        <mark key="^" line="95" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/helpers/request/index.js" timestamp="1552230643129">
         <mark key="[" line="80" column="0" />
@@ -354,8 +354,11 @@
       <jump line="32" column="4" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgIHNldDogZnVuY3Rpb24gKHZhbCkgewogICAgICAgIGNvbnNvbGUubG9nKHRoaXMpCiAgICAgICAgcmV0dXJuICdrZWsnCiAgICAgIH0=</text>
+      <register name="&quot;" type="8">
+        <text>after
+after
+after
+after</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -370,7 +373,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>, );</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -388,28 +391,31 @@
         <text>ema</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlYXJjaFJlc3VsdC5ib2R5LmNvdW50LnNob3VsZC5iZS5lcSgxKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIuZmlyc3ROYW1lKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgIHNldDogZnVuY3Rpb24gKHZhbCkgewogICAgICAgIGNvbnNvbGUubG9nKHRoaXMpCiAgICAgICAgcmV0dXJuICdrZWsnCiAgICAgIH0=</text>
+      <register name="1" type="8">
+        <text>after
+after
+after
+after</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLmZ1bGxOYW1lID0gYCR7dXNlci5maXJzdE5hbWV9ICR7dXNlci5sYXN0TmFtZX1gOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaW5jbHVkZS53aGVyZS5tb2RlbE51bWJlcj0ge1tPcC5saWtlXTogYCUke3BhcmFtcy5tb2RlbE51bWJlcn0lYH07Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLmZ1bGxOYW1lID0gYCR7dXNlci5maXJzdE5hbWV9ICR7dXNlci5sYXN0TmFtZX1gOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcykK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaW5jbHVkZS53aGVyZS5uYW1lID0ge1tPcC5saWtlXTogYCUke3BhcmFtcy5icmFuZE5hbWV9JWB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyLmZ1bGxOYW1lKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLmZ1bGxOYW1lID0gYCR7dXNlci5maXJzdE5hbWV9ICR7dXNlci5sYXN0TmFtZX1gOwo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
@@ -417,11 +423,16 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcykK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgVXNlci5hZGRIb29rKCdhZnRlckNyZWF0ZScsICh1c2VyLCBvcHRpb25zKSA9PiB7CiAgICAvLyAndHJhbnNhY3Rpb24nIHdpbGwgYmUgYXZhaWxhYmxlIGluIG9wdGlvbnMudHJhbnNhY3Rpb24KCiAgICAvLyBUaGlzIG9wZXJhdGlvbiB3aWxsIGJlIHBhcnQgb2YgdGhlIHNhbWUgdHJhbnNhY3Rpb24gYXMgdGhlCiAgICAvLyBvcmlnaW5hbCBVc2VyLmNyZWF0ZSBjYWxsLgogICAgcmV0dXJuIFVzZXIudXBkYXRlKHsKICAgICAgbW9vZDogJ3NhZCcKICAgIH0pCiAgfSk7CgogIFVzZXIuYmVmb3JlQ3JlYXRlKHVzZXIgPT4gewogICAgY29uc29sZS5sb2coMSkKICB9KQoKICBVc2VyLmJlZm9yZVNhdmUodXNlciA9PiB7CiAgICBjb25zb2xlLmxvZygxKQogIH0pCiAgVXNlci5iZWZvcmVVcGRhdGUodXNlciA9PiB7CiAgICBjb25zb2xlLmxvZygxKQogIH0pCiAgVXNlci5iZWZvcmVWYWxpZGF0ZSh1c2VyID0+IHsKICAgIGNvbnNvbGUubG9nKDIpCiAgICBjb25zb2xlLmxvZyh1c2VyLmZpcnN0TmFtZSkKICAgIGNvbnNvbGUubG9nKHVzZXIubGFzdE5hbWUpCiAgfSk=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
+      <register name="9" type="4">
+        <text>{
+      where: {
+        id: user.id
+      },
+      transaction: options.transaction
+    }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
