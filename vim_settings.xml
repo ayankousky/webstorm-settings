@@ -113,17 +113,20 @@
         <mark key="^" line="64" column="13" />
         <mark key="." line="64" column="13" />
       </file>
+      <file name="/Dummy.txt" timestamp="1554792807033">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1553749394769">
         <mark key="[" line="587" column="51" />
         <mark key="]" line="587" column="63" />
         <mark key="." line="587" column="63" />
         <mark key="^" line="587" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1554761446908">
-        <mark key="'" line="145" column="74" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1554796637752">
+        <mark key="'" line="144" column="74" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/db/index.js" timestamp="1552239339999">
         <mark key="[" line="22" column="0" />
@@ -336,7 +339,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcykK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -372,37 +375,37 @@
         <text encoding="base64">ICAgIG1lZGljYWxQcm92aWRlcjogcmVxLnF1ZXJ5Lm1lZGljYWxQcm92aWRlciwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDEpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHF1ZXJ5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHF1ZXJ5KQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGV4aXN0ZWRGaWVsZHMgPSB7IC4uLnF1ZXJ5LndoZXJlIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgbGV0IGV4aXN0ZWRGaWVsZHMgPSB7IC4uLnF1ZXJ5LndoZXJlIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
