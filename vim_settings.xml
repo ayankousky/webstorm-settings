@@ -14,6 +14,12 @@
         <mark key="^" line="76" column="1" />
         <mark key="." line="76" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1556119609295">
+        <mark key="[" line="123" column="21" />
+        <mark key="]" line="123" column="21" />
+        <mark key="^" line="130" column="44" />
+        <mark key="." line="123" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/index.js" timestamp="1555912782632">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -95,6 +101,7 @@
         <mark key="." line="587" column="63" />
         <mark key="^" line="587" column="63" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1556054241712" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/server/Dockerfile" timestamp="1553265907276">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="4" column="28" />
@@ -197,6 +204,12 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1556119703073">
+        <mark key="[" line="227" column="31" />
+        <mark key="]" line="227" column="61" />
+        <mark key="." line="227" column="61" />
+        <mark key="^" line="227" column="61" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" timestamp="1553150812347">
         <mark key="[" line="552" column="16" />
         <mark key="]" line="552" column="16" />
@@ -216,12 +229,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1556045242371">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1554846447273">
-        <mark key="'" line="144" column="74" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/db/index.js" timestamp="1552239339999">
         <mark key="[" line="22" column="0" />
@@ -388,8 +395,8 @@
       <jump line="178" column="84" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Incorrect ip</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -404,7 +411,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>testu1</text>
+        <text>Incorrect ip</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -422,7 +429,7 @@
         <text>ema</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3VsdC5ib2R5LmRldmljZXNbMF0ubW9kZWxJZCkudG8uYmUubm90LnVuZGVmaW5lZDsK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXMuc3RhdHVzKDQwNCkuc2VuZCgnSW5jb3JyZWN0IGlwJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -431,31 +438,33 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3VsdC5ib2R5LnVzZXIuaXNWZXJpZmllZCkudG8uYmUuZXEoJ3Rlc3R1MScpOwo=</text>
+      <register name="5" type="4">
+        <text>location /bidding {
+      return 404;
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcykK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0LmJvZHkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
