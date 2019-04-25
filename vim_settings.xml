@@ -138,11 +138,11 @@
         <mark key="^" line="73" column="29" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1554962899055">
-        <mark key="[" line="384" column="81" />
-        <mark key="]" line="384" column="111" />
-        <mark key="^" line="384" column="111" />
-        <mark key="." line="384" column="111" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1556172844289">
+        <mark key="[" line="382" column="132" />
+        <mark key="]" line="382" column="132" />
+        <mark key="^" line="382" column="132" />
+        <mark key="." line="382" column="132" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/users.js" timestamp="1554653900087">
         <mark key="[" line="141" column="0" />
@@ -396,7 +396,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Incorrect ip</text>
+        <text>:</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -411,7 +411,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Incorrect ip</text>
+        <text>:</text>
       </register>
       <register name="m" type="4">
         <keys>
