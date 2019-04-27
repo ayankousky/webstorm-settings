@@ -37,6 +37,7 @@
         <mark key="^" line="25" column="143" />
         <mark key="." line="25" column="143" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/offers.js" timestamp="1556334047319" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/products/access.js" timestamp="1554656739250">
         <mark key="[" line="139" column="40" />
         <mark key="]" line="139" column="40" />
@@ -170,6 +171,12 @@
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/coupon.js" timestamp="1556334257334">
+        <mark key="[" line="112" column="5" />
+        <mark key="]" line="113" column="17" />
+        <mark key="^" line="113" column="17" />
+        <mark key="." line="113" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/firmware.js" timestamp="1556254130778">
         <mark key="[" line="412" column="90" />
@@ -417,7 +424,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>'sunsky-online.com'</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -432,7 +439,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>'sunsky-online.com'</text>
       </register>
       <register name="m" type="4">
         <keys>
