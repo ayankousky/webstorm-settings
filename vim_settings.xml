@@ -57,7 +57,12 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="44" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1556258915114" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1556858955513">
+        <mark key="[" line="970" column="28" />
+        <mark key="]" line="971" column="23" />
+        <mark key="." line="971" column="23" />
+        <mark key="^" line="971" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/PRO_access.js" timestamp="1555480806607">
         <mark key="[" line="85" column="28" />
         <mark key="]" line="85" column="34" />
@@ -179,6 +184,13 @@
         <mark key="]" line="113" column="17" />
         <mark key="^" line="113" column="17" />
         <mark key="." line="113" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1556859008280">
+        <mark key="'" line="890" column="29" />
+        <mark key="[" line="1752" column="0" />
+        <mark key="]" line="1752" column="0" />
+        <mark key="." line="1752" column="0" />
+        <mark key="^" line="1751" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/firmware.js" timestamp="1556254130778">
         <mark key="[" line="412" column="90" />
@@ -342,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/subdomain.js" />
       <jump line="335" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/subdomain.js" />
       <jump line="471" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/controllers/report/subdomain.js" />
       <jump line="30" column="28" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
@@ -385,7 +396,6 @@
       <jump line="844" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
       <jump line="812" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
       <jump line="308" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="1023" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
       <jump line="817" column="35" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
       <jump line="823" column="11" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
@@ -442,10 +452,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/products/products_api.js" />
       <jump line="47" column="16" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/dev/main_vulcanvision.yml" />
       <jump line="237" column="4" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/firmwareService.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="890" column="29" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICAgIC0gJzQ0Mzo0NDMnCg==</text>
+        <text encoding="base64">Ly8gICBpZiAoY29uZmlnLnNlcnZlcmxlc3Muc3RhZ2UgPT09ICdwcm9kJyl7Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -460,7 +472,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cpuCount</text>
+        <text>=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -478,22 +490,22 @@
         <text>ema</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAgICAgIC0gJzQ0Mzo0NDMnCg==</text>
+        <text encoding="base64">Ly8gICBpZiAoY29uZmlnLnNlcnZlcmxlc3Muc3RhZ2UgPT09ICdwcm9kJyl7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICBpZiAoY29uZmlnLnNlcnZlcmxlc3Muc3RhZ2UgPT09ICdwcm9kJyl7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2tlaycpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">YWxsQ2hhbm5lbHMgPSBhd2FpdCAoQ2hhbm5lbC5zY2FuKCkuZXhlYygpKQogIGNvbnNvbGUubG9nKGBUb3RhbCBjaGFubmVscyBsZW5ndGg6ICR7YWxsQ2hhbm5lbHMubGVuZ3RofWApOwogIGxldCBjb3VudGVyID0gMDsKCiAgLy8vLy8vLy8vLy8vLyB1cGRhdGUgY2hhbm5lbCBzdGF0cy8vLy8vLy8vLy8vLy8vLy8vCiAgYXdhaXQgUHJvbWlzZS5hbGwoYWxsQ2hhbm5lbHMubWFwKGFzeW5jIGNoID0+IHsKICAgIC8vIGxldCBjaGFubmVsID0gYXdhaXQgKENoYW5uZWwuZ2V0QnlJZChjaC5pZCkpOwogICAgdHJ5IHsKICAgICAgbGV0IGNoYW5uZWxTdGF0cyA9IGF3YWl0IChDaGFubmVsLmdldFN0YXRzKGNoLmlkKSk7CiAgICAgIGNvbnNvbGUubG9nKGNoYW5uZWxTdGF0cy50b3RhbE9jY3VwaWVkU2l6ZS50b0ZpeGVkKDQpIC0gMCkKICAgICAgYXdhaXQgQ2hhbm5lbC51cGRhdGUoe2lkOiBjaC5pZH0sIHt0b3RhbFZpZGVvc1NpemU6IGNoYW5uZWxTdGF0cy50b3RhbE9jY3VwaWVkU2l6ZS50b0ZpeGVkKDQpIC0gMH0pCgogICAgICAvLyBhd2FpdCAoY2hhbm5lbC5zYXZlKCkpOwogICAgfSBjYXRjaChlKXsKICAgICAgY29uc29sZS5sb2coJ0Vycm9yIG9uIHNhdmluZyBjaGFubmVsOicpOwogICAgICBjb25zb2xlLmxvZyhlKTsKICAgIH0KICB9KSk=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2tlaycpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -508,10 +520,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Li4uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
