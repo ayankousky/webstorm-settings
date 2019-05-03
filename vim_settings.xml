@@ -185,12 +185,11 @@
         <mark key="^" line="113" column="17" />
         <mark key="." line="113" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1556859008280">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1556859018484">
         <mark key="'" line="890" column="29" />
-        <mark key="[" line="1752" column="0" />
-        <mark key="]" line="1752" column="0" />
-        <mark key="." line="1752" column="0" />
-        <mark key="^" line="1751" column="36" />
+        <mark key="[" line="1751" column="0" />
+        <mark key="]" line="1751" column="0" />
+        <mark key="." line="1751" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/firmware.js" timestamp="1556254130778">
         <mark key="[" line="412" column="90" />
@@ -283,6 +282,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1556258898513">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1554846447273">
+        <mark key="'" line="144" column="74" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/.dockerignore" timestamp="1556255964800">
         <mark key="[" line="2" column="0" />
@@ -457,7 +462,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICBpZiAoY29uZmlnLnNlcnZlcmxlc3Muc3RhZ2UgPT09ICdwcm9kJyl7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb25maWcuc2VydmVybGVzcy5zdGFnZSkK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -493,22 +498,22 @@
         <text encoding="base64">Ly8gICBpZiAoY29uZmlnLnNlcnZlcmxlc3Muc3RhZ2UgPT09ICdwcm9kJyl7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICBpZiAoY29uZmlnLnNlcnZlcmxlc3Muc3RhZ2UgPT09ICdwcm9kJyl7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb25maWcuc2VydmVybGVzcy5zdGFnZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICBpZiAoY29uZmlnLnNlcnZlcmxlc3Muc3RhZ2UgPT09ICdwcm9kJyl7Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">YWxsQ2hhbm5lbHMgPSBhd2FpdCAoQ2hhbm5lbC5zY2FuKCkuZXhlYygpKQogIGNvbnNvbGUubG9nKGBUb3RhbCBjaGFubmVscyBsZW5ndGg6ICR7YWxsQ2hhbm5lbHMubGVuZ3RofWApOwogIGxldCBjb3VudGVyID0gMDsKCiAgLy8vLy8vLy8vLy8vLyB1cGRhdGUgY2hhbm5lbCBzdGF0cy8vLy8vLy8vLy8vLy8vLy8vCiAgYXdhaXQgUHJvbWlzZS5hbGwoYWxsQ2hhbm5lbHMubWFwKGFzeW5jIGNoID0+IHsKICAgIC8vIGxldCBjaGFubmVsID0gYXdhaXQgKENoYW5uZWwuZ2V0QnlJZChjaC5pZCkpOwogICAgdHJ5IHsKICAgICAgbGV0IGNoYW5uZWxTdGF0cyA9IGF3YWl0IChDaGFubmVsLmdldFN0YXRzKGNoLmlkKSk7CiAgICAgIGNvbnNvbGUubG9nKGNoYW5uZWxTdGF0cy50b3RhbE9jY3VwaWVkU2l6ZS50b0ZpeGVkKDQpIC0gMCkKICAgICAgYXdhaXQgQ2hhbm5lbC51cGRhdGUoe2lkOiBjaC5pZH0sIHt0b3RhbFZpZGVvc1NpemU6IGNoYW5uZWxTdGF0cy50b3RhbE9jY3VwaWVkU2l6ZS50b0ZpeGVkKDQpIC0gMH0pCgogICAgICAvLyBhd2FpdCAoY2hhbm5lbC5zYXZlKCkpOwogICAgfSBjYXRjaChlKXsKICAgICAgY29uc29sZS5sb2coJ0Vycm9yIG9uIHNhdmluZyBjaGFubmVsOicpOwogICAgICBjb25zb2xlLmxvZyhlKTsKICAgIH0KICB9KSk=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2tlaycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2tlaycpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
