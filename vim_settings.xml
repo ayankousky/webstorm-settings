@@ -107,11 +107,12 @@
         <mark key="^" line="113" column="17" />
         <mark key="." line="113" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1556859018484">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1556866789283">
         <mark key="'" line="890" column="29" />
-        <mark key="[" line="1751" column="0" />
-        <mark key="]" line="1751" column="0" />
-        <mark key="." line="1751" column="0" />
+        <mark key="[" line="1752" column="45" />
+        <mark key="]" line="1752" column="73" />
+        <mark key="." line="1752" column="73" />
+        <mark key="^" line="1752" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/firmware.js" timestamp="1556254130778">
         <mark key="[" line="412" column="90" />
@@ -125,6 +126,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1556866786458" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/firmwares.js" timestamp="1556254050467" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/click_stat.js" timestamp="1555355514889">
         <mark key="[" line="58" column="0" />
@@ -303,8 +305,8 @@
       <jump line="27" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'376'</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -319,7 +321,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>single thread</text>
+        <text>'376'</text>
       </register>
       <register name="m" type="4">
         <keys>
