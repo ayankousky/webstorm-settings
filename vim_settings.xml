@@ -43,7 +43,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/index.js" timestamp="1557662578973" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/index.js" timestamp="1557678465014" />
       <file name="$USER_HOME$/Desktop/default" timestamp="1554099802048">
         <mark key="[" line="143" column="0" />
         <mark key="]" line="143" column="0" />
@@ -60,17 +60,17 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/model/product.js" timestamp="1557673283933">
-        <mark key="[" line="89" column="67" />
-        <mark key="]" line="89" column="67" />
-        <mark key="^" line="89" column="62" />
-        <mark key="." line="89" column="67" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/model/product.js" timestamp="1557677800062">
+        <mark key="[" line="92" column="61" />
+        <mark key="]" line="92" column="69" />
+        <mark key="^" line="92" column="69" />
+        <mark key="." line="92" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/mobile_api/index.js" timestamp="1557667641336">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="68" column="47" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/mobile_api/index.js" timestamp="1557678136237">
+        <mark key="[" line="86" column="41" />
+        <mark key="]" line="86" column="474" />
+        <mark key="^" line="86" column="474" />
+        <mark key="." line="86" column="474" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/cloud_user.js" timestamp="1556858955513">
         <mark key="[" line="970" column="28" />
@@ -102,11 +102,11 @@
         <mark key="." line="68" column="95" />
         <mark key="^" line="68" column="95" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/controllers/v0/devices.js" timestamp="1557677221772">
-        <mark key="[" line="130" column="2" />
-        <mark key="]" line="130" column="1" />
-        <mark key="^" line="130" column="1" />
-        <mark key="." line="130" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/controllers/v0/devices.js" timestamp="1557677916587">
+        <mark key="[" line="135" column="2" />
+        <mark key="]" line="135" column="8" />
+        <mark key="." line="135" column="8" />
+        <mark key="^" line="135" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" timestamp="1553150812347">
         <mark key="[" line="552" column="16" />
@@ -163,6 +163,12 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/users/user_api.js" timestamp="1557678521685">
+        <mark key="[" line="227" column="52" />
+        <mark key="]" line="207" column="51" />
+        <mark key="." line="207" column="51" />
+        <mark key="^" line="207" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/.dockerignore" timestamp="1556255964800">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -209,11 +215,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" timestamp="1557673244475">
-        <mark key="[" line="186" column="114" />
-        <mark key="]" line="186" column="115" />
-        <mark key="^" line="186" column="115" />
-        <mark key="." line="186" column="115" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" timestamp="1557678146629">
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="0" />
+        <mark key="." line="201" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1556172922238">
         <mark key="[" line="382" column="132" />
@@ -332,7 +337,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNlbmQoe2NoYW5nZXM6IHtjb3VudHJ5OiAnVWtyYWluZSd9fSkpOwo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -347,7 +352,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Ukraine</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -368,37 +373,51 @@
         <text encoding="base64">ICByZXMuc2V0SGVhZGVyKCdDb250ZW50LVR5cGUnLCAnYXBwbGljYXRpb24vZm9yY2UtZG93bmxvYWQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNlbmQoe2NoYW5nZXM6IHtjb3VudHJ5OiAnVWtyYWluZSd9fSkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBGaXJtd2FyZVJldmlzaW9uID0gcmVxdWlyZSgnLi4vLi4vbW9kZWwvZmlybXdhcmVSZXZpc2lvbicpOwo=</text>
+        <text encoding="base64">ICAgICAgcmVzdWx0LmJvZHkubW9kZWxGdW5jdGlvbnMubGVuZ3RoLnNob3VsZC5iZS5lcSg2KQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBQcm9kdWN0RnVuY3Rpb24gPSByZXF1aXJlKCcuLi8uLi9tb2RlbC9wcm9kdWN0RnVuY3Rpb24nKTsK</text>
+      <register name="4" type="4">
+        <text>;
+      expect(result.body.modelFunctions[0].index).to.be.not.undefined;
+      expect(result.body.modelFunctions[0].name).to.be.not.undefined;
+      expect(result.body.modelFunctions[0].unit).to.be.not.undefined;
+      expect(result.body.modelFunctions[0].isOn).to.be.not.undefined;
+      expect(result.body.modelFunctions[0].isAndroid).to.be.not.undefined;
+      expect(result.body.modelFunctions[0].isIOS).to.be.not.undefined;
+      expect(result.body.modelFunctions[0].value).to.be.not.undefined;
+      expect(result.body.logoUrl).to.be.not.undefined;
+      expect(result.body.logoSmUrl).to.be.not.undefined;
+      result.body.calibration.length.should.be.eq(4);
+      result.body.licenses.length.should.be.eq(0);
+      result.body.firmwareId.should.be.eq('37aac5ab-e344-4fed-937f-a8db6a4f1b01');
+      result.body.revId.should.be.eq('37aac5ab-e344-4fed-937f-a8db6a4f1b06');
+      result.body.ts.should.be.gt(0);</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHRleHQrPSBgMDEuMDEuMDEuMDEsMTE7YDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHRleHQrPSBgMDEuMDAxLjAxLDExO2A7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRleHQgKz0gcmV2aXNpb25GdW5jID8gcmV2aXNpb25GdW5jLnRvVGV4dCgpIDogYDAxLjAxLjAxLjAxLDExO2A7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRleHQgKz0gZnVuYy5pc0lPUyAgICAgPyAnMScgOiAnMCc7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
