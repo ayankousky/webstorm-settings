@@ -43,7 +43,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/index.js" timestamp="1557650829782" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/index.js" timestamp="1557662578973" />
       <file name="$USER_HOME$/Desktop/default" timestamp="1554099802048">
         <mark key="[" line="143" column="0" />
         <mark key="]" line="143" column="0" />
@@ -186,6 +186,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" timestamp="1557664411273">
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1556172922238">
         <mark key="[" line="382" column="132" />
         <mark key="]" line="382" column="132" />
@@ -303,7 +308,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNJT1MgICAgID0gZmllbGRzLmlzSU9TOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -339,7 +344,7 @@
         <text encoding="base64">ICAgIHRoaXMuaXNJT1MgICAgID0gZmllbGRzLmlzSU9TOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0dGluZyAgID0gZmllbGRzLnNldHRpbmc7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -348,28 +353,28 @@
         <text encoding="base64">ICAgIHRoaXMuc2V0dGluZyAgID0gZmllbGRzLnNldHRpbmc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXBkYXRlZEF0ID0gZmllbGRzLnVwZGF0ZWRBdDsK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0dGluZyAgID0gZmllbGRzLnNldHRpbmc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIHRoaXMudXBkYXRlZEF0ID0gZmllbGRzLnVwZGF0ZWRBdDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWdpdEBzc2guZGV2LmF6dXJlLmNvbTp2My9tYXVndXN0eW5pYWswODgxL1BZT1VScHJvamVjdC9hY2Nlc3NfbWFuYWdlcgo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWdpdEBzc2guZGV2LmF6dXJlLmNvbTp2My9tYXVndXN0eW5pYWswODgxL1BZT1VScHJvamVjdC9hY2Nlc3NfbWFuYWdlcgo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGV0IGkgPSBNYXRoLnJhbmRvbSgpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygna2VrJykK</text>
+        <text encoding="base64">bGV0IGkgPSBNYXRoLnJhbmRvbSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
