@@ -77,6 +77,12 @@
         <mark key="." line="26" column="19" />
         <mark key="^" line="26" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/controllers/v0/devices.js" timestamp="1558108324690">
+        <mark key="[" line="88" column="35" />
+        <mark key="]" line="88" column="106" />
+        <mark key="." line="88" column="106" />
+        <mark key="^" line="88" column="106" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1556254329637">
         <mark key="[" line="68" column="67" />
         <mark key="]" line="68" column="95" />
@@ -113,7 +119,7 @@
         <mark key="^" line="57" column="15" />
         <mark key="." line="57" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558105382042">
+      <file name="/Dummy.txt" timestamp="1558105538425">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/firmware.js" timestamp="1556253697631">
@@ -265,7 +271,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MFF,11;M.prd4.og1.br1.v.00,11;16.05.2019,11;01.02.03.04,11;01.228.01,11;M,11;100,11;0,11;1,11;0,11;1,11;3,11;45,11;0,11;3,11;47,11;0,11;3,11;50,11;0,11;3,11;52,11;0,11;3,11;58,11;0,11;3,11;59,11;0,11;3,11;1,11;3,11;1,11;3,11;1,11;3,11;0,11;1,11;1,11;0,11;1,11;0,11;0,11;1,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;1,11;1,11;0,11;0,11;1,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;</text>
+        <text>https://pyouraaldev.blob.core.windows.net/public/3Kb.pdf</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -280,7 +286,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MFF,11;M.prd4.og1.br1.v.00,11;16.05.2019,11;01.02.03.04,11;01.228.01,11;M,11;100,11;0,11;1,11;0,11;1,11;3,11;45,11;0,11;3,11;47,11;0,11;3,11;50,11;0,11;3,11;52,11;0,11;3,11;58,11;0,11;3,11;59,11;0,11;3,11;1,11;3,11;1,11;3,11;1,11;3,11;0,11;1,11;1,11;0,11;1,11;0,11;0,11;1,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;1,11;1,11;0,11;0,11;1,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;0,11;</text>
+        <text>https://pyouraaldev.blob.core.windows.net/public/3Kb.pdf</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -288,8 +294,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmd2ZcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>34</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICByZXNwb25zZU9iamVjdC5wcm9kdWN0SW5mb1VybCA9ICdodHRwczovL3B5b3VyYWFsZGV2LmJsb2IuY29yZS53aW5kb3dzLm5ldC9wdWJsaWMvM0tiLnBkZic7IC8vICoqKlRvRG8qKio6IGhhcmRjb2RlZAo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICAgIGlmIChmdW5jLnRvVGV4dCgpID09PSAnLDExOycpIHsKICAgICAgICBjb25zb2xlLmxvZyhmdW5jKQogICAgICB9</text>
