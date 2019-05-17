@@ -5,7 +5,9 @@
       <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern="access_log" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
+      <mapping pattern="my_mff" type="PLAIN_TEXT" />
       <mapping pattern="sadf" type="PLAIN_TEXT" />
+      <mapping pattern="thier_mff" type="PLAIN_TEXT" />
       <mapping pattern="users_addCoulumn_roleId.sql" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="4" type="YAML" />
