@@ -120,11 +120,18 @@
       <file name="/Dummy.txt" timestamp="1558364115800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/dev/main_vulcanvision.yml" timestamp="1558412887456">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="12" />
-        <mark key="." line="3" column="12" />
-        <mark key="^" line="3" column="12" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/dev/main_vulcanvision.yml" timestamp="1558413499445">
+        <mark key="[" line="53" column="39" />
+        <mark key="]" line="54" column="29" />
+        <mark key="." line="54" column="29" />
+        <mark key="^" line="54" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1558413610193">
+        <mark key="'" line="82" column="42" />
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/firmware.js" timestamp="1556253697631">
         <mark key="[" line="74" column="0" />
@@ -171,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db/init/01-filldb.sh" />
       <jump line="3" column="762" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db/init/01-filldb.sh" />
       <jump line="62" column="32" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" />
       <jump line="114" column="17" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
@@ -271,10 +277,11 @@
       <jump line="212" column="98" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
       <jump line="213" column="86" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
       <jump line="225" column="327" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="82" column="42" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>0</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -289,7 +296,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>0</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -300,17 +307,21 @@
       <register name="0" type="2">
         <text encoding="base64">ICByZXNwb25zZU9iamVjdC5wcm9kdWN0SW5mb1VybCA9ICdodHRwczovL3B5b3VyYWFsZGV2LmJsb2IuY29yZS53aW5kb3dzLm5ldC9wdWJsaWMvM0tiLnBkZic7IC8vICoqKlRvRG8qKio6IGhhcmRjb2RlZAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgIGlmIChmdW5jLnRvVGV4dCgpID09PSAnLDExOycpIHsKICAgICAgICBjb25zb2xlLmxvZyhmdW5jKQogICAgICB9</text>
+      <register name="1" type="8">
+        <text>dev
+dev
+dev
+dev
+dev</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGZ3ZiA9IGF3YWl0IGRiLmZpcm13YXJlRnVuY3Rpb24udXBzZXJ0KHsgaWQ6ICdmd2YnLCBuYW1lOiAnJywgaW5kZXg6ICcyNCcsIHVuaXQ6ICdOQScsIGlzQW5kcm9pZDogdHJ1ZSwgaXNJT1M6IHRydWUsIHZhbHVlOiAnJ30sIHtyZXR1cm5pbmc6IHRydWV9KTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgIGlmIChmdW5jLnRvVGV4dCgpID09PSAnLDExOycpIHsKICAgICAgICBjb25zb2xlLmxvZyhmdW5jKQogICAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGZ3ZiA9IGF3YWl0IGRiLmZpcm13YXJlRnVuY3Rpb24udXBzZXJ0KHsgaWQ6ICdmd2YnLCBuYW1lOiAnJywgaW5kZXg6ICcnLCB1bml0OiAnTkEnLCBpc0FuZHJvaWQ6IHRydWUsIGlzSU9TOiB0cnVlLCB2YWx1ZTogJyd9LCB7cmV0dXJuaW5nOiB0cnVlfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IGZ3ZiA9IGF3YWl0IGRiLmZpcm13YXJlRnVuY3Rpb24udXBzZXJ0KHsgaWQ6ICdmd2YnLCBuYW1lOiAnJywgaW5kZXg6ICcyNCcsIHVuaXQ6ICdOQScsIGlzQW5kcm9pZDogdHJ1ZSwgaXNJT1M6IHRydWUsIHZhbHVlOiAnJ30sIHtyZXR1cm5pbmc6IHRydWV9KTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgbGV0IGZ3ZiA9IGF3YWl0IGRiLmZpcm13YXJlRnVuY3Rpb24udXBzZXJ0KHsgaWQ6ICdmd2YnLCBuYW1lOiAnJywgaW5kZXg6ICcnLCB1bml0OiAnTkEnLCBpc0FuZHJvaWQ6IHRydWUsIGlzSU9TOiB0cnVlLCB2YWx1ZTogJyd9LCB7cmV0dXJuaW5nOiB0cnVlfSk7Cg==</text>
@@ -319,19 +330,19 @@
         <text encoding="base64">ICAgICAgbGV0IGZ3ZiA9IGF3YWl0IGRiLmZpcm13YXJlRnVuY3Rpb24udXBzZXJ0KHsgaWQ6ICdmd2YnLCBuYW1lOiAnJywgaW5kZXg6ICcnLCB1bml0OiAnTkEnLCBpc0FuZHJvaWQ6IHRydWUsIGlzSU9TOiB0cnVlLCB2YWx1ZTogJyd9LCB7cmV0dXJuaW5nOiB0cnVlfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IGZ3ZiA9IGF3YWl0IGRiLmZpcm13YXJlRnVuY3Rpb24udXBzZXJ0KHsgaWQ6ICdmd2YnLCBuYW1lOiAnJywgaW5kZXg6ICcnLCB1bml0OiAnTkEnLCBpc0FuZHJvaWQ6IHRydWUsIGlzSU9TOiB0cnVlLCB2YWx1ZTogJyd9LCB7cmV0dXJuaW5nOiB0cnVlfSk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gZmlybXdhcmUgcmV2aXNpb25zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gbGV0IGZtcjQgPSBhd2FpdCBkYi5maXJtd2FyZVJldmlzaW9uLnVwc2VydCh7aWQ6ICczN2FhYzVhYi1lMzQ0LTRmZWQtOTM3Zi1hOGRiNmE0ZjFiMDYnLCBuYW1lOiAnMy4xLjEuNCcsIGlzUmVsZWFzZWQ6IHRydWUsIGlzVXBsb2FkZWQ6IHRydWUsICJyZWxlYXNlRGF0ZSI6ICIyMDE5LTAzLTI1VDEyOjQyOjMyLjUzMFoiLCBpc0dsb2JhbDogdHJ1ZX0sIHtyZXR1cm5pbmc6IHRydWV9KQo=</text>
+        <text encoding="base64">ICAgICAgLy8gZmlybXdhcmUgcmV2aXNpb25zCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gbGV0IGZtcjMgPSBhd2FpdCBkYi5maXJtd2FyZVJldmlzaW9uLnVwc2VydCh7aWQ6ICczN2FhYzVhYi1lMzQ0LTRmZWQtOTM3Zi1hOGRiNmE0ZjFiMDUnLCBuYW1lOiAnMS4xLjEuMSd9LCB7cmV0dXJuaW5nOiB0cnVlfSkK</text>
+        <text encoding="base64">ICAgICAgLy8gbGV0IGZtcjQgPSBhd2FpdCBkYi5maXJtd2FyZVJldmlzaW9uLnVwc2VydCh7aWQ6ICczN2FhYzVhYi1lMzQ0LTRmZWQtOTM3Zi1hOGRiNmE0ZjFiMDYnLCBuYW1lOiAnMy4xLjEuNCcsIGlzUmVsZWFzZWQ6IHRydWUsIGlzVXBsb2FkZWQ6IHRydWUsICJyZWxlYXNlRGF0ZSI6ICIyMDE5LTAzLTI1VDEyOjQyOjMyLjUzMFoiLCBpc0dsb2JhbDogdHJ1ZX0sIHtyZXR1cm5pbmc6IHRydWV9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
