@@ -33,6 +33,12 @@
         <mark key="^" line="84" column="7" />
         <mark key="." line="98" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1558423120876">
+        <mark key="[" line="562" column="0" />
+        <mark key="]" line="562" column="0" />
+        <mark key="^" line="516" column="7" />
+        <mark key="." line="562" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user_lists.js" timestamp="1558416420207">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -75,6 +81,18 @@
         <mark key="^" line="55" column="7" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/storage_providers/VulcamStorage.js" timestamp="1558422716421">
+        <mark key="[" line="66" column="2" />
+        <mark key="]" line="66" column="7" />
+        <mark key="^" line="66" column="7" />
+        <mark key="." line="66" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/apple.js" timestamp="1558422781918">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" timestamp="1558420932645">
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="0" />
@@ -86,6 +104,12 @@
         <mark key="]" line="57" column="15" />
         <mark key="^" line="57" column="15" />
         <mark key="." line="57" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1558422902950">
+        <mark key="[" line="717" column="0" />
+        <mark key="]" line="717" column="0" />
+        <mark key="^" line="623" column="7" />
+        <mark key="." line="717" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/VUE_subscription.js" timestamp="1558420618203">
         <mark key="[" line="38" column="0" />
@@ -165,11 +189,11 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="529" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1557814246252">
-        <mark key="[" line="590" column="22" />
-        <mark key="]" line="591" column="12" />
-        <mark key="^" line="591" column="12" />
-        <mark key="." line="591" column="12" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1558423289849">
+        <mark key="[" line="829" column="0" />
+        <mark key="]" line="829" column="0" />
+        <mark key="^" line="819" column="7" />
+        <mark key="." line="829" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/channels/internal.js" timestamp="1558420658153">
         <mark key="[" line="77" column="0" />
@@ -219,7 +243,7 @@
         <mark key="." line="33" column="28" />
         <mark key="^" line="33" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558420909822">
+      <file name="/Dummy.txt" timestamp="1558422797510">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/queue/entities/queue.js" timestamp="1558420814532">
@@ -234,11 +258,11 @@
         <mark key="^" line="88" column="7" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1558421269060">
-        <mark key="[" line="1372" column="0" />
-        <mark key="]" line="1372" column="0" />
-        <mark key="^" line="1360" column="7" />
-        <mark key="." line="1372" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1558422795125">
+        <mark key="[" line="1669" column="0" />
+        <mark key="]" line="1669" column="0" />
+        <mark key="^" line="1645" column="7" />
+        <mark key="." line="1669" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/videos/internal.js" timestamp="1558420597425">
         <mark key="[" line="221" column="0" />
@@ -263,6 +287,12 @@
         <mark key="]" line="65" column="0" />
         <mark key="^" line="62" column="7" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/storage_providers/AppleStorage.js" timestamp="1558422741965">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/index.js" timestamp="1558420711374">
         <mark key="[" line="110" column="0" />
@@ -414,7 +444,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -438,7 +468,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhc3luYygoKT0+ewo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBhc3luYygoKSA9PiB7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIH0pKCk7Cg==</text>
@@ -450,13 +480,13 @@
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBhc3luYygoKT0+IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhc3luYygoKT0+ewo=</text>
+        <text encoding="base64">ICAgIH0pKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
