@@ -150,12 +150,12 @@
         <mark key="^" line="62" column="7" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1558433939561">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1558443486535">
         <mark key="'" line="17" column="28" />
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-        <mark key="^" line="10" column="18" />
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" timestamp="1558420556779">
         <mark key="[" line="259" column="0" />
@@ -228,7 +228,10 @@
         <mark key="." line="859" column="44" />
         <mark key="^" line="859" column="28" />
       </file>
-      <file name="$USER_HOME$/Google Drive/Work/VulcanVision/gaia_node_modules_serverless-plugin-warmup_src_index.js" timestamp="1558436756442" />
+      <file name="$USER_HOME$/Google Drive/Work/VulcanVision/gaia_node_modules_serverless-plugin-warmup_src_index.js" timestamp="1558443043863">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/coupon.js" timestamp="1556334257334">
         <mark key="[" line="112" column="5" />
         <mark key="]" line="113" column="17" />
@@ -252,11 +255,11 @@
         <mark key="]" line="67" column="5" />
         <mark key="." line="67" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/serverless-plugin-warmup/src/index.js" timestamp="1558436760421">
-        <mark key="[" line="46" column="3" />
-        <mark key="]" line="62" column="2" />
-        <mark key="^" line="62" column="2" />
-        <mark key="." line="62" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/node_modules/serverless-plugin-warmup/src/index.js" timestamp="1558443054700">
+        <mark key="[" line="36" column="3" />
+        <mark key="]" line="52" column="2" />
+        <mark key="." line="52" column="2" />
+        <mark key="^" line="52" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1558430500679">
         <mark key="[" line="804" column="9" />
@@ -269,6 +272,12 @@
         <mark key="]" line="77" column="0" />
         <mark key="^" line="57" column="7" />
         <mark key="." line="77" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/bin/run_serverless.sh" timestamp="1558441824140">
+        <mark key="[" line="37" column="27" />
+        <mark key="]" line="38" column="27" />
+        <mark key="^" line="38" column="27" />
+        <mark key="." line="38" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/index.js" timestamp="1558420960122">
         <mark key="[" line="48" column="0" />
@@ -357,7 +366,7 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558436688607">
+      <file name="/Dummy.txt" timestamp="1558442912970">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1558428564418">
@@ -418,11 +427,11 @@
         <mark key="." line="85" column="24" />
         <mark key="^" line="85" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/deploy.sh" timestamp="1558433081977">
-        <mark key="[" line="25" column="42" />
-        <mark key="]" line="25" column="42" />
-        <mark key="." line="25" column="42" />
-        <mark key="^" line="25" column="80" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/deploy.sh" timestamp="1558441854611">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/queue/index.js" timestamp="1558420775211">
         <mark key="[" line="65" column="0" />
@@ -586,7 +595,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJHRhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgJ2JlZm9yZTpkZXBsb3k6ZGVwbG95JzogdGhpcy5iZWZvcmVEZXBsb3kuYmluZCh0aGlzKSwK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -601,7 +610,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -610,7 +619,7 @@
         <text encoding="base64">XDxmd2ZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQoUHJvbWlzZS5hbGwoYWxsVXBsb2FkZWRWaWRlb3MubWFwKGFzeW5jICh2ID0+IHsK</text>
+        <text encoding="base64">ICAgICAgJ2JlZm9yZTpkZXBsb3k6ZGVwbG95JzogdGhpcy5iZWZvcmVEZXBsb3kuYmluZCh0aGlzKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVjaG8gJHRhYmxlCg==</text>
