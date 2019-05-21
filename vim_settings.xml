@@ -120,6 +120,12 @@
       <file name="/Dummy.txt" timestamp="1558364115800">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/dev/main_vulcanvision.yml" timestamp="1558412887456">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/firmware.js" timestamp="1556253697631">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="57" />
@@ -268,7 +274,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://pyouraaldev.blob.core.windows.net/public/3Kb.pdf</text>
+        <text>dev</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -283,7 +289,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>https://pyouraaldev.blob.core.windows.net/public/3Kb.pdf</text>
+        <text>dev</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
