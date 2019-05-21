@@ -135,12 +135,12 @@
         <mark key="^" line="62" column="7" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1558432677849">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1558433939561">
         <mark key="'" line="17" column="28" />
         <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="10" column="20" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user.js" timestamp="1558420556779">
         <mark key="[" line="259" column="0" />
@@ -532,7 +532,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LS1hcmNoPXg2NCAtLXBsYXRmb3JtPWxpbnV4IC0tdGFyZ2V0PTEwLjE1LjMg</text>
+        <text>.</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -547,7 +547,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LS1hcmNoPXg2NCAtLXBsYXRmb3JtPWxpbnV4IC0tdGFyZ2V0PTEwLjE1LjMg</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
