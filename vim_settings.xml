@@ -150,7 +150,7 @@
         <mark key="^" line="62" column="7" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1558467398132">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1558467405472">
         <mark key="'" line="17" column="28" />
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="20" />
@@ -205,7 +205,8 @@
         <mark key="^" line="382" column="132" />
         <mark key="." line="382" column="132" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1558428629979">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1558467559141">
+        <mark key="'" line="1077" column="44" />
         <mark key="[" line="1077" column="44" />
         <mark key="]" line="1077" column="44" />
         <mark key="." line="1077" column="44" />
@@ -500,7 +501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="17" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init_test_data.js" />
       <jump line="24" column="99" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" />
       <jump line="100" column="25" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="822" column="55" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
@@ -600,6 +600,7 @@
       <jump line="82" column="42" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="359" column="12" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="17" column="28" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
+      <jump line="1077" column="44" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
