@@ -125,12 +125,12 @@
         <mark key="^" line="62" column="7" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_blacklist.js" timestamp="1558676495188">
-        <mark key="'" line="30" column="38" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="35" column="19" />
-        <mark key="." line="35" column="19" />
-        <mark key="^" line="35" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_blacklist.js" timestamp="1558677327109">
+        <mark key="'" line="0" column="3" />
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="40" column="53" />
+        <mark key="." line="40" column="53" />
+        <mark key="^" line="40" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/firmwares.js" timestamp="1556254251622">
         <mark key="[" line="19" column="26" />
@@ -586,7 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="847" column="19" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
       <jump line="844" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
       <jump line="812" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
       <jump line="308" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
@@ -686,6 +685,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="4" column="29" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="29" column="38" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_blacklist.js" />
+      <jump line="0" column="3" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_blacklist.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
