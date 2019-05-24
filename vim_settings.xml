@@ -44,9 +44,9 @@
         <mark key="^" line="553" column="57" />
         <mark key="." line="553" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/whitelist.js" timestamp="1558673966366">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="44" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/whitelist.js" timestamp="1558675211649">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1558427967626">
         <mark key="[" line="292" column="71" />
@@ -125,11 +125,12 @@
         <mark key="^" line="62" column="7" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_blacklist.js" timestamp="1558674041040">
-        <mark key="[" line="30" column="108" />
-        <mark key="]" line="30" column="118" />
-        <mark key="." line="30" column="118" />
-        <mark key="^" line="30" column="118" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_blacklist.js" timestamp="1558675558696">
+        <mark key="'" line="30" column="38" />
+        <mark key="[" line="36" column="140" />
+        <mark key="]" line="36" column="144" />
+        <mark key="." line="36" column="144" />
+        <mark key="^" line="36" column="144" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/firmwares.js" timestamp="1556254251622">
         <mark key="[" line="19" column="26" />
@@ -461,11 +462,11 @@
         <mark key="." line="68" column="95" />
         <mark key="^" line="68" column="95" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1558673936971">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1558674989627">
         <mark key="'" line="4" column="29" />
-        <mark key="[" line="341" column="0" />
-        <mark key="]" line="341" column="0" />
-        <mark key="." line="341" column="0" />
+        <mark key="[" line="368" column="5" />
+        <mark key="]" line="368" column="5" />
+        <mark key="." line="368" column="5" />
         <mark key="^" line="339" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" timestamp="1558428660550">
@@ -585,7 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="831" column="103" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
       <jump line="847" column="19" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
       <jump line="844" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
       <jump line="812" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
@@ -685,10 +685,11 @@
       <jump line="239" column="33" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="4" column="29" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
+      <jump line="29" column="38" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_blacklist.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>reqDomain</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBqbAo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -703,7 +704,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>reqDomain</text>
+        <text>clearDomain</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -712,43 +713,45 @@
         <text encoding="base64">XDxyb290XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBnZXRIb3N0ICAgICAgICAgID0gaGVscGVycy5jb21tb24uZ2V0SG9zdDsK</text>
+        <text encoding="base64">ICBpZiAoISFhd2FpdCBNb2RlbC5maW5kT25lKHsgX2lkOiBjYW1wYWlnbiwgYmxhY2tsaXN0OiB7ICRlbGVtTWF0Y2g6IHsgcmVnaW9uOiByZWdpb24sIGRvbWFpbnM6IHsgJGluOiBbY2xlYXJEb21haW5dIH0gfSB9IH0pKSByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBqbAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNsaSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGNsaWNrSWQgPSByZXEucXVlcnkucAogICAgLCA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXBpS2V5ICAgIDogY0tleSwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdXNlckFnZW50IDogY2xpY2tVc2VyQWdlbnQsCg==</text>
+        <text encoding="base64">ICByZXR1cm4gISFhd2FpdCBNb2RlbC5maW5kT25lKHsgX2lkOiBjYW1wYWlnbiwgYmxhY2tsaXN0OiB7ICRlbGVtTWF0Y2g6IHsgcmVnaW9uOiByZWdpb24sIGRvbWFpbnM6IHsgJGluOiBbY2xlYXJEb21haW5dIH0gfSB9IH0pKXsK</text>
       </register>
-      <register name="6" type="8">
-        <text>click.userAgent
-click.userAgent
-click.userAgent
-click.userAgent</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIG1lcmNoYW50ICAgICAgOiBvZmZlci5zdG9yZV8K</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IAogIC8vIGNvbnN0IHVzZXJJcCAgICAgICA9IHJlcS5xdWVyeS5pcCwKICAvLyAgIHJlcURvbWFpbiAgICAgICAgPSByZXEucXVlcnkuZG9tYWluLAogIC8vICAgc3ViaWQgICAgICAgICAgICA9IHJlcS5xdWVyeS5zdWJpZCB8fCAnTm90IHNwZWNpZmllZCcsCiAgLy8gICBjYW1wYWlnbiAgICAgICAgID0gc3ViaWQuc3Vic3RyaW5nKDAsIDUpLAogIC8vICAgY0tleSAgICAgICAgICAgICA9IHJlcS5xdWVyeS5rZXksCiAgLy8gICB1c2VyUmVnaW9uICAgICAgID0gYXdhaXQgZ2VvLmdldENvdW50cnlDb2RlKHVzZXJJcCksCiAgLy8gICB1c2VyQWdlbnQgICAgICAgID0gcmVxLnF1ZXJ5LnVhLAogIC8vICAgZGVjb2RlZFVzZXJBZ2VudCA9IG5ldyBVc2VyQWdlbnQodXNlckFnZW50KTsKICAvLyBjb25zdCBjbGlja1VzZXJBZ2VudCA9IHsKICAvLyAgIHNyYzogdXNlckFnZW50LAogIC8vICAgZGVjOiB7IGI6IHsgZm1sOiBkZWNvZGVkVXNlckFnZW50LmJyb3dzZXIuZmFtaWx5LCB2OiBoZWxwZXJzLmNvbW1vbi52ZXJzaW9uVG9OdW1iZXIoZGVjb2RlZFVzZXJBZ2VudC5icm93c2VyLnZlcnNpb24pIH0gfQogIC8vIH07</text>
+        <text>url,
+    // network       : offer.networkId,
+    // redirectUrl   : offer.url,
+    // cpc           : offer.cpc,
+    // cpa           : offer.cpa,
+    // type          : endpointType,</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IAogIC8vIGNvbnN0IHVzZXJJcCAgICAgICA9IHJlcS5xdWVyeS5pcCwKICAvLyAgIHJlcURvbWFpbiAgICAgICAgPSByZXEucXVlcnkuZG9tYWluLAogIC8vICAgc3ViaWQgICAgICAgICAgICA9IHJlcS5xdWVyeS5zdWJpZCB8fCAnTm90IHNwZWNpZmllZCcsCiAgLy8gICBjYW1wYWlnbiAgICAgICAgID0gc3ViaWQuc3Vic3RyaW5nKDAsIDUpLAogIC8vICAgY0tleSAgICAgICAgICAgICA9IHJlcS5xdWVyeS5rZXksCiAgLy8gICB1c2VyUmVnaW9uICAgICAgID0gYXdhaXQgZ2VvLmdldENvdW50cnlDb2RlKHVzZXJJcCksCiAgLy8gICB1c2VyQWdlbnQgICAgICAgID0gcmVxLnF1ZXJ5LnVhLAogIC8vICAgZGVjb2RlZFVzZXJBZ2VudCA9IG5l</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IAogIGxldCBxdWVyeVBhcmFtcyA9IHJlcS5vcmlnaW5hbFVybC5zcGxpdCgnPycpWzFdOwogIC8vIHVwZGF0ZSBkb21haW4gcGFyYW1ldGVyIGJ5IG5ldyBkb21haW4KICBpZiAocmVxRG9tYWluICE9PSBmb3VuZERvbWFpbikgewogICAgcXVlcnlQYXJhbXMgPSB1cGRhdGVRdWVyeVN0cmluZ1BhcmFtZXRlcihxdWVyeVBhcmFtcywgJ2RvbWFpbicsIGZvdW5kRG9tYWluKTsKICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNsaSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
