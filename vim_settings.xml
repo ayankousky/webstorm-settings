@@ -113,11 +113,11 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/fail_stat.js" timestamp="1558670027543">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="101" column="52" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/fail_stat.js" timestamp="1558678439646">
+        <mark key="[" line="91" column="20" />
+        <mark key="]" line="91" column="21" />
         <mark key="^" line="101" column="52" />
-        <mark key="." line="101" column="52" />
+        <mark key="." line="91" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/auth/index.js" timestamp="1558420666883">
         <mark key="[" line="72" column="0" />
@@ -462,12 +462,12 @@
         <mark key="." line="68" column="95" />
         <mark key="^" line="68" column="95" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1558674989627">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1558678407082">
         <mark key="'" line="4" column="29" />
-        <mark key="[" line="368" column="5" />
-        <mark key="]" line="368" column="5" />
-        <mark key="." line="368" column="5" />
-        <mark key="^" line="339" column="73" />
+        <mark key="[" line="248" column="19" />
+        <mark key="]" line="248" column="20" />
+        <mark key="." line="248" column="20" />
+        <mark key="^" line="248" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" timestamp="1558428660550">
         <mark key="[" line="571" column="50" />
@@ -510,7 +510,7 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558676522160">
+      <file name="/Dummy.txt" timestamp="1558678374328">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/product/product-info/product-info.component.html" timestamp="1558612546349">
@@ -566,11 +566,11 @@
         <mark key="^" line="428" column="10" />
         <mark key="." line="426" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/incoming_stat.js" timestamp="1558669886737">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="70" column="34" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/incoming_stat.js" timestamp="1558678428630">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="48" />
+        <mark key="^" line="70" column="44" />
+        <mark key="." line="70" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/organization/organization-info/organization-info.component.html" timestamp="1558565421371">
         <mark key="[" line="341" column="135" />
@@ -689,7 +689,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBqbAo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGFkZEJ1bGtBcnJheS5sZW5ndGgpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -713,33 +713,36 @@
         <text encoding="base64">XDxyb290XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpZiAoISFhd2FpdCBNb2RlbC5maW5kT25lKHsgX2lkOiBjYW1wYWlnbiwgYmxhY2tsaXN0OiB7ICRlbGVtTWF0Y2g6IHsgcmVnaW9uOiByZWdpb24sIGRvbWFpbnM6IHsgJGluOiBbY2xlYXJEb21haW5dIH0gfSB9IH0pKSByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGBpOiAke2FkZEJ1bGtBcnJheS5sZW5ndGh9YCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBqbAo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGFkZEJ1bGtBcnJheS5sZW5ndGgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBqbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gISFhd2FpdCBNb2RlbC5maW5kT25lKHsgX2lkOiBjYW1wYWlnbiwgYmxhY2tsaXN0OiB7ICRlbGVtTWF0Y2g6IHsgcmVnaW9uOiByZWdpb24sIGRvbWFpbnM6IHsgJGluOiBbY2xlYXJEb21haW5dIH0gfSB9IH0pKXsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIG1lcmNoYW50ICAgICAgOiBvZmZlci5zdG9yZV8K</text>
+        <text encoding="base64">ICByZXR1cm4gISFhd2FpdCBNb2RlbC5maW5kT25lKHsgX2lkOiBjYW1wYWlnbiwgYmxhY2tsaXN0OiB7ICRlbGVtTWF0Y2g6IHsgcmVnaW9uOiByZWdpb24sIGRvbWFpbnM6IHsgJGluOiBbY2xlYXJEb21haW5dIH0gfSB9IH0pKXsK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIG1lcmNoYW50ICAgICAgOiBvZmZlci5zdG9yZV8K</text>
+      </register>
+      <register name="8" type="4">
         <text>url,
     // network       : offer.networkId,
     // redirectUrl   : offer.url,
@@ -747,11 +750,8 @@
     // cpa           : offer.cpa,
     // type          : endpointType,</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNsaSkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
