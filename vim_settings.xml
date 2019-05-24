@@ -156,7 +156,6 @@
         <mark key="^" line="113" column="17" />
         <mark key="." line="113" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/product.js" timestamp="1558613889808" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/organizations.js" timestamp="1558561039736">
         <mark key="[" line="17" column="12" />
         <mark key="]" line="17" column="11" />
@@ -213,6 +212,9 @@
         <mark key="]" line="114" column="0" />
         <mark key="^" line="88" column="7" />
         <mark key="." line="114" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.dev.yml" timestamp="1558667919446">
+        <mark key="'" line="17" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/firmware.js" timestamp="1556253697631">
         <mark key="[" line="74" column="0" />
@@ -400,6 +402,7 @@
         <mark key="^" line="42" column="7" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1558640972205" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/model/product.js" timestamp="1558614552827">
         <mark key="[" line="33" column="55" />
         <mark key="]" line="33" column="55" />
@@ -553,7 +556,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="99" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/auth.js" />
       <jump line="100" column="25" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="822" column="55" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
       <jump line="824" column="65" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
@@ -653,6 +655,7 @@
       <jump line="359" column="12" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="17" column="28" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="1077" column="44" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
+      <jump line="17" column="27" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.dev.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -677,7 +680,7 @@
         <text>nlllvlynlllhp^j</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaW5kXD4=</text>
+        <text encoding="base64">XDxyb290XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICByZXNwb25zZU9iamVjdC5wcm9kdWN0SW5mb1VybCA9ICdodHRwczovL3B5b3VyYWFsZGV2LmJsb2IuY29yZS53aW5kb3dzLm5ldC9wdWJsaWMvTS5wcmQ0Lm9nMS5icjEudi4wMy5wZGYnOyAvLyAqKipUb0RvKioqOiBoYXJkY29kZWQK</text>
@@ -721,9 +724,9 @@ minFmwRev</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaW5kXD4=</last-search>
+      <last-search encoding="base64">XDxyb290XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaW5kXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyb290XD4=</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>email</last-substitute>
       <last-dir>-1</last-dir>
@@ -731,7 +734,6 @@ minFmwRev</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhd2FpdFw+</entry>
         <entry>useres</entry>
         <entry>users</entry>
         <entry>asdf</entry>
@@ -751,6 +753,7 @@ minFmwRev</text>
         <entry>f[</entry>
         <entry encoding="base64">XDxmd2ZcPg==</entry>
         <entry encoding="base64">XDxmaW5kXD4=</entry>
+        <entry encoding="base64">XDxyb290XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
