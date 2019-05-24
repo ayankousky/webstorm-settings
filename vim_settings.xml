@@ -236,7 +236,7 @@
         <mark key="^" line="88" column="7" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.dev.yml" timestamp="1558667919446">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.dev.yml" timestamp="1558697647223">
         <mark key="'" line="17" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/firmware.js" timestamp="1556253697631">
@@ -424,6 +424,10 @@
         <mark key="]" line="48" column="0" />
         <mark key="^" line="42" column="7" />
         <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1558698172232">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/model/product.js" timestamp="1558614552827">
         <mark key="[" line="33" column="55" />
@@ -687,8 +691,8 @@
       <jump line="388" column="30" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>click.apiKey</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltYWdlOiBwb3N0Z3JlczoxMS4xLWFscGluZQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -712,7 +716,7 @@
         <text encoding="base64">XDxyb290XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgTW9kZWwuYnVsa1dyaXRlKGFkZEJ1bGtBcnJheSwgeyBvcmRlcmVkOiBmYWxzZSB9KTsK</text>
+        <text encoding="base64">ICAgIGltYWdlOiBwb3N0Z3JlczoxMS4xLWFscGluZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJzZWRIb3N0KQo=</text>
