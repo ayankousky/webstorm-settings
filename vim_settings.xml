@@ -31,6 +31,11 @@
         <mark key="^" line="49" column="7" />
         <mark key="." line="62" column="94" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/index.js" timestamp="1559024431931">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1558820270063">
         <mark key="'" line="406" column="101" />
         <mark key="[" line="408" column="53" />
@@ -88,6 +93,12 @@
         <mark key="^" line="48" column="18" />
         <mark key="." line="75" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/user.js" timestamp="1559023457519">
+        <mark key="[" line="29" column="87" />
+        <mark key="]" line="29" column="87" />
+        <mark key="^" line="29" column="87" />
+        <mark key="." line="29" column="87" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1558854820650">
         <mark key="'" line="642" column="84" />
         <mark key="[" line="643" column="34" />
@@ -129,6 +140,23 @@
         <mark key="]" line="253" column="59" />
         <mark key="^" line="179" column="70" />
         <mark key="." line="253" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1559025277979">
+        <mark key="[" line="539" column="72" />
+        <mark key="]" line="531" column="48" />
+        <mark key="." line="531" column="48" />
+        <mark key="^" line="531" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/user.js" timestamp="1559025298748">
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="0" />
+        <mark key="." line="224" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1559025600555">
+        <mark key="[" line="246" column="38" />
+        <mark key="]" line="246" column="49" />
+        <mark key="." line="246" column="49" />
+        <mark key="^" line="246" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/VUE_access.js" timestamp="1558820184977">
         <mark key="'" line="37" column="54" />
@@ -219,6 +247,12 @@
         <mark key="." line="285" column="21" />
         <mark key="^" line="285" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1559022990962">
+        <mark key="[" line="59" column="76" />
+        <mark key="]" line="59" column="89" />
+        <mark key="." line="59" column="89" />
+        <mark key="^" line="59" column="89" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/backup_video.js" timestamp="1558852368511">
         <mark key="[" line="1856" column="59" />
         <mark key="]" line="1856" column="67" />
@@ -253,7 +287,7 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="25" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558855798020">
+      <file name="/Dummy.txt" timestamp="1559024948317">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1558821323030">
@@ -269,6 +303,12 @@
         <mark key="]" line="31" column="45" />
         <mark key="^" line="30" column="7" />
         <mark key="." line="31" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/medicalItem.js" timestamp="1559025333109">
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="34" column="32" />
+        <mark key="." line="34" column="32" />
+        <mark key="^" line="34" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/users/publicSearch.js" timestamp="1558821346721">
         <mark key="'" line="67" column="6" />
@@ -296,6 +336,17 @@
         <mark key="]" line="189" column="0" />
         <mark key="^" line="189" column="29" />
         <mark key="." line="189" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/userService.js" timestamp="1559024973937">
+        <mark key="[" line="520" column="0" />
+        <mark key="]" line="520" column="0" />
+        <mark key="." line="520" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/users.js" timestamp="1559024381505">
+        <mark key="[" line="33" column="93" />
+        <mark key="]" line="33" column="93" />
+        <mark key="^" line="33" column="93" />
+        <mark key="." line="33" column="93" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/users/videoParticipant.js" timestamp="1558821371040">
         <mark key="'" line="37" column="23" />
@@ -344,6 +395,9 @@
         <mark key="^" line="653" column="26" />
         <mark key="." line="653" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" timestamp="1559024717885">
+        <mark key="'" line="229" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment_likes.js" timestamp="1558819298473">
         <mark key="'" line="116" column="26" />
         <mark key="[" line="146" column="15" />
@@ -353,7 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="779" column="81" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="819" column="33" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="829" column="7" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="835" column="69" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
@@ -453,10 +506,11 @@
       <jump line="642" column="84" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
       <jump line="616" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
       <jump line="734" column="15" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
+      <jump line="229" column="16" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGFybg==</text>
+        <text>audioProfiles</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -471,7 +525,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFybg==</text>
+        <text>audioProfiles</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -480,40 +534,40 @@
         <text>channelId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgUmVzb3VyY2U6IGFybjphd3M6ZHluYW1vZGI6JHtzZWxmOmN1c3RvbS5tYWluX2NvbmZpZy5SRUdJT059OiR7c2VsZjpjdXN0b20ubWFpbl9jb25maWcuQVdTX0FDQ09VTlRfSUR9OioK</text>
+        <text encoding="base64">ICAgICAgICB7IG1vZGVsOiBkYi5hdWRpb1Byb2ZpbGUsIGFzOiAnYXVkaW9Qcm9maWxlcyd9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgICAgICBhcm46IGF3czpkeW5hbW9kYjoke3NlbGY6Y3VzdG9tLm1haW5fY29uZmlnLlJFR0lPTn06JHtzZWxmOmN1c3RvbS5tYWluX2NvbmZpZy5BV1NfQUNDT1VOVF9JRH06Kgo=</text>
+        <text encoding="base64">ICAgICAgICBpbmNsdWRlQXJyLnB1c2goeyBtb2RlbDogZGIuYXVkaW9Qcm9maWxlLCBhczogJ2F1ZGlvUHJvZmlsZXMnfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuYm9keS5jb21tZW50cykK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEuYm9keS5tZWRpY2FsSXRlbUZpZWxkcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEucGFyYW1zLm1lZGljYWxJdGVtSWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXZlbnQub2xkRmllbGRzLmZvbGRlcklkKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEucGFyYW1zKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZm9sZGVyKQo=</text>
+        <text encoding="base64">ICBwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZm9sZGVyKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lZCkK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZm9sZGVyKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW1JZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZm9sZGVyKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lZGljYWxJdGVtRmllbGRzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZm9sZGVyKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJJZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
