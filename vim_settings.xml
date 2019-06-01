@@ -76,6 +76,7 @@
         <mark key="." line="76" column="45" />
         <mark key="^" line="76" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/assets/scss/variables.scss" timestamp="1559376221442" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/PRO_access.js" timestamp="1558820194157">
         <mark key="'" line="48" column="12" />
         <mark key="[" line="56" column="108" />
@@ -209,6 +210,12 @@
         <mark key="." line="1370" column="63" />
         <mark key="^" line="1371" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/audio-devices/audio-devices-list/audio-devices-list.component.ts" timestamp="1559376650814">
+        <mark key="[" line="145" column="66" />
+        <mark key="]" line="145" column="66" />
+        <mark key="." line="145" column="66" />
+        <mark key="^" line="145" column="66" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" timestamp="1558819864564">
         <mark key="'" line="176" column="51" />
         <mark key="[" line="194" column="73" />
@@ -222,6 +229,12 @@
         <mark key="]" line="354" column="5" />
         <mark key="." line="354" column="5" />
         <mark key="^" line="354" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/devices.js" timestamp="1559376856471">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+        <mark key="^" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/entities/elasticsearch/channels/internal.js" timestamp="1558828849386">
         <mark key="'" line="57" column="24" />
@@ -249,6 +262,13 @@
         <mark key="]" line="45" column="47" />
         <mark key="^" line="42" column="7" />
         <mark key="." line="45" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/deviceService.js" timestamp="1559377076814">
+        <mark key="'" line="68" column="3" />
+        <mark key="[" line="137" column="53" />
+        <mark key="]" line="137" column="66" />
+        <mark key="^" line="137" column="66" />
+        <mark key="." line="137" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/base.js" timestamp="1558819119011">
         <mark key="'" line="111" column="8" />
@@ -311,7 +331,7 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="25" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559373911786">
+      <file name="/Dummy.txt" timestamp="1559376209462">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/folder.js" timestamp="1558821323030">
@@ -396,6 +416,12 @@
         <mark key="." line="25" column="80" />
         <mark key="^" line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/services/audio-devices.service.ts" timestamp="1559376613910">
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="26" />
+        <mark key="^" line="26" column="26" />
+        <mark key="." line="26" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/queue/index.js" timestamp="1558808635337">
         <mark key="'" line="51" column="67" />
         <mark key="[" line="64" column="13" />
@@ -417,6 +443,18 @@
         <mark key="^" line="80" column="20" />
         <mark key="." line="80" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/devices.js" timestamp="1559377051594">
+        <mark key="[" line="92" column="14" />
+        <mark key="]" line="92" column="56" />
+        <mark key="^" line="92" column="56" />
+        <mark key="." line="92" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/audio-devices/audio-devices-list/audio-devices-list.component.html" timestamp="1559376278546">
+        <mark key="[" line="7" column="112" />
+        <mark key="]" line="7" column="126" />
+        <mark key="." line="7" column="126" />
+        <mark key="^" line="7" column="126" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment.js" timestamp="1558852699217">
         <mark key="'" line="503" column="14" />
         <mark key="[" line="653" column="26" />
@@ -437,9 +475,14 @@
         <mark key="^" line="133" column="21" />
         <mark key="." line="146" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/audio-devices/audio-devices-list/audio-devices-list.component.scss" timestamp="1559376234275">
+        <mark key="[" line="56" column="29" />
+        <mark key="]" line="56" column="48" />
+        <mark key="." line="56" column="48" />
+        <mark key="^" line="56" column="48" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="819" column="33" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="829" column="7" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="835" column="69" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="918" column="42" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
@@ -539,11 +582,11 @@
       <jump line="616" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
       <jump line="734" column="15" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="229" column="16" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="68" column="3" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/deviceService.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>fmw
-fmw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZXZpY2VGaWVsZHM6IGRldmljZUZpZWxkcwo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -558,7 +601,7 @@ fmw</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fmw2</text>
+        <text>:</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -567,29 +610,25 @@ fmw</text>
         <text>channelId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdFZhbHVlOiAoKSA9PiAnMDEyMzQ1Njc4OWFiY2RlZicuc3BsaXQoJycpLm1hcCgodixpLGEpPT4gaT41ID8gbnVsbCA6IGFbTWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpKjE2KV0pLmpvaW4oJycpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhnZW5lcmF0ZVJlc3VsdCkK</text>
       </register>
-      <register name="1" type="8">
-        <text>fmw
-fmw</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkZXZpY2VGaWVsZHM6IGRldmljZUZpZWxkcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>fmw
-fmw
-fmw</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>fmw
-fmw</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gZGVmYXVsdFZhbHVlOiAoKSA9PiAnMDEyMzQ1Njc4OWFiY2RlZicuc3BsaXQoJycpLm1hcCgodixpLGEpPT4gaT41ID8gbnVsbCA6IGFbTWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpKjE2KV0pLmpvaW4oJycpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -598,13 +637,13 @@ fmw</text>
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0LmJvZHkubGljZW5zZXMuc2hvdWxkLmJlLmVxKCdMRiwxMTswMDAwMDAsMTE7MSwxMTsyLDExOzMsMTE7NCwxMTswLDExOzAsMTE7MCwxMTswLDExOzAsMTE7MCwxMTswLDExOzAsMTE7MCwxMTswLDExOzAsMTE7MCwxMTswLDExOzAsMTE7MCwxMTswLDExOycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0LmJvZHkubGljZW5zZXMuc2hvdWxkLmJlLmVxKCdMRiwxMTswMDAwMDEsMTE7MSwxMTsyLDExOzMsMTE7NCwxMTswLDExOzAsMTE7MCwxMTswLDExOzAsMTE7MCwxMTswLDExOzAsMTE7MCwxMTswLDExOzAsMTE7MCwxMTswLDExOzAsMTE7MCwxMTswLDExOycpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CglwdWJsaWMgYWRkQXVkaW9EZXZpY2UoKSB7CgkJdGhpcy5w</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
