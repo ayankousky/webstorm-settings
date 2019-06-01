@@ -42,6 +42,10 @@
         <mark key="." line="317" column="48" />
         <mark key="^" line="317" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/users/user-info/user-info.component.ts" timestamp="1559380480189">
+        <mark key="[" line="443" column="0" />
+        <mark key="]" line="443" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1559025277979">
         <mark key="[" line="539" column="72" />
         <mark key="]" line="531" column="48" />
@@ -54,11 +58,11 @@
         <mark key="." line="246" column="49" />
         <mark key="^" line="246" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/audio-devices/audio-devices-list/audio-devices-list.component.ts" timestamp="1559379167160">
-        <mark key="[" line="133" column="20" />
-        <mark key="]" line="133" column="66" />
-        <mark key="." line="133" column="66" />
-        <mark key="^" line="133" column="66" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/audio-devices/audio-devices-list/audio-devices-list.component.ts" timestamp="1559381635522">
+        <mark key="[" line="140" column="56" />
+        <mark key="]" line="140" column="56" />
+        <mark key="^" line="140" column="56" />
+        <mark key="." line="140" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/devices.js" timestamp="1559379020579">
         <mark key="[" line="9" column="13" />
@@ -78,6 +82,7 @@
         <mark key="." line="15" column="200" />
         <mark key="^" line="15" column="196" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/services/user.service.ts" timestamp="1559380506842" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/deviceService.js" timestamp="1559378063188">
         <mark key="'" line="68" column="3" />
         <mark key="[" line="150" column="40" />
@@ -103,7 +108,7 @@
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559376209462">
+      <file name="/Dummy.txt" timestamp="1559380557782">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/medicalItem.js" timestamp="1559061742230">
@@ -136,17 +141,17 @@
         <mark key="." line="25" column="80" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/services/audio-devices.service.ts" timestamp="1559379161522">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="59" />
-        <mark key="^" line="27" column="55" />
-        <mark key="." line="27" column="55" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/services/audio-devices.service.ts" timestamp="1559381464671">
+        <mark key="[" line="27" column="76" />
+        <mark key="]" line="27" column="76" />
+        <mark key="^" line="27" column="97" />
+        <mark key="." line="27" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/devices.js" timestamp="1559378439210">
-        <mark key="[" line="102" column="2" />
-        <mark key="]" line="102" column="2" />
-        <mark key="^" line="97" column="8" />
-        <mark key="." line="102" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/devices.js" timestamp="1559381699320">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="99" column="26" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/audio-devices/audio-devices-list/audio-devices-list.component.html" timestamp="1559376278546">
         <mark key="[" line="7" column="112" />
@@ -270,8 +275,8 @@
       <jump line="68" column="3" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/deviceService.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;https://www.google.com&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyByZXR1cm4gcmVzLnNlbmQoZGV2aWNlc0xpc3RUZXh0KTsK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -286,7 +291,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;https://www.google.com&quot;</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -295,44 +300,40 @@
         <text>channelId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZW52aXJvbm1lbnQgfSBmcm9tICdzcmMvZW52aXJvbm1lbnRzL2Vudmlyb25tZW50JzsK</text>
+        <text encoding="base64">CQkJCS5waXBlKGNvbmNhdE1hcCgocmVzOiBhbnkpID0+IHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyByZXR1cm4gcmVzLnNlbmQoZGV2aWNlc0xpc3RUZXh0KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnBpcGUK</text>
+        <text encoding="base64">ICAvLyByZXMuc2V0SGVhZGVyKCdDb250ZW50LWRpc3Bvc2l0aW9uJyxgYXR0YWNobWVudDsgZmlsZW5hbWU9Z2VuZXJhdGVkX2RldmljZXMudHh0YCk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KAogICAgICAgICAgICAgICAgY29uY2F0TWFwKCgpID0+IHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5hdWRpb0RldmljZXNTZXJ2aWNlLmdldEF1ZGlvRGV2aWNlcygpOwogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgKQogICAgICAgICAgICAuc3Vic2NyaWJlKChyZXNwb25zZTogYW55KSA9PiB7CiAgICAgICAgICAgICAgICB0aGlzLmF1ZGlvRGV2aWNlc0RhdGEuYXVkaW9EZXZpY2VzID0gcmVzcG9uc2UuZGV2aWNlczsKICAgICAgICAgICAgICAgIHRoaXMuYXVkaW9EZXZpY2VzRGF0YS5hdWRpb0RldmljZXNDb3VudCA9IHJlc3BvbnNlLmNvdW50OwogICAgICAgICAgICAgICAgdGhpcy5zcGlubmVyU2VydmljZS5oaWRlKCk7CiAgICAgICAgICAgICAgICB0aGlzLnBvcHVwU2VydmljZS5zaG93UG9wdXAoJ3N1Y2Nlc3MtcG9wdXAnLCAiRG9uZSIpOwogICAgICAgICAgICB9KTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAvLyByZXMuc2V0SGVhZGVyKCdDb250ZW50LVR5cGUnLCAnYXBwbGljYXRpb24vZm9yY2UtZG93bmxvYWQnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZXZpY2VzTGlzdFRleHQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhnZW5lcmF0ZVJlc3VsdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBibG9iID0gbmV3IEJsb2IoW3Jlcy5kZXZpY2VzTGlzdFRleHRdLCB7IHR5cGU6ICd0ZXh0L3R4dCcgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZ2VuZXJhdGVSZXN1bHQnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAljb25zb2xlLmxvZyhyZXMpCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiAocmVxLnF1ZXJ5LnJUeXBlID09PSAnanNvbicpIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-    return helpers.request.finish(req, res, {
-      mff_text: devicesListText,
-    });
-  }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aW4uZm9jdXMoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVzLnNlbmQobWZmVGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgd2luID0gd2luZG93Lm9wZW4odXJsLCAnX2JsYW5rJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -343,7 +344,7 @@
       <last-offset />
       <last-pattern>channelId</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
-      <last-substitute>email</last-substitute>
+      <last-substitute>channelId</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
