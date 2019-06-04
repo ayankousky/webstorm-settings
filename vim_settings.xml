@@ -9,6 +9,12 @@
         <mark key="^" line="117" column="5" />
         <mark key="." line="117" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/WeMeet/admin/src/services/api.js" timestamp="1559658611080">
+        <mark key="[" line="3" column="54" />
+        <mark key="]" line="3" column="54" />
+        <mark key="." line="3" column="54" />
+        <mark key="^" line="3" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1559565753152">
         <mark key="[" line="112" column="14" />
         <mark key="]" line="112" column="32" />
@@ -105,7 +111,7 @@
         <mark key="^" line="12" column="124" />
         <mark key="." line="12" column="124" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559553425849">
+      <file name="/Dummy.txt" timestamp="1559658572723">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/users/user-info/user-info.component.html" timestamp="1559386849125">
@@ -320,8 +326,8 @@
       <jump line="68" column="3" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/deviceService.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubWluRm13UmV2KQo=</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -336,7 +342,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>\</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
