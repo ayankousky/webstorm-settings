@@ -93,12 +93,12 @@
         <mark key="." line="7" column="51" />
         <mark key="^" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1559565875230">
-        <mark key="[" line="425" column="16" />
-        <mark key="]" line="425" column="28" />
-        <mark key="^" line="425" column="28" />
-        <mark key="." line="425" column="28" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1559669571225">
+        <mark key="[" line="424" column="0" />
+        <mark key="]" line="424" column="0" />
+        <mark key="." line="424" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" timestamp="1559669565314" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/user.js" timestamp="1559023457519">
         <mark key="[" line="29" column="87" />
         <mark key="]" line="29" column="87" />
@@ -326,8 +326,8 @@
       <jump line="68" column="3" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/deviceService.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNsZWFyUGFzc3dvcmQpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -354,38 +354,38 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKE9iamVjdC5rZXlzKHRoaXMubWluQXBwUmV2KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubWluRm13UmV2KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNsZWFyUGFzc3dvcmQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQljb25zb2xlLmxvZyhlbWFpbCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubWluRm13UmV2KQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubWluQXBwUmV2KQo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text>Object.keys
 Object.keys</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lZGljYWxJdGVtKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtZWRpY2FsSXRlbScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtZWRpY2FsSXRlbScpCiAgICBjb25zb2xlLmxvZyhtZWRpY2FsSXRlbSkKICAgIGlmIChtZWRpY2FsSXRlbSl7CiAgICAgIHRleHQgKz0gYCR7bWVkaWNhbEl0ZW0ubXBvfTtgOwogICAgICB0ZXh0ICs9IGAke21lZGljYWxJdGVtLmRhdGEubGVmdDEudmFsfTtgOwogICAgICB0ZXh0ICs9IGAke21lZGljYWxJdGVtLmRhdGEubGVmdDIudmFsfTtgOwogICAgICB0ZXh0ICs9IGAke21lZGljYWxJdGVtLmRhdGEubGVmdDMudmFsfTtgOwogICAgICB0ZXh0ICs9IGAke21lZGljYWxJdGVtLmRhdGEubGVmdDQudmFsfTtgOwogICAgICB0ZXh0ICs9IGAke21lZGljYWxJdGVtLmRhdGEubGVmdDUudmFsfTtgOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lZGljYWxJdGVtKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
