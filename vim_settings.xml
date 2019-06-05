@@ -166,6 +166,13 @@
         <mark key="^" line="33" column="93" />
         <mark key="." line="33" column="93" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1559714232520">
+        <mark key="'" line="124" column="13" />
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/firmware.js" timestamp="1559374910944">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -186,11 +193,11 @@
         <mark key="." line="877" column="62" />
         <mark key="^" line="317" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/deploy.sh" timestamp="1558854191634">
-        <mark key="[" line="25" column="79" />
-        <mark key="]" line="25" column="80" />
-        <mark key="." line="25" column="80" />
-        <mark key="^" line="42" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/deploy.sh" timestamp="1559714378795">
+        <mark key="[" line="26" column="83" />
+        <mark key="]" line="26" column="84" />
+        <mark key="." line="26" column="84" />
+        <mark key="^" line="26" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/services/audio-devices.service.ts" timestamp="1559381464671">
         <mark key="[" line="27" column="76" />
@@ -260,7 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1048" column="72" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="1049" column="70" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="1057" column="71" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="1058" column="70" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
@@ -360,10 +366,11 @@
       <jump line="436" column="22" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/products/products_api.js" />
       <jump line="391" column="22" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/products/products_api.js" />
       <jump line="400" column="22" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/products/products_api.js" />
+      <jump line="124" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>8</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -378,7 +385,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>8</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -387,7 +394,7 @@
         <text>index.shoul</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKE9iamVjdC5rZXlzKHRoaXMubWluQXBwUmV2KSkK</text>
+        <text encoding="base64">cm0gLXJmIG5vZGVfbW9kdWxlcy9zaGFycC8gJiYgbnBtIGluc3RhbGwgLS1hcmNoPXg2NCAtLXBsYXRmb3JtPWxpbnV4IC0tdGFyZ2V0PTguMTAuMCBzaGFycCAjIHNoYXJwIHNob3VsZCBiZSBidWlsdCB3aXRoIGxpbnV4IGxpYnJhcmllcwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
