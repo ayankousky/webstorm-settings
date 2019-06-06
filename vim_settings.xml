@@ -67,7 +67,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1559826062304">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1559827869039">
         <mark key="'" line="124" column="13" />
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="20" />
@@ -117,11 +117,12 @@
         <mark key="^" line="140" column="56" />
         <mark key="." line="140" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1559824966736">
-        <mark key="[" line="818" column="14" />
-        <mark key="]" line="819" column="43" />
-        <mark key="." line="819" column="43" />
-        <mark key="^" line="819" column="43" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1559828091405">
+        <mark key="'" line="602" column="0" />
+        <mark key="[" line="819" column="14" />
+        <mark key="]" line="820" column="43" />
+        <mark key="." line="820" column="43" />
+        <mark key="^" line="820" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/model/device.js" timestamp="1559390436329">
         <mark key="[" line="137" column="0" />
@@ -227,7 +228,7 @@
         <mark key="]" line="424" column="0" />
         <mark key="." line="424" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559824249678">
+      <file name="/Dummy.txt" timestamp="1559827897078">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/users/user-info/user-info.component.html" timestamp="1559386849125">
@@ -248,10 +249,10 @@
         <mark key="." line="195" column="19" />
         <mark key="^" line="195" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1559826222377">
-        <mark key="[" line="943" column="38" />
-        <mark key="]" line="943" column="38" />
-        <mark key="." line="943" column="38" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1559826235373">
+        <mark key="[" line="942" column="0" />
+        <mark key="]" line="942" column="0" />
+        <mark key="." line="942" column="0" />
         <mark key="^" line="943" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/users.js" timestamp="1559024381505">
@@ -317,7 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1624" column="5" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="1627" column="48" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="1628" column="51" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
       <jump line="1631" column="53" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
@@ -417,10 +417,11 @@
       <jump line="84" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/test_multipart.js" />
       <jump line="87" column="11" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/test_multipart.js" />
       <jump line="51" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/test_multipart.js" />
+      <jump line="602" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWxldCB2aWRlbyA9IGF3YWl0IFZpZGVvLmdldEJ5SWQoZXZlbnQucGF0aFBhcmFtZXRlcnMudmlkZW9JZCk7Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -435,58 +436,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>videoId</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
       </register>
       <register name="/" type="4">
-        <text>await</text>
+        <text>even</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29ubGUubG9nKHZpZGVvSWQpCg==</text>
+        <text encoding="base64">ICBpZighcmVxRW5kKSByZXR1cm47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coYXdhaXQgdGhpcy5nZXQoaWQpKQo=</text>
+        <text encoding="base64">CWxldCB2aWRlbyA9IGF3YWl0IFZpZGVvLmdldEJ5SWQoZXZlbnQucGF0aFBhcmFtZXRlcnMudmlkZW9JZCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coMTExMTExKQo=</text>
+        <text encoding="base64">CWxldCByZWRpcmVjdFVybCA9IGF3YWl0IHZpZGVvLmdldERvd25sb2FkVXJsKGV2ZW50LnF1ZXJ5U3RyaW5nUGFyYW1ldGVycyB8fCB7fSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKGF3YWl0IFZpZGVvLnF1ZXJ5KCdpZCcpLmVxKHZpZGVvSWQpLmV4ZWMoKSkpCg==</text>
+        <text encoding="base64">ICBsZXQgcmVxRW5kID0gcmVxdWVzdEhlbHBlci5nZXRSZXFGaW5pc2hlcihldmVudCwgY29udGV4dCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJBQXV0aG9yaXphdGlvbiI6ICJleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKcFpDSTZJalV3TURBeE5pSXNJblZ6WlhKSlpDSTZJalV3TURBeE5pSXNJbVZ0WVdsc0lqb2lkblZzWTJGdFZHVnpkRUI1YjNCdFlXbHNMbU52YlNJc0luWjFiR05oYlVGMWRHaERiMjlyYVdVaU9pSjJkV3hqWVcxVVpYTjBRSGx2Y0cxaGFXd3VZMjl0ZkRFMU1qRXhNekF3TWpSOE1FZDRkbW8xUWt0SVRHa3piRTVGYjBoaU5UQTNPVXBCY0VWSlZrNXRSMDlDUVhsaVdVc3hVa1ZYUTN3elptUXlaVFJqTnpZMU5EZzNPVEE0TVdGallXTmtPVGhtTldWa01tRTRObUZrTWpZeU5HSmtObVpoWXpKa1kySTNaVE5sWVdZeU5EVmlaV1poT0RZd0lpd2lhV0YwSWpveE5URTVPVEU1T1RjNUxDSmxlSEFpT2pFMU5URTBOVFU1TnpsOS42WmhMX2RjenpSdlVHWExBY0s0QjZkLU83SVI2Y0ZoLXVuMEhRU1ExallFIiwK</text>
+        <text encoding="base64">ICBpZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJBQUF1dGhvcml6YXRpb24iOiAiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2SWpjNElpd2lkWE5sY2tsa0lqb2lOemdpTENKbGJXRnBiQ0k2SW1GNVlXNXJiM1Z6YTNsQWVXRm9iMjh1WTI5dElpd2lkblZzWTJGdFFYVjBhRU52YjJ0cFpTSTZJbUY1WVc1cmIzVnphM2xBZVdGb2IyOHVZMjl0ZkRFMU5UUXpOVGd5TVRSOFNEaEZZWGR0TWtaQk1Wb3lObE5IZW1KME5EUkZRVXQwY25sSmVEbFBSM1JNWjB4UVRsa3dSMkZtWVh3MlpUbGlNRFZqWWpBek1qRTRNR1kwWkdJMU1UTXhNalJrTXpNME5tTTVZak13TXpGaFptTXhPR1kzTm1SbU5tUmxPVFUzWWpOak5UZGpOemd5T1RreUlpd2lhV0YwSWpveE5UVXpNVFE0TkRrNExDSmxlSEFpT2pFMU9EUTJPRFEwT1RoOS4wRGhZVC0zWElLR0J5LURadzByZzN4ZUhYM2Jlb3E4UmpTVjJYTzNhNDBZIiwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh2aWRlbykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmlkZW9JZCkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudC5wYXRoKQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmlkZW9JZCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXdhaXQgVmlkZW8ucXVlcnkoJ2lkJykuZXEodmlkZW9JZCkuZXhlYygpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmlkZW9JZCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5nZXQoe2lkOnZpZGVvSWR9KSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmlkZW9JZCkK</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coYXdhaXQgdGhpcy5nZXQoaWQpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>await</last-search>
+      <last-search>even</last-search>
       <last-offset />
-      <last-pattern>await</last-pattern>
+      <last-pattern>even</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>channelId</last-substitute>
       <last-dir>1</last-dir>
@@ -494,7 +495,6 @@
     </search>
     <history>
       <history-search>
-        <entry>async</entry>
         <entry>email</entry>
         <entry>mariu</entry>
         <entry>req</entry>
@@ -514,6 +514,7 @@
         <entry>channelId</entry>
         <entry>index.shoul</entry>
         <entry>await</entry>
+        <entry>even</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
