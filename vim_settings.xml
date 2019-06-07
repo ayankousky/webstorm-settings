@@ -9,6 +9,12 @@
         <mark key="^" line="117" column="5" />
         <mark key="." line="117" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Project_Sample/modules/api/controllers/v1/traffic.js" timestamp="1559926402404">
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="15" />
+        <mark key="^" line="15" column="82" />
+        <mark key="." line="26" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/WeMeet/admin/src/services/api.js" timestamp="1559658611080">
         <mark key="[" line="3" column="54" />
         <mark key="]" line="3" column="54" />
@@ -21,17 +27,19 @@
         <mark key="^" line="118" column="26" />
         <mark key="." line="118" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Project_Sample/modules/importer/entites/networks/providers/network1.js" timestamp="1559926172265" />
+      <file name="$USER_HOME$/Desktop/Project_Sample/modules/importer/services/offers-importer.js" timestamp="1559926085320" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/devices/devices_api.js" timestamp="1559374024046">
         <mark key="[" line="161" column="43" />
         <mark key="]" line="161" column="48" />
         <mark key="." line="161" column="48" />
         <mark key="^" line="161" column="48" />
       </file>
-      <file name="$USER_HOME$/Desktop/Project_Sample/readme.md" timestamp="1559925962690">
-        <mark key="[" line="10" column="72" />
-        <mark key="]" line="10" column="72" />
-        <mark key="." line="10" column="72" />
-        <mark key="^" line="10" column="53" />
+      <file name="$USER_HOME$/Desktop/Project_Sample/readme.md" timestamp="1559926337902">
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/mobile_api/index.js" timestamp="1559390772176">
         <mark key="[" line="76" column="0" />
@@ -129,12 +137,6 @@
         <mark key="]" line="246" column="49" />
         <mark key="." line="246" column="49" />
         <mark key="^" line="246" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/test_multipart.js" timestamp="1559715638177">
-        <mark key="'" line="51" column="14" />
-        <mark key="[" line="91" column="11" />
-        <mark key="]" line="91" column="11" />
-        <mark key="." line="91" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/audio-devices/audio-devices-list/audio-devices-list.component.ts" timestamp="1559381635522">
         <mark key="[" line="140" column="56" />
@@ -341,12 +343,6 @@
         <mark key="." line="7" column="126" />
         <mark key="^" line="7" column="126" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" timestamp="1559711301800">
-        <mark key="'" line="229" column="16" />
-        <mark key="[" line="235" column="121" />
-        <mark key="]" line="235" column="121" />
-        <mark key="." line="235" column="121" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/audio-devices/audio-devices-list/audio-devices-list.component.scss" timestamp="1559376234275">
         <mark key="[" line="56" column="29" />
         <mark key="]" line="56" column="48" />
@@ -458,7 +454,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHRvIGJlIHJlc3BvbnNpYmxlIGZvciBpbXBvcnQ=</text>
+        <text>. ******************** this is where network manager selects correct network (provider) and do something based on its logic</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -473,7 +469,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRvIGJlIHJlc3BvbnNpYmxlIGZvciBpbXBvcnQ=</text>
+        <text>. ******************** this is where network manager selects correct network (provider) and do something based on its logic</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -482,7 +478,7 @@
         <text>frame_rate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZW5kRGF0ZSAgICAgIDogbmV3IERhdGUobmV3IERhdGUoKSAtIDAgKyA2MCAqIDEwICogMTAwMCksCg==</text>
+        <text encoding="base64">VG8gbG9vayBmb3Igc29tZSBpbXBsZW1lbnRhdGlvbjoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -491,31 +487,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3B0aW9ucy5pc1RyaWFsKSByZXR1cm4gNTc5MDsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3B0aW9ucy5pc1RyaWFsKSByZXR1cm4gNTc5MjsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgIGlmIChhcHBsZUlkLmluY2x1ZGVzKCdub19iYXNlJykpIHsKICAgICAgICByZXR1cm4gNTc5NTsKICAgICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAob3B0aW9ucy5pc1RyaWFsKSByZXR1cm4gNTc5MDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAob3B0aW9ucy5pc1RyaWFsKSByZXR1cm4gNTc5MjsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgIGlmIChhcHBsZUlkLmluY2x1ZGVzKCd2dWUnKSkgewogICAgICAgIHJldHVybiA1Nzk0OwogICAgICB9</text>
+        <text encoding="base64">CiAgICAgIGlmIChhcHBsZUlkLmluY2x1ZGVzKCdub19iYXNlJykpIHsKICAgICAgICByZXR1cm4gNTc5NTsKICAgICAgfQ==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1YnNjcmlwdGlvbkRhdGEuZW5kRGF0ZSAtIHN1YnNjcmlwdGlvbkRhdGEuc3RhcnREYXRlKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgIGlmIChhcHBsZUlkLmluY2x1ZGVzKCd2dWUnKSkgewogICAgICAgIHJldHVybiA1Nzk0OwogICAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1YnNjcmlwdGlvbkRhdGEuZW5kRGF0ZSAtIHN1YnNjcmlwdGlvbkRhdGEuc3RhcnREYXRlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAob3B0aW9ucy5pc1RyaWFsKSByZXR1cm4gNTc5MDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
