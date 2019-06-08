@@ -68,12 +68,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" timestamp="1560010358749">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" timestamp="1560011273400">
         <mark key="'" line="958" column="6" />
-        <mark key="[" line="953" column="7" />
-        <mark key="]" line="958" column="6" />
-        <mark key="^" line="958" column="6" />
-        <mark key="." line="958" column="6" />
+        <mark key="[" line="95" column="38" />
+        <mark key="]" line="95" column="43" />
+        <mark key="^" line="95" column="43" />
+        <mark key="." line="95" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/user.js" timestamp="1559023457519">
         <mark key="[" line="29" column="87" />
@@ -450,8 +450,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/storage_providers/VulcamStorage.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHRydWU=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -466,7 +466,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IHRydWU=</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
