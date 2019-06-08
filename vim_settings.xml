@@ -179,6 +179,12 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1560013407439">
+        <mark key="[" line="162" column="78" />
+        <mark key="]" line="162" column="91" />
+        <mark key="." line="162" column="91" />
+        <mark key="^" line="162" column="91" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/firmware.js" timestamp="1559711821361">
         <mark key="[" line="314" column="0" />
         <mark key="]" line="314" column="0" />
@@ -249,6 +255,7 @@
         <mark key="^" line="1856" column="67" />
         <mark key="." line="1856" column="67" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/sharings/get.json" timestamp="1560013226095" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1559888498036">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -462,8 +469,8 @@
       <jump line="448" column="46" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2hhcmluZy5mcm9tRW1haWwpCg==</text>
+      <register name="&quot;" type="4">
+        <text>asko@vulcam.tv'</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -478,7 +485,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>asko@vulcam.tv'</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -487,41 +494,40 @@
         <text>frame_rate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgQ2xvdWRVc2VyID0gZHluYW1vb3NlLm1vZGVsKGNvbmZpZy5EREIudGFibGVzLnVzZXJzLm5hbWUpCg==</text>
+        <text encoding="base64">ICBsZXQgc3Vic2NyaXB0aW9ucyA9IGF3YWl0IChTZXJ2aWNlcy5TdWJzY3JpcHRpb25NYW5hZ2VyLmdldFN1YnNCeUlkKCdQUk8nLCAnYXNrb0B2dWxjYW0udHYnKSk7IC8vIHJldHJpZXZlIHN1YnNjcmlwdGlvbnMgZm9yIGNsb3VkVXNlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2hhcmluZy5mcm9tRW1haWwpCg==</text>
+        <text encoding="base64">Z2V0U3VicygpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICghb3duZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2hhcmluZy5mcm9tRW1haWwpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmICghb3duZXIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG93bmVyKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2hhcmluZykK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG93bmVyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNoKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2hhcmluZykK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFtdCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>User = require('./user')
-        ,</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICByZXR1cm4gbnVsbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
