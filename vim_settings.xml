@@ -27,7 +27,8 @@
         <mark key="^" line="118" column="26" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1560109405772">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1560112123549">
+        <mark key="'" line="330" column="27" />
         <mark key="[" line="159" column="57" />
         <mark key="]" line="159" column="65" />
         <mark key="^" line="159" column="65" />
@@ -214,11 +215,11 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1560109876882">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="12" />
-        <mark key="^" line="22" column="83" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1560110111908">
+        <mark key="[" line="23" column="84" />
+        <mark key="]" line="23" column="83" />
+        <mark key="^" line="23" column="83" />
+        <mark key="." line="23" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/api/v1/index.js" timestamp="1560108774415">
         <mark key="[" line="12" column="0" />
@@ -375,12 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="382" column="47" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" />
-      <jump line="384" column="46" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" />
-      <jump line="399" column="111" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" />
-      <jump line="780" column="47" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" />
-      <jump line="449" column="48" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" />
-      <jump line="455" column="7" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" />
       <jump line="460" column="44" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" />
       <jump line="535" column="42" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" />
       <jump line="541" column="7" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/comment.js" />
@@ -475,6 +470,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/storage_providers/VulcamStorage.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
       <jump line="448" column="46" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
+      <jump line="338" column="27" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
+      <jump line="53" column="58" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
+      <jump line="159" column="58" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
+      <jump line="276" column="47" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
+      <jump line="283" column="40" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
+      <jump line="330" column="27" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -499,7 +500,7 @@
         <text>nlllvlynlllhp^j</text>
       </register>
       <register name="/" type="4">
-        <text>frame_rate</text>
+        <text>kalad.cc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
@@ -542,9 +543,9 @@
       </register>
     </registers>
     <search>
-      <last-search>frame_rate</last-search>
+      <last-search>kalad.cc</last-search>
       <last-offset />
-      <last-pattern>frame_rate</last-pattern>
+      <last-pattern>kalad.cc</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>channelId</last-substitute>
       <last-dir>1</last-dir>
@@ -552,7 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry>req</entry>
         <entry>ema</entry>
         <entry>fwf</entry>
         <entry>name</entry>
@@ -572,6 +572,7 @@
         <entry>even</entry>
         <entry>5794</entry>
         <entry>frame_rate</entry>
+        <entry>kalad.cc</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
