@@ -75,12 +75,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" timestamp="1560103266784">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" timestamp="1560152894844">
         <mark key="'" line="958" column="6" />
-        <mark key="[" line="997" column="4" />
-        <mark key="]" line="1149" column="3" />
-        <mark key="^" line="1149" column="3" />
-        <mark key="." line="1149" column="3" />
+        <mark key="[" line="1129" column="32" />
+        <mark key="]" line="1129" column="37" />
+        <mark key="^" line="1129" column="37" />
+        <mark key="." line="1129" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/routes/user.js" timestamp="1559023457519">
         <mark key="[" line="29" column="87" />
@@ -478,8 +478,8 @@
       <jump line="330" column="27" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHRydWU=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -494,7 +494,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>modules/media/certs:/etc/nginx/certs</text>
+        <text encoding="base64">IHRydWU=</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
