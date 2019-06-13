@@ -28,10 +28,17 @@
         <mark key="^" line="23" column="83" />
         <mark key="." line="23" column="83" />
       </file>
+      <file name="/account.js" timestamp="1560428344741" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/api/v1/index.js" timestamp="1560108774415">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/templates/verification_page.pug" timestamp="1560430252612">
+        <mark key="[" line="79" column="25" />
+        <mark key="]" line="79" column="51" />
+        <mark key="." line="79" column="51" />
+        <mark key="^" line="79" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/package.json" timestamp="1559715658572">
         <mark key="[" line="22" column="0" />
@@ -60,12 +67,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/storage_providers/VulcamStorage.js" timestamp="1560024133976">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1560108211570">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -77,10 +78,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1560426479907">
-        <mark key="[" line="1430" column="0" />
-        <mark key="]" line="1430" column="0" />
-        <mark key="." line="1430" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1560428925798">
+        <mark key="[" line="99" column="6" />
+        <mark key="]" line="99" column="6" />
+        <mark key="." line="99" column="6" />
+        <mark key="^" line="99" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" timestamp="1560425404304">
         <mark key="'" line="462" column="6" />
@@ -89,7 +91,7 @@
         <mark key="^" line="596" column="34" />
         <mark key="." line="596" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560184537332">
+      <file name="/Dummy.txt" timestamp="1560429850599">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1560164137008">
@@ -110,7 +112,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1560425902041">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1560428006670">
         <mark key="'" line="124" column="13" />
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="20" />
@@ -128,11 +130,23 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/mail/index.js" timestamp="1560429050680">
+        <mark key="[" line="60" column="87" />
+        <mark key="]" line="60" column="86" />
+        <mark key="." line="60" column="86" />
+        <mark key="^" line="60" column="86" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1560108919041">
         <mark key="[" line="3" column="32" />
         <mark key="]" line="3" column="32" />
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/en.json" timestamp="1560429089973">
+        <mark key="[" line="39" column="74" />
+        <mark key="]" line="39" column="74" />
+        <mark key="." line="39" column="74" />
+        <mark key="^" line="39" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1560012398195">
         <mark key="[" line="382" column="0" />
@@ -244,7 +258,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -259,7 +273,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -268,114 +282,42 @@
         <text>laptop_acc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHJvZHVjdElkICAgIDogU2VydmljZXMuU3Vic2NyaXB0aW9uTWFuYWdlci5nZXRWdWxjYW1Qcm9kdWN0SWRCeUFwcGxlUHJvZHVjdElkKCdQUk8nLCBsYXRlc3RSZWNlaXB0SW5mby5wcm9kdWN0X2lkLCB7aXNUcmlhbDogbGF0ZXN0UmVjZWlwdEluZm8uaXNfdHJpYWxfcGVyaW9kID09PSAndHJ1ZSd9KSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmluc3RydWNhdGlvbnMtbGluZTEgUGxlYXNlIHdhdGNoIHRoZSBicmllZiBpbnN0cnVjdGlvbiB2aWRlbyBiZWxvdyBvbiBzZXR0aW5nIHVwIGFuZCB1c2luZyBWVUxDQU0uIFlvdSBjYW4gZmluZCBtb3JlIGluc3RydWN0aW9ucyBpbiBWVUxDQU0gYXBwIGJ5IHRhcHBpbmcgdGhlIHJlZCAiQSIgaWNvbiBpbiB0aGUgdG9wIGxlZnQgY29ybmVyIGFuZCBjaG9vc2luZyAiSGVscCJodHRwczovL3lvdXR1LmJlL1hscDd2Rk13OGtzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwcm9kX0F1dGhvcml6YXRpb24iOiAiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2SWpVNUlpd2lkWE5sY2tsa0lqb2lOVGtpTENKbGJXRnBiQ0k2SW5OamNtbHdkRFE0TVRVeE5qSXpOREpBWjIxaGFXd3VZMjl0SWl3aWRuVnNZMkZ0UVhWMGFFTnZiMnRwWlNJNkltRjVZVzVyYjNWemEza2dkR1Z6ZENCMWMyVnlmREUxTmpFMk16WTBPVGQ4YTJGeGEwSTVkMlpLV1hWUmExSnRiamxwV0Rsck1HcHVlVEpqVjIxTk9FcE1PRkIxY0hnM1JVaG9USHcxWVdFMFlqUTFPVEpsTm1FeE5qbGhPREF4TVdFNU1qSm1ZakJsWWpkbE9EWTNZMkZpTnpBNU16WmhOV0ptTUdZMFlUSmhZVE15TnpVMU1XVmtZelpqSWl3aWFXRjBJam94TlRZd05ESTFPREUyTENKbGVIQWlPakUxT1RFNU5qRTRNVFo5LkFrd3JVTmxxbk5QR25HTFNuT1ZsSmY0RDFreFNSbmtlOXhna3ppQXRkQjQiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJvZHVjdElkICAgIDogU2VydmljZXMuU3Vic2NyaXB0aW9uTWFuYWdlci5nZXRWdWxjYW1Qcm9kdWN0SWRCeUFwcGxlUHJvZHVjdElkKCdQUk8nLCAnbHZsMl9tb250aCcsIHtpc1RyaWFsOiBsYXRlc3RSZWNlaXB0SW5mby5pc190cmlhbF9wZXJpb2QgPT09ICd0cnVlJ30pLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8uaW5zdHJ1Y2F0aW9ucy1saW5lMiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaXRlLXNwYWNlOiBub3dyYXAgOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>'5792'           : {
-    type       : 'subscription_2_trial',
-    lvl        : 2,
-    permissions: {
-      public_view              : true,
-      comments_enabled         : true,
-      videos_count             : 100,
-      videos_size              : 0.5,
-      link_share               : true,
-      receive_shared           : true,
-      social_media_share       : true,
-      vulcam_row_share         : true,
-      vulcam_edited_share      : true,
-      customize_channel        : true,
-      split_screen             : true,
-      tools                    : true,
-      family_license           : 3,
-      annually_subscription    : false,
-      videoRecording           : true,
-      comment                  : true,
-      commentFeedback          : true,
-      share_public_content_link: true,
-      vulcam_share             : true,
-      recording                : false,
-      cameras_count            : 10,
-      laptop_access            : true,
-      frame_rate               : {
-        '30':60,
-        '60':30,
-        '120':15,
-      },
-      frame_rate_light         : {
-        '30':120,
-        '60':60,
-        '120':10,
-      }
-    },
-  },</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLy5rZWsga2VrZWtla2VrZQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IAogICAgICAgICAgICAgICAgICAgIC8v</text>
       </register>
-      <register name="6" type="4">
-        <text>'5790'           : {
-    type       : 'subscription_1_trial',
-    lvl        : 1,
-    permissions: {
-      public_view              : true,
-      comments_enabled         : true,
-      videos_count             : 25,
-      videos_size              : 0.5,
-      link_share               : true,
-      receive_shared           : true,
-      social_media_share       : false,
-      vulcam_row_share         : true,
-      vulcam_edited_share      : true,
-      customize_channel        : true,
-      split_screen             : true,
-      tools                    : false,
-      family_license           : 0,
-      annually_subscription    : false,
-      videoRecording           : true,
-      comment                  : true,
-      commentFeedback          : false,
-      share_public_content_link: true,
-      vulcam_share             : true,
-      recording                : false,
-      cameras_count            : 10,
-      laptop_access            : true,
-      frame_rate               : {
-        '30':60,
-        '60':30,
-        '120':15,
-      },
-      frame_rate_light         : {
-        '30':120,
-        '60':60,
-        '120':10,
-      }
-    },
-  },</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI3ttZXNzYWdlfQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3B0aW9ucy5pc1RyaWFsKSByZXR1cm4gNTc5MjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnJvbnRhaW5lciBrZWtla2VrZWsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3B0aW9ucy5pc1RyaWFsKSByZXR1cm4gNTc5MDsK</text>
+      <register name="8" type="4">
+        <text>w
+                .col-xs-12
+                    #static-co</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAsIHBhdGggICAgICA9IHJlcXVpcmUoJ3BhdGgnKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaHRtbCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
