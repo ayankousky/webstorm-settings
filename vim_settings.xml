@@ -34,11 +34,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/templates/verification_page.pug" timestamp="1560430252612">
-        <mark key="[" line="79" column="25" />
-        <mark key="]" line="79" column="51" />
-        <mark key="." line="79" column="51" />
-        <mark key="^" line="79" column="51" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/templates/verification_page.pug" timestamp="1560431980838">
+        <mark key="[" line="78" column="92" />
+        <mark key="]" line="78" column="108" />
+        <mark key="." line="78" column="108" />
+        <mark key="^" line="78" column="108" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/package.json" timestamp="1559715658572">
         <mark key="[" line="22" column="0" />
@@ -257,8 +257,8 @@
       <jump line="462" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnIK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -273,7 +273,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>alert-success.</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -291,33 +291,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8uaW5zdHJ1Y2F0aW9ucy1saW5lMiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaXRlLXNwYWNlOiBub3dyYXAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLy5rZWsga2VrZWtla2VrZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8uaW5zdHJ1Y2F0aW9ucy1saW5lMiAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IAogICAgICAgICAgICAgICAgICAgIC8v</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaXRlLXNwYWNlOiBub3dyYXAgOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI3ttZXNzYWdlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLy5rZWsga2VrZWtla2VrZQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJvbnRhaW5lciBrZWtla2VrZWsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IAogICAgICAgICAgICAgICAgICAgIC8v</text>
       </register>
-      <register name="8" type="4">
-        <text>w
-                .col-xs-12
-                    #static-co</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI3ttZXNzYWdlfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaHRtbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnJvbnRhaW5lciBrZWtla2VrZWsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
