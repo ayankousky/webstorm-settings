@@ -28,17 +28,16 @@
         <mark key="^" line="23" column="83" />
         <mark key="." line="23" column="83" />
       </file>
-      <file name="/account.js" timestamp="1560428344741" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/api/v1/index.js" timestamp="1560108774415">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/templates/verification_page.pug" timestamp="1560431980838">
-        <mark key="[" line="78" column="92" />
-        <mark key="]" line="78" column="108" />
-        <mark key="." line="78" column="108" />
-        <mark key="^" line="78" column="108" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/templates/verification_page.pug" timestamp="1560433675799">
+        <mark key="[" line="78" column="44" />
+        <mark key="]" line="78" column="44" />
+        <mark key="." line="78" column="44" />
+        <mark key="^" line="78" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/package.json" timestamp="1559715658572">
         <mark key="[" line="22" column="0" />
@@ -61,7 +60,6 @@
         <mark key="]" line="429" column="0" />
         <mark key="." line="429" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/application_access_providers/PRO_access.js" timestamp="1560425139832" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1559710600505">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -257,8 +255,8 @@
       <jump line="462" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnIK</text>
+      <register name="&quot;" type="4">
+        <text>.text-center</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -273,7 +271,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>alert-success.</text>
+        <text>.text-center</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
