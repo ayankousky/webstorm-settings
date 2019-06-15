@@ -39,10 +39,11 @@
         <mark key="." line="82" column="249" />
         <mark key="^" line="82" column="249" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/package.json" timestamp="1559715658572">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/package.json" timestamp="1560630183043">
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="24" />
+        <mark key="." line="24" column="24" />
+        <mark key="^" line="24" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1560166021323">
         <mark key="[" line="135" column="2" />
@@ -251,8 +252,8 @@
       <jump line="462" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGlzTmFOKGV2ZW50LmZpZWxkcy5pZCkK</text>
+      <register name="&quot;" type="4">
+        <text>0.8.3</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -267,7 +268,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>0.8.3</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
