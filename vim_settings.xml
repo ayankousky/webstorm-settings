@@ -28,7 +28,6 @@
         <mark key="^" line="23" column="83" />
         <mark key="." line="23" column="83" />
       </file>
-      <file name="/account.js" timestamp="1560435516641" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/api/v1/index.js" timestamp="1560108774415">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -60,6 +59,12 @@
         <mark key="[" line="429" column="0" />
         <mark key="]" line="429" column="0" />
         <mark key="." line="429" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/base.js" timestamp="1560622100103">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="^" line="138" column="38" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1559710600505">
         <mark key="[" line="10" column="0" />
@@ -105,7 +110,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1560428006670">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1560621816753">
         <mark key="'" line="124" column="13" />
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="20" />
@@ -245,7 +250,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -260,7 +265,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>overflow: hidden;</text>
+        <text>-</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -269,28 +274,28 @@
         <text>laptop_acc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcChzdHlsZT0idGV4dC1hbGlnbjogbGVmdDsiKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYS5jRGF0ZSA+IGIuY0RhdGUpIHJldHVybiAxOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFsbFVwZGF0ZXMubWFwKGIgPT4gYi5jRGF0ZSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vfCAjW2EoaHJlZj0iaHR0cHM6Ly95b3V0dS5iZS9YbHA3dkZNdzhrcyIpIGh0dHBzOi8veW91dHUuYmUvWGxwN3ZGTXc4a3NdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vfCAjW2EoaHJlZj0iaHR0cHM6Ly95b3V0dS5iZS9YbHA3dkZNdzhrcyIpIGh0dHBzOi8veW91dHUuYmUvWGxwN3ZGTXc4a3NdCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
@@ -299,10 +304,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8uaW5zdHJ1Y2F0aW9ucy1saW5lMiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaXRlLXNwYWNlOiBub3dyYXAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
