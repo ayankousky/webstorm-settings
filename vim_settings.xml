@@ -21,12 +21,12 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1560112123549">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1560838766881">
         <mark key="'" line="330" column="27" />
-        <mark key="[" line="159" column="57" />
-        <mark key="]" line="159" column="65" />
-        <mark key="^" line="159" column="65" />
-        <mark key="." line="159" column="65" />
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1560836311867">
         <mark key="[" line="0" column="12" />
@@ -90,11 +90,11 @@
         <mark key="^" line="44" column="29" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitlab-ci.yml" timestamp="1560836912460">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitlab-ci.yml" timestamp="1560838635763">
         <mark key="[" line="19" column="63" />
-        <mark key="]" line="20" column="8" />
-        <mark key="^" line="20" column="8" />
-        <mark key="." line="20" column="8" />
+        <mark key="]" line="20" column="29" />
+        <mark key="^" line="20" column="29" />
+        <mark key="." line="20" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/link_shortener/index.js" timestamp="1560805641430">
         <mark key="[" line="80" column="35" />
@@ -296,8 +296,8 @@
       <jump line="852" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZm9sZGVycykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IDQwOTY=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -312,7 +312,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRydWU=</text>
+        <text encoding="base64">IDQwOTY=</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
