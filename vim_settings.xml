@@ -21,14 +21,14 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1560840923291">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1560853286411">
         <mark key="'" line="330" column="27" />
         <mark key="[" line="8" column="84" />
         <mark key="]" line="8" column="85" />
         <mark key="^" line="3" column="24" />
         <mark key="." line="8" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1560839766360">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1560853866513">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -191,10 +191,10 @@
         <mark key="^" line="65" column="27" />
         <mark key="." line="65" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.prod-config.yml" timestamp="1560840716545">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="21" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.prod-config.yml" timestamp="1560853786724">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1560805662303">
@@ -313,8 +313,8 @@
       <jump line="8" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc2htX3NpemU6ICcyNTZtJwo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -338,40 +338,40 @@
         <text>laptop_acc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmlkZW9JZCkK</text>
+        <text encoding="base64">ICAgICAgc2htX3NpemU6ICcyNTZtJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgc2htX3NpemU6ICcyNTZtJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2htX3NpemU6ICcxZ2InCg==</text>
+        <text encoding="base64">ICAgIHNobV9zaXplOiAnMjU2bScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZm9sZGVycykK</text>
+        <text encoding="base64">ICAgIHNobV9zaXplOiAnMjU2bScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmlkZW9JZCkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF3YWl0IFZpZGVvLnF1ZXJ5KCdpZCcpLmVxKHZpZGVvSWQpLmV4ZWMoKSkK</text>
+        <text encoding="base64">ICAgICAgc2htX3NpemU6ICcxZ2InCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZpZGVvSWQpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZm9sZGVycykK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZpZGVvSWQpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmlkZW9JZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZpZGVvSWQpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF3YWl0IFZpZGVvLnF1ZXJ5KCdpZCcpLmVxKHZpZGVvSWQpLmV4ZWMoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh2aWRlbykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZpZGVvSWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
