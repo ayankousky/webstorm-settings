@@ -21,12 +21,12 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1560838766881">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1560840923291">
         <mark key="'" line="330" column="27" />
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="24" />
+        <mark key="[" line="8" column="84" />
+        <mark key="]" line="8" column="85" />
         <mark key="^" line="3" column="24" />
-        <mark key="." line="3" column="24" />
+        <mark key="." line="8" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1560839766360">
         <mark key="[" line="6" column="0" />
@@ -191,11 +191,11 @@
         <mark key="^" line="65" column="27" />
         <mark key="." line="65" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.prod-config.yml" timestamp="1560839774048">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.prod-config.yml" timestamp="1560840716545">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1560805662303">
         <mark key="'" line="602" column="27" />
@@ -313,8 +313,8 @@
       <jump line="8" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -329,7 +329,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDQwOTY=</text>
+        <text>0</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
