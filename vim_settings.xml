@@ -28,10 +28,10 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="8" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1560853866513">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1560949616235">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1560805502936">
         <mark key="'" line="852" column="0" />
@@ -191,12 +191,6 @@
         <mark key="^" line="65" column="27" />
         <mark key="." line="65" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.prod-config.yml" timestamp="1560948627693">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="7" column="5" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1560805662303">
         <mark key="'" line="602" column="27" />
         <mark key="[" line="603" column="0" />
@@ -313,8 +307,8 @@
       <jump line="8" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2htX3NpemU6ICcyNTZtJwo=</text>
+      <register name="&quot;" type="4">
+        <text>shm_size: '1gb'</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -329,7 +323,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>shm_size: '1gb'</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -341,7 +335,7 @@
         <text encoding="base64">ICAgIHNobV9zaXplOiAnMWdiJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2htX3NpemU6ICcyNTZtJwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -350,28 +344,28 @@
         <text encoding="base64">ICAgICAgc2htX3NpemU6ICcyNTZtJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNobV9zaXplOiAnMjU2bScK</text>
+        <text encoding="base64">ICAgICAgc2htX3NpemU6ICcyNTZtJwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHNobV9zaXplOiAnMjU2bScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHNobV9zaXplOiAnMjU2bScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2htX3NpemU6ICcxZ2InCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZm9sZGVycykK</text>
+        <text encoding="base64">ICAgICAgc2htX3NpemU6ICcxZ2InCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmlkZW9JZCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZm9sZGVycykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF3YWl0IFZpZGVvLnF1ZXJ5KCdpZCcpLmVxKHZpZGVvSWQpLmV4ZWMoKSkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmlkZW9JZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
