@@ -15,6 +15,12 @@
         <mark key="^" line="37" column="27" />
         <mark key="." line="37" column="27" />
       </file>
+      <file name="$USER_HOME$/Desktop/test_shm/docker-compose.yml" timestamp="1561007125297">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/WeMeet/admin/src/services/api.js" timestamp="1560235112143">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="24" />
@@ -113,7 +119,6 @@
         <mark key="^" line="82" column="27" />
         <mark key="." line="82" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1560953916232" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" timestamp="1560425404304">
         <mark key="'" line="462" column="6" />
         <mark key="[" line="596" column="34" />
@@ -303,7 +308,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>018840751025.dkr.ecr.us-west-1.amazonaws.com/kalad-server</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -318,7 +323,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>018840751025.dkr.ecr.us-west-1.amazonaws.com/kalad-server</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
