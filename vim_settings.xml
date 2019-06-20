@@ -143,7 +143,13 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561029274812">
+      <file name="$USER_HOME$/Documents/Projects/WeMeet/admin/src/screens/Places/Map/index.js" timestamp="1561036496978">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="55" />
+        <mark key="." line="11" column="55" />
+        <mark key="^" line="11" column="55" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1561036449144">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1560805591517">
@@ -326,7 +332,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>process.env.REACT_APP_GOOGLE_API_KEY;</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -341,7 +347,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>process.env.REACT_APP_GOOGLE_API_KEY;</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -350,7 +356,7 @@
         <text>laptop_acc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBydW50aW1lOiBub2RlanMxMC54Cg==</text>
+        <text encoding="base64">Y29uc3QgQVBJX0tFWSA9IHByb2Nlc3MuZW52LlJFQUNUX0FQUF9HT09HTEVfQVBJX0tFWTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcHJveHlfYnVzeV9idWZmZXJzX3NpemUgMTJtOwo=</text>
