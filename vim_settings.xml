@@ -27,12 +27,12 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1561013479010">
-        <mark key="'" line="332" column="27" />
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="17" column="20" />
-        <mark key="^" line="17" column="20" />
-        <mark key="." line="17" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1561016229648">
+        <mark key="'" line="341" column="27" />
+        <mark key="[" line="260" column="27" />
+        <mark key="]" line="262" column="34" />
+        <mark key="^" line="262" column="34" />
+        <mark key="." line="262" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1561012970330">
         <mark key="[" line="6" column="0" />
@@ -314,7 +314,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>m</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -329,7 +329,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>m</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -340,38 +340,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICBydW50aW1lOiBub2RlanMxMC54Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICB2b2x1bWVzOgogICAgICAtIHR5cGU6IHRtcGZzCiAgICAgICAgdGFyZ2V0OiAvZGV2L3NobQogICAgICAgIHRtcGZzOgogICAgICAgICAgc2l6ZTogMTAwMDAwMDAwMA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcHJveHlfYnVzeV9idWZmZXJzX3NpemUgMTJtOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNobV9zaXplOiAnMjU2TScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2htX3NpemU6ICcyNTZNJwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICB2b2x1bWVzOgogICAgICAtIHR5cGU6IHRtcGZzCiAgICAgICAgdGFyZ2V0OiAvZGV2L3NobQogICAgICAgIHRtcGZzOgogICAgICAgICAgc2l6ZTogMTAwMDAwMDAwMA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHNobV9zaXplOiAnMjU2TScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2htX3NpemU6ICcyNTZtJwo=</text>
+        <text encoding="base64">ICAgICAgc2htX3NpemU6ICcyNTZNJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2htX3NpemU6ICcyNTZtJwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNobV9zaXplOiAnMjU2bScK</text>
+        <text encoding="base64">ICAgICAgc2htX3NpemU6ICcyNTZtJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNobV9zaXplOiAnMjU2bScK</text>
+        <text encoding="base64">ICAgICAgc2htX3NpemU6ICcyNTZtJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHNobV9zaXplOiAnMjU2bScK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
