@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1560103201447">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1561314619190">
+        <mark key="'" line="1739" column="0" />
         <mark key="[" line="161" column="78" />
         <mark key="]" line="161" column="97" />
         <mark key="." line="161" column="97" />
@@ -184,6 +185,7 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/index.js" timestamp="1561312016114" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment.js" timestamp="1560805555015">
         <mark key="[" line="206" column="36" />
         <mark key="]" line="208" column="27" />
@@ -214,11 +216,11 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/video.js" timestamp="1560805662303">
-        <mark key="'" line="602" column="27" />
-        <mark key="[" line="603" column="0" />
-        <mark key="]" line="603" column="0" />
-        <mark key="." line="603" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/whitelist/index.js" timestamp="1561311592605">
+        <mark key="[" line="92" column="114" />
+        <mark key="]" line="92" column="114" />
+        <mark key="^" line="92" column="114" />
+        <mark key="." line="92" column="114" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment_likes.js" timestamp="1560805562947">
         <mark key="[" line="53" column="35" />
@@ -228,8 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/comments_api.js" />
-      <jump line="28" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/videos/comments_api.js" />
       <jump line="592" column="26" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
       <jump line="632" column="38" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
       <jump line="604" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
@@ -328,6 +328,8 @@
       <jump line="8" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
       <jump line="390" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="922" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
+      <jump line="163" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="1739" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
