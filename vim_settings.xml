@@ -159,6 +159,12 @@
         <mark key="." line="42" column="25" />
         <mark key="^" line="42" column="25" />
       </file>
+      <file name="$USER_HOME$/Desktop/test_nginx/conf.dev.nginx" timestamp="1561477107166">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" timestamp="1560805685266">
         <mark key="'" line="321" column="4" />
         <mark key="[" line="944" column="0" />
@@ -185,7 +191,6 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/index.js" timestamp="1561312016114" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment.js" timestamp="1560805555015">
         <mark key="[" line="206" column="36" />
         <mark key="]" line="208" column="27" />
@@ -216,7 +221,6 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/whitelist/index.js" timestamp="1561318846922" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment_likes.js" timestamp="1560805562947">
         <mark key="[" line="53" column="35" />
         <mark key="]" line="53" column="35" />
@@ -225,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="592" column="26" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
       <jump line="632" column="38" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
       <jump line="604" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
       <jump line="30" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
@@ -325,10 +328,11 @@
       <jump line="922" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
       <jump line="163" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="1739" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/Desktop/test_nginx/conf.dev.nginx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -355,30 +359,33 @@
         <text encoding="base64">Y29uc3QgQVBJX0tFWSA9IHByb2Nlc3MuZW52LlJFQUNUX0FQUF9HT09HTEVfQVBJX0tFWTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN1cnNvci5vbignZW5kJywgYXN5bmMgKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGN1cnNvci5vbignZW5kJywgYXN5bmMgKCkgPT4gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY3Vyc29yLm9uKCdkYXRhJywgZG9jID0+IHsK</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgY3Vyc29yLm9uKCdkYXRhJywgZG9jID0+IHsK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="8">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
+      </register>
+      <register name="8" type="8">
         <text>&quot;10:00&quot;, &quot;12:00&quot;
 &quot;10:00&quot;, &quot;12:00&quot;
 &quot;10:00&quot;, &quot;12:00&quot;
@@ -386,11 +393,8 @@
 &quot;10:00&quot;, &quot;12:00&quot;
 &quot;10:00&quot;, &quot;12:00&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnYXJ1YmFuaWtAZWxpbmV4dC5jb20nLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAnYXJ1YmFuaWtAZWxpbmV4dC5jb20nLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
