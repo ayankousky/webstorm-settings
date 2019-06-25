@@ -28,6 +28,12 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/Desktop/docker-elk-copy/logstash/pipeline/logstash.conf" timestamp="1561479289156">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1561016229648">
         <mark key="'" line="341" column="27" />
         <mark key="[" line="260" column="27" />
@@ -76,7 +82,12 @@
         <mark key="^" line="41" column="27" />
         <mark key="." line="41" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/test_nginx/docker-compose.yml" timestamp="1561477387966" />
+      <file name="$USER_HOME$/Desktop/test_nginx/docker-compose.yml" timestamp="1561478096736">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="15" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1560166021323">
         <mark key="[" line="135" column="2" />
         <mark key="]" line="135" column="28" />
@@ -332,8 +343,8 @@
       <jump line="18" column="0" filename="$USER_HOME$/Desktop/test_nginx/conf.dev.nginx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>5000</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -348,7 +359,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;day&quot;: 1, &quot;values&quot;: [&quot;10:00&quot;, &quot;12:00&quot;]</text>
+        <text>5000</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -357,45 +368,40 @@
         <text>laptop_acc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgQVBJX0tFWSA9IHByb2Nlc3MuZW52LlJFQUNUX0FQUF9HT09HTEVfQVBJX0tFWTsK</text>
+        <text encoding="base64">ICAgICAgZHJpdmVyOiBzeXNsb2cK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHR5cGUgPT4gZG9ja2VyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgliZWF0cyB7CgkJcG9ydCA9PiA1MDAwCiAgICB0eXBlID0+IHN5c2xvZwoJfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN1cnNvci5vbignZW5kJywgYXN5bmMgKCkgPT4gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGN1cnNvci5vbignZW5kJywgYXN5bmMgKCkgPT4gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY3Vyc29yLm9uKCdkYXRhJywgZG9jID0+IHsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>&quot;10:00&quot;, &quot;12:00&quot;
-&quot;10:00&quot;, &quot;12:00&quot;
-&quot;10:00&quot;, &quot;12:00&quot;
-&quot;10:00&quot;, &quot;12:00&quot;
-&quot;10:00&quot;, &quot;12:00&quot;
-&quot;10:00&quot;, &quot;12:00&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY3Vyc29yLm9uKCdkYXRhJywgZG9jID0+IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnYXJ1YmFuaWtAZWxpbmV4dC5jb20nLAo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
