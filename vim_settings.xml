@@ -34,12 +34,12 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1561016229648">
-        <mark key="'" line="341" column="27" />
-        <mark key="[" line="260" column="27" />
-        <mark key="]" line="262" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1561527701580">
+        <mark key="'" line="256" column="37" />
+        <mark key="[" line="256" column="37" />
+        <mark key="]" line="256" column="38" />
         <mark key="^" line="262" column="34" />
-        <mark key="." line="262" column="34" />
+        <mark key="." line="256" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1561012970330">
         <mark key="[" line="6" column="0" />
@@ -241,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="632" column="38" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
       <jump line="604" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
       <jump line="30" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
       <jump line="642" column="84" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
@@ -341,6 +340,7 @@
       <jump line="163" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="1739" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" />
       <jump line="18" column="0" filename="$USER_HOME$/Desktop/test_nginx/conf.dev.nginx" />
+      <jump line="256" column="37" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
