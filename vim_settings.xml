@@ -248,12 +248,12 @@
         <mark key="." line="53" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/traffic_optimized.js" timestamp="1561729402152" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" timestamp="1561747529863">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" timestamp="1561748484602">
         <mark key="'" line="139" column="0" />
-        <mark key="[" line="149" column="15" />
-        <mark key="]" line="149" column="16" />
-        <mark key="^" line="149" column="16" />
-        <mark key="." line="149" column="16" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="192" column="37" />
+        <mark key="^" line="192" column="37" />
+        <mark key="." line="192" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -359,8 +359,8 @@
       <jump line="124" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -375,7 +375,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -384,7 +384,7 @@
         <text>laptop_acc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQgcmVzdWx0ID0gYXdhaXQgQXBwbGVSZWNlaXB0LmhhbmRsZVJlY2VpcHQodXNlci5pZCwgZXZlbnQuYm9keS5hcHBsZV9yZWNlaXB0KQo=</text>
+        <text encoding="base64">ICAgICAgbGV0IGxhdGVzdFJlY2VpcHRJbmZvID0gYXBwbGVWYWxpZGF0aW9uUmVzcG9uc2UubGF0ZXN0X3JlY2VpcHRfaW5mby5wb3AoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
@@ -393,31 +393,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV4aXN0aW5nUmVjZWlwdHMubGVuZ3RoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLy8gbGV0IGxhdGVzdFJlY2VpcHRJbmZvID0gYXBwbGVWYWxpZGF0aW9uUmVzcG9uc2UubGF0ZXN0X3JlY2VpcHRfaW5mb1swXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGRiUmVjZWlwdCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkobGF0ZXN0UmVjZWlwdEluZm8pKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdkYlJlY2VpcHQnKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NlbGVjdGVkIHJlY2VpcHQgaW5mbzonKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGV4aXN0aW5nUmVjZWlwdHMpCg==</text>
+        <text encoding="base64">ICAgICAgLyB9KTsK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdleGlzdGluZ1JlY2VpcHRzJykK</text>
+      <register name="7" type="4">
+        <text encoding="base64">Ly8gYXBwbGVWYWxpZGF0aW9uUmVzcG9uc2UubGF0ZXN0X3JlY2VpcHRfaW5mby5mb3JFYWNoKHJpID0+IHsKICAgICAgLy8gICBjb25zb2xlLmxvZyhyaS5leHBpcmVzX2RhdGUpCiAgICAgIC8=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">YXBwbGVWYWxpZGF0aW9uUmVzcG9uc2UubGF0ZXN0X3JlY2VpcHRfaW5mby5mb3JFYWNoKHJpID0+IHsKICAgICAgICBjb25zb2xlLmxvZyhyaS5leHBpcmVzX2RhdGUpCiAgICAgIH0pOw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
