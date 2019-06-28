@@ -37,11 +37,6 @@
         <mark key="^" line="262" column="34" />
         <mark key="." line="256" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1561012970330">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" timestamp="1560805502936">
         <mark key="'" line="852" column="0" />
         <mark key="[" line="166" column="72" />
@@ -67,11 +62,6 @@
         <mark key="." line="24" column="24" />
         <mark key="^" line="24" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.local-tests.yml" timestamp="1560839799250">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user_lists.js" timestamp="1560805618190">
         <mark key="[" line="39" column="56" />
         <mark key="]" line="41" column="27" />
@@ -96,14 +86,14 @@
         <mark key="^" line="355" column="72" />
         <mark key="." line="357" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/base.js" timestamp="1560805482863">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/base.js" timestamp="1561737096093">
         <mark key="'" line="154" column="0" />
         <mark key="[" line="50" column="36" />
         <mark key="]" line="51" column="3" />
         <mark key="^" line="51" column="3" />
         <mark key="." line="51" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" timestamp="1561736406071">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" timestamp="1561736580586">
         <mark key="'" line="135" column="0" />
         <mark key="[" line="51" column="19" />
         <mark key="]" line="51" column="30" />
@@ -135,10 +125,18 @@
         <mark key="^" line="82" column="27" />
         <mark key="." line="82" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1561734686342">
-        <mark key="[" line="1428" column="0" />
-        <mark key="]" line="1428" column="0" />
-        <mark key="." line="1428" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1561738208127">
+        <mark key="'" line="1405" column="35" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="58" />
+        <mark key="^" line="1406" column="1" />
+        <mark key="." line="1406" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/index.js" timestamp="1561737215405">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="23" />
+        <mark key="." line="15" column="23" />
+        <mark key="^" line="15" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" timestamp="1561118632771">
         <mark key="[" line="0" column="31" />
@@ -146,16 +144,11 @@
         <mark key="^" line="0" column="96" />
         <mark key="." line="0" column="96" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user_history.js" timestamp="1560805612417">
-        <mark key="[" line="34" column="36" />
-        <mark key="]" line="36" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/user_history.js" timestamp="1561738892068">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="36" />
         <mark key="^" line="36" column="27" />
         <mark key="." line="36" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.test.yml" timestamp="1560839810516">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/WeMeet/admin/src/screens/Places/Map/index.js" timestamp="1561036594757">
         <mark key="[" line="11" column="17" />
@@ -163,7 +156,7 @@
         <mark key="." line="11" column="55" />
         <mark key="^" line="11" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561736279315">
+      <file name="/Dummy.txt" timestamp="1561739585344">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1560805591517">
@@ -192,7 +185,7 @@
         <mark key="^" line="320" column="27" />
         <mark key="." line="944" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1561704274858">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1561737781266">
         <mark key="'" line="923" column="0" />
         <mark key="[" line="11" column="21" />
         <mark key="]" line="11" column="21" />
@@ -205,15 +198,22 @@
         <mark key="." line="184" column="29" />
         <mark key="^" line="184" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_create.json" timestamp="1561738338161">
+        <mark key="'" line="111" column="23" />
+        <mark key="[" line="126" column="28" />
+        <mark key="]" line="126" column="9607" />
+        <mark key="." line="126" column="9607" />
+        <mark key="^" line="126" column="9607" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/WeMeet/admin/deploy_staging.sh" timestamp="1561094944141">
         <mark key="[" line="8" column="30" />
         <mark key="]" line="8" column="37" />
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment.js" timestamp="1560805555015">
-        <mark key="[" line="206" column="36" />
-        <mark key="]" line="208" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment.js" timestamp="1561737425140">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="64" />
         <mark key="^" line="208" column="27" />
         <mark key="." line="208" column="27" />
       </file>
@@ -248,20 +248,15 @@
         <mark key="." line="53" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/traffic_optimized.js" timestamp="1561729402152" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" timestamp="1561736393258">
-        <mark key="[" line="66" column="55" />
-        <mark key="]" line="66" column="71" />
-        <mark key="^" line="66" column="71" />
-        <mark key="." line="66" column="71" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" timestamp="1561739627787">
+        <mark key="'" line="139" column="0" />
+        <mark key="[" line="66" column="32" />
+        <mark key="]" line="66" column="36" />
+        <mark key="^" line="66" column="36" />
+        <mark key="." line="66" column="36" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
-      <jump line="642" column="84" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" />
-      <jump line="616" column="9" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/channel.js" />
-      <jump line="734" column="15" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
-      <jump line="229" column="16" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="68" column="3" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/deviceService.js" />
       <jump line="877" column="42" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/firmwares/firmwares_api.js" />
       <jump line="853" column="42" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/firmwares/firmwares_api.js" />
       <jump line="17" column="56" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/products/products_api.js" />
@@ -356,10 +351,16 @@
       <jump line="18" column="0" filename="$USER_HOME$/Desktop/test_nginx/conf.dev.nginx" />
       <jump line="256" column="37" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
       <jump line="133" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" />
+      <jump line="1445" column="26" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="111" column="23" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_create.json" />
+      <jump line="1405" column="35" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="69" column="20" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" />
+      <jump line="76" column="41" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" />
+      <jump line="124" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UserList</text>
+        <text>(</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -374,7 +375,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>UserList</text>
+        <text>(</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -383,47 +384,40 @@
         <text>laptop_acc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkgIHR5cGU6IE9iamVjdCwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJJZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJJZCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJJZCkK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGFzeW5jIGRlbGV0ZUZpbHRlcihlbWFpbCwgdHlwZSkgewogICAgICBsZXQgZmlsdGVyID0gYXdhaXQgQXBwbGVSZWNlaXB0LmdldEJ5RW1haWwoZW1haWwsIHR5cGUpOwogICAgICAvLyByZXR1cm4gYXdhaXQgQXBwbGVSZWNlaXB0LmRlbGV0ZSh7ZW1haWw6IGVtYWlsLCB0eXBlOiBBcHBsZVJlY2VpcHQudHlwZVRvTnVtYmVyKHR5cGUpfSk7IC8vIHRoZXJlIGlzIHNvbWUga2luZCBvZiBhIGJ1Zywgd2hlbiB0eXBlIGlzIGVxIDAgLSBpdCBkb2Vzbid0IHdvcmsKICAgICAgcmV0dXJuIGF3YWl0IGZpbHRlci5kZWxldGUoKTsKICB9LAoKICBhc3luYyBnZXRCeUVtYWlsKGVtYWlsLCB0eXBlKXsKICAgICAgaWYgKHR5cGVvZiB0eXBlID09PSAnc3RyaW5nJyl7CiAgICAgICAgdHlwZSA9IEFwcGxlUmVjZWlwdC50eXBlVG9OdW1iZXIodHlwZSk7CiAgICAgIH0KICAgICAgcmV0dXJuIGF3YWl0IEFwcGxlUmVjZWlwdC5nZXQoe2VtYWlsOiBlbWFpbCwgdHlwZTogdHlwZX0pOwogIH0sCgogIGFzeW5jIGdldEFsbChlbWFpbCl7CiAgICAgIHJldHVybiBhd2FpdCBBcHBsZVJlY2VpcHQKICAgICAgICAucXVlcnkoJ2VtYWlsJykuZXEoZW1haWwpCiAgICAgICAgLmV4ZWMoKTsKICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJJZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJJZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJJZCkK</text>
       </register>
-      <register name="6" type="4">
-        <text>typeToNumber(typeString){
-    switch (typeString){
-      case 'no_emails':
-        return 0;
-      default:
-        return undefined;
-    }
-  },</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGF3YWl0IFVzZXJGaWx0ZXIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
