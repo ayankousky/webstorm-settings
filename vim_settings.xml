@@ -78,12 +78,12 @@
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_create.json" timestamp="1561751227059">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_create.json" timestamp="1561753717665">
         <mark key="'" line="126" column="2" />
-        <mark key="[" line="126" column="28" />
-        <mark key="]" line="126" column="9607" />
-        <mark key="." line="126" column="9607" />
-        <mark key="^" line="126" column="9607" />
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+        <mark key="^" line="129" column="6910" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/WeMeet/admin/deploy_staging.sh" timestamp="1561094944141">
         <mark key="[" line="8" column="30" />
@@ -115,12 +115,12 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" timestamp="1561751465372">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" timestamp="1561753173525">
         <mark key="'" line="139" column="0" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="^" line="153" column="33" />
-        <mark key="." line="153" column="0" />
+        <mark key="[" line="163" column="208" />
+        <mark key="]" line="164" column="42" />
+        <mark key="^" line="164" column="42" />
+        <mark key="." line="164" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1561734711384">
         <mark key="'" line="1739" column="0" />
@@ -137,11 +137,11 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1561750682779">
-        <mark key="[" line="115" column="27" />
-        <mark key="]" line="115" column="31" />
-        <mark key="." line="115" column="31" />
-        <mark key="^" line="115" column="31" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1561753141715">
+        <mark key="[" line="115" column="5" />
+        <mark key="]" line="115" column="5" />
+        <mark key="." line="115" column="5" />
+        <mark key="^" line="115" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/templates/verification_page.pug" timestamp="1560437049849">
         <mark key="[" line="82" column="249" />
@@ -189,12 +189,12 @@
         <mark key="^" line="82" column="27" />
         <mark key="." line="82" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1561751192309">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1561753522436">
         <mark key="'" line="795" column="19" />
-        <mark key="[" line="879" column="0" />
-        <mark key="]" line="879" column="0" />
-        <mark key="^" line="891" column="100" />
-        <mark key="." line="879" column="0" />
+        <mark key="[" line="1408" column="0" />
+        <mark key="]" line="1408" column="16" />
+        <mark key="^" line="1402" column="14" />
+        <mark key="." line="1408" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/index.js" timestamp="1561737215405">
         <mark key="[" line="15" column="11" />
@@ -341,7 +341,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFZ1bGNhbQ==</text>
+        <text>_</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -356,7 +356,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFZ1bGNhbQ==</text>
+        <text>_</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -365,28 +365,28 @@
         <text>laptop_acc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQgdXNlcklkID0gYXV0aFNlcnZpY2UucGF5bG9hZC51c2VySWQ7Cg==</text>
+        <text encoding="base64">ICAgICJkZXZfQXV0aG9yaXphdGlvbiI6ICJleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKcFpDSTZJamM0SWl3aWRYTmxja2xrSWpvaU56Z2lMQ0psYldGcGJDSTZJbUY1WVc1cmIzVnphM2xBZVdGb2IyOHVZMjl0SWl3aWRuVnNZMkZ0UVhWMGFFTnZiMnRwWlNJNkltRjVZVzVyYjNWemEzbEFlV0ZvYjI4dVkyOXRmREUxTkRFeE9UUTJOVGg4ZGt4b1JXaGtSMEZKWTBOa2EwSjZXbFJ0YTNwUVJFMXlTa0UyTjFsaVdURnVWMmQzUTFObFVtMVRlSHhsWldJNU1EaGlZbUUyWWpObU16TmlaakpqTVRZM05USTNabVZtTTJOak16Qm1NRFExTnpRNE56Wm1NemRoWXpFMU5UZzNPVEUzT1RneE9HVTVNRE01SWl3aWFXRjBJam94TlRNNU9UZzBPVEF3TENKbGVIQWlPakUxTnpFMU1qQTVNREI5LmdzTFpkSDhZVkR0alZiT2V4XzFYM1hKb0JQUXluU05MVGctQl9ENUdxVW8iLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJBdXRob3JpemF0aW9uIjogImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWkNJNklqUXpOeUlzSW5WelpYSkpaQ0k2SWpRek55SXNJbVZ0WVdsc0lqb2lhblYwTG1oaGNuSnBjMEJuYldGcGJDNWpiMjBpTENKMmRXeGpZVzFCZFhSb1EyOXZhMmxsSWpvaWFuVjBMbWhoY25KcGMwQm5iV0ZwYkM1amIyMThNVFUyTWpJMk1qUTVOSHg2YVhsT1RqWlFSV2haU0daVlIwTnZla0ZRYjJ0SlMyUkpTbE56Y3pOemFtbExjRkpRTlhBeWR6VTNmREJtWlRFM05ESXhOV1F5T1RGak5UVTNPRGN6WWpka1pEQXdaalJtTTJVM1pHUm1OVGN3T1RKak9HSTFORFZpWkRZNVpqTmxPV1k0TURFeFpUZzVNR01pTENKcFlYUWlPakUxTmpFd05URTNPRGNzSW1WNGNDSTZNVFU1TWpVNE56YzROMzAuR29aTHdTUkxmNlk2OWhwdzl0d1p2c2xieGo2SjZwaXFaX0t5UnZ3ZlRuYyIsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAvLyBsZXQgdXNlciA9IGF3YWl0IGF1dGhTZXJ2aWNlLmdldFVzZXIoKTsKICAvLyBpZiAodXNlciBpbnN0YW5jZW9mIEFwcEVycm9ycy5CYXNlRXJyb3IpIHsKICAvLyAgIHJldHVybiByZXFFbmQoewogIC8vICAgICBlcnJvcjogdXNlcgogIC8vICAgfSk7CiAgLy8gfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBsZXQgZW1haWw9IGF1dGhTZXJ2aWNlLnBheWxvYWQuZW1haWw7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBsZXQgdXNlcklkID0gYXV0aFNlcnZpY2UucGF5bG9hZC51c2VySWQ7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhdXRoU2VydmljZS5wYXlsb2FkKQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYXNkZmFzZGFzZmFzZGZhc2RmJykK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhdXRoU2VydmljZS5wYXlsb2FkKQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
@@ -397,9 +397,8 @@
       <register name="8" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZygnYXNkZmFzZGFzZmFzZGZhc2RmJykK</text>
       </register>
-      <register name="9" type="4">
-        <text>hService = new AuthService(event.headers.Authorization);
-  let u</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYXNkZmFzZGFzZmFzZGZhc2RmJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
