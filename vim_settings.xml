@@ -125,12 +125,12 @@
         <mark key="^" line="82" column="27" />
         <mark key="." line="82" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1561747446507">
-        <mark key="'" line="1405" column="35" />
-        <mark key="[" line="1406" column="60" />
-        <mark key="]" line="1406" column="59" />
-        <mark key="^" line="1406" column="59" />
-        <mark key="." line="1406" column="59" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1561749663763">
+        <mark key="'" line="795" column="19" />
+        <mark key="[" line="1408" column="6" />
+        <mark key="]" line="1408" column="21" />
+        <mark key="^" line="1408" column="21" />
+        <mark key="." line="1408" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/index.js" timestamp="1561737215405">
         <mark key="[" line="15" column="11" />
@@ -156,7 +156,7 @@
         <mark key="." line="11" column="55" />
         <mark key="^" line="11" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561745706356">
+      <file name="/Dummy.txt" timestamp="1561749375865">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/sharing.js" timestamp="1560805591517">
@@ -248,17 +248,15 @@
         <mark key="." line="53" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/traffic_optimized.js" timestamp="1561729402152" />
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" timestamp="1561748484602">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" timestamp="1561749654355">
         <mark key="'" line="139" column="0" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="192" column="37" />
-        <mark key="^" line="192" column="37" />
-        <mark key="." line="192" column="37" />
+        <mark key="[" line="101" column="12" />
+        <mark key="]" line="101" column="16" />
+        <mark key="^" line="101" column="16" />
+        <mark key="." line="101" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="877" column="42" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/firmwares/firmwares_api.js" />
-      <jump line="853" column="42" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/firmwares/firmwares_api.js" />
       <jump line="17" column="56" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/products/products_api.js" />
       <jump line="436" column="22" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/products/products_api.js" />
       <jump line="391" column="22" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/products/products_api.js" />
@@ -357,10 +355,12 @@
       <jump line="69" column="20" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" />
       <jump line="76" column="41" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" />
       <jump line="124" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" />
+      <jump line="1407" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
+      <jump line="795" column="19" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmVzdWx0IA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -375,7 +375,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">cmVzdWx0IA==</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -384,40 +384,40 @@
         <text>laptop_acc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGxhdGVzdFJlY2VpcHRJbmZvID0gYXBwbGVWYWxpZGF0aW9uUmVzcG9uc2UubGF0ZXN0X3JlY2VpcHRfaW5mby5wb3AoKTsK</text>
+        <text encoding="base64">ICBhd2FpdCBBcHBsZVJlY2VpcHQudXBkYXRlVXNlclJlY2VpcHRzKHVzZXIuaWQpIC8vIGNvbm5lY3QgdG8gYXBwbGUgYW5kIHVwZGF0ZSB1c2VyIHN1YnNjcmlwdGlvbnMgKHVzaW5nIGFwcGxlIHJlY2VpcHQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBsZXQgQXBwbGVSZWNlaXB0ID0gZHluYW1vb3NlLm1vZGVsKGNvbmZpZy5EREIudGFibGVzLmFwcGxlUmVjZWlwdFRhYmxlLm5hbWUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gbGV0IGxhdGVzdFJlY2VpcHRJbmZvID0gYXBwbGVWYWxpZGF0aW9uUmVzcG9uc2UubGF0ZXN0X3JlY2VpcHRfaW5mb1swXTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkobGF0ZXN0UmVjZWlwdEluZm8pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NlbGVjdGVkIHJlY2VpcHQgaW5mbzonKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLyB9KTsK</text>
+        <text encoding="base64">ICByZXR1cm4K</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ly8gYXBwbGVWYWxpZGF0aW9uUmVzcG9uc2UubGF0ZXN0X3JlY2VpcHRfaW5mby5mb3JFYWNoKHJpID0+IHsKICAgICAgLy8gICBjb25zb2xlLmxvZyhyaS5leHBpcmVzX2RhdGUpCiAgICAgIC8=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">YXBwbGVWYWxpZGF0aW9uUmVzcG9uc2UubGF0ZXN0X3JlY2VpcHRfaW5mby5mb3JFYWNoKHJpID0+IHsKICAgICAgICBjb25zb2xlLmxvZyhyaS5leHBpcmVzX2RhdGUpCiAgICAgIH0pOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
