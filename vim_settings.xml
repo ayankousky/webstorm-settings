@@ -70,11 +70,11 @@
         <mark key="^" line="41" column="27" />
         <mark key="." line="41" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/whitelist.js" timestamp="1562080754230">
-        <mark key="[" line="47" column="11" />
-        <mark key="]" line="47" column="27" />
-        <mark key="^" line="47" column="27" />
-        <mark key="." line="47" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/whitelist.js" timestamp="1562106077716">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="24" />
+        <mark key="^" line="58" column="22" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/test_nginx/docker-compose.yml" timestamp="1561526114826">
         <mark key="[" line="12" column="0" />
@@ -101,7 +101,11 @@
         <mark key="^" line="51" column="3" />
         <mark key="." line="51" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1562078496014" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1562107368592">
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="250" column="0" />
+        <mark key="." line="250" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.temp.yml" timestamp="1560839807694">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="12" />
@@ -184,12 +188,22 @@
         <mark key="." line="42" column="25" />
         <mark key="^" line="42" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_blacklist.js" timestamp="1562107019142">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1561750968887">
         <mark key="'" line="923" column="0" />
         <mark key="[" line="11" column="21" />
         <mark key="]" line="11" column="21" />
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_api_key.js" timestamp="1562106639269">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1561111285522">
         <mark key="[" line="183" column="31" />
@@ -265,7 +279,6 @@
         <mark key="^" line="116" column="15" />
         <mark key="." line="116" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/traffic_optimized.js" timestamp="1562074437446" />
     </filemarks>
     <jumps>
       <jump line="124" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
@@ -370,8 +383,8 @@
       <jump line="306" column="22" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>${}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiYWQgZG9tYWluJykK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -386,7 +399,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>${}</text>
+        <text>!!(await Model.findOne({ _id: campaignId, apiKey }));</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -395,41 +408,41 @@
         <text>laptop_acc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhY2hlW2ByZXFEb21haW46cmVnaW9uYF0gPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXMuc2VuZFN0YXR1cyg0MDQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhY2hlW2Ake3BhcnNlZEhvc3QuaW5wdXR9OnJlZ2lvbmBdID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiYWQgZG9tYWluJykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>reqDomain
-reqDomain</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdpdGhTdWJkb21haW4pCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNsZWFyRG9tYWluKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWNyZXRLZXkpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMjIyMjIyMikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWNyZXRLZXkpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxMTExMTExMTEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWNyZXRLZXkpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWNyZXRLZXkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJBdXRob3JpemF0aW9uIjogImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWkNJNklqYzRJaXdpZFhObGNrbGtJam9pTnpnaUxDSmxiV0ZwYkNJNkltRjVZVzVyYjNWemEzbEFlV0ZvYjI4dVkyOXRJaXdpZG5Wc1kyRnRRWFYwYUVOdmIydHBaU0k2SW1GNVlXNXJiM1Z6YTNsQWVXRm9iMjh1WTI5dGZERTFOREV4T1RRMk5UaDhka3hvUldoa1IwRkpZME5rYTBKNldsUnRhM3BRUkUxeVNrRTJOMWxpV1RGdVYyZDNRMU5sVW0xVGVIeGxaV0k1TURoaVltRTJZak5tTXpOaVpqSmpNVFkzTlRJM1ptVm1NMk5qTXpCbU1EUTFOelE0TnpabU16ZGhZekUxTlRnM09URTNPVGd4T0dVNU1ETTVJaXdpYVdGMElqb3hOVE01T1RnME9UQXdMQ0psZUhBaU9qRTFOekUxTWpBNU1EQjkuZ3NMWmRIOFlWRHRqVmJPZXhfMVgzWEpvQlBReW5TTkxUZy1CX0Q1R3FVbyIsCg==</text>
+        <text encoding="base64">ICAgIGNhY2hlW2Ake3BhcnNlZEhvc3QuaW5wdXR9OnJlZ2lvbmBdID0gdHJ1ZTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text>reqDomain
+reqDomain</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
