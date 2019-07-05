@@ -204,18 +204,23 @@
         <mark key="^" line="51" column="3" />
         <mark key="." line="51" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" timestamp="1562277710987">
-        <mark key="[" line="36" column="36" />
-        <mark key="]" line="37" column="27" />
-        <mark key="^" line="37" column="27" />
-        <mark key="." line="37" column="27" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" timestamp="1562308846205">
+        <mark key="[" line="39" column="45" />
+        <mark key="]" line="39" column="45" />
+        <mark key="." line="39" column="45" />
+        <mark key="^" line="39" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1562277591872">
-        <mark key="'" line="249" column="30" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="29" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/geolocation/index.js" timestamp="1562308916622">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="23" />
+        <mark key="." line="132" column="0" />
+        <mark key="^" line="127" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1562308803826">
+        <mark key="'" line="248" column="30" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1562276950379" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitlab-ci.yml" timestamp="1561013066622">
@@ -249,7 +254,7 @@
         <mark key="." line="11" column="55" />
         <mark key="^" line="11" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562276715932">
+      <file name="/Dummy.txt" timestamp="1562308902249">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_get.json" timestamp="1561751237974">
@@ -393,7 +398,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcigpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygna2VrZWtlJykK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -408,7 +413,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>|</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -417,40 +422,40 @@
         <text>biddin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyBpZiAoTWF0aC5yYW5kb20oKSA+IDAuNykgcmV0dXJuIHJlcy5zdGF0dXMoNDA0KS5zZW5kKCdTZXJ2aWNlIHRlbXBvcmFyeSBub3QgYXZhaWxhYmxlJyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygna2VrZWtlJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcigpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXMuc3RhdHVzKDQwNCkuc2VuZCgnU2VydmljZSB0ZW1wb3Jhcnkgbm90IGF2YWlsYWJsZScpOwo=</text>
+        <text encoding="base64">ICBpZiAoTWF0aC5yYW5kb20oKSA+IDAuNSkgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2Nlc3MuZXhpdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZWFkV29ya2VyRGF0YSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiYWQgZG9tYWluJykK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXMuc3RhdHVzKDQwNCkuc2VuZCgnU2VydmljZSB0ZW1wb3Jhcnkgbm90IGF2YWlsYWJsZScpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNsZWFyRG9tYWluKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMjIyMjIyMikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
