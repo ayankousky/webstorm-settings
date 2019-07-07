@@ -210,17 +210,11 @@
         <mark key="." line="39" column="45" />
         <mark key="^" line="39" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/geolocation/index.js" timestamp="1562309540823">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/geolocation/index.js" timestamp="1562310530482">
         <mark key="[" line="127" column="11" />
         <mark key="]" line="130" column="46" />
         <mark key="." line="130" column="46" />
         <mark key="^" line="130" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1562308803826">
-        <mark key="'" line="248" column="30" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1562276950379" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitlab-ci.yml" timestamp="1561013066622">
@@ -254,7 +248,7 @@
         <mark key="." line="11" column="55" />
         <mark key="^" line="11" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562308902249">
+      <file name="/Dummy.txt" timestamp="1562498667379">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_get.json" timestamp="1561751237974">
@@ -295,7 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="17" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/test_multipart.js" />
       <jump line="61" column="15" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/test_multipart.js" />
       <jump line="71" column="11" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/test_multipart.js" />
       <jump line="83" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/test_multipart.js" />
@@ -395,10 +388,11 @@
       <jump line="127" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_create.json" />
       <jump line="306" column="22" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="247" column="30" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
+      <jump line="27" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygna2VrZWtlJykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bGV0IGtlayA9IA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -413,13 +407,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text encoding="base64">bGV0IGtlayA9IA==</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
       </register>
       <register name="/" type="4">
-        <text>biddin</text>
+        <text>biddi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZygna2VrZWtlJykK</text>
@@ -462,9 +456,9 @@
       </register>
     </registers>
     <search>
-      <last-search>biddin</last-search>
+      <last-search>biddi</last-search>
       <last-offset />
-      <last-pattern>biddin</last-pattern>
+      <last-pattern>biddi</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>channelId</last-substitute>
       <last-dir>1</last-dir>
@@ -472,7 +466,6 @@
     </search>
     <history>
       <history-search>
-        <entry>name</entry>
         <entry>''</entry>
         <entry encoding="base64">XDxmd2YxXD4=</entry>
         <entry>,</entry>
@@ -492,6 +485,7 @@
         <entry>kalad.cc</entry>
         <entry>laptop_acc</entry>
         <entry>biddin</entry>
+        <entry>biddi</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
