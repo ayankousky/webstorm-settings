@@ -191,11 +191,11 @@
         <mark key="^" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/test_nginx/docker-compose.yml" timestamp="1562677000309">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="18" column="13" />
+      <file name="$USER_HOME$/Desktop/test_nginx/docker-compose.yml" timestamp="1562689798614">
+        <mark key="[" line="34" column="31" />
+        <mark key="]" line="34" column="66" />
+        <mark key="." line="34" column="66" />
+        <mark key="^" line="34" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/base.js" timestamp="1561737096093">
         <mark key="'" line="154" column="0" />
@@ -391,8 +391,8 @@
       <jump line="27" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZHJpdmVyOiBzeXNsb2cK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PExvZ2dseSBDdXN0b21lciBUb2tlbj4=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -407,7 +407,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>redis</text>
+        <text encoding="base64">PExvZ2dseSBDdXN0b21lciBUb2tlbj4=</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
