@@ -191,11 +191,11 @@
         <mark key="^" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/test_nginx/docker-compose.yml" timestamp="1561526114826">
+      <file name="$USER_HOME$/Desktop/test_nginx/docker-compose.yml" timestamp="1562677000309">
         <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="20" />
+        <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-        <mark key="^" line="15" column="31" />
+        <mark key="^" line="18" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/base.js" timestamp="1561737096093">
         <mark key="'" line="154" column="0" />
@@ -391,8 +391,8 @@
       <jump line="27" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bGV0IGtlayA9IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZHJpdmVyOiBzeXNsb2cK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -407,7 +407,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGV0IGtlayA9IA==</text>
+        <text>redis</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -419,31 +419,31 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZygna2VrZWtlJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvCg==</text>
+        <text encoding="base64">ICAgICAgZHJpdmVyOiBzeXNsb2cK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoTWF0aC5yYW5kb20oKSA+IDAuNSkgCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3MuZXhpdCgpCg==</text>
+        <text encoding="base64">ICBpZiAoTWF0aC5yYW5kb20oKSA+IDAuNSkgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZWFkV29ya2VyRGF0YSkK</text>
+        <text encoding="base64">ICAgIHByb2Nlc3MuZXhpdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcigpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZWFkV29ya2VyRGF0YSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXMuc3RhdHVzKDQwNCkuc2VuZCgnU2VydmljZSB0ZW1wb3Jhcnkgbm90IGF2YWlsYWJsZScpOwo=</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcigpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXMuc3RhdHVzKDQwNCkuc2VuZCgnU2VydmljZSB0ZW1wb3Jhcnkgbm90IGF2YWlsYWJsZScpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
