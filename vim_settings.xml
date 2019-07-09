@@ -191,11 +191,11 @@
         <mark key="^" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/test_nginx/docker-compose.yml" timestamp="1562689798614">
-        <mark key="[" line="34" column="31" />
-        <mark key="]" line="34" column="66" />
-        <mark key="." line="34" column="66" />
-        <mark key="^" line="34" column="66" />
+      <file name="$USER_HOME$/Desktop/test_nginx/docker-compose.yml" timestamp="1562692800362">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="35" />
+        <mark key="." line="31" column="35" />
+        <mark key="^" line="31" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/base.js" timestamp="1561737096093">
         <mark key="'" line="154" column="0" />
@@ -392,7 +392,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PExvZ2dseSBDdXN0b21lciBUb2tlbj4=</text>
+        <text>/etc/hostname</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -407,7 +407,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PExvZ2dseSBDdXN0b21lciBUb2tlbj4=</text>
+        <text>/etc/hostname</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
