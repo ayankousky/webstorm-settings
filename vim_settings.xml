@@ -15,6 +15,12 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1562820163144">
+        <mark key="[" line="34" column="2" />
+        <mark key="]" line="34" column="34" />
+        <mark key="^" line="34" column="34" />
+        <mark key="." line="34" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1560807347444">
         <mark key="[" line="440" column="0" />
         <mark key="]" line="440" column="0" />
@@ -257,11 +263,10 @@
         <mark key="." line="7" column="438" />
         <mark key="^" line="7" column="438" />
       </file>
-      <file name="$USER_HOME$/Desktop/test_nginx/conf.dev.nginx" timestamp="1562793300267">
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="26" />
-        <mark key="^" line="13" column="31" />
-        <mark key="." line="13" column="26" />
+      <file name="$USER_HOME$/Desktop/test_nginx/conf.dev.nginx" timestamp="1562820064181">
+        <mark key="]" line="16" column="70" />
+        <mark key="." line="16" column="70" />
+        <mark key="^" line="16" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1561111285522">
         <mark key="[" line="183" column="31" />
@@ -397,8 +402,8 @@
       <jump line="27" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -413,7 +418,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>test_</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -425,15 +430,21 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZygna2VrZWtlJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBlcnJvcl9sb2cgc3lzbG9nOnNlcnZlcj0xMy41Mi4xNjguMjE5OjUxNDAsdGFnPXRlc3Rfc2VydmVyX2Vycm9yIG5vdGljZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBlcnJvcl9sb2cgc3lzbG9nOnNlcnZlcj0xMy41Mi4xNjguMjE5OjUxNDAsdGFnPXRlc3Rfc2VydmVyX2Vycm9yIG5vdGljZTsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">IyAgZGF0YWRvZ3A6cm8K</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>:
 #    links:
 #      - server # Ensures datadog container can connect to redis container
@@ -445,19 +456,19 @@
 #      - /proc/mounts:/host/proc/mounts:ro
 #      - /sys/fs/cgroup:/host/sys/fs/cgrou</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICBsb2dnaW5nOgogICAgICBkcml2ZXI6IHN5c2xvZwogICAgICBvcHRpb25zOgogICAgICAgIHN5c2xvZy1hZGRyZXNzOiAidGNwOi8vZWxrLWN1c3RvbTo1MTQiCiAgICAgICAgZmx1ZW50ZC1hZGRyZXNzOiAidWRwOi8vMTMuNTIuMTY4LjIxOTo1MDAwIgogICAgICAgIHRhZzogIm5naW54Ig==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBsb2dzcG91dAo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBsb2dzcG91dAo=</text>
+      </register>
+      <register name="9" type="4">
         <text>:
     image: gliderlabs/logspout
     networks:
@@ -471,12 +482,6 @@
     command: syslog+tcp://logs-01.loggly.com:514
     deploy:
       mode: global</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZHJpdmVyOiBzeXNsb2cK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
