@@ -50,17 +50,23 @@
         <mark key="^" line="355" column="72" />
         <mark key="." line="357" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/CHANGELOG.md" timestamp="1562863969151">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="56" />
+        <mark key="." line="2" column="56" />
+        <mark key="^" line="2" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.temp.yml" timestamp="1560839807694">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/myinfo.json" timestamp="1561750939145">
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/myinfo.json" timestamp="1562863879884">
         <mark key="'" line="93" column="13" />
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="457" />
-        <mark key="." line="8" column="457" />
+        <mark key="[" line="127" column="1" />
+        <mark key="]" line="127" column="1" />
+        <mark key="." line="127" column="1" />
         <mark key="^" line="8" column="457" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/apple.js" timestamp="1561755711868">
@@ -149,11 +155,7 @@
         <mark key="." line="116" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev_tests.js" timestamp="1561758152514">
-        <mark key="'" line="1742" column="0" />
-        <mark key="[" line="134" column="412" />
-        <mark key="]" line="134" column="412" />
-        <mark key="^" line="134" column="413" />
-        <mark key="." line="134" column="412" />
+        <mark key="'" line="1739" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/test_shm/docker-compose.yml" timestamp="1561026219583">
         <mark key="[" line="17" column="23" />
@@ -222,7 +224,6 @@
         <mark key="." line="130" column="46" />
         <mark key="^" line="130" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1562276950379" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitlab-ci.yml" timestamp="1561013066622">
         <mark key="[" line="22" column="83" />
         <mark key="]" line="22" column="83" />
@@ -402,8 +403,8 @@
       <jump line="27" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Remove errors from logs on lambda warmpup</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -418,7 +419,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>test_</text>
+        <text>Remove errors from logs on lambda warmpup</text>
       </register>
       <register name="m" type="4">
         <text>nlllvlynlllhp^j</text>
@@ -427,7 +428,7 @@
         <text>biddi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygna2VrZWtlJykK</text>
+        <text encoding="base64">LSBSZW1vdmUgZXJyb3JzIGZyb20gbG9ncyBvbiBsYW1iZGEgd2FybXB1cAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -436,15 +437,18 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlcnJvcl9sb2cgc3lzbG9nOnNlcnZlcj0xMy41Mi4xNjguMjE5OjUxNDAsdGFnPXRlc3Rfc2VydmVyX2Vycm9yIG5vdGljZTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBlcnJvcl9sb2cgc3lzbG9nOnNlcnZlcj0xMy41Mi4xNjguMjE5OjUxNDAsdGFnPXRlc3Rfc2VydmVyX2Vycm9yIG5vdGljZTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">IyAgZGF0YWRvZ3A6cm8K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>:
 #    links:
 #      - server # Ensures datadog container can connect to redis container
@@ -456,32 +460,17 @@
 #      - /proc/mounts:/host/proc/mounts:ro
 #      - /sys/fs/cgroup:/host/sys/fs/cgrou</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBsb2dnaW5nOgogICAgICBkcml2ZXI6IHN5c2xvZwogICAgICBvcHRpb25zOgogICAgICAgIHN5c2xvZy1hZGRyZXNzOiAidGNwOi8vZWxrLWN1c3RvbTo1MTQiCiAgICAgICAgZmx1ZW50ZC1hZGRyZXNzOiAidWRwOi8vMTMuNTIuMTY4LjIxOTo1MDAwIgogICAgICAgIHRhZzogIm5naW54Ig==</text>
-      </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBsb2dnaW5nOgogICAgICBkcml2ZXI6IHN5c2xvZwogICAgICBvcHRpb25zOgogICAgICAgIHN5c2xvZy1hZGRyZXNzOiAidGNwOi8vZWxrLWN1c3RvbTo1MTQiCiAgICAgICAgZmx1ZW50ZC1hZGRyZXNzOiAidWRwOi8vMTMuNTIuMTY4LjIxOTo1MDAwIgogICAgICAgIHRhZzogIm5naW54Ig==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsb2dzcG91dAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>:
-    image: gliderlabs/logspout
-    networks:
-      - kalad_network
-    volumes:
-      - /Users/alex/Desktop/hostname:/etc/host_hostname:rw
-      - /var/run/docker.sock:/var/run/docker.sock
-    environment:
-      SYSLOG_STRUCTURED_DATA: &quot;ea016ab0-d0c3-47cd-848e-06b74f509499@41058&quot;
-      tag: &quot;custom_tag&quot;
-    command: syslog+tcp://logs-01.loggly.com:514
-    deploy:
-      mode: global</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBsb2dzcG91dAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
