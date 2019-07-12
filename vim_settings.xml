@@ -147,6 +147,9 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="10" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/whitelist/index.js" timestamp="1562941854806">
+        <mark key="'" line="31" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" timestamp="1561755604969">
         <mark key="'" line="139" column="0" />
         <mark key="[" line="115" column="4" />
@@ -218,11 +221,11 @@
         <mark key="." line="39" column="45" />
         <mark key="^" line="39" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/geolocation/index.js" timestamp="1562310530482">
-        <mark key="[" line="127" column="11" />
-        <mark key="]" line="130" column="46" />
-        <mark key="." line="130" column="46" />
-        <mark key="^" line="130" column="46" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/geolocation/index.js" timestamp="1562941910864">
+        <mark key="[" line="58" column="26" />
+        <mark key="]" line="59" column="65" />
+        <mark key="^" line="59" column="65" />
+        <mark key="." line="59" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitlab-ci.yml" timestamp="1561013066622">
         <mark key="[" line="22" column="83" />
@@ -301,7 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="15" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/test_multipart.js" />
       <jump line="71" column="11" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/test_multipart.js" />
       <jump line="83" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/test_multipart.js" />
       <jump line="86" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/test_multipart.js" />
@@ -401,10 +403,11 @@
       <jump line="306" column="22" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="247" column="30" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="27" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
+      <jump line="31" column="52" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/whitelist/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Remove errors from logs on lambda warmpup</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -431,7 +434,7 @@
         <text encoding="base64">LSBSZW1vdmUgZXJyb3JzIGZyb20gbG9ncyBvbiBsYW1iZGEgd2FybXB1cAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -440,15 +443,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlcnJvcl9sb2cgc3lzbG9nOnNlcnZlcj0xMy41Mi4xNjguMjE5OjUxNDAsdGFnPXRlc3Rfc2VydmVyX2Vycm9yIG5vdGljZTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICBlcnJvcl9sb2cgc3lzbG9nOnNlcnZlcj0xMy41Mi4xNjguMjE5OjUxNDAsdGFnPXRlc3Rfc2VydmVyX2Vycm9yIG5vdGljZTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">IyAgZGF0YWRvZ3A6cm8K</text>
       </register>
-      <register name="6" type="4">
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="4">
         <text>:
 #    links:
 #      - server # Ensures datadog container can connect to redis container
@@ -460,17 +469,11 @@
 #      - /proc/mounts:/host/proc/mounts:ro
 #      - /sys/fs/cgroup:/host/sys/fs/cgrou</text>
       </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICBsb2dnaW5nOgogICAgICBkcml2ZXI6IHN5c2xvZwogICAgICBvcHRpb25zOgogICAgICAgIHN5c2xvZy1hZGRyZXNzOiAidGNwOi8vZWxrLWN1c3RvbTo1MTQiCiAgICAgICAgZmx1ZW50ZC1hZGRyZXNzOiAidWRwOi8vMTMuNTIuMTY4LjIxOTo1MDAwIgogICAgICAgIHRhZzogIm5naW54Ig==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2dzcG91dAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
