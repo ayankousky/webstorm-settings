@@ -33,11 +33,6 @@
         <mark key="^" line="41" column="27" />
         <mark key="." line="41" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/whitelist.js" timestamp="1562106077716">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="24" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/extra.js" timestamp="1560166021323">
         <mark key="[" line="135" column="2" />
         <mark key="]" line="135" column="28" />
@@ -69,11 +64,7 @@
         <mark key="." line="127" column="1" />
         <mark key="^" line="8" column="457" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/apple.js" timestamp="1561755711868">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/zoom.js" timestamp="1563376681808" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" timestamp="1561118632771">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="96" />
@@ -98,11 +89,6 @@
         <mark key="." line="49" column="15" />
         <mark key="^" line="49" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_blacklist.js" timestamp="1562107019142">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1561750968887">
         <mark key="'" line="923" column="0" />
         <mark key="[" line="11" column="21" />
@@ -123,6 +109,7 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="37" />
       </file>
+      <file name="$USER_HOME$/Desktop/MerchantFeed_br.xml" timestamp="1563376890211" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1560108919041">
         <mark key="[" line="3" column="32" />
         <mark key="]" line="3" column="32" />
@@ -261,7 +248,7 @@
         <mark key="." line="11" column="55" />
         <mark key="^" line="11" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563175902174">
+      <file name="/Dummy.txt" timestamp="1563377716813">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_get.json" timestamp="1561751237974">
@@ -305,11 +292,10 @@
         <mark key="^" line="53" column="35" />
         <mark key="." line="53" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" timestamp="1563355930251">
-        <mark key="[" line="503" column="29" />
-        <mark key="]" line="503" column="31" />
-        <mark key="^" line="503" column="31" />
-        <mark key="." line="503" column="31" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" timestamp="1563380136647">
+        <mark key="[" line="503" column="0" />
+        <mark key="]" line="503" column="0" />
+        <mark key="." line="503" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -415,8 +401,8 @@
       <jump line="106" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bravo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3dhaXQuLi4nKQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -443,30 +429,36 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3dhaXQnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3dhaXQuLi4nKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJy4uLmNvbnRpbnVlJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlcnJvcl9sb2cgc3lzbG9nOnNlcnZlcj0xMy41Mi4xNjguMjE5OjUxNDAsdGFnPXRlc3Rfc2VydmVyX2Vycm9yIG5vdGljZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgZGF0YWRvZ3A6cm8K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICBlcnJvcl9sb2cgc3lzbG9nOnNlcnZlcj0xMy41Mi4xNjguMjE5OjUxNDAsdGFnPXRlc3Rfc2VydmVyX2Vycm9yIG5vdGljZTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyAgZGF0YWRvZ3A6cm8K</text>
+      </register>
+      <register name="9" type="4">
         <text>:
 #    links:
 #      - server # Ensures datadog container can connect to redis container
@@ -477,12 +469,6 @@
 #      - /var/run/docker.sock:/var/run/docker.sock
 #      - /proc/mounts:/host/proc/mounts:ro
 #      - /sys/fs/cgroup:/host/sys/fs/cgrou</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBsb2dnaW5nOgogICAgICBkcml2ZXI6IHN5c2xvZwogICAgICBvcHRpb25zOgogICAgICAgIHN5c2xvZy1hZGRyZXNzOiAidGNwOi8vZWxrLWN1c3RvbTo1MTQiCiAgICAgICAgZmx1ZW50ZC1hZGRyZXNzOiAidWRwOi8vMTMuNTIuMTY4LjIxOTo1MDAwIgogICAgICAgIHRhZzogIm5naW54Ig==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
