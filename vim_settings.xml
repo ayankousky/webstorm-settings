@@ -178,7 +178,7 @@
         <mark key="." line="115" column="5" />
         <mark key="^" line="115" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1562276959669">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1563354055586">
         <mark key="[" line="2" column="2" />
         <mark key="]" line="2" column="6" />
         <mark key="^" line="2" column="6" />
@@ -226,6 +226,9 @@
         <mark key="]" line="59" column="65" />
         <mark key="^" line="59" column="65" />
         <mark key="." line="59" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1563354093572">
+        <mark key="'" line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitlab-ci.yml" timestamp="1561013066622">
         <mark key="[" line="22" column="83" />
@@ -302,9 +305,9 @@
         <mark key="^" line="53" column="35" />
         <mark key="." line="53" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" timestamp="1563353655321" />
     </filemarks>
     <jumps>
-      <jump line="71" column="11" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/test_multipart.js" />
       <jump line="83" column="21" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/test_multipart.js" />
       <jump line="86" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/test_multipart.js" />
       <jump line="89" column="11" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/integration/test_multipart.js" />
@@ -404,6 +407,7 @@
       <jump line="247" column="30" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="27" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="31" column="52" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/whitelist/index.js" />
+      <jump line="106" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
