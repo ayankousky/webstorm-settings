@@ -47,6 +47,7 @@
         <mark key="." line="1269" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/firmwareFunction.js" timestamp="1563998081008" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/index.js" timestamp="1564042147217" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1560807347444">
         <mark key="[" line="440" column="0" />
         <mark key="]" line="440" column="0" />
@@ -70,6 +71,9 @@
         <mark key="]" line="303" column="19" />
         <mark key="^" line="355" column="72" />
         <mark key="." line="357" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/mobile_api/index.js" timestamp="1564041919833">
+        <mark key="'" line="19" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/products.js" timestamp="1564037668903">
         <mark key="[" line="23" column="52" />
@@ -208,7 +212,12 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/firmware.js" timestamp="1564037709928" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/firmware.js" timestamp="1564042422234">
+        <mark key="[" line="367" column="22" />
+        <mark key="]" line="367" column="24" />
+        <mark key="^" line="367" column="24" />
+        <mark key="." line="367" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1561753141715">
         <mark key="[" line="115" column="5" />
         <mark key="]" line="115" column="5" />
@@ -256,6 +265,11 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="89" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/model/product.js" timestamp="1564041903742">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" timestamp="1562308846205">
         <mark key="[" line="39" column="45" />
         <mark key="]" line="39" column="45" />
@@ -299,7 +313,7 @@
         <mark key="." line="11" column="55" />
         <mark key="^" line="11" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564037333644">
+      <file name="/Dummy.txt" timestamp="1564040312971">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_get.json" timestamp="1561751237974">
@@ -319,10 +333,6 @@
         <mark key="]" line="109" column="0" />
         <mark key="^" line="120" column="16" />
         <mark key="." line="109" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/firmware/firmware-info/firmware-info.component.html" timestamp="1564036040259">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="84" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/products.js" timestamp="1563999682746">
         <mark key="[" line="75" column="0" />
@@ -355,12 +365,11 @@
         <mark key="." line="81" column="76" />
         <mark key="^" line="69" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" timestamp="1564039278237">
-        <mark key="'" line="268" column="164" />
-        <mark key="[" line="276" column="34" />
-        <mark key="]" line="277" column="34" />
-        <mark key="." line="277" column="34" />
-        <mark key="^" line="277" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" timestamp="1564042457644">
+        <mark key="'" line="268" column="8" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment_likes.js" timestamp="1560805562947">
         <mark key="[" line="53" column="35" />
@@ -370,8 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="58" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
-      <jump line="159" column="58" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
       <jump line="276" column="47" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
       <jump line="283" column="40" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
       <jump line="330" column="27" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
@@ -438,74 +445,44 @@
       <jump line="751" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" />
       <jump line="1052" column="24" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" />
       <jump line="236" column="146" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="237" column="160" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="238" column="185" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="239" column="175" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="240" column="193" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="241" column="188" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="242" column="164" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="243" column="178" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="244" column="169" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="245" column="177" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="246" column="182" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="247" column="177" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="248" column="182" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="249" column="177" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="250" column="182" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="251" column="177" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="252" column="182" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="253" column="182" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="254" column="177" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="255" column="182" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="256" column="168" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="257" column="168" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="258" column="172" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="259" column="169" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="260" column="168" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="261" column="168" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="262" column="172" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="263" column="176" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="264" column="177" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="265" column="183" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="266" column="166" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="267" column="176" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="268" column="164" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="19" column="13" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/mobile_api/index.js" />
+      <jump line="237" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="238" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="239" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="240" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="241" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="242" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="243" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="244" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="245" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="246" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="247" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="248" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="249" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="250" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="251" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="252" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="253" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="254" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="255" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="256" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="257" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="258" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="259" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="260" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="261" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="262" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="263" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="264" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="265" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="266" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="267" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="268" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="269" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gZmlybXdhcmUgZnVuY3Rpb25zCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -520,141 +497,88 @@ fwf</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fmw</text>
+        <text encoding="base64">IFdlIGFyZSBnZXR0aW5nIHJpZCBvZiBmaXJtd2FyZSBmdW5jdGlvbnMgKioq</text>
       </register>
       <register name="m" type="4">
         <keys>
           <key char="106" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="70" code="0" mods="0" />
-          <key char="125" code="0" mods="0" />
-          <key char="70" code="0" mods="0" />
-          <key char="125" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="43" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="/" type="4">
-        <text>value</text>
+        <text>fwf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gYXdhaXQgZm13MVswXS5zZXRGdW5jdGlvbnMoW2Z3ZjFbMF0sIGZ3ZjJbMF0sIGZ3ZjNbMF0sIGZ3ZjRbMF0sIGZ3ZjZbMF0sZndmN1swXSxmd2Y4WzBdLGZ3ZjlbMF0sZndmMTBbMF0sZndmMTFbMF0sZndmMTJbMF0sZndmMTNbMF0sZndmMTRbMF0sZndmMTVbMF0sZndmMTZbMF0sZndmMTdbMF0sZndmMThbMF0sZndmMTlbMF0sZndmMjBbMF0sZndmMjFbMF0sZndmMjJbMF0sZndmMjNbMF0sZndmMjRbMF0sZndmMjVbMF0sZndmMjZbMF0sZndmMjdbMF0sZndmMjhbMF0sZndmMjlbMF0sZndmMzBbMF0sZndmMzFbMF0sZndmMzJbMF0sZndmMzNbMF0sZndmMzRbMF1dKTsK</text>
+        <text encoding="base64">Ly8gKioqIERlcHJlY2F0ZWQgc3RhcnQuIFdlIGFyZSBnZXR0aW5nIHJpZCBvZiBmaXJtd2FyZSBmdW5jdGlvbnMgKioqCg==</text>
       </register>
-      <register name="1" type="8">
-        <text>fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf
-fwf</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLy8gZmlybXdhcmUgZnVuY3Rpb25zCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgcHJkMVswXS5hZGRGdW5jdGlvbnMoW3BGdW5jMVswXSwgcEZ1bmMyWzBdXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gZmlybXdhcmUgZnVuY3Rpb25zCg==</text>
       </register>
-      <register name="3" type="8">
-        <text>let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf
-let fwf</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="8">
-        <text>firmwareId
-firmwareId</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpcm13YXJlOiBjb3B5VG9Qcm9kdWN0LAo=</text>
+      <register name="5" type="8">
+        <text>wf
+wf
+wf
+wf
+wf
+wf
+wf
+wf
+wf
+wf
+wf
+wf
+wf
+wf
+wf
+wf
+wf
+wf
+wf
+wf
+wf
+wf</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb3B5VG9Qcm9kdWN0ID0gKGF3YWl0IGZpcm13YXJlU2VydmljZS5nZXQocmVxLnBhcmFtcy5maXJtd2FyZUlkKSkuZmlybXdhcmU7IC8vIHJlZnJlc2gK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYGluZGV4OiAke2l9LiB2YWw6ICR7ZnVuYy50b1RleHQoKX1gKQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="8">
-        <text>Firmware
-Firmware
-Firmware
-Firmware
-Firmware
-Firmware
-Firmware
-Firmware</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cm91dGVyLmRlbGV0ZSgnLzpwcm9kdWN0SWQvZnVuY3Rpb25zLzpwcm9kdWN0RnVuY3Rpb25JZCcsIGF1dGgsIHByb2R1Y3RDb250cm9sbGVyLmRlbGV0ZUZ1bmN0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcEZ1bmMzNCA9IGF3YWl0IGRiLnByb2R1Y3RGdW5jdGlvbi51cHNlcnQoeyBpZDogJ2Z3ZjM0JytpLCBuYW1lOiAnQlQgRGV2aWNlIG5hbWUgY2hhbmdlYWJsZT8nLCBpbmRleDogNzIsIHVuaXQ6ICdOQScsIGlzQW5kcm9pZDogdHJ1ZSwgaXNJT1M6IHRydWUsIHZhbHVlOiAnJywgaXNPbjogdHJ1ZX0sIHtyZXR1cm5pbmc6IHRydWV9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygna2VrMScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>value</last-search>
+      <last-search>fwf</last-search>
       <last-offset />
-      <last-pattern>value</last-pattern>
+      <last-pattern>fwf</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>channelId</last-substitute>
       <last-dir>1</last-dir>
@@ -662,7 +586,6 @@ Firmware</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmd2YxXD4=</entry>
         <entry>,</entry>
         <entry>[0]</entry>
         <entry>f[</entry>
@@ -682,6 +605,7 @@ Firmware</text>
         <entry>biddin</entry>
         <entry>biddi</entry>
         <entry>value</entry>
+        <entry>fwf</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
