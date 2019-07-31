@@ -159,6 +159,7 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1564552336710" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1560108919041">
         <mark key="[" line="3" column="32" />
         <mark key="]" line="3" column="32" />
@@ -256,6 +257,12 @@
         <mark key="^" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/settings.js" timestamp="1564552731018">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+      </file>
       <file name="$USER_HOME$/Desktop/test_nginx/docker-compose.yml" timestamp="1562791991220">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -333,6 +340,11 @@
         <mark key="]" line="109" column="0" />
         <mark key="^" line="120" column="16" />
         <mark key="." line="109" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/users.js" timestamp="1564552576483">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/products.js" timestamp="1564070915986">
         <mark key="[" line="48" column="0" />
@@ -481,8 +493,8 @@
       <jump line="102" column="27" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/product.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -497,7 +509,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -515,25 +527,25 @@
         <text>fwf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgInByb2R1Y3RJZCI6IHByb2R1Y3RGdW5jdGlvbkZpZWxkcy5wcm9kdWN0SWQsCg==</text>
+        <text encoding="base64">cm91dGVyLmRlbGV0ZSgnLzp1c2VySWQvbWVkaWNhbF9pdGVtcy86bWVkaWNhbEl0ZW1JZCcsIGF1dGgsIHVzZXJDb250cm9sbGVyLmRlbGV0ZU1lZGljYWxJdGVtKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcm9kdWN0RnVuY3Rpb24gPSBhd2FpdCBQcm9kdWN0RnVuY3Rpb24uZ2V0QnlJZChwcm9kdWN0RnVuY3Rpb24uaWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcm9kdWN0ID0gYXdhaXQgUHJvZHVjdC5nZXRCeUlkKHByb2R1Y3QuaWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhd2FpdCBwcm9kdWN0LmFkZEZ1bmN0aW9ucyhwcm9kdWN0RnVuY3Rpb24pOwo=</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3QsCg==</text>
+        <text encoding="base64">ICAgIHN1Y2Nlc3M6IHVwZGF0ZVJlc3VsdC5zdWNjZXNzLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsZXQgcHJvZHVjdCA9IGF3YWl0IFByb2R1Y3QuZ2V0QnlJZChyZXEucGFyYW1zLnByb2R1Y3RJZCk7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gaGVscGVycy5yZXF1ZXN0LmZpbmlzaChyZXEsIHJlcywgewo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -542,13 +554,13 @@
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGF3YWl0IFByb2R1Y3QK</text>
+        <text encoding="base64">ICBsZXQgdXBkYXRlUmVzdWx0ID0gYXdhaXQgdXNlclNlcnZpY2UudXBkYXRlTWVkaWNhbEl0ZW0ocmVxLnBhcmFtcy5tZWRpY2FsSXRlbUlkLCByZXEucGFyYW1zLnVzZXJJZCwgcmVxLmJvZHkubWVkaWNhbEl0ZW1GaWVsZHMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChvcHRpb25zLm5vSW5sY3VkZSkgewo=</text>
+        <text encoding="base64">cm91Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwcm9kdWN0RnVuY3Rpb24gPSBhd2FpdCBQcm9kdWN0RnVuY3Rpb24uZ2V0QnlJZChwcm9kdWN0RnVuY3Rpb24uaWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
