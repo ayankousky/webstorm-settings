@@ -85,6 +85,11 @@
         <mark key="." line="2" column="56" />
         <mark key="^" line="2" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/controllers/v0/devices.js" timestamp="1564559553192">
+        <mark key="[" line="75" column="79" />
+        <mark key="]" line="75" column="79" />
+        <mark key="." line="75" column="79" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.temp.yml" timestamp="1560839807694">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="12" />
@@ -159,7 +164,11 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" timestamp="1564552336710" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/Dockerfile" timestamp="1564844876490">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1560108919041">
         <mark key="[" line="3" column="32" />
         <mark key="]" line="3" column="32" />
@@ -226,7 +235,7 @@
         <mark key="." line="115" column="5" />
         <mark key="^" line="115" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1563354055586">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1564844539567">
         <mark key="[" line="2" column="2" />
         <mark key="]" line="2" column="6" />
         <mark key="^" line="2" column="6" />
@@ -269,10 +278,6 @@
         <mark key="^" line="13" column="41" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/firmwares.js" timestamp="1564037652708">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="89" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/model/product.js" timestamp="1564041903742">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
@@ -295,6 +300,11 @@
         <mark key="]" line="49" column="0" />
         <mark key="^" line="49" column="82" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1564844878691">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitlab-ci.yml" timestamp="1561013066622">
         <mark key="[" line="22" column="83" />
@@ -494,7 +504,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RVhQT1NFICRQT1JUCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -509,7 +519,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -530,37 +540,37 @@
         <text encoding="base64">cm91dGVyLmRlbGV0ZSgnLzp1c2VySWQvbWVkaWNhbF9pdGVtcy86bWVkaWNhbEl0ZW1JZCcsIGF1dGgsIHVzZXJDb250cm9sbGVyLmRlbGV0ZU1lZGljYWxJdGVtKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RVhQT1NFICRQT1JUCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIFBPUlQgMzAwMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAgICAgaHR0cDovL21lZGlhL2FzZGZhc2ZkL2FzZGYvYXNkL2YK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1Y2Nlc3M6IHVwZGF0ZVJlc3VsdC5zdWNjZXNzLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gaGVscGVycy5yZXF1ZXN0LmZpbmlzaChyZXEsIHJlcywgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgdXBkYXRlUmVzdWx0ID0gYXdhaXQgdXNlclNlcnZpY2UudXBkYXRlTWVkaWNhbEl0ZW0ocmVxLnBhcmFtcy5tZWRpY2FsSXRlbUlkLCByZXEucGFyYW1zLnVzZXJJZCwgcmVxLmJvZHkubWVkaWNhbEl0ZW1GaWVsZHMpOwo=</text>
+        <text encoding="base64">ICAgIHN1Y2Nlc3M6IHVwZGF0ZVJlc3VsdC5zdWNjZXNzLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cm91Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gaGVscGVycy5yZXF1ZXN0LmZpbmlzaChyZXEsIHJlcywgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcm9kdWN0RnVuY3Rpb24gPSBhd2FpdCBQcm9kdWN0RnVuY3Rpb24uZ2V0QnlJZChwcm9kdWN0RnVuY3Rpb24uaWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
