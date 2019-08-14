@@ -164,10 +164,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/buildsui/buildsui/controllers/indexController.js" timestamp="1565799769357">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/buildsui/buildsui/controllers/indexController.js" timestamp="1565803065999">
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="37" />
+        <mark key="." line="31" column="37" />
+        <mark key="^" line="31" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1560108919041">
         <mark key="[" line="3" column="32" />
@@ -273,10 +274,11 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/buildsui/buildsui/controllers/bucketController.js" timestamp="1565802047881">
-        <mark key="[" line="22" column="53" />
-        <mark key="]" line="22" column="54" />
-        <mark key="." line="22" column="54" />
+      <file name="$USER_HOME$/Documents/Projects/buildsui/buildsui/controllers/bucketController.js" timestamp="1565803327508">
+        <mark key="[" line="24" column="6" />
+        <mark key="]" line="24" column="6" />
+        <mark key="." line="24" column="6" />
+        <mark key="^" line="24" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/buildsui/buildsui/index.js" timestamp="1565799076767">
         <mark key="[" line="18" column="0" />
@@ -315,10 +317,11 @@
         <mark key="^" line="82" column="27" />
         <mark key="." line="82" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/buildsui/buildsui/controllers/bucketStructures/helpers.js" timestamp="1565802019225">
+      <file name="$USER_HOME$/Documents/Projects/buildsui/buildsui/controllers/bucketStructures/helpers.js" timestamp="1565803315313">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+        <mark key="^" line="12" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/index.js" timestamp="1561737215405">
         <mark key="[" line="15" column="11" />
@@ -332,7 +335,7 @@
         <mark key="." line="11" column="55" />
         <mark key="^" line="11" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565799961045">
+      <file name="/Dummy.txt" timestamp="1565802907780">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_get.json" timestamp="1561751237974">
@@ -352,6 +355,12 @@
         <mark key="]" line="109" column="0" />
         <mark key="^" line="120" column="16" />
         <mark key="." line="109" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/buildsui/buildsui/.env" timestamp="1565802869702">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="12" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/users.js" timestamp="1564552576483">
         <mark key="[" line="35" column="0" />
@@ -498,7 +507,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBpZiAoYnVja2V0SGVscGVycy5pc0ZpbGVzU3RydWN0dXJlQnlQbGF0Zm9ybShmaWxlc1sxXS5uYW1lKSkgewo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -513,7 +522,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>;</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -531,40 +540,40 @@
         <text>admi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaWxlUGF0aCkK</text>
+        <text encoding="base64">CWlmIChidWNrZXRIZWxwZXJzLmlzRmlsZXNTdHJ1Y3R1cmVCeURhdGUoZmlsZXNbMV0ubmFtZSkpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBpZiAoYnVja2V0SGVscGVycy5pc0ZpbGVzU3RydWN0dXJlQnlQbGF0Zm9ybShmaWxlc1sxXS5uYW1lKSkgewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAJY29uc29sZS5sb2coZi5uYW1lKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaWxlUGF0aCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmb3IgKGxldCBmIG9mIGZpbGVzKSB7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaWxlUGF0aCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaWxlUGF0aCkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyghL15cZHsxMn0vLnRlc3QocGxhdGZvcm1Gb2xkZXJOYW1lKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaWxlUGF0aCkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygvXiFcZHsxMn0vLnRlc3QocGxhdGZvcm1Gb2xkZXJOYW1lKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcHBQYXRoKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwbGF0Zm9ybUZvbGRlck5hbWUpCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaWxlcykK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRlRm9sZGVyTmFtZSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnBhcnNlKGtleSlbcmVxLnBhcmFtcy5rZXldKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGZpbGVzWzBdLm5hbWUpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhrZXkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
