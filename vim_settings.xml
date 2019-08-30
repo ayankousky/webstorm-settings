@@ -181,11 +181,10 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1560108919041">
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="3" column="32" />
-        <mark key="." line="3" column="32" />
-        <mark key="^" line="3" column="32" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1567189156101">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/translator/locales/en.json" timestamp="1560429089973">
         <mark key="[" line="39" column="74" />
@@ -313,12 +312,11 @@
         <mark key="^" line="59" column="65" />
         <mark key="." line="59" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1567176339782">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1567189151575">
         <mark key="'" line="264" column="0" />
-        <mark key="[" line="264" column="0" />
-        <mark key="]" line="264" column="0" />
-        <mark key="^" line="440" column="8" />
-        <mark key="." line="264" column="0" />
+        <mark key="[" line="440" column="0" />
+        <mark key="]" line="440" column="0" />
+        <mark key="." line="440" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/action-popup/action-popup.component.ts" timestamp="1564035357097">
         <mark key="[" line="49" column="0" />
@@ -383,6 +381,7 @@
         <mark key="." line="10" column="51" />
         <mark key="^" line="10" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/middlewares/index.js" timestamp="1567189045941" />
       <file name="$USER_HOME$/Documents/Projects/buildsui/buildsui/.env" timestamp="1565805111940">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="25" />
@@ -534,7 +533,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBsZXQgdGltaW5nID0ge3N0YXJ0OiBuZXcgRGF0ZSgpfTsK</text>
+        <text encoding="base64">ICBhcHAudXNlKChyZXEsIHJlcywgbmV4dCkgPT4gCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -570,37 +569,37 @@
         <text encoding="base64">ICAgIHJldHVybiByZXMuc2VuZFN0YXR1cygyMDQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZXQgdGltaW5nID0ge3N0YXJ0OiBuZXcgRGF0ZSgpfTsK</text>
+        <text encoding="base64">ICBhcHAudXNlKChyZXEsIHJlcywgbmV4dCkgPT4gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ewogICAgcmVxLnRpbWluZyA9IHtzdGFydDogbmV3IERhdGUoKX07CiAgICBuZXh0KCk7CiAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEudGltaW5nLikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZSgpIC0gdGltaW5nLnN0YXJ0KQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZSgpIC0gdGltaW5nLnN0YXJ0KQo=</text>
+        <text encoding="base64">ICAgIHJlcy5yZW1vdmVIZWFkZXIoJ1gtUG93ZXJlZC1CeScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgdGltaW5nID0ge3N0YXJ0OiBuZXcgRGF0ZSgpfTsK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZSgpIC0gdGltaW5nLnN0YXJ0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAobmV3IERhdGUoKSAtIHRpbWluZy5zdGFydCA8IDEwMCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZSgpIC0gdGltaW5nLnN0YXJ0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
