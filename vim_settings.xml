@@ -313,11 +313,12 @@
         <mark key="^" line="59" column="65" />
         <mark key="." line="59" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1567175016146">
-        <mark key="'" line="417" column="16" />
-        <mark key="[" line="427" column="0" />
-        <mark key="]" line="427" column="0" />
-        <mark key="." line="427" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1567176339782">
+        <mark key="'" line="264" column="0" />
+        <mark key="[" line="264" column="0" />
+        <mark key="]" line="264" column="0" />
+        <mark key="^" line="440" column="8" />
+        <mark key="." line="264" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/action-popup/action-popup.component.ts" timestamp="1564035357097">
         <mark key="[" line="49" column="0" />
@@ -430,8 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="576" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" />
-      <jump line="538" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" />
       <jump line="500" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" />
       <jump line="462" column="6" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" />
       <jump line="946" column="16" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/video/index.js" />
@@ -530,10 +529,12 @@
       <jump line="218" column="28" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
       <jump line="13" column="3" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/cache/simpleCache/index.js" />
       <jump line="412" column="16" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
+      <jump line="440" column="14" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
+      <jump line="266" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVzLnNlbmQoe3Rlc3Q6dHJ1ZX0pCg==</text>
+        <text encoding="base64">ICBsZXQgdGltaW5nID0ge3N0YXJ0OiBuZXcgRGF0ZSgpfTsK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -548,7 +549,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'kek'</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -563,52 +564,52 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>404</text>
+        <text>timing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiByZXMuc2VuZFN0YXR1cygyMDQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVzLnNlbmQoe3Rlc3Q6dHJ1ZX0pCg==</text>
+        <text encoding="base64">ICBsZXQgdGltaW5nID0ge3N0YXJ0OiBuZXcgRGF0ZSgpfTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVzLnNlbmQoe3Rlc3Q6dHJ1ZX0pCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVzLnNlbmQoe2tlazona2VrJ30pCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVzLnNlbmQoe2tlazona2VrJ30pCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZSgpIC0gdGltaW5nLnN0YXJ0KQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZSgpIC0gdGltaW5nLnN0YXJ0KQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHVuZGVmaW5lZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYE5vdCBmb3VuZDogJHtkb21haW59OiR7cmVnaW9ufWApCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXcgRGF0ZSgpIC0gdGltaW5nLnN0YXJ0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBub3RGb3VuZENhY2hlID0gbmV3IFNpbXBsZUNhY2hlKDMgKiA2MCAqIDEwMDApOwo=</text>
+        <text encoding="base64">ICBpZiAobmV3IERhdGUoKSAtIHRpbWluZy5zdGFydCA8IDEwMCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNhbGxzKys7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>404</last-search>
+      <last-search>timing</last-search>
       <last-offset />
-      <last-pattern>404</last-pattern>
+      <last-pattern>timing</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>channelId</last-substitute>
       <last-dir>1</last-dir>
@@ -616,7 +617,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaW5kXD4=</entry>
         <entry encoding="base64">XDxyb290XD4=</entry>
         <entry>await(</entry>
         <entry>await (</entry>
@@ -636,6 +636,7 @@
         <entry>media</entry>
         <entry>admi</entry>
         <entry>404</entry>
+        <entry>timing</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
