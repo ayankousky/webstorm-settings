@@ -384,6 +384,12 @@
         <mark key="." line="7" column="438" />
         <mark key="^" line="7" column="438" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1568558545894">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="22" />
+        <mark key="^" line="31" column="22" />
+        <mark key="." line="31" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/product/product-info/product-info.component.html" timestamp="1564036134234">
         <mark key="[" line="19" column="45" />
         <mark key="]" line="19" column="52" />
@@ -564,8 +570,8 @@
       <jump line="266" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>type: 'FULLTEXT', name: 'name_index', fields: ['name']</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -580,7 +586,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$PWD/management/monitoring</text>
+        <text>type: 'FULLTEXT', name: 'name_index', fields: ['name']</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -598,16 +604,16 @@
         <text>timing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gbm9kZS5ob3N0bmFtZSA9PSBpcC0xNzItMzEtNi0xMTAK</text>
+        <text encoding="base64">ICAgICAgeyB0eXBlOiAnRlVMTFRFWFQnLCBuYW1lOiAnbmFtZV9pbmRleCcsIGZpZWxkczogWyduYW1lJ10gfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLy8gYWRkIGEgRlVMTFRFWFQgaW5kZXgK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -619,19 +625,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhcHAudXNlKChyZXEsIHJlcywgbmV4dCkgPT4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICBhcHAudXNlKChyZXEsIHJlcywgbmV4dCkgPT4gCg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ewogICAgcmVxLnRpbWluZyA9IHtzdGFydDogbmV3IERhdGUoKX07CiAgICBuZXh0KCk7CiAgfSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEudGltaW5nLikK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEudGltaW5nLikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
