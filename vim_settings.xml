@@ -437,6 +437,11 @@
         <mark key="." line="82" column="72" />
         <mark key="^" line="82" column="72" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" timestamp="1568540445098">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/index.js" timestamp="1567847609840">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="12" column="40" />
@@ -560,7 +565,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -596,7 +601,7 @@
         <text encoding="base64">ICAgICAgICAgIC0gbm9kZS5ob3N0bmFtZSA9PSBpcC0xNzItMzEtNi0xMTAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -611,22 +616,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhcHAudXNlKChyZXEsIHJlcywgbmV4dCkgPT4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ewogICAgcmVxLnRpbWluZyA9IHtzdGFydDogbmV3IERhdGUoKX07CiAgICBuZXh0KCk7CiAgfSk7Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBhcHAudXNlKChyZXEsIHJlcywgbmV4dCkgPT4gCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEudGltaW5nLikK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ewogICAgcmVxLnRpbWluZyA9IHtzdGFydDogbmV3IERhdGUoKX07CiAgICBuZXh0KCk7CiAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEudGltaW5nLikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcy5yZW1vdmVIZWFkZXIoJ1gtUG93ZXJlZC1CeScpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
