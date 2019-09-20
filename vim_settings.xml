@@ -289,6 +289,11 @@
         <mark key="." line="115" column="5" />
         <mark key="^" line="115" column="5" />
       </file>
+      <file name="$USER_HOME$/Desktop/elinext-task/controller/readlines.js" timestamp="1568971306404">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/client/templates/verification_page.pug" timestamp="1560437049849">
         <mark key="[" line="82" column="249" />
         <mark key="]" line="82" column="249" />
@@ -313,12 +318,19 @@
         <mark key="^" line="159" column="40" />
         <mark key="." line="159" column="40" />
       </file>
+      <file name="$USER_HOME$/Desktop/elinext-task/middleware/mongoose/index.js" timestamp="1568969955711">
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="3" column="60" />
+        <mark key="^" line="3" column="60" />
+        <mark key="." line="3" column="60" />
+      </file>
       <file name="$USER_HOME$/Desktop/test_nginx/docker-compose.yml" timestamp="1562791991220">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="13" column="41" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/elinext-task/app.js" timestamp="1568969784951" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/model/product.js" timestamp="1564041903742">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
@@ -390,7 +402,7 @@
         <mark key="." line="11" column="55" />
         <mark key="^" line="11" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568576237444">
+      <file name="/Dummy.txt" timestamp="1568970392884">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_get.json" timestamp="1561751237974">
@@ -449,6 +461,11 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/elinext-task/controller/archives.js" timestamp="1568970825939">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/products.js" timestamp="1564070915986">
         <mark key="[" line="48" column="0" />
@@ -601,8 +618,8 @@
       <jump line="0" column="20" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/audioProfile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -617,7 +634,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>}</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -638,37 +655,37 @@
         <text encoding="base64">ICAgIEFwcFNpbXBsZUNhY2hlLmRlbGV0ZShgdXNlcnM6JHttZWRpY2FsSXRlbS51c2VySWR9YCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2ZpbGVGaWVsZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIEFwcFNpbXBsZUNhY2hlLmRlbGV0ZShgdXNlcnM6JHt1c2VySWR9YCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGxpbmVzKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGxpbmVzKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lZGljYWxJdGVtLnVzZXJJZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJsLm9uKCdlcnJvcicsICgpID0+IGNvbnNvbGUubG9nKCdrZWVrZWtlaycpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdrZWtla2VrZScpCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJsLm9uKCdlcnJvcicsICgpID0+IGNvbnNvbGUubG9nKCdrZWVrZWtlaycpKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YHVzZXJzOiR7dXNlcklkfWAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHN0cmVhbS5vbignZXJyb3InLCAoKSA9PiB7Y29uc29sZS5sb2coJ2tla2VrJyl9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
