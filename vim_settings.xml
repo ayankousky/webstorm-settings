@@ -496,12 +496,12 @@
         <mark key="^" line="208" column="27" />
         <mark key="." line="208" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/azure-pipelines.yml" timestamp="1569781618034">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/azure-pipelines.yml" timestamp="1569783268770">
         <mark key="k" line="26" column="0" />
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="5" />
-        <mark key="." line="16" column="5" />
-        <mark key="^" line="16" column="5" />
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="18" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/incoming_stat.js" timestamp="1567140162023">
         <mark key="[" line="82" column="71" />
@@ -636,8 +636,8 @@
       <jump line="850" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJ2tla2VrZScK</text>
+      <register name="&quot;" type="4">
+        <text>ls</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -652,7 +652,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>ls</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -670,25 +670,25 @@
         <text>timing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJ19fX19fX19fX18xX19fX19fX19fXycK</text>
+        <text encoding="base64">ICAgICAgbHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJ2tla2VrZScK</text>
+        <text encoding="base64">ICAgICAgZ2l0IGJyYW5jaAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJ2tla2VrZScK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -697,13 +697,13 @@
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhlKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
