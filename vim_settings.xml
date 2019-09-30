@@ -496,12 +496,12 @@
         <mark key="^" line="208" column="27" />
         <mark key="." line="208" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/azure-pipelines.yml" timestamp="1569868658070">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/azure-pipelines.yml" timestamp="1569870830302">
         <mark key="k" line="26" column="0" />
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="22" column="30" />
-        <mark key="." line="22" column="30" />
-        <mark key="^" line="22" column="30" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="24" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/incoming_stat.js" timestamp="1567140162023">
         <mark key="[" line="82" column="71" />
@@ -520,11 +520,22 @@
         <mark key="." line="12" column="40" />
         <mark key="^" line="12" column="40" />
       </file>
+      <file name="$USER_HOME$/Desktop/run.sh" timestamp="1569870474698">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment_likes.js" timestamp="1560805562947">
         <mark key="[" line="53" column="35" />
         <mark key="]" line="53" column="35" />
         <mark key="^" line="53" column="35" />
         <mark key="." line="53" column="35" />
+      </file>
+      <file name="$USER_HOME$/Desktop/test.sh" timestamp="1569870736962">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/send.js" timestamp="1565638146211">
         <mark key="[" line="61" column="0" />
@@ -636,8 +647,8 @@
       <jump line="850" column="14" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZXhpdCAwCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -652,7 +663,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>test</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -673,38 +684,37 @@
         <text encoding="base64">ICAgIGVjaG8gJ3RoaXMgaXMgaGVyZSBqb2IgMicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhpdCAwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>b1
-  display</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLi9ub2RlX21vZHVsZXMvLmJpbi9tb2NoYSB0ZXN0L2ludGVncmF0aW9uL2luZGV4LmpzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZtSW1hZ2U6ICdVYnVudHUtMTYuMDQnCg==</text>
+        <text encoding="base64">ZXhpdCAxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwb29sOgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZtSW1hZ2U6ICdVYnVudHUtMTYuMDQnCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwb29sOgo=</text>
+        <text encoding="base64">ICAgICAgZWNobyAndGhpcyBpcyBoZXJlIGpvYiAyJwo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkaXNwbGF5TmFtZTogRG8gam9iIDIK</text>
+        <text encoding="base64">ICAgICAgZWNobyAndGhpcyBpcyBoZXJlIGpvYiAxJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZWNobyAndGhpcyBpcyBoZXJlIGpvYiAxJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIHNjcmlwdDogfAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
