@@ -21,11 +21,11 @@
         <mark key="." line="244" column="9" />
         <mark key="^" line="244" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.html" timestamp="1564038186223">
-        <mark key="[" line="763" column="68" />
-        <mark key="]" line="763" column="69" />
-        <mark key="." line="763" column="69" />
-        <mark key="^" line="763" column="62" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.html" timestamp="1570383183906">
+        <mark key="[" line="835" column="56" />
+        <mark key="]" line="835" column="63" />
+        <mark key="." line="835" column="63" />
+        <mark key="^" line="835" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.scss" timestamp="1564037203163">
         <mark key="[" line="1272" column="17" />
@@ -224,6 +224,12 @@
         <mark key="." line="11" column="50" />
         <mark key="^" line="11" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/filters/firmwares-filter/firmwares-filter.component.ts" timestamp="1570385078026">
+        <mark key="[" line="68" column="45" />
+        <mark key="]" line="68" column="50" />
+        <mark key="." line="68" column="50" />
+        <mark key="^" line="68" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/index.js" timestamp="1567142100459">
         <mark key="[" line="10" column="35" />
         <mark key="]" line="10" column="51" />
@@ -371,11 +377,10 @@
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/users/user-info/user-info.component.ts" timestamp="1570381896595">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/users/user-info/user-info.component.ts" timestamp="1570382742947">
         <mark key="[" line="973" column="0" />
-        <mark key="]" line="973" column="59" />
-        <mark key="." line="973" column="57" />
-        <mark key="^" line="973" column="57" />
+        <mark key="]" line="973" column="0" />
+        <mark key="." line="973" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/Dockerfile" timestamp="1564844876490">
         <mark key="[" line="10" column="0" />
@@ -466,10 +471,11 @@
         <mark key="^" line="168" column="94" />
         <mark key="." line="168" column="94" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/settings-and-privacy/settings-and-privacy/settings-and-privacy.component.ts" timestamp="1570381903646">
-        <mark key="[" line="238" column="56" />
-        <mark key="]" line="238" column="56" />
-        <mark key="." line="238" column="56" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/settings-and-privacy/settings-and-privacy/settings-and-privacy.component.ts" timestamp="1570382746618">
+        <mark key="[" line="119" column="38" />
+        <mark key="]" line="119" column="41" />
+        <mark key="." line="119" column="41" />
+        <mark key="^" line="119" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/model/product.js" timestamp="1564041903742">
         <mark key="[" line="109" column="0" />
@@ -530,7 +536,7 @@
         <mark key="." line="11" column="55" />
         <mark key="^" line="11" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1570371710889">
+      <file name="/Dummy.txt" timestamp="1570383113965">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_get.json" timestamp="1561751237974">
@@ -568,6 +574,12 @@
         <mark key="]" line="373" column="85" />
         <mark key="." line="373" column="85" />
         <mark key="^" line="373" column="85" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/firmwareRevision.js" timestamp="1570385178696">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="^" line="121" column="42" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/comment.js" timestamp="1561737425140">
         <mark key="[" line="15" column="0" />
@@ -702,8 +714,8 @@
       <jump line="1399" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHF1ZXJ5KQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -718,7 +730,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>new Date(params.releaseDateEnd)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -736,40 +748,40 @@
         <text>timing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygndXBkYXRlZEZvcm1bZm9ybUNvbnRyb2xdJykK</text>
+        <text encoding="base64">ICBnZXRNYXhEYXRlKCk6IGFueSB7IHJldHVybiBtb21lbnQoKS5hZGQoMSwnaG91cicpOyB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCWNvbnNvbGUubG9nKHRoaXMuY291bnRyaWVzKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHF1ZXJ5KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCd0aGlzLmNvdW50cmllcycpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdxdWVyeScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuY291bnRyaWVzKQo=</text>
+        <text encoding="base64">ICAvLyBnZXRNYXhEYXRlKCk6IGFueSB7IHJldHVybiBtb21lbnQoKS5hZGQoMSwnaG91cicpOyB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd0aGlzLmNvdW50cmllcycpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGFyYW1zLnJlbGVhc2VEYXRlU3RhcnQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3BhcmFtcy5yZWxlYXNlRGF0ZVN0YXJ0JykK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgkJc2V0VGltZW91dCgoKSA9PiB7CgkJCWNvbnNvbGUubG9nKCd0aGlzLmNvdW50cmllcycpCiAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuY291bnRyaWVzKQoJCX0sIDUwMDAp</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNub2xlLmxvZyhxdWVyeSkK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMikK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgkJCQkJCQk8IS0tIDxzZWxlY3QgW2NvbXBhcmVXaXRoXT0iY29tcGFyZUZuIiBjbGFzcz0iZm9ybS1jb250cm9sIHBlcnNvbmFsLWluZm9ybWF0aW9uLWlucHV0IgoJCQkJCQkJCWlkPSJvcmdhbml6YXRpb24tc2VsZWN0IiBmb3JtQ29udHJvbE5hbWU9Im9yZ2FuaXphdGlvbklkIj4KCQkJCQkJCQk8b3B0aW9uIFt2YWx1ZV09IiI+PC9vcHRpb24+CgkJCQkJCQkJPG9wdGlvbiBbbmdWYWx1ZV09Im9yZ2FuaXphdGlvbi5pZCIgKm5nRm9yPSdsZXQgb3JnYW5pemF0aW9uIG9mIGF2YWlsYWJsZU9yZ2FuaXphdGlvbnMnPgoJCQkJCQkJCQl7eyBvcmdhbml6YXRpb24ubmFtZSB9fTwvb3B0aW9uPgoJCQkJCQkJPC9zZWxlY3Q+IC0tPgoKCQkJCQkJCTwhLS0gPG1hdC1zZWxlY3QgY2xhc3M9ImZvcm0tY29udHJvbCBwZXJzb25hbC1pbmZvcm1hdGlvbi1pbnB1dCBtYXQtc2VsZWN0LXRyaWdnZXIiIFtjb21wYXJlV2l0aF09ImNvbXBhcmVGbiIKCQkJCQkJCWZvcm1Db250cm9sTmFtZT0ib3JnYW5pemF0aW9uSWQiICNzaW5nbGVTZWxlY3QgPgoJCQkJCQkJCTxtYXQtb3B0aW9uID4KCQkJCQkJCQk8bmd4LW1hdC1zZWxlY3Qtc2VhcmNoIFtmb3JtQ29udHJvbF09ImZpbHRlck9yZ3MiIFtub0VudHJpZXNGb3VuZExhYmVsXT0iJ25vIG1hdGNoaW5nIG9yZ2FuaXphdGlvbiBmb3VuZCciPjwvbmd4LW1hdC1zZWxlY3Qtc2VhcmNoPgoJCQkJCQkJCTwvbWF0LW9wdGlvbj4KCQkJCQkJCQk8bWF0LW9wdGlvbiAqbmdGb3I9ImxldCBvcmdhbml6YXRpb24gb2YgYXZhaWxhYmxlT3JnYW5pemF0aW9ucyIgW3ZhbHVlXT0idSIgc3R5bGU9ImhlaWdodDogMjVweDsiPgoJCQkJCQkJCQkJe3sgb3JnYW5pemF0aW9uLm5hbWUgfX0KCQkJCQkJCQk8L21hdC1vcHRpb24+CgkJCQkJCQk8L21hdC1zZWxlY3Q+IC0tPg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwYXJhbXMnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
