@@ -269,7 +269,6 @@
         <mark key="^" line="46" column="69" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/services/objectStorage/index.js" timestamp="1571085879009" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/index.js" timestamp="1567847620070">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="12" column="40" />
@@ -358,7 +357,6 @@
         <mark key="^" line="63" column="53" />
         <mark key="." line="63" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/firmwareService.js" timestamp="1571085961768" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/product/product-functions/product-functions.component.html" timestamp="1570368748488">
         <mark key="[" line="25" column="57" />
         <mark key="]" line="23" column="15" />
@@ -402,7 +400,6 @@
         <mark key="." line="41" column="15" />
         <mark key="^" line="41" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/model/user.js" timestamp="1571085756561" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/index.js" timestamp="1565638754526">
         <mark key="[" line="9" column="33" />
         <mark key="]" line="9" column="37" />
@@ -442,6 +439,13 @@
         <mark key="]" line="65" column="27" />
         <mark key="^" line="65" column="27" />
         <mark key="." line="65" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/whitelist/index.js" timestamp="1571505853531">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="115" column="45" />
+        <mark key="]" line="116" column="103" />
+        <mark key="^" line="116" column="103" />
+        <mark key="." line="116" column="103" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/hardware.js" timestamp="1570373776997">
         <mark key="[" line="60" column="57" />
@@ -509,7 +513,6 @@
         <mark key="^" line="168" column="94" />
         <mark key="." line="168" column="94" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/routes/firmwares.js" timestamp="1571085516815" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/settings-and-privacy/settings-and-privacy/settings-and-privacy.component.ts" timestamp="1570382746618">
         <mark key="[" line="119" column="38" />
         <mark key="]" line="119" column="41" />
@@ -546,6 +549,7 @@
         <mark key="^" line="59" column="65" />
         <mark key="." line="59" column="65" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1571505922166" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/action-popup/action-popup.component.ts" timestamp="1564035357097">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -660,9 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Desktop/test_nginx/conf.dev.nginx" />
-      <jump line="256" column="37" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
-      <jump line="133" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/configs/main.yml" />
       <jump line="1445" column="26" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
       <jump line="111" column="23" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_create.json" />
       <jump line="1405" column="35" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
@@ -760,6 +761,9 @@
       <jump line="1399" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
       <jump line="186" column="48" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" />
       <jump line="30" column="89" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/model/product.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/whitelist/index.js" />
+      <jump line="115" column="40" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
+      <jump line="448" column="119" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -793,7 +797,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>timing</text>
+        <text>chr_xml</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAsIG9iamVjdFN0b3JhZ2UgICAgICAgPSByZXF1aXJlKCcuLi9zZXJ2aWNlcy9vYmplY3RTdG9yYWdlJykK</text>
@@ -844,9 +848,9 @@
       </register>
     </registers>
     <search>
-      <last-search>timing</last-search>
+      <last-search>chr_xml</last-search>
       <last-offset />
-      <last-pattern>timing</last-pattern>
+      <last-pattern>chr_xml</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>channelId</last-substitute>
       <last-dir>1</last-dir>
@@ -854,7 +858,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb290XD4=</entry>
         <entry>await(</entry>
         <entry>await (</entry>
         <entry>channelId</entry>
@@ -874,6 +877,7 @@
         <entry>admi</entry>
         <entry>404</entry>
         <entry>timing</entry>
+        <entry>chr_xml</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
