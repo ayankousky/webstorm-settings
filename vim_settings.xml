@@ -400,6 +400,11 @@
         <mark key="." line="41" column="15" />
         <mark key="^" line="41" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" timestamp="1572040212325">
+        <mark key="[" line="1014" column="0" />
+        <mark key="]" line="1014" column="0" />
+        <mark key="." line="1014" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/index.js" timestamp="1565638754526">
         <mark key="[" line="9" column="33" />
         <mark key="]" line="9" column="37" />
@@ -549,7 +554,6 @@
         <mark key="^" line="59" column="65" />
         <mark key="." line="59" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1571505922166" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/action-popup/action-popup.component.ts" timestamp="1564035357097">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -809,16 +813,16 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZXZpY2UucHJvZHVjdC5maXJtd2FyZS5pZCkK</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQgZGV2aWNlID0gYXdhaXQgRGV2aWNlLmdldEJ5RGV2aWNlSWQoZGV2aWNlSWQpCg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSAgICAvLyBhc2tsZmphc2xkZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBQcm9kdWN0RnVuY3Rpb24gPSByZXF1aXJlKCcuLi8uLi9tb2RlbC9wcm9kdWN0RnVuY3Rpb24nKTsK</text>
+        <text encoding="base64">CQkJCQkvLyBhc2tkZmphc2xrZAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -827,21 +831,13 @@
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vZGVsSWR0VGltZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>,
-    modelFunctions,
-    logoUrl,
-    logoSmUrl: logoUrl,
-    calibration,
-    licenses,
-    firmwareId: device.product.firmware ? device.product.firmware.id : null,
-    revId: &quot;37aac5ab-e344-4fed-937f-a8db6a4f1b04&quot;,
-    ts: new Date().ge</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZXZpY2UucHJvZHVjdC5maXJtd2FyZS5pZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBsZXQgZGV2aWNlID0gYXdhaXQgRGV2aWNlLmdldEJ5RGV2aWNlSWQoZGV2aWNlSWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
