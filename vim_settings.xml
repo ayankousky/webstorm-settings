@@ -9,11 +9,11 @@
         <mark key="^" line="37" column="27" />
         <mark key="." line="37" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" timestamp="1572272513981">
-        <mark key="[" line="194" column="12" />
-        <mark key="]" line="194" column="93" />
-        <mark key="." line="194" column="93" />
-        <mark key="^" line="194" column="93" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" timestamp="1572274611481">
+        <mark key="[" line="247" column="93" />
+        <mark key="]" line="247" column="93" />
+        <mark key="^" line="247" column="93" />
+        <mark key="." line="247" column="93" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/BaseSubscription.js" timestamp="1570279073820">
         <mark key="[" line="53" column="0" />
@@ -816,7 +816,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>skip offer when offer with same networkId and user ip has been returned within 1 minute</text>
+        <text encoding="base64">ZG9tYWluLCA=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -831,7 +831,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>skip offer when offer with same networkId and user ip has been returned within 1 minute</text>
+        <text encoding="base64">ZG9tYWluLCA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -852,34 +852,34 @@
         <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICBjb25zb2xlLmxvZygnTm90IGZvdW5kJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnRm91bmQnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgIH0gZWxzZSB7CiAgICAgICAgY29uc29sZS5sb2coJ05vdCBmb3VuZCcpCiAgICAgIH0=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgZmluZE11bENsaWNrcyA9IHJlcXVpcmUoJy4uL2ZpbmRNdWxDbGlja3MnKTsK</text>
-      </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgbGV0IG9mZmVyID0gdW5kZWZpbmVkOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxldCBvZmZlciA9IHVuZGVmaW5lZDsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZmluZE11bENsaWNrcyA9IHJlcXVpcmUoJy4uL2ZpbmRNdWxDbGlja3MnKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnRm91bmQnKQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZmluZE11bENsaWNrcyA9IHJlcXVpcmUoJy4uL2ZpbmRNdWxDbGlja3MnKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgIH0gZWxzZSB7CiAgICAgICAgY29uc29sZS5sb2coJ05vdCBmb3VuZCcpCiAgICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Y29uc3QgZmluZE11bENsaWNrcyA9IHJlcXVpcmUoJy4uL2ZpbmRNdWxDbGlja3MnKTsK</text>
