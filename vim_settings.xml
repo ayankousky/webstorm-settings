@@ -58,10 +58,9 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/tsconfig.json" timestamp="1572546526274">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1560807347444">
         <mark key="[" line="440" column="0" />
@@ -361,11 +360,17 @@
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/notifications/tsconfig.json" timestamp="1572551515634" />
       <file name="$USER_HOME$/Documents/Projects/WeMeet/admin/src/services/api.js" timestamp="1560235112143">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="24" />
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/tsconfig.json" timestamp="1572551517959">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/services/db/index.js" timestamp="1567847605469">
         <mark key="[" line="10" column="29" />
@@ -829,8 +834,8 @@
       <jump line="5" column="19" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/tsconfig.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ewogICJjb21waWxlck9wdGlvbnMiOiB7CiAgICAibW9kdWxlIjogImNvbW1vbmpzIiwKICAgICJ0YXJnZXQiOiAiZXM1IiwKICAgICJhbGxvd0pzIjogdHJ1ZSwKICAgICJvdXREaXIiOiAiLi9idWlsdCIsCiAgICAic291cmNlTWFwIjogdHJ1ZQogIH0sCiAgImluY2x1ZGUiOiBbCiAgICAiLi9zcmMvKiovKiIKICBdLAogICJleGNsdWRlIjogWwogICAgIm5vZGVfbW9kdWxlcyIKICBdCn0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgImV4Y2x1ZGUiOiBbCiAgICAiLi9ub2RlX21vZHVsZXMvKiIKICBdLA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -845,7 +850,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>built</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -865,41 +870,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICJvdXREaXIiOiAiLi9idWlsdCIsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ewogICJjb21waWxlck9wdGlvbnMiOiB7CiAgICAibW9kdWxlIjogImNvbW1vbmpzIiwKICAgICJ0YXJnZXQiOiAiZXM1IiwKICAgICJhbGxvd0pzIjogdHJ1ZSwKICAgICJvdXREaXIiOiAiLi9idWlsdCIsCiAgICAic291cmNlTWFwIjogdHJ1ZQogIH0sCiAgImluY2x1ZGUiOiBbCiAgICAiLi9zcmMvKiovKiIKICBdLAogICJleGNsdWRlIjogWwogICAgIm5vZGVfbW9kdWxlcyIKICBdCn0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgImV4Y2x1ZGUiOiBbCiAgICAiLi9ub2RlX21vZHVsZXMvKiIKICBdLA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgImFsbG93SnMiOiB0cnVlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CiAgICAib3V0RGlyIjogIi4vYnVpbHQiLAogICAgImFsbG93SnMiOiB0cnVlLAogICAgInRhcmdldCI6ICJlczUi</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJhbGxvd0pzIjogdHJ1ZSwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ewogICJjb21waWxlck9wdGlvbnMiOiB7CiAgICAibW9kdWxlIjogImNvbW1vbmpzIiwKICAgICJ0YXJnZXQiOiAiZXM1IiwKICAgICJhbGxvd0pzIjogdHJ1ZSwKICAgICJvdXREaXIiOiAiLi9idWlsdCIsCiAgICAic291cmNlTWFwIjogdHJ1ZQogIH0sCiAgImluY2x1ZGUiOiBbCiAgICAiLi9zcmMvKiovKiIKICBdLAogICJleGNsdWRlIjogWwogICAgIm5vZGVfbW9kdWxlcyIKICBdCn0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgImFsbG93SnMiOiB0cnVlLAo=</text>
+      </register>
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">CnsKICAiY29tcGlsZXJPcHRpb25zIjogewogICAgIm91dERpciI6ICIuL2J1aWx0IiwKICAgICJhbGxvd0pzIjogdHJ1ZSwKICAgICJ0YXJnZXQiOiAiZXM1IgogIH0KfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>,
   &quot;include&quot;: [
     &quot;./src/**/*&quot;
   ]</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gb2ZmZXJzU2NoZW1hLmluZGV4KHsgbmV0d29ya0lkOiAxLCB1cGRhdGVkQXQ6IDF9KTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gb2ZmZXJzU2NoZW1hLmluZGV4KHsgZGVfY2F0ZWdvcnlfaWQ6IDF9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
