@@ -57,6 +57,12 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/tsconfig.json" timestamp="1572546526274">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/folder.js" timestamp="1560807347444">
         <mark key="[" line="440" column="0" />
         <mark key="]" line="440" column="0" />
@@ -183,7 +189,6 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/findMulClicks.js" timestamp="1572499444694" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1567189156101">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -356,7 +361,6 @@
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/notifications/tsconfig.json" timestamp="1572513682610" />
       <file name="$USER_HOME$/Documents/Projects/WeMeet/admin/src/services/api.js" timestamp="1560235112143">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="24" />
@@ -723,7 +727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1445" column="26" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
       <jump line="111" column="23" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_create.json" />
       <jump line="1405" column="35" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
       <jump line="69" column="20" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" />
@@ -823,10 +826,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/whitelist/index.js" />
       <jump line="115" column="40" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="448" column="119" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
+      <jump line="5" column="19" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/tsconfig.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>String</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ewogICJjb21waWxlck9wdGlvbnMiOiB7CiAgICAibW9kdWxlIjogImNvbW1vbmpzIiwKICAgICJ0YXJnZXQiOiAiZXM1IiwKICAgICJhbGxvd0pzIjogdHJ1ZSwKICAgICJvdXREaXIiOiAiLi9idWlsdCIsCiAgICAic291cmNlTWFwIjogdHJ1ZQogIH0sCiAgImluY2x1ZGUiOiBbCiAgICAiLi9zcmMvKiovKiIKICBdLAogICJleGNsdWRlIjogWwogICAgIm5vZGVfbW9kdWxlcyIKICBdCn0K</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -859,40 +863,43 @@
         <text>chr_xml</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICBjb25zb2xlLmxvZygnTm90IGZvdW5kJykK</text>
+        <text encoding="base64">ICAgICJvdXREaXIiOiAiLi9idWlsdCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewogICJjb21waWxlck9wdGlvbnMiOiB7CiAgICAibW9kdWxlIjogImNvbW1vbmpzIiwKICAgICJ0YXJnZXQiOiAiZXM1IiwKICAgICJhbGxvd0pzIjogdHJ1ZSwKICAgICJvdXREaXIiOiAiLi9idWlsdCIsCiAgICAic291cmNlTWFwIjogdHJ1ZQogIH0sCiAgImluY2x1ZGUiOiBbCiAgICAiLi9zcmMvKiovKiIKICBdLAogICJleGNsdWRlIjogWwogICAgIm5vZGVfbW9kdWxlcyIKICBdCn0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgImFsbG93SnMiOiB0cnVlLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gb2ZmZXJzU2NoZW1hLmluZGV4KHsgbmV0d29ya0lkOiAxLCB1cGRhdGVkQXQ6IDF9KTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CnsKICAiY29tcGlsZXJPcHRpb25zIjogewogICAgIm91dERpciI6ICIuL2J1aWx0IiwKICAgICJhbGxvd0pzIjogdHJ1ZSwKICAgICJ0YXJnZXQiOiAiZXM1IgogIH0KfQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gb2ZmZXJzU2NoZW1hLmluZGV4KHsgZGVfY2F0ZWdvcnlfaWQ6IDF9KTsK</text>
+      <register name="4" type="4">
+        <text>,
+  &quot;include&quot;: [
+    &quot;./src/**/*&quot;
+  ]</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gb2ZmZXJzU2NoZW1hLmluZGV4KHsgc3RvcmVfdXJsOiAxLCByZWdpb246IDEsIGNyZWF0ZWRBdDogMSB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gb2ZmZXJzU2NoZW1hLmluZGV4KHsgc3RvcmVfdXJsOiAxLCByZWdpb246IDEsIGNyZWF0ZWRBdDogMSB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gb2ZmZXJzU2NoZW1hLmluZGV4KHsgZGVfY2F0ZWdvcnlfaWQ6IDF9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gb2ZmZXJzU2NoZW1hLmluZGV4KHsgbmV0d29ya0lkOiAxLCBsdmwzX2NhdGVnb3J5X2lkOiAxLCBxdWV1ZTogMSwgcmVnaW9uOiAxIH0pOwo=</text>
+        <text encoding="base64">Ly8gb2ZmZXJzU2NoZW1hLmluZGV4KHsgbmV0d29ya0lkOiAxLCB1cGRhdGVkQXQ6IDF9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gb2ZmZXJzU2NoZW1hLmluZGV4KHsgbmV0d29ya0lkOiAxLCBsdmwyX2NhdGVnb3J5X2lkOiAxLCBxdWV1ZTogMSwgcmVnaW9uOiAxIH0pOwo=</text>
+        <text encoding="base64">Ly8gb2ZmZXJzU2NoZW1hLmluZGV4KHsgZGVfY2F0ZWdvcnlfaWQ6IDF9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
