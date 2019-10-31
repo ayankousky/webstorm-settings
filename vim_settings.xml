@@ -189,6 +189,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/notifications/src/reports/latestOffers.ts" timestamp="1572513443699">
+        <mark key="[" line="88" column="26" />
+        <mark key="]" line="88" column="23" />
+        <mark key="^" line="88" column="23" />
+        <mark key="." line="88" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.prod-config.yml" timestamp="1561013285796">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
@@ -350,6 +356,7 @@
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/notifications/tsconfig.json" timestamp="1572513682610" />
       <file name="$USER_HOME$/Documents/Projects/WeMeet/admin/src/services/api.js" timestamp="1560235112143">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="24" />
@@ -818,8 +825,8 @@
       <jump line="448" column="119" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -834,7 +841,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNyZWF0ZWRBdA==</text>
+        <text>String</text>
       </register>
       <register name="m" type="4">
         <keys>
