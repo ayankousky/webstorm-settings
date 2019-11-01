@@ -15,11 +15,11 @@
         <mark key="^" line="247" column="92" />
         <mark key="." line="247" column="92" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/BaseSubscription.js" timestamp="1570279073820">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="73" column="2" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/BaseSubscription.js" timestamp="1572641868134">
+        <mark key="[" line="54" column="6" />
+        <mark key="]" line="54" column="5" />
+        <mark key="^" line="54" column="5" />
+        <mark key="." line="54" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/firmware/firmware-hardware-association-list/firmware-hardware-association-list.component.html" timestamp="1572118005221">
         <mark key="[" line="62" column="12" />
@@ -147,7 +147,7 @@
         <mark key="^" line="35" column="90" />
         <mark key="." line="35" column="93" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/fail_stat.js" timestamp="1567140253441">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/fail_stat.js" timestamp="1572609462041">
         <mark key="[" line="100" column="66" />
         <mark key="]" line="100" column="67" />
         <mark key="." line="100" column="67" />
@@ -199,6 +199,7 @@
         <mark key="^" line="88" column="23" />
         <mark key="." line="88" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/notifications/src/reports/index.ts" timestamp="1572642141278" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.prod-config.yml" timestamp="1561013285796">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
@@ -269,11 +270,23 @@
         <mark key="^" line="3" column="60" />
         <mark key="." line="3" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/notifications/package.json" timestamp="1572642434677">
+        <mark key="[" line="30" column="29" />
+        <mark key="]" line="30" column="29" />
+        <mark key="^" line="30" column="29" />
+        <mark key="." line="30" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/services/db/index.js" timestamp="1567847615574">
         <mark key="[" line="18" column="31" />
         <mark key="]" line="18" column="42" />
         <mark key="^" line="18" column="42" />
         <mark key="." line="18" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/notifications/src/reports/merchantCoverage.ts" timestamp="1572642376599">
+        <mark key="[" line="207" column="10" />
+        <mark key="]" line="207" column="10" />
+        <mark key="^" line="207" column="11" />
+        <mark key="." line="207" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/buildsui/buildsui/controllers/bucketStructures/helpers.js" timestamp="1565806905383">
         <mark key="[" line="10" column="50" />
@@ -833,8 +846,8 @@
       <jump line="5" column="19" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/tsconfig.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBpZiAoIW5ldHdvcmtNYXBwaW5nW25ldHdvcmtJZF0pIHsK</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -849,7 +862,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>built</text>
+        <text>a</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -867,40 +880,49 @@
         <text>chr_xml</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJvdXREaXIiOiAiLi9idWlsdCIsCg==</text>
+        <text encoding="base64">ICBnZXQgc2NoZWR1bGUoKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBpZiAoIW5ldHdvcmtNYXBwaW5nW25ldHdvcmtJZF0pIHsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAneWllbGRLaXQnOiB0cnVlLAo=</text>
+      <register name="2" type="4">
+        <text>get schedule() {
+    const rule = new scheduler.RecurrenceRule();
+    rule.dayOfWeek = ['6'];
+    rule.hour = ['0'];
+    rule.minute = ['12'];
+    return rule;
+  }</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgImV4Y2x1ZGUiOiBbCiAgICAiLi9ub2RlX21vZHVsZXMvKiIKICBdLA==</text>
+        <text>[
+    createReport({ type: 'cpa' }),
+    createReport({ type: 'cpc' })
+  ]);</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAib3V0RGlyIjogIi4vYnVpbHQiLAogICAgImFsbG93SnMiOiB0cnVlLAogICAgInRhcmdldCI6ICJlczUi</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBleGVjdXRlID0gY3JlYXRlUmVwb3J0czsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJhbGxvd0pzIjogdHJ1ZSwK</text>
+        <text encoding="base64">ICAvLyBpZiAoIW5ldHdvcmtNYXBwaW5nW25ldHdvcmtJZF0pIHsK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ewogICJjb21waWxlck9wdGlvbnMiOiB7CiAgICAibW9kdWxlIjogImNvbW1vbmpzIiwKICAgICJ0YXJnZXQiOiAiZXM1IiwKICAgICJhbGxvd0pzIjogdHJ1ZSwKICAgICJvdXREaXIiOiAiLi9idWlsdCIsCiAgICAic291cmNlTWFwIjogdHJ1ZQogIH0sCiAgImluY2x1ZGUiOiBbCiAgICAiLi9zcmMvKiovKiIKICBdLAogICJleGNsdWRlIjogWwogICAgIm5vZGVfbW9kdWxlcyIKICBdCn0K</text>
+        <text encoding="base64">ICAneWllbGRLaXQnOiB0cnVlLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgImFsbG93SnMiOiB0cnVlLAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgImV4Y2x1ZGUiOiBbCiAgICAiLi9ub2RlX21vZHVsZXMvKiIKICBdLA==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CnsKICAiY29tcGlsZXJPcHRpb25zIjogewogICAgIm91dERpciI6ICIuL2J1aWx0IiwKICAgICJhbGxvd0pzIjogdHJ1ZSwKICAgICJ0YXJnZXQiOiAiZXM1IgogIH0KfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
