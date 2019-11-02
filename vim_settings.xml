@@ -153,6 +153,11 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1572719545381">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/notifications/src/reports/latestOffers.ts" timestamp="1572513443699">
         <mark key="[" line="88" column="26" />
         <mark key="]" line="88" column="23" />
@@ -522,11 +527,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" timestamp="1565638843277">
-        <mark key="[" line="39" column="45" />
-        <mark key="]" line="39" column="45" />
-        <mark key="." line="39" column="45" />
-        <mark key="^" line="39" column="45" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" timestamp="1572719594646">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+        <mark key="^" line="4" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/notifications/src/services/db/index.ts" timestamp="1567847599823">
         <mark key="[" line="11" column="29" />
@@ -749,8 +754,8 @@
       <jump line="5" column="19" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/tsconfig.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBFcnJvcigncGl6ZGVjJykK</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -765,7 +770,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>}</text>
       </register>
       <register name="m" type="4">
         <keys>
