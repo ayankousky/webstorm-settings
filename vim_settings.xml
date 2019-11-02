@@ -152,10 +152,10 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1572719545381">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1572730174986">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/notifications/src/reports/latestOffers.ts" timestamp="1572513443699">
         <mark key="[" line="88" column="26" />
@@ -200,11 +200,10 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/package.json" timestamp="1572723106979">
-        <mark key="[" line="34" column="23" />
-        <mark key="]" line="34" column="24" />
-        <mark key="^" line="30" column="24" />
-        <mark key="." line="34" column="24" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/package.json" timestamp="1572728174554">
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1561753141715">
         <mark key="[" line="115" column="5" />
@@ -528,11 +527,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" timestamp="1572719594646">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="4" column="6" />
-        <mark key="." line="4" column="6" />
-        <mark key="^" line="4" column="6" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" timestamp="1572730840959">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="27" column="2" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/notifications/src/services/db/index.ts" timestamp="1567847599823">
         <mark key="[" line="11" column="29" />
@@ -545,6 +545,10 @@
         <mark key="]" line="59" column="65" />
         <mark key="^" line="59" column="65" />
         <mark key="." line="59" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1572729943992">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1572721946168">
         <mark key="[" line="42" column="14" />
@@ -653,12 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="23" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_create.json" />
-      <jump line="1405" column="35" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
-      <jump line="69" column="20" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" />
-      <jump line="76" column="41" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" />
-      <jump line="124" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" />
-      <jump line="1407" column="0" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
       <jump line="795" column="19" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
       <jump line="93" column="13" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/myinfo.json" />
       <jump line="126" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_create.json" />
@@ -753,10 +751,16 @@
       <jump line="115" column="40" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="448" column="119" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="5" column="19" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/tsconfig.json" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" />
+      <jump line="17" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" />
+      <jump line="5" column="20" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" />
+      <jump line="27" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, req</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -771,7 +775,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, req</text>
+        <text>;</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -786,63 +790,63 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>chr_xml</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBFcnJvcigncGl6ZGVjJykK</text>
+        <text encoding="base64">ICAgICAgSlNPTi5wYXJzZSgnc2RmJykK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ly8gYXBwLnVzZShmdW5jdGlvbihlcnIsIHJlcSwgcmVxLCBuZXh0KXsKICAgIC8vICAgY29uc29sZS5sb2coJ09uIGVycm9yJykKICAgIC8vICAgY29uc29sZS5sb2coZXJyKQogICAgLy8gICByZXEuanNvbih7fSkKICAgIC8vIH0pOwogICAgY29uc29sZS5sb2coJz8/JykKICAgIGFwcC51c2UoZnVuY3Rpb24oZXJyLCByZXEsIHJlcywgbmV4dCkgewogICAgICBjb25zb2xlLmxvZygnS0VLRUtFS0VLRScpCiAgICAgIGlmIChyZXMuaGVhZGVyc1NlbnQpIHsKICAgICAgICByZXR1cm4gbmV4dChlcnIpOwogICAgICB9CgogICAgICByZXR1cm4gcmVzLnN0YXR1cyhlcnIuc3RhdHVzIHx8IEhUVFBfU0VSVkVSX0VSUk9SKS5yZW5kZXIoJzUwMCcpOwogICAgfSk7Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAvLyBhcHAudXNlKGZ1bmN0aW9uKGVyciwgcmVxLCByZXEsIG5leHQpewogICAgLy8gICBjb25zb2xlLmxvZygnT24gZXJyb3InKQogICAgLy8gICBjb25zb2xlLmxvZyhlcnIpCiAgICAvLyAgIHJlcS5qc29uKHt9KQogICAgLy8gfSk7CiAgICBjb25zb2xlLmxvZygnPz8nKQogICAgYXBwLnVzZShmdW5jdGlvbihlcnIsIHJlcSwgcmVzLCBuZXh0KSB7CiAgICAgIGNvbnNvbGUubG9nKCdLRUtFS0VLRUtFJykKICAgICAgcmV0dXJuIHJlcy5zdGF0dXMoNTAwKS5yZW5kZXIoJ1NlcnZlciBlcnJvcicpOwogICAgfSk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vIEpTT04ucGFyc2UoJ3NkZicpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBFcnJvcigncGl6ZGVjJykK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhhcHAubGlzdGVuKDM0MDAsICgpID0+IHsKICAgICAgY29uc29sZS5sb2coYEFwcCBpcyBydW5uaW5nIG9uIHBvcnQgMzAwMGApOwogICAgfSkp</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSkoKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgIGlmIChyZXMuaGVhZGVyc1NlbnQpIHsKICAgICAgICByZXR1cm4gbmV4dChlcnIpOwogICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">KGFzeW5jIGZ1bmN0aW9uICgpIHsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBFcnJvcigncGl6ZGVjJykK</text>
+      <register name="6" type="4">
+        <text encoding="base64">UHJvbWlzZS5yZXNvbHZlKCkudGhlbihhc3luYyAoKSA9PiB7CiAgICAgIEpTT04ucGFyc2UoJ3NkZicpCiAgICB9KQ==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
-        <text>,
-    &quot;xml2json&quot;: &quot;^0.11.0&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY28K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJ3aW5zdG9uIjogIl4zLjAuMC1yYzAiLAo=</text>
+      <register name="8" type="4">
+        <text>nst x = await y(req.query.something);
+
+      res.status(200).send({
+        x,
+      });</text>
       </register>
-      <register name="9" type="4">
-        <text>,
-    &quot;winston&quot;: &quot;^3.0.0-rc0&quot;,
-    &quot;xml2json&quot;: &quot;^0.11.0&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEpTT04ucGFyc2UoJ3NkZicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>chr_xml</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern>chr_xml</last-pattern>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>channelId</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>await(</entry>
         <entry>await (</entry>
         <entry>channelId</entry>
         <entry>index.shoul</entry>
@@ -862,6 +866,7 @@
         <entry>404</entry>
         <entry>timing</entry>
         <entry>chr_xml</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
