@@ -201,7 +201,12 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/package.json" timestamp="1572643199353" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/package.json" timestamp="1572722264626">
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="34" column="24" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="34" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/login.json" timestamp="1561753141715">
         <mark key="[" line="115" column="5" />
         <mark key="]" line="115" column="5" />
@@ -545,11 +550,11 @@
         <mark key="^" line="59" column="65" />
         <mark key="." line="59" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1572718321466">
-        <mark key="[" line="210" column="50" />
-        <mark key="]" line="210" column="50" />
-        <mark key="^" line="210" column="50" />
-        <mark key="." line="210" column="50" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1572721946168">
+        <mark key="[" line="42" column="14" />
+        <mark key="]" line="42" column="15" />
+        <mark key="^" line="209" column="50" />
+        <mark key="." line="42" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/http-server.js" timestamp="1572706616263">
         <mark key="[" line="52" column="16" />
@@ -575,7 +580,7 @@
         <mark key="." line="11" column="55" />
         <mark key="^" line="11" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572706535570">
+      <file name="/Dummy.txt" timestamp="1572722046780">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_get.json" timestamp="1561751237974">
@@ -755,7 +760,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>,
+    &quot;xml2json&quot;: &quot;^0.11.0&quot;</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -770,17 +776,17 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>:</text>
       </register>
       <register name="m" type="4">
         <keys>
           <key char="106" code="0" mods="0" />
           <key char="94" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="43" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
@@ -790,47 +796,59 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBFcnJvcigncGl6ZGVjJykK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>,
+    &quot;xml2json&quot;: &quot;^0.11.0&quot;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgogICAgICBpZiAob3B0aW9ucy5pc2lzKSB7CiAgICAgICAgb2ZmZXIgPSBhd2FpdCBuZXR3b3JrRW50aXR5LmV4dGVuZE9mZmVyKG9mZmVyLCB7CiAgICAgICAgICB1c2VySXA6IG9wdGlvbnMudXNlcklwLAogICAgICAgICAgc3ViaWQgOiBvcHRpb25zLnN1YmlkID09PSAnTm90IHNwZWNpZmllZCcgPyB1bmRlZmluZWQgOiBvcHRpb25zLnN1YmlkLAogICAgICAgICAgcmVnaW9uCiAgICAgICAgfSk7CiAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJ3aW5zdG9uIjogIl4zLjAuMC1yYzAiLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>,
+    &quot;winston&quot;: &quot;^3.0.0-rc0&quot;,
+    &quot;xml2json&quot;: &quot;^0.11.0&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICJ1c2VyYWdlbnQiOiAiXjIuMy4wIgo=</text>
       </register>
       <register name="5" type="4">
-        <text>get schedule() {
-    const rule = new scheduler.RecurrenceRule();
-    rule.dayOfWeek = ['6'];
-    rule.hour = ['0'];
-    rule.minute = ['12'];
-    return rule;
-  }</text>
+        <text>,
+    &quot;validator&quot;: &quot;^10.8.0&quot;,
+    &quot;winston&quot;: &quot;^3.0.0-rc0&quot;,
+    &quot;xml2json&quot;: &quot;^0.11.0&quot;</text>
       </register>
-      <register name="6" type="4">
-        <text>[
-    createReport({ type: 'cpa' }),
-    createReport({ type: 'cpc' })
-  ]);</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJ0YXItc3RyZWFtIjogIl4xLjYuMSIK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gCg==</text>
+      <register name="7" type="4">
+        <text>,
+    &quot;universal-analytics&quot;: &quot;^0.4.16&quot;,
+    &quot;url-parse&quot;: &quot;^1.2.0&quot;,
+    &quot;useragent&quot;: &quot;^2.3.0&quot;,
+    &quot;validator&quot;: &quot;^10.8.0&quot;,
+    &quot;winston&quot;: &quot;^3.0.0-rc0&quot;,
+    &quot;xml2json&quot;: &quot;^0.11.0&quot;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBleGVjdXRlID0gY3JlYXRlUmVwb3J0czsK</text>
+        <text encoding="base64">ICAgICJwc2wiOiAiXjogIl4wLjExLjAiCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAvLyBpZiAoIW5ldHdvcmtNYXBwaW5nW25ldHdvcmtJZF0pIHsK</text>
+      <register name="9" type="4">
+        <text>1.1.31&quot;,
+    &quot;request&quot;: &quot;^2.83.0&quot;,
+    &quot;request-promise&quot;: &quot;^4.2.2&quot;,
+    &quot;tar-stream&quot;: &quot;^1.6.1&quot;,
+    &quot;universal-analytics&quot;: &quot;^0.4.16&quot;,
+    &quot;url-parse&quot;: &quot;^1.2.0&quot;,
+    &quot;useragent&quot;: &quot;^2.3.0&quot;,
+    &quot;validator&quot;: &quot;^10.8.0&quot;,
+    &quot;winston&quot;: &quot;^3.0.0-rc0&quot;,
+    &quot;xml2json&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
