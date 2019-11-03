@@ -32,9 +32,9 @@
         <mark key="." line="244" column="9" />
         <mark key="^" line="244" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.html" timestamp="1570383183906">
-        <mark key="[" line="835" column="56" />
-        <mark key="]" line="835" column="63" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.html" timestamp="1572806794119">
+        <mark key="[" line="836" column="0" />
+        <mark key="]" line="836" column="175" />
         <mark key="." line="835" column="63" />
         <mark key="^" line="835" column="63" />
       </file>
@@ -234,11 +234,11 @@
         <mark key="^" line="30" column="29" />
         <mark key="." line="30" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/organization/organization-info/organization-info.component.ts" timestamp="1572804844647">
-        <mark key="[" line="348" column="77" />
-        <mark key="]" line="347" column="2" />
-        <mark key="." line="347" column="2" />
-        <mark key="^" line="347" column="2" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/organization/organization-info/organization-info.component.ts" timestamp="1572807017336">
+        <mark key="[" line="342" column="87" />
+        <mark key="]" line="342" column="97" />
+        <mark key="^" line="342" column="97" />
+        <mark key="." line="342" column="97" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/app.js" timestamp="1572726562050">
         <mark key="[" line="3" column="40" />
@@ -295,6 +295,12 @@
         <mark key="]" line="12" column="40" />
         <mark key="^" line="12" column="40" />
         <mark key="." line="12" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" timestamp="1572807148873">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/index.js" timestamp="1567847609840">
         <mark key="[" line="12" column="29" />
@@ -650,6 +656,12 @@
         <mark key="^" line="123" column="11" />
         <mark key="." line="123" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/organization/organization-info/organization-info.component.html" timestamp="1572807053680">
+        <mark key="[" line="315" column="137" />
+        <mark key="]" line="315" column="137" />
+        <mark key="." line="315" column="137" />
+        <mark key="^" line="315" column="137" />
+      </file>
       <file name="$USER_HOME$/Desktop/run.sh" timestamp="1569870474698">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="3" column="1" />
@@ -766,7 +778,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCBleGlzdGluZ0JyYW5kID0gaXNOZXcgPyBudWxsIDogdGhpcy5vcmdhbml6YXRpb24uYnJhbmRzLmZpbmQoYiA9PiBiLmlkID09PSBicmFuZElkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -781,7 +793,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IHN5bWJvbHM=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -799,10 +811,10 @@
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwLnVzZShmdW5jdGlvbihlcnIsIHJlcSwgcmVzLCBuZXh0KXsK</text>
+        <text encoding="base64">CQkJCQl0aGlzLnBvcHVwU2VydmljZS5zaG93UG9wdXAoInN1Y2Nlc3MtcG9wdXAiLCAiQnJhbmQgTGlzdCByb3cgd2FzIHVwZGF0ZWQhIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBleGlzdGluZ0JyYW5kID0gaXNOZXcgPyBudWxsIDogdGhpcy5vcmdhbml6YXRpb24uYnJhbmRzLmZpbmQoYiA9PiBiLmlkID09PSBicmFuZElkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -811,28 +823,51 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJIFtjbGFzcy5pbnZhbGlkXT0iYWRkUHJvZHVjdEZvcm1GaWVsZHMgJiYgYWRkUHJvZHVjdEZvcm1GaWVsZHMucHVibGljSWQuZXJyb3JzICYmIGFkZFByb2R1Y3RGb3JtRmllbGRzLnB1YmxpY0lkLnRvdWNoZWQgJiYgYWRkUHJvZHVjdEZvcm1GaWVsZHMucHVibGljSWQuZGlydHkiPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlkZWJ1Zwo=</text>
+        <text encoding="base64">CQkJcmV0dXJuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBDdXN0b21FcnJvcigncGl6ZGVjJykK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkb0FzeW5jKAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJzEyMycpCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KQogICAgLnRoZW4oYSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGEpCiAgICB9KQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQljb25zb2xlLmxvZygnMTIzJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="4">
+        <text>is            : [&quot;^[a-z]+$&quot;, 'i'],     // will only allow letters
+        is            : /^[a-z]+$/i,          // same as the previous example using real RegExp
+        not           : [&quot;[a-z]&quot;, 'i'],       // will not allow letters
+        isEmail       : true,            // checks for email format (foo@bar.com)
+        isUrl         : true,              // checks for url format (http://foo.com)
+        isIP          : true,               // checks for IPv4 (129.89.23.1) or IPv6 format
+        isIPv4        : true,             // checks for IPv4 (129.89.23.1)
+        isIPv6        : true,             // checks for IPv6 format
+        isAlpha       : true,            // will only allow letters
+        isAlphanumeric: true,     // will only allow alphanumeric characters, so &quot;_abc&quot; will fail
+        isNumeric     : true,          // will only allow numbers
+        isInt         : true,              // checks for valid integers
+        isFloat       : true,            // checks for valid floating point numbers
+        isDecimal     : true,          // checks for any numbers
+        isLowercase   : true,        // checks for lowercase
+        isUppercase   : true,        // checks for uppercase
+        notNull       : true,            // won't allow null
+        isNull        : true,             // only allows null
+        notEmpty      : true,           // don't allow empty strings
+        equals        : 'specific value', // only allow a specific value
+        contains      : 'foo',          // force specific substrings
+        notIn         : [['foo', 'bar']],  // check the value is not one of these
+        isIn          : [['foo', 'bar']],   // check the value is one of these
+        notContains   : 'bar',       // don't allow specific substrings</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
