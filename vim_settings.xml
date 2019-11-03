@@ -539,10 +539,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" timestamp="1572739415517">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" timestamp="1572743151103">
         <mark key="'" line="31" column="1" />
-        <mark key="[" line="30" column="30" />
-        <mark key="]" line="30" column="35" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="38" />
         <mark key="^" line="30" column="35" />
         <mark key="." line="30" column="35" />
       </file>
@@ -772,7 +772,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkb0FzeW5jKAo=</text>
+        <text encoding="base64">YXBwLnVzZShmdW5jdGlvbihlcnIsIHJlcSwgcmVzLCBuZXh0KXsK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -805,7 +805,7 @@
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZSkK</text>
+        <text encoding="base64">YXBwLnVzZShmdW5jdGlvbihlcnIsIHJlcSwgcmVzLCBuZXh0KXsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBkb0FzeW5jKAo=</text>
