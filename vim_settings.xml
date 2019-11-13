@@ -139,7 +139,6 @@
         <mark key="." line="175" column="94" />
         <mark key="^" line="175" column="94" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1573235028408" />
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_create.json" timestamp="1570288815386">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -284,6 +283,12 @@
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Ts_tests/src/app.ts" timestamp="1573641060774">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/findMulClicks.js" timestamp="1572608900144">
         <mark key="[" line="13" column="77" />
         <mark key="]" line="16" column="5" />
@@ -331,6 +336,12 @@
         <mark key="]" line="4" column="24" />
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Ts_tests/Dockerfile" timestamp="1573641329777">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/services/db/index.js" timestamp="1567847605469">
         <mark key="[" line="10" column="29" />
@@ -438,6 +449,12 @@
         <mark key="]" line="9" column="37" />
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Ts_tests/docker-compose.yml" timestamp="1573641671866">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/buildsui/buildsui/controllers/indexController.js" timestamp="1565845042738">
         <mark key="[" line="16" column="0" />
@@ -552,13 +569,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" timestamp="1572743151103">
-        <mark key="'" line="31" column="1" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="38" />
-        <mark key="^" line="30" column="35" />
-        <mark key="." line="30" column="35" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/notifications/src/services/db/index.ts" timestamp="1567847599823">
         <mark key="[" line="11" column="29" />
         <mark key="]" line="11" column="40" />
@@ -575,7 +585,7 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1572721946168">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1573641586937">
         <mark key="[" line="42" column="14" />
         <mark key="]" line="42" column="15" />
         <mark key="^" line="209" column="50" />
@@ -784,7 +794,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy9tZWRpYS9tb2R1bGVzCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -799,7 +809,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN5bWJvbHM=</text>
+        <text>/</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -820,37 +830,37 @@
         <text encoding="base64">CQkJCQl0aGlzLnBvcHVwU2VydmljZS5zaG93UG9wdXAoInN1Y2Nlc3MtcG9wdXAiLCAiQnJhbmQgTGlzdCByb3cgd2FzIHVwZGF0ZWQhIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy9tZWRpYS9tb2R1bGVzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICoK</text>
+        <text encoding="base64">ICAgIGltYWdlOiAwMTg4NDA3NTEwMjUuZGtyLmVjci51cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9rYWxhZC1tZWRpYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I1JVTiBucG0gaW5zdGFsbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RVhQT1NFICRQT1JUCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJIFtjbGFzcy5pbnZhbGlkXT0iYWRkUHJvZHVjdEZvcm1GaWVsZHMgJiYgYWRkUHJvZHVjdEZvcm1GaWVsZHMucHVibGljSWQuZXJyb3JzICYmIGFkZFByb2R1Y3RGb3JtRmllbGRzLnB1YmxpY0lkLnRvdWNoZWQgJiYgYWRkUHJvZHVjdEZvcm1GaWVsZHMucHVibGljSWQuZGlydHkiPgo=</text>
+        <text encoding="base64">RU5WIFBPUlQgMzAwMAo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcmV0dXJuCg==</text>
+        <text encoding="base64">ICBkYiAgICAgLSAuL2RhdGEvcmFiYml0bXE6L3Zhci9saWIvcmFiYml0bXEvbW5lc2lhL3JhYmJpdEBhcHAtcmFiYml0bXE6Y2FjaGVkCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJPgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">OgogICAgYnVpbGQ6CiAgICAgIGNvbnRleHQ6IC4vbW9kdWxlcy9kYXRhYmFzZQogICAgICBkb2NrZXJmaWxlOiAuL0RvY2tlcmZpbGUKICAgIGNvbW1hbmQ6IG1vbmdvZCAtLWF1dGggLS1wcm9maWxlIDEgLS1zbG93bXMgMjAwMAogICAgaW1hZ2U6IDAxODg0MDc1MTAyNS5ka3IuZWNyLnVzLXdlc3QtMS5hbWF6b25hd3MuY29tL2thbGFkLWRiCiAgICBuZXR3b3JrczoKICAgICAgLSBrYWxhZF9uZXR3b3JrCiAgICB2b2x1bWVzOgogICAgICAtIC4uL2RhdGE6L2RhdGEvZGIKICAgIHBvcnRzOgogICAgICAtICcyNzAxNzoyNzAxNycKICBvZmZlcnMtaW1wb3J0ZXI6CiAgICBidWlsZDoKICAgICAgY29udGV4dDogLi9tb2R1bGVzL29mZmVycy1pbXBvcnRlcgogICAgICBkb2NrZXJmaWxlOiAuL0RvY2tlcmZpbGUKICAgIGRlcGVuZHNfb246CiAgICAgIC0gZGIKICAgICAgLSBhcHBfcmFiYml0bXEKICAgIGltYWdlOiAwMTg4NDA3NTEwMjUuZGtyLmVjci51cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9rYWxhZC1vZmZlcnNfaW1wb3J0ZXIKICAgIG5ldHdvcmtzOgogICAgICAtIGthbGFkX25ldHdvcmsKICAgIHZvbHVtZXM6CiAgICAgIC0gLi9tb2R1bGVzL29mZmVycy1pbXBvcnRlcjovdXNyL3NyYy9vZmZlcnMtaW1wb3J0ZXIKICAgICAgLSAvdXNyL3NyYy9vZmZlcnMtaW1wb3J0ZXIvbm9kZV9tb2R1bGVzCiAgYWRtaW4tcGFuZWw6CiAgICBidWlsZDoKICAgICAgY29udGV4dDogLi9tb2R1bGVzL2FkbWluLXBhbmVsCiAgICAgIGRvY2tlcmZpbGU6IERvY2tlcmZpbGUKICAgIGltYWdlOiAwMTg4NDA3NTEwMjUuZGtyLmVjci51cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9rYWxhZC1hZG1pbi1wYW5lbAogICAgZGVwZW5kc19vbjoKICAgICAgLSBkYgogICAgbmV0d29ya3M6CiAgICAgIC0ga2FsYWRfbmV0d29yawogICAgdm9sdW1lczoKICAgICAgLSAuL21vZHVsZXMvYWRtaW4tcGFuZWw6L3Vzci9zcmMvYWRtaW4tcGFuZWwKICAgICAgLSAvdXNyL3NyYy9hZG1pbi1wYW5lbC9ub2RlX21vZHVsZXMKICAgICAgLSAvdXNyL3NyYy9hZG1pbi1wYW5lbC9jbGllbnQvbm9kZV9tb2R1bGVzCiAgd2Vic2VydmljZToKICAgIGJ1aWxkOgogICAgICBjb250ZXh0OiAuL21vZHVsZXMvd2Vic2VydmljZQogICAgICBkb2NrZXJmaWxlOiBEb2NrZXJmaWxlCiAgICBpbWFnZTogMDE4ODQwNzUxMDI1LmRrci5lY3IudXMtd2VzdC0xLmFtYXpvbmF3cy5jb20va2FsYWQtd2Vic2VydmljZQogICAgZGVwZW5kc19vbjoKICAgICAgLSBkYgogICAgbmV0d29ya3M6CiAgICAgIC0ga2FsYWRfbmV0d29yawogICAgdm9sdW1lczoKICAgICAgLSAuL21vZHVsZXMvd2Vic2VydmljZTovdXNyL3NyYy93ZWJzZXJ2aWNlCiAgICAgIC0gL3Vzci9zcmMvd2Vic2VydmljZS9ub2RlX21vZHVsZXMKICByZXZlbnVlLW1hbmFnZXI6CiAgICBidWlsZDoKICAgICAgY29udGV4dDogLi9tb2R1bGVzL3JldmVudWUtbWFuYWdlcgogICAgICBkb2NrZXJmaWxlOiBEb2NrZXJmaWxlCiAgICBpbWFnZTogMDE4ODQwNzUxMDI1LmRrci5lY3IudXMtd2VzdC0xLmFtYXpvbmF3cy5jb20va2FsYWQtcmV2ZW51ZS1tYW5hZ2VyCiAgICBkZXBlbmRzX29uOgogICAgICAtIGRiCiAgICBuZXR3b3JrczoKICAgICAgLSBrYWxhZF9uZXR3b3JrCiAgICB2b2x1bWVzOgogICAgICAtIC4vbW9kdWxlcy9yZXZlbnVlLW1hbmFnZXI6L3Vzci9zcmMvcmV2ZW51ZS1tYW5hZ2VyCiAgICAgIC0gL3Vzci9zcmMvcmV2ZW51ZS1tYW5hZ2VyL25vZGVfbW9kdWxlcwogIHJlZGlzOgogICAgaW1hZ2U6IHJlZGlzOjUuMC4zLWFscGluZQogICAgY29tbWFuZDogWyJyZWRpcy1zZXJ2ZXIiLCAiLS1hcHBlbmRvbmx5IiwgInllcyJdCiAgICBuZXR3b3JrczoKICAgICAgLSBrYWxhZF9uZXR3b3JrCiAgICBwb3J0czoKICAgICAgLSAnNjM3OTo2Mzc5JwogICAgdm9sdW1lczoKICAgICAgLSAuLi9yZWRpczovZGF0YQogIG5vdGlmaWNhdGlvbnM6CiAgICBidWlsZDoKICAgICAgY29udGV4dDogLi9tb2R1bGVzL25vdGlmaWNhdGlvbnMKICAgICAgZG9ja2VyZmlsZTogRG9ja2VyZmlsZQogICAgaW1hZ2U6IDAxODg0MDc1MTAyNS5ka3IuZWNyLnVzLXdlc3QtMS5hbWF6b25hd3MuY29tL2thbGFkLW5vdGlmaWNhdGlvbnMKICAgIGRlcGVuZHNfb246CiAgICAgIC0gZGIKICAgICAgLSBhcHBfcmFiYml0bXEKICAgIG5ldHdvcmtzOgogICAgICAtIGthbGFkX25ldHdvcmsKICAgIHZvbHVtZXM6CiAgICAgIC0gLi9tb2R1bGVzL25vdGlmaWNhdGlvbnM6L3Vzci9zcmMvbm90aWZpY2F0aW9ucwogICAgICAtIC91c3Ivc3JjL25vdGlmaWNhdGlvbnMvbm9kZV9tb2R1bGVzCiAgYXBwX3JhYmJpdG1xOgogICAgaW1hZ2U6IHJhYmJpdG1xOjMuNy4xNwogICAgbmV0d29ya3M6CiAgICAgIC0ga2FsYWRfbmV0d29yawogICAgdm9sdW1lczoKIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJzEyMycpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgc2VydmVyOgogICAgYnVpbGQ6CiAgICAgIGNvbnRleHQ6IC4vbW9kdWxlcy9zZXJ2ZXIKICAgICAgZG9ja2VyZmlsZTogRG9ja2VyZmlsZQogICAgZGVwZW5kc19vbjoKICAgICAgLSBtZWRpYQogICAgICAtIGFkbWluLXBhbmVsCiAgICBpbWFnZTogMDE4ODQwNzUxMDI1LmRrci5lY3IudXMtd2VzdC0xLmFtYXpvbmF3cy5jb20va2FsYWQtc2VydmVyCiAgICBuZXR3b3JrczoKICAgICAgLSBrYWxhZF9uZXR3b3JrCiAgICB2b2x1bWVzOgogICAgICAtIC4vbW9kdWxlcy9zZXJ2ZXIvY2VydHM6L2V0Yy9uZ2lueC9jZXJ0cwojICAgICAgLSAuL21vZHVsZXMvc2VydmVyL2xvZ3M6L3Zhci9sb2cvbmdpbng=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
