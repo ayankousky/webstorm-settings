@@ -79,6 +79,12 @@
         <mark key="^" line="355" column="72" />
         <mark key="." line="357" column="4" />
       </file>
+      <file name="$USER_HOME$/Desktop/Ts_tests/modules/media/package.json" timestamp="1573643473533">
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="17" column="19" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/controllers/v0/devices.js" timestamp="1571086979514">
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="0" />
@@ -162,6 +168,11 @@
         <mark key="^" line="88" column="23" />
         <mark key="." line="88" column="23" />
       </file>
+      <file name="$USER_HOME$/Desktop/Ts_tests/modules/media/src/app.ts" timestamp="1573643342082">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.prod-config.yml" timestamp="1561013285796">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
@@ -244,9 +255,6 @@
         <mark key="]" line="342" column="97" />
         <mark key="^" line="342" column="97" />
         <mark key="." line="342" column="97" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/app.js" timestamp="1572726562050">
-        <mark key="[" line="3" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/services/db/index.js" timestamp="1567847615574">
         <mark key="[" line="18" column="31" />
@@ -336,6 +344,12 @@
         <mark key="]" line="4" column="24" />
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Ts_tests/modules/media/tsconfig.json" timestamp="1573643398299">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+        <mark key="^" line="8" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/Ts_tests/Dockerfile" timestamp="1573641329777">
         <mark key="[" line="8" column="0" />
@@ -581,10 +595,6 @@
         <mark key="^" line="59" column="65" />
         <mark key="." line="59" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1572729943992">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1573641586937">
         <mark key="[" line="42" column="14" />
         <mark key="]" line="42" column="15" />
@@ -608,9 +618,6 @@
         <mark key="]" line="11" column="55" />
         <mark key="." line="11" column="55" />
         <mark key="^" line="11" column="55" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1572722046780">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_get.json" timestamp="1561751237974">
         <mark key="[" line="7" column="22" />
@@ -691,11 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="3" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_create.json" />
-      <jump line="306" column="22" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
-      <jump line="247" column="30" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
-      <jump line="27" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
-      <jump line="31" column="52" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/whitelist/index.js" />
       <jump line="106" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/product/product-functions/firmware-product-functions.component.html" />
       <jump line="109" column="27" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/product/product-functions/firmware-product-functions.component.ts" />
@@ -791,10 +793,15 @@
       <jump line="13" column="13" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" />
       <jump line="31" column="1" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" />
+      <jump line="64" column="9" filename="$USER_HOME$/Desktop/Ts_tests/modules/media/tsconfig.json" />
+      <jump line="6" column="77" filename="$USER_HOME$/Desktop/Ts_tests/modules/media/tsconfig.json" />
+      <jump line="45" column="68" filename="$USER_HOME$/Desktop/Ts_tests/modules/media/tsconfig.json" />
+      <jump line="46" column="78" filename="$USER_HOME$/Desktop/Ts_tests/modules/media/tsconfig.json" />
+      <jump line="19" column="71" filename="$USER_HOME$/Desktop/Ts_tests/modules/media/tsconfig.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy9tZWRpYS9tb2R1bGVzCg==</text>
+      <register name="&quot;" type="4">
+        <text>dist/app.js</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -809,7 +816,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>dist/app.js</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -824,60 +831,59 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx9XD4=</text>
+        <text>include</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQl0aGlzLnBvcHVwU2VydmljZS5zaG93UG9wdXAoInN1Y2Nlc3MtcG9wdXAiLCAiQnJhbmQgTGlzdCByb3cgd2FzIHVwZGF0ZWQhIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy9tZWRpYS9tb2R1bGVzCg==</text>
+        <text encoding="base64">ICAgICJubm9JbXBsaWNpdEFueSI6IHRydWUsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiAwMTg4NDA3NTEwMjUuZGtyLmVjci51cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9rYWxhZC1tZWRpYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I1JVTiBucG0gaW5zdGFsbAo=</text>
+        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoICJleHByZXNzIiApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RVhQT1NFICRQT1JUCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RU5WIFBPUlQgMzAwMAo=</text>
+        <text encoding="base64">ICAgICJlc01vZHVsZUludGVyb3AiOiB0cnVlLAo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkYiAgICAgLSAuL2RhdGEvcmFiYml0bXE6L3Zhci9saWIvcmFiYml0bXEvbW5lc2lhL3JhYmJpdEBhcHAtcmFiYml0bXE6Y2FjaGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">OgogICAgYnVpbGQ6CiAgICAgIGNvbnRleHQ6IC4vbW9kdWxlcy9kYXRhYmFzZQogICAgICBkb2NrZXJmaWxlOiAuL0RvY2tlcmZpbGUKICAgIGNvbW1hbmQ6IG1vbmdvZCAtLWF1dGggLS1wcm9maWxlIDEgLS1zbG93bXMgMjAwMAogICAgaW1hZ2U6IDAxODg0MDc1MTAyNS5ka3IuZWNyLnVzLXdlc3QtMS5hbWF6b25hd3MuY29tL2thbGFkLWRiCiAgICBuZXR3b3JrczoKICAgICAgLSBrYWxhZF9uZXR3b3JrCiAgICB2b2x1bWVzOgogICAgICAtIC4uL2RhdGE6L2RhdGEvZGIKICAgIHBvcnRzOgogICAgICAtICcyNzAxNzoyNzAxNycKICBvZmZlcnMtaW1wb3J0ZXI6CiAgICBidWlsZDoKICAgICAgY29udGV4dDogLi9tb2R1bGVzL29mZmVycy1pbXBvcnRlcgogICAgICBkb2NrZXJmaWxlOiAuL0RvY2tlcmZpbGUKICAgIGRlcGVuZHNfb246CiAgICAgIC0gZGIKICAgICAgLSBhcHBfcmFiYml0bXEKICAgIGltYWdlOiAwMTg4NDA3NTEwMjUuZGtyLmVjci51cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9rYWxhZC1vZmZlcnNfaW1wb3J0ZXIKICAgIG5ldHdvcmtzOgogICAgICAtIGthbGFkX25ldHdvcmsKICAgIHZvbHVtZXM6CiAgICAgIC0gLi9tb2R1bGVzL29mZmVycy1pbXBvcnRlcjovdXNyL3NyYy9vZmZlcnMtaW1wb3J0ZXIKICAgICAgLSAvdXNyL3NyYy9vZmZlcnMtaW1wb3J0ZXIvbm9kZV9tb2R1bGVzCiAgYWRtaW4tcGFuZWw6CiAgICBidWlsZDoKICAgICAgY29udGV4dDogLi9tb2R1bGVzL2FkbWluLXBhbmVsCiAgICAgIGRvY2tlcmZpbGU6IERvY2tlcmZpbGUKICAgIGltYWdlOiAwMTg4NDA3NTEwMjUuZGtyLmVjci51cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9rYWxhZC1hZG1pbi1wYW5lbAogICAgZGVwZW5kc19vbjoKICAgICAgLSBkYgogICAgbmV0d29ya3M6CiAgICAgIC0ga2FsYWRfbmV0d29yawogICAgdm9sdW1lczoKICAgICAgLSAuL21vZHVsZXMvYWRtaW4tcGFuZWw6L3Vzci9zcmMvYWRtaW4tcGFuZWwKICAgICAgLSAvdXNyL3NyYy9hZG1pbi1wYW5lbC9ub2RlX21vZHVsZXMKICAgICAgLSAvdXNyL3NyYy9hZG1pbi1wYW5lbC9jbGllbnQvbm9kZV9tb2R1bGVzCiAgd2Vic2VydmljZToKICAgIGJ1aWxkOgogICAgICBjb250ZXh0OiAuL21vZHVsZXMvd2Vic2VydmljZQogICAgICBkb2NrZXJmaWxlOiBEb2NrZXJmaWxlCiAgICBpbWFnZTogMDE4ODQwNzUxMDI1LmRrci5lY3IudXMtd2VzdC0xLmFtYXpvbmF3cy5jb20va2FsYWQtd2Vic2VydmljZQogICAgZGVwZW5kc19vbjoKICAgICAgLSBkYgogICAgbmV0d29ya3M6CiAgICAgIC0ga2FsYWRfbmV0d29yawogICAgdm9sdW1lczoKICAgICAgLSAuL21vZHVsZXMvd2Vic2VydmljZTovdXNyL3NyYy93ZWJzZXJ2aWNlCiAgICAgIC0gL3Vzci9zcmMvd2Vic2VydmljZS9ub2RlX21vZHVsZXMKICByZXZlbnVlLW1hbmFnZXI6CiAgICBidWlsZDoKICAgICAgY29udGV4dDogLi9tb2R1bGVzL3JldmVudWUtbWFuYWdlcgogICAgICBkb2NrZXJmaWxlOiBEb2NrZXJmaWxlCiAgICBpbWFnZTogMDE4ODQwNzUxMDI1LmRrci5lY3IudXMtd2VzdC0xLmFtYXpvbmF3cy5jb20va2FsYWQtcmV2ZW51ZS1tYW5hZ2VyCiAgICBkZXBlbmRzX29uOgogICAgICAtIGRiCiAgICBuZXR3b3JrczoKICAgICAgLSBrYWxhZF9uZXR3b3JrCiAgICB2b2x1bWVzOgogICAgICAtIC4vbW9kdWxlcy9yZXZlbnVlLW1hbmFnZXI6L3Vzci9zcmMvcmV2ZW51ZS1tYW5hZ2VyCiAgICAgIC0gL3Vzci9zcmMvcmV2ZW51ZS1tYW5hZ2VyL25vZGVfbW9kdWxlcwogIHJlZGlzOgogICAgaW1hZ2U6IHJlZGlzOjUuMC4zLWFscGluZQogICAgY29tbWFuZDogWyJyZWRpcy1zZXJ2ZXIiLCAiLS1hcHBlbmRvbmx5IiwgInllcyJdCiAgICBuZXR3b3JrczoKICAgICAgLSBrYWxhZF9uZXR3b3JrCiAgICBwb3J0czoKICAgICAgLSAnNjM3OTo2Mzc5JwogICAgdm9sdW1lczoKICAgICAgLSAuLi9yZWRpczovZGF0YQogIG5vdGlmaWNhdGlvbnM6CiAgICBidWlsZDoKICAgICAgY29udGV4dDogLi9tb2R1bGVzL25vdGlmaWNhdGlvbnMKICAgICAgZG9ja2VyZmlsZTogRG9ja2VyZmlsZQogICAgaW1hZ2U6IDAxODg0MDc1MTAyNS5ka3IuZWNyLnVzLXdlc3QtMS5hbWF6b25hd3MuY29tL2thbGFkLW5vdGlmaWNhdGlvbnMKICAgIGRlcGVuZHNfb246CiAgICAgIC0gZGIKICAgICAgLSBhcHBfcmFiYml0bXEKICAgIG5ldHdvcmtzOgogICAgICAtIGthbGFkX25ldHdvcmsKICAgIHZvbHVtZXM6CiAgICAgIC0gLi9tb2R1bGVzL25vdGlmaWNhdGlvbnM6L3Vzci9zcmMvbm90aWZpY2F0aW9ucwogICAgICAtIC91c3Ivc3JjL25vdGlmaWNhdGlvbnMvbm9kZV9tb2R1bGVzCiAgYXBwX3JhYmJpdG1xOgogICAgaW1hZ2U6IHJhYmJpdG1xOjMuNy4xNwogICAgbmV0d29ya3M6CiAgICAgIC0ga2FsYWRfbmV0d29yawogICAgdm9sdW1lczoKIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgc2VydmVyOgogICAgYnVpbGQ6CiAgICAgIGNvbnRleHQ6IC4vbW9kdWxlcy9zZXJ2ZXIKICAgICAgZG9ja2VyZmlsZTogRG9ja2VyZmlsZQogICAgZGVwZW5kc19vbjoKICAgICAgLSBtZWRpYQogICAgICAtIGFkbWluLXBhbmVsCiAgICBpbWFnZTogMDE4ODQwNzUxMDI1LmRrci5lY3IudXMtd2VzdC0xLmFtYXpvbmF3cy5jb20va2FsYWQtc2VydmVyCiAgICBuZXR3b3JrczoKICAgICAgLSBrYWxhZF9uZXR3b3JrCiAgICB2b2x1bWVzOgogICAgICAtIC4vbW9kdWxlcy9zZXJ2ZXIvY2VydHM6L2V0Yy9uZ2lueC9jZXJ0cwojICAgICAgLSAuL21vZHVsZXMvc2VydmVyL2xvZ3M6L3Zhci9sb2cvbmdpbng=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx9XD4=</last-search>
+      <last-search>include</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
+      <last-pattern>include</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>channelId</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>await (</entry>
         <entry>channelId</entry>
         <entry>index.shoul</entry>
         <entry>await</entry>
@@ -897,6 +903,7 @@
         <entry>timing</entry>
         <entry>chr_xml</entry>
         <entry encoding="base64">XDx9XD4=</entry>
+        <entry>include</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
