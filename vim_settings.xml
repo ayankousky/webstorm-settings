@@ -390,7 +390,7 @@
         <mark key="." line="30" column="48" />
         <mark key="^" line="30" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/Dockerfile" timestamp="1573849802529">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/Dockerfile" timestamp="1573859187550">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -485,11 +485,11 @@
         <mark key="^" line="119" column="4" />
         <mark key="." line="119" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/app.ts" timestamp="1573858388187">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="1" column="39" />
-        <mark key="." line="1" column="39" />
-        <mark key="^" line="1" column="39" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/app.ts" timestamp="1573858756737">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1565632565836">
         <mark key="[" line="41" column="10" />
@@ -854,8 +854,8 @@
       <jump line="123" column="29" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>function</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I0NNRCBbIm5wbSIsICJzdGFydCJdCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -870,7 +870,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>function</text>
+        <text>Kek2</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -888,40 +888,40 @@
         <text>include</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyB0c2xpbnQ6ZGlzYWJsZS1uZXh0LWxpbmU6bm8tY29uc29sZQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiS2VrMiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyB0c2xpbnQ6ZGlzYWJsZS1uZXh0LWxpbmU6bm8tY29uc29sZQo=</text>
+        <text encoding="base64">I0NNRCBbIm5wbSIsICJzdGFydCJdCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I1JVTiBucG0gaW5zdGFsbCBub2RlbW9uIC1nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW0K</text>
+        <text encoding="base64">I1JVTiBucG0gaW5zdGFsbCAtLW5vLXNhdmUgLS1wcm9kdWN0aW9uCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">cG9ydCBleHByZXNzIGZyb20gImV4cHJlc3MiOwoKY29uc3QgYXBwID0gZXhwcmVzcygpOwpjb25zdCBwb3J0ID0gODA4MDsgLy8gZGVmYXVsdCBwb3J0IHRvIGxpc3RlbgoKaW50ZXJmYWNlIExhYmVsZWRWYWx1ZSB7CiAgbGFiZWw6IHN0cmluZzsKfQoKCgovLyBkZWZpbmUgYSByb3V0ZSBoYW5kbGVyIGZvciB0aGUgZGVmYXVsdCBob21lIHBhZ2UKYXBwLmdldCggIi8iLCAoIHJlcSwgcmVzICkgPT4gewogIHJlcy5zZW5kKCAiSGVsbG8gd29ybGQhIiApOwp9ICk7CgovLyBzdGFydCB0aGUgRXhwcmVzcyBzZXJ2ZXIKYXBwLmxpc3RlbiggcG9ydCwgKCkgPT4gewogIC8vIHRzbGludDpkaXNhYmxlLW5leHQtbGluZTpuby1jb25zb2xlCiAgY29uc29sZS5sb2coIGBzZXJ2ZXIgc3RhcnRlZCBhdCBodHRwOi8vbG9jYWxob3N0OiR7IHBvcnQgfWAgKTsKfSApOwoKZnVuY3Rpb24gcHJpbnRMYWJlbChsYWJlbGVkT2JqOiBMYWJlbGVkVmFsdWUpIHsKICBjb25zb2xlLmxvZyhsYWJlbGVkT2JqLmxhYmVsKTsKfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">I1JVTiBhcHQgaW5zdGFsbCB2aW0gLXkK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aW1wb3J0IGV4cHJlc3MgZnJvbSAiZXhwcmVzcyI7Cgpjb25zdCBhcHAgPSBleHByZXNzKCk7CmNvbnN0IHBvcnQgPSA4MDgwOyAvLyBkZWZhdWx0IHBvcnQgdG8gbGlzdGVuCgppbnRlcmZhY2UgTGFiZWxlZFZhbHVlIHsKICBsYWJlbDogc3RyaW5nOwp9CgoKCi8vIGRlZmluZSBhIHJvdXRlIGhhbmRsZXIgZm9yIHRoZSBkZWZhdWx0IGhvbWUgcGFnZQphcHAuZ2V0KCAiLyIsICggcmVxLCByZXMgKSA9PiB7CiAgcmVzLnNlbmQoICJIZWxsbyB3b3JsZCEiICk7Cn0gKTsKCi8vIHN0YXJ0IHRoZSBFeHByZXNzIHNlcnZlcgphcHAubGlzdGVuKCBwb3J0LCAoKSA9PiB7CiAgLy8gdHNsaW50OmRpc2FibGUtbmV4dC1saW5lOm5vLWNvbnNvbGUKICBjb25zb2xlLmxvZyggYHNlcnZlciBzdGFydGVkIGF0IGh0dHA6Ly9sb2NhbGhvc3Q6JHsgcG9ydCB9YCApOwp9ICk7CgpmdW5jdGlvbiBwcmludExhYmVsKGxhYmVsZWRPYmo6IExhYmVsZWRWYWx1ZSkgewogIGNvbnNvbGUubG9nKGxhYmVsZWRPYmoubGFiZWwpOwp9</text>
+      <register name="7" type="2">
+        <text encoding="base64">I1JVTiBhcHQgdXBkYXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJpbnN0YWxsOmRldiI6ICJucG0gaW5zdGFsbCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiS2VrMiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
