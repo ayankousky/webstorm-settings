@@ -184,7 +184,7 @@
         <mark key="^" line="88" column="23" />
         <mark key="." line="88" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ts_tests/modules/media/src/app.ts" timestamp="1573682957713">
+      <file name="$USER_HOME$/Desktop/Ts_tests/modules/media/src/app.ts" timestamp="1573858383540">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -485,11 +485,11 @@
         <mark key="^" line="119" column="4" />
         <mark key="." line="119" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/app.ts" timestamp="1573858030597">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/app.ts" timestamp="1573858388187">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="1" column="39" />
+        <mark key="." line="1" column="39" />
+        <mark key="^" line="1" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1565632565836">
         <mark key="[" line="41" column="10" />
@@ -854,8 +854,8 @@
       <jump line="123" column="29" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyB0c2xpbnQ6ZGlzYWJsZS1uZXh0LWxpbmU6bm8tY29uc29sZQo=</text>
+      <register name="&quot;" type="4">
+        <text>function</text>
       </register>
       <register name="l" type="4">
         <keys>
