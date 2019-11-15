@@ -19,12 +19,6 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/traffic.js" timestamp="1573677578472">
-        <mark key="[" line="642" column="0" />
-        <mark key="]" line="642" column="0" />
-        <mark key="^" line="641" column="0" />
-        <mark key="." line="642" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/firmware/firmware-hardware-association-list/firmware-hardware-association-list.component.html" timestamp="1572118005221">
         <mark key="[" line="62" column="12" />
         <mark key="]" line="62" column="12" />
@@ -337,6 +331,11 @@
         <mark key="^" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitmodules" timestamp="1573843473525">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" timestamp="1572807148873">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -456,6 +455,11 @@
         <mark key="]" line="170" column="94" />
         <mark key="^" line="170" column="93" />
         <mark key="." line="170" column="94" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/package.json" timestamp="1573845155543">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/hardware.js" timestamp="1570374711104">
         <mark key="[" line="82" column="67" />
@@ -641,6 +645,9 @@
         <mark key="." line="11" column="55" />
         <mark key="^" line="11" column="55" />
       </file>
+      <file name="/Dummy.txt" timestamp="1573845128345">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/test/dev/user/subscription_get.json" timestamp="1561751237974">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="438" />
@@ -823,7 +830,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJmcy1leHRyYSI6ICJeOC4xLjAiLAo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -859,37 +866,39 @@
         <text encoding="base64">ICAgICAgLSAnODA4MDozMDAwJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJmcy1leHRyYSI6ICJeOC4xLjAiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IG15T2JqID0ge3NpemU6IDEwLCBsbGFiZWw6ICJTaXplIDEwIE9iamVjdCJ9Owo=</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvc2hlbGxqcyI6ICJeMC44LjYiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvZnMtZXh0cmEiOiAiXjguMC4xIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnRMYWJlbChteU9iaikK</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvZXhwcmVzcyI6ICJeNC4xNy4yIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W3N1Ym1vZHVsZSAibW9kdWxlcy9oZWdpdGxhYi5lbGluZXh0LmNvbS9LYWxhZC9oZWFsdGgtY2hlY2suZ2l0Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSAnODA4MDozMDAwJwo=</text>
+      <register name="6" type="4">
+        <text>alth-check&quot;]
+	path = modules/health-check
+	url = http://Rubanik@</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlbW9uIC4iLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJwcmVzdGFydCI6ICJucG0gcnVuIGJ1aWxkIiwK</text>
+        <text encoding="base64">bGV0IG15T2JqID0ge3NpemU6IDEwLCBsbGFiZWw6ICJTaXplIDEwIE9iamVjdCJ9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ0c2MiOiAidHNjIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
