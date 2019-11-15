@@ -390,10 +390,11 @@
         <mark key="." line="30" column="48" />
         <mark key="^" line="30" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/Dockerfile" timestamp="1573845654269">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/Dockerfile" timestamp="1573846955381">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/offers.js" timestamp="1572285677993">
         <mark key="[" line="133" column="0" />
@@ -502,7 +503,7 @@
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ts_tests/docker-compose.yml" timestamp="1573678965119">
+      <file name="$USER_HOME$/Desktop/Ts_tests/docker-compose.yml" timestamp="1573846753791">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -561,6 +562,13 @@
         <mark key="]" line="367" column="24" />
         <mark key="^" line="367" column="24" />
         <mark key="." line="367" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1573846982290">
+        <mark key="'" line="123" column="29" />
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="35" />
+        <mark key="^" line="12" column="35" />
+        <mark key="." line="12" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/action-popup/action-popup.component.html" timestamp="1572118678093">
         <mark key="[" line="4" column="93" />
@@ -633,7 +641,7 @@
         <mark key="^" line="59" column="65" />
         <mark key="." line="59" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1573641586937">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1573846797483">
         <mark key="[" line="42" column="14" />
         <mark key="]" line="42" column="15" />
         <mark key="^" line="206" column="50" />
@@ -739,7 +747,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/product/product-functions/firmware-product-functions.component.html" />
       <jump line="109" column="27" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/product/product-functions/firmware-product-functions.component.ts" />
       <jump line="221" column="5" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/product/product-functions/firmware-product-functions.component.ts" />
       <jump line="117" column="4" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/product/product-functions/product-functions.component.ts" />
@@ -839,10 +846,11 @@
       <jump line="46" column="78" filename="$USER_HOME$/Desktop/Ts_tests/modules/media/tsconfig.json" />
       <jump line="19" column="71" filename="$USER_HOME$/Desktop/Ts_tests/modules/media/tsconfig.json" />
       <jump line="51" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/.gitignore" />
+      <jump line="123" column="29" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I1JVTiBhcHQgaW5zdGFsbCB2aW0gLXkK</text>
+      <register name="&quot;" type="4">
+        <text>media</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -857,7 +865,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>media</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -878,39 +886,39 @@
         <text encoding="base64">ICAgICAgLSAnODA4MDozMDAwJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I1JVTiBhcHQgaW5zdGFsbCB2aW0gLXkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I1JVTiBhcHQgdXBkYXRlCg==</text>
+        <text encoding="base64">I1JVTiBhcHQgaW5zdGFsbCB2aW0gLXkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJmcy1leHRyYSI6ICJeOC4xLjAiLAo=</text>
+        <text encoding="base64">I1JVTiBhcHQgdXBkYXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvc2hlbGxqcyI6ICJeMC44LjYiLAo=</text>
+        <text encoding="base64">ICAgICJmcy1leHRyYSI6ICJeOC4xLjAiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvZnMtZXh0cmEiOiAiXjguMC4xIiwK</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvc2hlbGxqcyI6ICJeMC44LjYiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvZXhwcmVzcyI6ICJeNC4xNy4yIiwK</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvZnMtZXh0cmEiOiAiXjguMC4xIiwK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICJAdHlwZXMvZXhwcmVzcyI6ICJeNC4xNy4yIiwK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">W3N1Ym1vZHVsZSAibW9kdWxlcy9oZWdpdGxhYi5lbGluZXh0LmNvbS9LYWxhZC9oZWFsdGgtY2hlY2suZ2l0Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>alth-check&quot;]
 	path = modules/health-check
 	url = http://Rubanik@</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
