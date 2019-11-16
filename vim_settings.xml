@@ -485,11 +485,11 @@
         <mark key="^" line="119" column="4" />
         <mark key="." line="119" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/app.ts" timestamp="1573858756737">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/app.ts" timestamp="1573929988883">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="19" column="1" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1565632565836">
         <mark key="[" line="41" column="10" />
@@ -855,7 +855,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I0NNRCBbIm5wbSIsICJzdGFydCJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -870,7 +870,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Kek2</text>
+        <text>start</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -888,40 +888,49 @@
         <text>include</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiS2VrMiIpOwo=</text>
+        <text encoding="base64">ICBzdGFydDogc3RyaW5nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I0NNRCBbIm5wbSIsICJzdGFydCJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I1JVTiBucG0gaW5zdGFsbCBub2RlbW9uIC1nCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>interface IJob {
+  name: string;
+  run(): void;
+}
+
+interface ISchedule {
+  start: string;
+  end: string;
+  timeRun: string[];
+}</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">I1JVTiBucG0gaW5zdGFsbCAtLW5vLXNhdmUgLS1wcm9kdWN0aW9uCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CmFic3RyYWN0IGNsYXNzIFBlcnNpb24gIHsKICAKfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I1JVTiBhcHQgaW5zdGFsbCB2aW0gLXkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I1JVTiBhcHQgdXBkYXRlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">I0NNRCBbIm5wbSIsICJzdGFydCJdCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiS2VrMiIpOwo=</text>
+        <text encoding="base64">I1JVTiBucG0gaW5zdGFsbCBub2RlbW9uIC1nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
