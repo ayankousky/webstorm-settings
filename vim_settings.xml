@@ -105,11 +105,11 @@
         <mark key="^" line="26" column="45" />
         <mark key="." line="26" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/tsconfig.json" timestamp="1574061924427">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/tsconfig.json" timestamp="1574066045626">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="22" />
         <mark key="^" line="8" column="17" />
-        <mark key="." line="8" column="17" />
+        <mark key="." line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/controllers/v0/devices.js" timestamp="1571086979514">
         <mark key="[" line="121" column="0" />
@@ -529,11 +529,11 @@
         <mark key="^" line="170" column="93" />
         <mark key="." line="170" column="94" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/package.json" timestamp="1574061406354">
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="28" column="31" />
-        <mark key="." line="28" column="31" />
-        <mark key="^" line="28" column="54" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/package.json" timestamp="1574066207700">
+        <mark key="[" line="36" column="22" />
+        <mark key="]" line="36" column="22" />
+        <mark key="." line="36" column="22" />
+        <mark key="^" line="40" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/hardware.js" timestamp="1570374711104">
         <mark key="[" line="82" column="67" />
@@ -547,11 +547,11 @@
         <mark key="." line="4" column="43" />
         <mark key="^" line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/app.ts" timestamp="1574062018003">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
-        <mark key="^" line="2" column="26" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/app.ts" timestamp="1574066180702">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1565632565836">
         <mark key="[" line="41" column="10" />
@@ -947,8 +947,8 @@
       <jump line="84" column="21" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/domain/logic/whitelist/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gIAo=</text>
+      <register name="&quot;" type="4">
+        <text>, // Application's root</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -963,7 +963,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>, // Application's root</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -984,37 +984,37 @@
         <text encoding="base64">ICAgICAgcGFzc3dvcmQ6IGdldEVudlZhcigiREJfUEFTUyIpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJzb21ldGhpbmciICA6ICJzcmMvZm9vIiwgLy8gT3Igd2l0aG91dCBALiBBY3R1YWxseSwgaXQgY291bGQgYmUgYW55IHN0cmluZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAbXlfbW9kdWxlIiA6ICJsaWIvc29tZS1maWxlLmpzIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAZGVlcCIgICAgICA6ICJzcmMvc29tZS92ZXJ5L2RlZXAvZGlyZWN0b3J5L29yL2ZpbGUiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJiYXNlVXJsIjogIi4iLAo=</text>
+        <text encoding="base64">ICAgICJ0dHlwZXNjcmlwdCI6ICJeMS41LjgiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJiYXNlVXJsIjogInNyYyIsCg==</text>
+        <text encoding="base64">ICAgICJ0c2NvbmZpZy1wYXRocyI6ICJeMy45LjAiLAo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAicGF0aHMiOiB7CiAgICAgICJALyoiOiBbIioiXQogICAgfSw=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJ0eXBlc2NyaXB0LXRyYW5zZm9ybS1wYXRocyI6ICJeMS4xLjEzIgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyAgICBjb21tYW5kOiBucG0gcnVuIHN0YXJ0OnByb2QK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAicGx1Z2lucyI6IFsKICAgICAgewogICAgICAgICJ0cmFuc2Zvcm0iOiAidHlwZXNjcmlwdC10cmFuc2Zvcm0tcGF0aHMiLAogICAgICAgICJhZnRlckRlY2xhcmF0aW9ucyI6IHRydWUKICAgICAgfQogICAgXSw=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJzdGFydDpwcm9kIjogIm5wbS1ydW4tYWxsIGJ1aWxkIHN0YXJ0IiwK</text>
+        <text encoding="base64">Ly8gIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
