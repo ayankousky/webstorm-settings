@@ -462,11 +462,10 @@
         <mark key="." line="30" column="48" />
         <mark key="^" line="30" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/Dockerfile" timestamp="1574081539339">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-        <mark key="^" line="6" column="29" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/Dockerfile" timestamp="1574089417346">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/offers.js" timestamp="1572285677993">
         <mark key="[" line="133" column="0" />
@@ -556,11 +555,11 @@
         <mark key="^" line="170" column="93" />
         <mark key="." line="170" column="94" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/package.json" timestamp="1574087983642">
-        <mark key="[" line="37" column="19" />
-        <mark key="]" line="37" column="56" />
-        <mark key="." line="37" column="56" />
-        <mark key="^" line="37" column="56" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/package.json" timestamp="1574089498660">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
+        <mark key="^" line="35" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/node_modules/awesome-typescript-loader/src/interfaces.ts" timestamp="1574087638371" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/hardware.js" timestamp="1570374711104">
@@ -575,12 +574,12 @@
         <mark key="." line="4" column="43" />
         <mark key="^" line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/app.ts" timestamp="1574088851278">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/app.ts" timestamp="1574089569939">
         <mark key="'" line="0" column="23" />
-        <mark key="[" line="19" column="7" />
-        <mark key="]" line="19" column="6" />
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="19" column="5" />
         <mark key="^" line="19" column="6" />
-        <mark key="." line="19" column="6" />
+        <mark key="." line="19" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1565632565836">
         <mark key="[" line="41" column="10" />
@@ -976,7 +975,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>);</text>
+        <text encoding="base64">CiAgIl9tb2R1bGVBbGlhc2VzIjogewogICAgIkByb290IjogIi4iCiAgfSw=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -991,7 +990,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>);</text>
+        <text>0</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1011,26 +1010,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICJzdGFydDpwcm9kIjogIm5wbS1ydW4tYWxsIGxpbnQgYnVpbGQgcnVuOnByb2QiLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgIl9tb2R1bGVBbGlhc2VzIjogewogICAgIkByb290IjogIi4iCiAgfSw=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0c3BhdGgiOiAiXjEuMy43IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJtb2R1bGUtYWxpYXMiOiAiXjIuMi4yIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnNldEludGVydmFsKCgpID0+IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJzc3RhcnQ6cHJvZCI6ICJucG0tcnVuLWFsbCBsaW50IGJ1aWxkIHJ1bjpwcm9kIiwK</text>
+        <text encoding="base64">I1JVTiBucG0gaW5zdGFsbCB3ZWJwYWNrIC1nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyogdHNsaW50OmRpc2FibGUgKi8K</text>
+        <text encoding="base64">I1JVTiBucG0gaW5zdGFsbCB3ZWJwYWNrLWNsaSAtZwo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
@@ -1042,7 +1041,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
