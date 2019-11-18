@@ -105,10 +105,10 @@
         <mark key="^" line="26" column="45" />
         <mark key="." line="26" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/tsconfig.json" timestamp="1574082215127">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/tsconfig.json" timestamp="1574082699932">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="23" />
-        <mark key="^" line="4" column="14" />
+        <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/controllers/v0/devices.js" timestamp="1571086979514">
@@ -554,11 +554,12 @@
         <mark key="." line="4" column="43" />
         <mark key="^" line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/app.ts" timestamp="1574082325407">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/app.ts" timestamp="1574082696524">
+        <mark key="'" line="0" column="23" />
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="1" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1565632565836">
         <mark key="[" line="41" column="10" />
@@ -852,7 +853,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1052" column="24" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" />
       <jump line="236" column="146" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
       <jump line="19" column="13" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/mobile_api/index.js" />
       <jump line="237" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
@@ -952,10 +952,11 @@
       <jump line="105" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/domain/logic/whitelist/index.ts" />
       <jump line="110" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/domain/logic/whitelist/index.ts" />
       <jump line="84" column="21" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/domain/logic/whitelist/index.ts" />
+      <jump line="0" column="23" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/app.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">CiAgICAicGF0aHMiOiB7CiAgICAgICJALyoiOlsiKiJdCiAgICB9LA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -970,7 +971,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>@</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -991,22 +992,22 @@
         <text encoding="base64">ICAgICJzdGFydDpwcm9kIjogIm5wbS1ydW4tYWxsIGxpbnQgYnVpbGQgcnVuOnByb2QiLAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAicGF0aHMiOiB7CiAgICAgICIqIjogWyIqIl0KICAgIH0s</text>
+        <text encoding="base64">CiAgICAicGF0aHMiOiB7CiAgICAgICJALyoiOlsiKiJdCiAgICB9LA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICAicGF0aHMiOiB7CiAgICAgICIqIjogWyIqIl0KICAgIH0s</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAicGF0aHMiOiB7CiAgICAgICJALyoiOiBbIioiXQogICAgfSw=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Ly8K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZ2V0RW52VmFyKCJMT0dOQU1FIikpCg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXRFbnZWYXJ9IGZyb20gImhlbHBlcnMvZW52IjsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZ2V0RW52VmFyKCJMT0dOQU1FIikpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHtnZXRFbnZWYXJ9IGZyb20gImhlbHBlcnMvZW52IjsK</text>
@@ -1015,15 +1016,15 @@
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHtnZXRFbnZWYXJ9IGZyb20gImhlbHBlcnMvZW52IjsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICJwYXRocyI6IAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>{
       &quot;@/*&quot;: [&quot;src/*&quot;]
     },</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICJtb2R1bGUtYWxpYXMvcmVnaXN0ZXIiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
