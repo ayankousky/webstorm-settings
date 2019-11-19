@@ -557,11 +557,11 @@
         <mark key="^" line="170" column="93" />
         <mark key="." line="170" column="94" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/package.json" timestamp="1574089498660">
-        <mark key="[" line="42" column="4" />
-        <mark key="]" line="42" column="4" />
-        <mark key="." line="42" column="4" />
-        <mark key="^" line="39" column="56" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/package.json" timestamp="1574142030281">
+        <mark key="[" line="39" column="19" />
+        <mark key="]" line="39" column="19" />
+        <mark key="." line="39" column="19" />
+        <mark key="^" line="39" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/node_modules/awesome-typescript-loader/src/interfaces.ts" timestamp="1574087638371" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/hardware.js" timestamp="1570374711104">
@@ -679,11 +679,12 @@
         <mark key="^" line="367" column="24" />
         <mark key="." line="367" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1574090978196">
-        <mark key="'" line="141" column="29" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="35" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1574141515904">
+        <mark key="'" line="19" column="2" />
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/action-popup/action-popup.component.html" timestamp="1572118678093">
         <mark key="[" line="4" column="93" />
@@ -773,6 +774,7 @@
         <mark key="]" line="271" column="75" />
         <mark key="." line="271" column="75" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1574141509045" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/domain/logic/exchangeRate/index.ts" timestamp="1574090754546">
         <mark key="'" line="23" column="8" />
         <mark key="[" line="37" column="0" />
@@ -888,10 +890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="13" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/mobile_api/index.js" />
-      <jump line="237" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="238" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="239" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
       <jump line="240" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
       <jump line="241" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
       <jump line="242" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
@@ -925,7 +923,6 @@
       <jump line="102" column="27" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/product.js" />
       <jump line="129" column="22" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
       <jump line="61" column="29" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/queue/index.js" />
-      <jump line="13" column="19" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
       <jump line="113" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
       <jump line="59" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
@@ -988,10 +985,15 @@
       <jump line="84" column="21" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/domain/logic/whitelist/index.ts" />
       <jump line="0" column="23" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/app.ts" />
       <jump line="22" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/domain/logic/exchangeRate/index.ts" />
+      <jump line="12" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="126" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="13" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="19" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICAgIGV4Y2hhbmdlUmF0ZUlkOiBleGNoYW5nZVJhdGUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cm0gLXJmIG5vZGVfbW9kdWxlcy8qICYmIA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1006,7 +1008,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>whitelist</text>
+        <text encoding="base64">cm0gLXJmIG5vZGVfbW9kdWxlcy8qICYmIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1021,56 +1023,54 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>console.l</text>
+        <text>media</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyAgICAgIGV4Y2hhbmdlUmF0ZUlkOiBleGNoYW5nZVJhdGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy9qb2JzL21vZHVsZXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7IHN0YXJ0IH07Cg==</text>
+        <text encoding="base64">ICAgICAgLSAvdXNyL3NyYy9tZWRpYS9tb2R1bGVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLSAuL21vZHVsZXMvbWVkaWE6L3Vzci9zcmMvbWVkaWEK</text>
       </register>
-      <register name="4" type="8">
-        <text>_baseCurrency
-_baseCurrency
-_baseCurrency
-_baseCurrency
-_baseCurrency</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgU3RvcmFnZS5maW5kT25lQW5kVXBkYXRlKAo=</text>
+        <text encoding="base64">ICAgIGRlcGVuZHNfb24K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgTW9kZWwgPSBtb25nb29zZS5tb2RlbCgnc3RvcmFnZScsIHN0b3JhZ2VTY2hlbWEsICdzdG9yYWdlJyk7Cg==</text>
+      <register name="6" type="4">
+        <text>:
+      - media
+      - admin-panel</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBNb2RlbDsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console.l</last-search>
+      <last-search>media</last-search>
       <last-offset />
-      <last-pattern>console.l</last-pattern>
+      <last-pattern>media</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>channelId</last-substitute>
       <last-dir>1</last-dir>
@@ -1090,7 +1090,6 @@ _baseCurrency</text>
         <entry>value</entry>
         <entry>fwf</entry>
         <entry>offers-</entry>
-        <entry>media</entry>
         <entry>admi</entry>
         <entry>404</entry>
         <entry>timing</entry>
@@ -1098,6 +1097,7 @@ _baseCurrency</text>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>include</entry>
         <entry>console.l</entry>
+        <entry>media</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
