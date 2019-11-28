@@ -9,7 +9,7 @@
         <mark key="^" line="37" column="27" />
         <mark key="." line="37" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" timestamp="1572645034928">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" timestamp="1574920104018">
         <mark key="[" line="209" column="7" />
         <mark key="]" line="209" column="7" />
         <mark key="." line="209" column="7" />
@@ -256,7 +256,6 @@
         <mark key="^" line="0" column="53" />
         <mark key="." line="0" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/organizations/api.js" timestamp="1574622882276" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/product.js" timestamp="1564070705560">
         <mark key="[" line="96" column="40" />
         <mark key="]" line="96" column="40" />
@@ -392,7 +391,6 @@
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/products/products_api.js" timestamp="1574713898104" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/findMulClicks.js" timestamp="1572608900144">
         <mark key="[" line="13" column="77" />
         <mark key="]" line="16" column="5" />
@@ -417,6 +415,7 @@
         <mark key="^" line="46" column="69" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/helpers/common.test.js" timestamp="1574920552253" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/services/db/collections/RAEDomain.ts" timestamp="1574090199121">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="115" />
@@ -615,7 +614,6 @@
         <mark key="^" line="19" column="27" />
         <mark key="." line="19" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/users/user_api.js" timestamp="1574629719766" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/services/index.js" timestamp="1568590060259">
         <mark key="[" line="4" column="42" />
         <mark key="]" line="4" column="43" />
@@ -802,11 +800,12 @@
         <mark key="^" line="272" column="39" />
         <mark key="." line="272" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1574190734199">
-        <mark key="[" line="271" column="2" />
-        <mark key="]" line="271" column="4" />
-        <mark key="." line="271" column="4" />
-        <mark key="^" line="271" column="4" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1574921441898">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="52" column="13" />
+        <mark key="]" line="96" column="13" />
+        <mark key="." line="96" column="13" />
+        <mark key="^" line="96" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1574144149703">
         <mark key="[" line="224" column="0" />
@@ -933,7 +932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="260" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
       <jump line="261" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
       <jump line="262" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
       <jump line="263" column="8" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
@@ -1033,10 +1031,15 @@
       <jump line="44" column="1" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/db/index.js" />
       <jump line="58" column="156" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/products.js" />
       <jump line="1761" column="46" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="8">
+        <text>new
+new
+new
+new
+new</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1066,52 +1069,56 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>media</text>
+        <text>new</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5zdGF0dXNDb2RlLnNob3VsZC5iZS5lcSgyMDApOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="1" type="8">
+        <text>new
+new
+new
+new
+new</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5zZXQoJ0F1dGhvcml6YXRpb24nLCBhZG1pblRva2VuKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJyZXZpc2lvbk51bWJlciIgICAgIDogNCwK</text>
+        <text encoding="base64">ICAgICAgICAgIC5zZXQoJ0F1dGhvcml6YXRpb24nLCBhZG1pblRva2VuKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ2YXJpYXRpb25OdW1iZXIiICAgIDogIjIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJyZXZpc2lvbk51bWJlciIgICAgIDogNCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJoYXJkd2FyZUlkIiAgICAgICAgIDogImhkMiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ2YXJpYXRpb25OdW1iZXIiICAgIDogIjIiLAo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJmaXJtd2FyZUlkIiAgICAgICAgIDogIjM3YWFjNWFiLWUzNDQtNGZlZC05MzdmLWE4ZGI2YTRmMWIwMiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJoYXJkd2FyZUlkIiAgICAgICAgIDogImhkMiIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJicmFuZElkIiAgICAgICAgICAgIDogImJyMSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJmaXJtd2FyZUlkIiAgICAgICAgIDogIjM3YWFjNWFiLWUzNDQtNGZlZC05MzdmLWE4ZGI2YTRmMWIwMiIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJicmFuZE9yZ2FuaXphdGlvbklkIjogIm9nMSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJicmFuZElkIiAgICAgICAgICAgIDogImJyMSIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>media</last-search>
+      <last-search>new</last-search>
       <last-offset />
-      <last-pattern>media</last-pattern>
+      <last-pattern>new</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>channelId</last-substitute>
       <last-dir>1</last-dir>
@@ -1119,7 +1126,6 @@
     </search>
     <history>
       <history-search>
-        <entry>index.shoul</entry>
         <entry>await</entry>
         <entry>even</entry>
         <entry>5794</entry>
@@ -1139,6 +1145,7 @@
         <entry>include</entry>
         <entry>console.l</entry>
         <entry>media</entry>
+        <entry>new</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
