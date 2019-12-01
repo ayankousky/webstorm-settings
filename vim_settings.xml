@@ -257,7 +257,7 @@
         <mark key="^" line="0" column="53" />
         <mark key="." line="0" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/product.js" timestamp="1575203277200">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/product.js" timestamp="1575205762607">
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="69" />
         <mark key="^" line="261" column="39" />
@@ -600,11 +600,11 @@
         <mark key="." line="39" column="19" />
         <mark key="^" line="39" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/device.js" timestamp="1575203571549">
-        <mark key="[" line="287" column="0" />
-        <mark key="]" line="287" column="0" />
-        <mark key="." line="287" column="0" />
-        <mark key="^" line="286" column="70" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/device.js" timestamp="1575206180718">
+        <mark key="[" line="301" column="28" />
+        <mark key="]" line="301" column="28" />
+        <mark key="." line="301" column="28" />
+        <mark key="^" line="303" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/hardware.js" timestamp="1570374711104">
         <mark key="[" line="82" column="67" />
@@ -822,11 +822,11 @@
         <mark key="." line="96" column="13" />
         <mark key="^" line="96" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1575162939465">
-        <mark key="[" line="94" column="57" />
-        <mark key="]" line="94" column="59" />
-        <mark key="." line="94" column="59" />
-        <mark key="^" line="94" column="59" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1575204979313">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+        <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1574144149703">
         <mark key="[" line="224" column="0" />
@@ -1055,8 +1055,10 @@
       <jump line="2112" column="78" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXZhaWxhYmxlT3Jnc0luY2x1ZGUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>{
+        '$user.organizationId$': {[Op.in]: filteredOrganizations},
+      }</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1071,7 +1073,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>usersInclude</text>
+        <text>id</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1089,42 +1091,46 @@
         <text>new</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsgbW9kZWw6IGRiLm9yZ2FuaXphdGlvbiwgYXM6ICdhdmFpbGFibGVGb3JPcmdhbml6YXRpb25zJ30sCg==</text>
+        <text encoding="base64">ICAgICAgcXVlcnkud2hlcmUudXNlcklkID0gcGFyYW1zLnVzZXJJZDsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXZhaWxhYmxlT3Jnc0luY2x1ZGUpCg==</text>
+      <register name="1" type="4">
+        <text>{
+        '$user.organizationId$': {[Op.in]: filteredOrganizations},
+      }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGF2YWlsYWJsZU9yZ3NJbmNsdWRlID0gcXVlcnkuaW5jbHVkZS5maW5kKHVzZXJzSW5jbHVkZSA9PiB1c2Vyc0luY2x1ZGUuYXMgPT09ICdwcm9kdWN0JykK</text>
+      <register name="2" type="4">
+        <text>, {
+        '$brandOrganization.id$': {[Op.in]: filteredOrganizations},
+      }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaW5jbHVkZS53aGVyZS5vcmdhbml6YXRpb25JZCA9IHtbT3AuaW5dOiBmaWx0ZXJlZE9yZ2FuaXphdGlvbnN9Owo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXZhaWxhYmxlT3Jnc0luY2x1ZGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZpbHRlcmVkT3JnYW5pemF0aW9ucycpCg==</text>
+        <text encoding="base64">ICAgICAgbGV0IGF2YWlsYWJsZU9yZ3NJbmNsdWRlID0gcXVlcnkuaW5jbHVkZS5maW5kKHVzZXJzSW5jbHVkZSA9PiB1c2Vyc0luY2x1ZGUuYXMgPT09ICdwcm9kdWN0JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnX19fX19fX19fX19fX19fXycK</text>
+        <text encoding="base64">ICAgICAgaW5jbHVkZS53aGVyZS5vcmdhbml6YXRpb25JZCA9IHtbT3AuaW5dOiBmaWx0ZXJlZE9yZ2FuaXphdGlvbnN9Owo=</text>
       </register>
-      <register name="6" type="4">
-        <text>)
-  // console.log(allowedOrgIds)
-  // console.log()</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZpbHRlcmVkT3JnYW5pemF0aW9ucycpCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5ib2R5LnByb2R1Y3QuaWQuc2hvdWxkLmJlLmVxKHByb2R1Y3QyLmlkKTsK</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnX19fX19fX19fX19fX19fXycK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5ib2R5LnByb2R1Y3QuaWQuc2hvdWxkLmJlLmVxKHByb2R1Y3QxLmlkKTsK</text>
+      <register name="8" type="4">
+        <text>)
+  // console.log(allowedOrgIds)
+  // console.log()</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5ib2R5LnByb2R1Y3QuaWQuc2hvdWxkLmJlLmVxKHByb2R1Y3QyLmlkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
