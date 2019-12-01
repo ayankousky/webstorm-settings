@@ -625,6 +625,13 @@
         <mark key="." line="298" column="47" />
         <mark key="^" line="298" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1575240197024">
+        <mark key="'" line="7" column="8" />
+        <mark key="[" line="57" column="50" />
+        <mark key="]" line="57" column="56" />
+        <mark key="^" line="57" column="56" />
+        <mark key="." line="57" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/products.js" timestamp="1575216931249">
         <mark key="'" line="63" column="156" />
         <mark key="[" line="60" column="0" />
@@ -705,11 +712,11 @@
         <mark key="^" line="11" column="40" />
         <mark key="." line="11" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/geolocation/index.js" timestamp="1562941910864">
-        <mark key="[" line="58" column="26" />
-        <mark key="]" line="59" column="65" />
-        <mark key="^" line="59" column="65" />
-        <mark key="." line="59" column="65" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/geolocation/index.js" timestamp="1575240134429">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="20" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="120" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/dist/index.js" timestamp="1574088463320">
         <mark key="[" line="271" column="75" />
@@ -717,8 +724,8 @@
         <mark key="^" line="272" column="39" />
         <mark key="." line="272" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1574921441898">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1575238986547">
+        <mark key="'" line="82" column="0" />
         <mark key="[" line="52" column="13" />
         <mark key="]" line="96" column="13" />
         <mark key="." line="96" column="13" />
@@ -730,11 +737,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1574144149703">
-        <mark key="[" line="224" column="0" />
-        <mark key="]" line="224" column="41" />
-        <mark key="^" line="233" column="33" />
-        <mark key="." line="224" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1575240179665">
+        <mark key="'" line="161" column="2" />
+        <mark key="[" line="233" column="34" />
+        <mark key="]" line="233" column="34" />
+        <mark key="^" line="45" column="44" />
+        <mark key="." line="233" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" timestamp="1575217903543">
         <mark key="'" line="2374" column="26" />
@@ -856,15 +864,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="36" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" />
-      <jump line="77" column="49" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/models/apple_receipt.js" />
-      <jump line="1399" column="2" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" />
-      <jump line="186" column="48" filename="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/vulcam_backend/index.js" />
-      <jump line="30" column="89" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/model/product.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/whitelist/index.js" />
-      <jump line="115" column="40" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
-      <jump line="448" column="119" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
-      <jump line="5" column="19" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/tsconfig.json" />
       <jump line="17" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" />
       <jump line="5" column="20" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" />
@@ -956,10 +955,19 @@
       <jump line="256" column="4" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
       <jump line="2374" column="26" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
       <jump line="185" column="283" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
+      <jump line="231" column="11" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
+      <jump line="79" column="35" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
+      <jump line="161" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
+      <jump line="113" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="8" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="57" column="56" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="7" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -974,7 +982,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRydWU=</text>
+        <text>a</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -989,13 +997,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>new</text>
+        <text>media</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpZiAoYWxsb3dlZE9yZ0lkcy5zb21lKCBhb0lkID0+IHByb2R1Y3QuYXZhaWxhYmxlRm9yT3JnYW5pemF0aW9ucy5tYXAobz0+by5pZCkuaW5jbHVkZXMoYW9JZCkpKXsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZ2VvJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdVcGRhdGUgZ2VvbG9jYXRpb24gZGInKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1004,25 +1012,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBbZGVsZXRlU2hvd109InRydWUiCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBbZGVsZXRlU2hvd109InRydWUiCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8IS0tW2VkaXRTaG93XT0iZWRpdElzU2hvd24iLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8IS0tW2VkaXRTaG93XT0iZWRpdElzU2hvd24iLS0+Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBbZGVsZXRlU2hvd109InRydWUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBbZGVsZXRlU2hvd109InRydWUiCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
@@ -1032,9 +1040,9 @@
       </register>
     </registers>
     <search>
-      <last-search>new</last-search>
+      <last-search>media</last-search>
       <last-offset />
-      <last-pattern>new</last-pattern>
+      <last-pattern>media</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>channelId</last-substitute>
       <last-dir>1</last-dir>
@@ -1042,10 +1050,6 @@
     </search>
     <history>
       <history-search>
-        <entry>await</entry>
-        <entry>even</entry>
-        <entry>5794</entry>
-        <entry>frame_rate</entry>
         <entry>kalad.cc</entry>
         <entry>laptop_acc</entry>
         <entry>biddin</entry>
@@ -1060,8 +1064,12 @@
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>include</entry>
         <entry>console.l</entry>
-        <entry>media</entry>
         <entry>new</entry>
+        <entry>volu</entry>
+        <entry>admin-</entry>
+        <entry>cached</entry>
+        <entry>admin-p</entry>
+        <entry>media</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
