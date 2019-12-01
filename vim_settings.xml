@@ -600,6 +600,12 @@
         <mark key="." line="39" column="19" />
         <mark key="^" line="39" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/device.js" timestamp="1575202603389">
+        <mark key="[" line="278" column="40" />
+        <mark key="]" line="278" column="40" />
+        <mark key="^" line="278" column="40" />
+        <mark key="." line="278" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/hardware.js" timestamp="1570374711104">
         <mark key="[" line="82" column="67" />
         <mark key="]" line="82" column="67" />
@@ -755,6 +761,7 @@
         <mark key="^" line="31" column="51" />
         <mark key="." line="31" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/deviceService.js" timestamp="1575202523066" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/product/products-list/products-list.component.html" timestamp="1570373334310">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="1" column="0" />
@@ -1049,7 +1056,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnX19fX19fX19fX19fX19fXycK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmlsdGVyZWRPcmdhbml6YXRpb25zKQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1082,7 +1089,7 @@
         <text>new</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7IG1vZGVsOiBkYi5vcmdhbml6YXRpb24sIGFzOiAnYXZhaWxhYmxlRm9yT3JnYW5pemF0aW9ucyd9LAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmlsdGVyZWRPcmdhbml6YXRpb25zKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnX19fX19fX19fX19fX19fXycK</text>
