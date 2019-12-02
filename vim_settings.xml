@@ -303,6 +303,12 @@
         <mark key="]" line="10" column="83" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/package.json" timestamp="1575321139499">
+        <mark key="[" line="43" column="33" />
+        <mark key="]" line="43" column="33" />
+        <mark key="^" line="43" column="33" />
+        <mark key="." line="43" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/organization/organization-available-products-table/organization-available-products-table.component.ts" timestamp="1572120917795">
         <mark key="[" line="302" column="54" />
         <mark key="]" line="303" column="79" />
@@ -393,6 +399,11 @@
         <mark key="[" line="240" column="0" />
         <mark key="]" line="240" column="0" />
         <mark key="." line="240" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/docker-compose.yml" timestamp="1575321266460">
+        <mark key="'" line="27" column="18" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Desktop/Ts_tests/src/app.ts" timestamp="1573641060774">
         <mark key="[" line="0" column="13" />
@@ -647,6 +658,13 @@
         <mark key="." line="82" column="67" />
         <mark key="^" line="82" column="67" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/docker-compose.local.yml" timestamp="1575321269014">
+        <mark key="'" line="3" column="31" />
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/services/db/collections/Storage.ts" timestamp="1574090224572">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -783,6 +801,12 @@
         <mark key="]" line="57" column="56" />
         <mark key="^" line="57" column="56" />
         <mark key="." line="57" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" timestamp="1575320936172">
+        <mark key="[" line="13" column="54" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/products.js" timestamp="1575216931249">
         <mark key="'" line="63" column="156" />
@@ -1029,10 +1053,14 @@
         <mark key="]" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/.gitignore" timestamp="1575321023402">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="5" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
-      <jump line="18" column="20" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.prod-config.yml" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.prod-config.yml" />
       <jump line="112" column="7" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
       <jump line="322" column="45" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
@@ -1131,10 +1159,12 @@
       <jump line="25" column="29" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/index.js" />
       <jump line="189" column="27" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
       <jump line="87" column="11" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="27" column="18" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/docker-compose.yml" />
+      <jump line="1" column="31" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/docker-compose.local.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGRhdGFbMF0pCg==</text>
+        <text encoding="base64">dmVyc2lvbjogJzMnCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1167,40 +1197,76 @@
         <text>depends</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgREJfQ09OTiA9ICJtb25nb2RiOi8vZ2VuZTpwd2QxMDhAd3lsZC1tb25nbzoyNzAxNy9sb2NhbDAiCg==</text>
+        <text encoding="base64">dmVyc2lvbjogJzMnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGRhdGFbMF0pCg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkOiAuL3d5bGQtZnVzaW9uLXNlcnZpY2UtdGZsLWNsaWVudAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gY29uc3QgREJfQ09OTiA9ICJtb25nb2RiOi8vZ2VuZTpwd2QxMDhAd3lsZC1tb25nbzoyNzAxNy9hZG1pbiIK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gY29uc3QgREJfQ09OTiA9ICJtb25nb2RiOi8vZ2VuZTpwd2QxMDhAd3lsZC1tb25nbzoyNzAxNy9sb2NhbDAiCg==</text>
+      <register name="3" type="4">
+        <text>container_name: 'wyld-fusion-service-tfl-client'
+      volumes:
+        - ./wyld-fusion-service-tfl-client:/usr/src/app #makes it so changes are immediate
+        - /usr/src/app/node_modules
+      environment:
+        - MONGO_DB_CONN=mongodb://gene:pwd108@wyld-mongo:27017/local0
+        - RMQ_CONN=amqp://wyld-rabbitmq
+        - RMQ_REEPLY_TIMEOUT=5000
+        - RMQ_RETRY_LIMIT=20
+        - RMQ_WAIT_MIN=1000
+  
+        - &quot;REDIS_PUBSUB_ENDPOINT=wyld-redispubsub&quot; #redis-18574.c6.eu-west-1-1.ec2.cloud.redislabs.com&quot;
+        - &quot;REDIS_PUBSUB_PORT=6380&quot; #18574&quot;
+        #- REDIS_PASSWORD=yVHyLBDlzir6feOSRdOwrEUtDdaS0usl
+        - &quot;REDIS_ENDPOINT=wyld-redis&quot; #redis-13838.c6.eu-west-1-1.ec2.cloud.redislabs.com&quot;
+        - &quot;REDIS_PORT=6379&quot; #13838&quot;
+  
+        - PG_HOSTNAME=wyld-postgres #wyld-test.cwfritn3qsm9.us-west-1.rds.amazonaws.com
+        - PG_DB=local0
+        - PG_PORT=5432
+        - PG_USERNAME=wyld
+        - PG_PASSWORD=wyld108
+  
+        - IPC_HOST=10.5.0.9
+        - IPC_PORT=8079
+  
+        #- LOGGING_TOKEN=e3496f98-d134-4b04-8190-f5b28305ee12
+        #- LOGGING_REGION=eu
+  
+      #ports:
+      #  - 508X:8082 #REST interface
+      #  - 9001:9000 #Health-check
+      networks:
+        wyld-net:
+          ipv4_address: 10.5.0.18
+      depends_on:
+        - wyld-fusion-metrics-feed</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGRhdGFbMF0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhyZXMpCg==</text>
+        <text encoding="base64">Ly8gY29uc3QgREJfQ09OTiA9ICJtb25nb2RiOi8vZ2VuZTpwd2QxMDhAd3lsZC1tb25nbzoyNzAxNy9hZG1pbiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbURhdGE6IHsgZW1wbG95ZWVJZDogMTIzNDUgfSwK</text>
+        <text encoding="base64">Ly8gY29uc3QgREJfQ09OTiA9ICJtb25nb2RiOi8vZ2VuZTpwd2QxMDhAd3lsZC1tb25nbzoyNzAxNy9sb2NhbDAiCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CQkgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhyZXMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGN1c3RvbURhdGE6IHsgZW1wbG95ZWVJZDogMTIzNDUgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
