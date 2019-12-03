@@ -797,11 +797,12 @@
         <mark key="^" line="57" column="56" />
         <mark key="." line="57" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" timestamp="1575398187102">
-        <mark key="'" line="76" column="4" />
-        <mark key="[" line="341" column="0" />
-        <mark key="]" line="341" column="0" />
-        <mark key="." line="341" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" timestamp="1575402595567">
+        <mark key="'" line="160" column="2" />
+        <mark key="[" line="220" column="80" />
+        <mark key="]" line="221" column="81" />
+        <mark key="." line="221" column="81" />
+        <mark key="^" line="221" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/action-popup/action-popup.component.html" timestamp="1572118678093">
         <mark key="[" line="4" column="93" />
@@ -858,6 +859,7 @@
         <mark key="^" line="21" column="33" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/src/logger/index.js" timestamp="1575399875991" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/settings-and-privacy/settings-and-privacy/settings-and-privacy.component.ts" timestamp="1570382746618">
         <mark key="[" line="119" column="38" />
         <mark key="]" line="119" column="41" />
@@ -1042,23 +1044,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="45" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
-      <jump line="1007" column="9" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
-      <jump line="350" column="48" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
-      <jump line="1008" column="35" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
-      <jump line="1025" column="17" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
-      <jump line="46" column="11" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
-      <jump line="1179" column="10" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
-      <jump line="566" column="13" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/controllers/user.js" />
-      <jump line="1278" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
-      <jump line="1267" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
-      <jump line="198" column="37" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
-      <jump line="1511" column="4" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="570" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
-      <jump line="44" column="1" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/db/index.js" />
-      <jump line="58" column="156" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/products.js" />
-      <jump line="1761" column="46" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="44" column="20" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
       <jump line="1792" column="7" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
@@ -1142,10 +1127,27 @@
       <jump line="1" column="31" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/docker-compose.local.yml" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
       <jump line="77" column="4" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="185" column="18" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="347" column="2" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="327" column="14" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="318" column="16" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="315" column="21" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="314" column="18" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="312" column="23" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="311" column="20" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="300" column="23" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="299" column="20" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="276" column="23" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="275" column="23" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="270" column="23" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="246" column="21" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="245" column="18" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="216" column="10" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="158" column="2" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZmV0Y2gnKQo=</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1160,7 +1162,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>a</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1175,53 +1177,52 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>depends</text>
+        <text>logger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nKGVyckxvZ0RhdGEsICJFUlJPUiIsICJURkw6YXBwLmpzOm1ha2VIVFRQcmVxdWVzdDpjYihKU09OLnBhcnNlKGRhdGEpKSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZmV0Y2gnKQo=</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlkYXRhOiB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZGF0YSs9J2tlayc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQl2YWx1ZXMgPSBudWxsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhkYXRhKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhlLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="8">
-        <text>logger
-logger</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGBFcnJvciBvbiBwYXJzaW5nIGRhdGFbMF06YCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nKCdkYXRhIGRhdGEgZGF0YScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fU1RBUlRfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18nKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZGF0YScpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgkJCQljb25zb2xlLmxvZygnX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX1NUQVJUX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fJykKICAgICAgICBjb25zb2xlLmxvZygibWFrZUhUVFByZXF1ZXN0IGVycm9yIiwgIkVSUk9SIiwgIlRGTDphcHAuanM6bWFrZUhUVFByZXF1ZXN0OmNiKEpTT04ucGFyc2UoZGF0YSkpIik7CiAgICAgICAgY29uc29sZS5sb2coZS50b1N0cmluZygpKTsKICAgICAgICBjb25zb2xlLmxvZygnZGF0YScpCiAgICAgICAgY29uc29sZS5sb2coZGF0YSkKICAgICAgICBjb25zb2xlLmxvZyhgUmVzcG9uc2Ugc3RhdHVzQ29kZTogJHtyZXNwb25zZS5zdGF0dXNDb2RlfWApCgkJCQljb25zb2xlLmxvZyhgSGVhZGVyczpgKQoJCQkJY29uc29sZS5sb2cocmVzcG9uc2UuaGVhZGVycykKICAgICAgICBjb25zb2xlLmxvZygnX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19FTkRfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fJyk=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>depends</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>depends</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>channelId</last-substitute>
       <last-dir>1</last-dir>
@@ -1229,7 +1230,6 @@ logger</text>
     </search>
     <history>
       <history-search>
-        <entry>biddin</entry>
         <entry>biddi</entry>
         <entry>value</entry>
         <entry>fwf</entry>
@@ -1249,6 +1249,7 @@ logger</text>
         <entry>media</entry>
         <entry>build</entry>
         <entry>depends</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
