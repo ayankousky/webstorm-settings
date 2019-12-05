@@ -154,9 +154,9 @@
         <mark key="]" line="10" column="83" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/package.json" timestamp="1575483907803">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="56" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/package.json" timestamp="1575528666963">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="56" />
         <mark key="^" line="38" column="15" />
         <mark key="." line="38" column="15" />
       </file>
@@ -382,6 +382,11 @@
         <mark key="]" line="159" column="40" />
         <mark key="^" line="159" column="40" />
         <mark key="." line="159" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-metrics-feed/package.json" timestamp="1575528681364">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="56" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/docker-compose.yml" timestamp="1574620372412">
         <mark key="[" line="31" column="45" />
@@ -804,12 +809,12 @@
         <mark key="." line="39" column="19" />
         <mark key="^" line="39" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/docker-compose.local.yml" timestamp="1575486090639">
+      <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/docker-compose.local.yml" timestamp="1575528730018">
         <mark key="'" line="3" column="31" />
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="31" />
-        <mark key="^" line="6" column="31" />
-        <mark key="." line="6" column="31" />
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/services/index.js" timestamp="1568590060259">
         <mark key="[" line="4" column="42" />
@@ -867,10 +872,10 @@
         <mark key="^" line="298" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" timestamp="1575487573708">
-        <mark key="'" line="257" column="28" />
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="251" column="0" />
-        <mark key="." line="251" column="0" />
+        <mark key="'" line="230" column="28" />
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="0" />
+        <mark key="." line="224" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/package.json" timestamp="1560804039828">
         <mark key="[" line="24" column="23" />
@@ -962,6 +967,9 @@
         <mark key="^" line="121" column="42" />
         <mark key="." line="145" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-metrics-feed/app.js" timestamp="1575527487745">
+        <mark key="'" line="18" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/hardware/hardware-list/hardware-list.component.ts" timestamp="1570373032360">
         <mark key="[" line="123" column="8" />
         <mark key="]" line="123" column="11" />
@@ -983,7 +991,6 @@
       <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/src/app-config.json" timestamp="1575484269431" />
     </filemarks>
     <jumps>
-      <jump line="1792" column="7" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
       <jump line="208" column="44" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
       <jump line="530" column="41" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
       <jump line="546" column="63" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
@@ -1083,10 +1090,11 @@
       <jump line="158" column="2" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
       <jump line="345" column="15" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
       <jump line="257" column="28" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
+      <jump line="18" column="25" filename="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-metrics-feed/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhsaW5lRXZlbnRzW3ZhbHVlcy5saW5lXSkK</text>
+        <text encoding="base64">ICAgIGNvbW1hbmQ6IG5wbSBydW4gc3RhcnQ6bG9jYWwK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1119,40 +1127,40 @@
         <text>logger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJzdGFydDpsb2NhbCI6ICIuL25vZGVfbW9kdWxlcy8uYmluL25vZGVtb24gYXBwLmpzIiwK</text>
+        <text encoding="base64">ICAgIGNvbW1hbmQ6IG5wbSBydW4gc3RhcnQ6bG9jYWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhsaW5lRXZlbnRzW3ZhbHVlcy5saW5lXSkK</text>
+        <text encoding="base64">ICAgICJzdGFydDpsb2NhbCI6ICIuL25vZGVfbW9kdWxlcy8uYmluL25vZGVtb24gYXBwLmpzIiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhsaW5lU3RhdHVzSGFzaGVzLmluZGV4T2YodmFsdWVzLmhhc2gpID09PSAtMSkK</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhsaW5lRXZlbnRzW3ZhbHVlcy5saW5lXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fJykK</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhsaW5lU3RhdHVzSGFzaGVzLmluZGV4T2YodmFsdWVzLmhhc2gpID09PSAtMSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQl9Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlkYXRhOiB7Cg==</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZGF0YSs9J2tlayc7Cg==</text>
+        <text encoding="base64">CQkJCQlkYXRhOiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQl2YWx1ZXMgPSBudWxsOwo=</text>
+        <text encoding="base64">CQkJZGF0YSs9J2tlayc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
