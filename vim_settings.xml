@@ -771,6 +771,9 @@
         <mark key="^" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" timestamp="1575537383710">
+        <mark key="'" line="99" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-metrics-feed/package.json" timestamp="1575528681364">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="56" />
@@ -980,13 +983,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="11" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
-      <jump line="142" column="5" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" />
-      <jump line="218" column="5" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" />
-      <jump line="267" column="5" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" />
-      <jump line="309" column="5" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" />
-      <jump line="351" column="5" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" />
-      <jump line="391" column="5" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" />
       <jump line="430" column="5" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" />
       <jump line="469" column="5" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" />
       <jump line="551" column="30" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" />
@@ -1080,6 +1076,13 @@
       <jump line="356" column="12" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="357" column="15" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="366" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
+      <jump line="24" column="49" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
+      <jump line="100" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
+      <jump line="101" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
+      <jump line="96" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
+      <jump line="97" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
+      <jump line="98" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
+      <jump line="99" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1166,7 +1169,6 @@
     </search>
     <history>
       <history-search>
-        <entry>value</entry>
         <entry>fwf</entry>
         <entry>offers-</entry>
         <entry>admi</entry>
@@ -1185,6 +1187,7 @@
         <entry>build</entry>
         <entry>depends</entry>
         <entry>logger</entry>
+        <entry>console.log</entry>
         <entry>console</entry>
       </history-search>
       <history-cmd>
