@@ -30,11 +30,11 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.html" timestamp="1575711252877">
-        <mark key="[" line="264" column="0" />
-        <mark key="]" line="264" column="0" />
-        <mark key="." line="264" column="0" />
-        <mark key="^" line="270" column="51" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.html" timestamp="1575713341941">
+        <mark key="[" line="282" column="47" />
+        <mark key="]" line="280" column="26" />
+        <mark key="." line="280" column="26" />
+        <mark key="^" line="280" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.scss" timestamp="1564037203163">
         <mark key="[" line="1272" column="17" />
@@ -297,7 +297,7 @@
         <mark key="^" line="38" column="15" />
         <mark key="." line="38" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/organization/organization-available-products-table/organization-available-products-table.component.ts" timestamp="1572120917795">
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/organization/organization-available-products-table/organization-available-products-table.component.ts" timestamp="1575713395896">
         <mark key="[" line="302" column="54" />
         <mark key="]" line="303" column="79" />
         <mark key="." line="303" column="79" />
@@ -391,11 +391,6 @@
         <mark key="]" line="240" column="0" />
         <mark key="." line="240" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/docker-compose.yml" timestamp="1575483266184">
-        <mark key="'" line="27" column="18" />
-        <mark key="[" line="353" column="0" />
-        <mark key="]" line="353" column="35" />
-      </file>
       <file name="$USER_HOME$/Desktop/Ts_tests/src/app.ts" timestamp="1573641060774">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
@@ -441,6 +436,11 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" timestamp="1575713777408">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/index.js" timestamp="1567847609840">
         <mark key="[" line="12" column="29" />
@@ -666,12 +666,12 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" timestamp="1575712435547">
-        <mark key="'" line="171" column="18" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="49" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" timestamp="1575713400796">
+        <mark key="'" line="173" column="18" />
+        <mark key="[" line="140" column="9" />
+        <mark key="]" line="140" column="30" />
+        <mark key="^" line="140" column="30" />
+        <mark key="." line="140" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/index.js" timestamp="1565638754526">
         <mark key="[" line="9" column="33" />
@@ -1104,7 +1104,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlVc2VyQ3JlYXRlQ29tcG9uZW50Cg==</text>
+        <text encoding="base64">CSAgICAgIAo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1119,7 +1119,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IHNlbGVjdEhhcmR3YXJlcw==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1137,32 +1137,28 @@
         <text>this.email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3Vic2NyaXB0aW9uQXJyYXk6IFN1YnNjcmlwdGlvbltdID0gW107Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBzZWxlY3RIYXJkd2FyZXM6IGFueVtdID0gW107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlVc2VyQ3JlYXRlQ29tcG9uZW50Cg==</text>
+        <text encoding="base64">CSAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVXNlckNyZWF0ZUNvbXBvbmVudCB9IGZyb20gJy4vc3JjL2FwcC9zaGFyZWQvcG9wdXAvdXNlci1jcmVhdGUvdXNlci1jcmVhdGUuY29tcG9uZW50JzsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlVc2VyQ3JlYXRlQ29tcG9uZW50Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCVt2YWx1ZV09ImhhcmR3YXJlIj57eyBoYXJkd2FyZS5uYW1lIH19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVXNlckNyZWF0ZUNvbXBvbmVudCB9IGZyb20gJy4vcG9wdXAvdXNlci1jcmVhdGUvdXNlci1jcmVhdGUuY29tcG9uZW50JzsK</text>
+        <text encoding="base64">CQl0aGlzLnNlbGVjdFBhcmVudE9yZ2FuaXphdGlvbnMgPSB0aGlzLnBhcmVudE9yZ2FuaXphdGlvbnMubGVuZ3RoIT0wID8gdGhpcy5wYXJlbnRPcmdhbml6YXRpb25zIDogdGhpcy5tYW51ZmFjdG9yaW5nT3JnYW5pemF0aW9uczsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29uZmlybWF0aW9uRW1haWwgPSAiIgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CgogIHB1YmxpYyBkaXNwbGF5UGFyZW50T3JnQXV0b2NvbXBsZXRlRGF0YUZuKHZhbDogYW55KSB7CgogICAgaWYgKHR5cGVvZiB2YWwgPT0gJ29iamVjdCcpIHsKICAgICAgcmV0dXJuIHZhbCAmJiAodmFsLm5hbWUpID8gdmFsLm5hbWUgOiAiIjt9CiAgICBlbHNlIHtyZXR1cm4gdmFsO30KICB9</text>
       </register>
-      <register name="6" type="4">
-        <text>;
-    this.errorPopupMessage = &quot;&quot;;
-    this.infoPopupMessage = &quot;&quot;;
-    this.successPopupMessage = &quot;&quot;;
-    this.confirmPopupMessage = &quot;&quot;;</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
@@ -1171,10 +1167,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtWYWxpZGF0b3JzfSAgICAgICAgICAgICAgICAgICBmcm9tICJAYW5ndWxhci9mb3JtcyI7Cg==</text>
+        <text encoding="base64">CQlVc2VyQ3JlYXRlQ29tcG9uZW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcG9uZW50LCBPbkluaXQgfSAgICAgICAgICBmcm9tICdAYW5ndWxhci9jb3JlJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgVXNlckNyZWF0ZUNvbXBvbmVudCB9IGZyb20gJy4vc3JjL2FwcC9zaGFyZWQvcG9wdXAvdXNlci1jcmVhdGUvdXNlci1jcmVhdGUuY29tcG9uZW50JzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
