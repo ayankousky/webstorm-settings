@@ -30,11 +30,10 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.html" timestamp="1575713341941">
-        <mark key="[" line="282" column="47" />
-        <mark key="]" line="280" column="26" />
-        <mark key="." line="280" column="26" />
-        <mark key="^" line="280" column="26" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.html" timestamp="1575713905301">
+        <mark key="[" line="388" column="36" />
+        <mark key="]" line="388" column="36" />
+        <mark key="." line="388" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.scss" timestamp="1564037203163">
         <mark key="[" line="1272" column="17" />
@@ -666,12 +665,12 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" timestamp="1575713400796">
-        <mark key="'" line="173" column="18" />
-        <mark key="[" line="140" column="9" />
-        <mark key="]" line="140" column="30" />
-        <mark key="^" line="140" column="30" />
-        <mark key="." line="140" column="30" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" timestamp="1575715581524">
+        <mark key="'" line="231" column="0" />
+        <mark key="[" line="209" column="43" />
+        <mark key="]" line="209" column="47" />
+        <mark key="." line="209" column="47" />
+        <mark key="^" line="209" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/index.js" timestamp="1565638754526">
         <mark key="[" line="9" column="33" />
@@ -1001,7 +1000,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="25" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" />
       <jump line="83" column="38" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" />
       <jump line="554" column="0" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" />
       <jump line="323" column="0" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" />
@@ -1101,10 +1099,11 @@
       <jump line="593" column="59" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" />
       <jump line="163" column="23" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" />
       <jump line="171" column="18" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" />
+      <jump line="230" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSAgICAgIAo=</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coZGF0YSkK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1137,40 +1136,40 @@
         <text>this.email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBzZWxlY3RIYXJkd2FyZXM6IGFueVtdID0gW107Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICAgIAo=</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coZGF0YSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2RhdGEnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCVt2YWx1ZV09ImhhcmR3YXJlIj57eyBoYXJkd2FyZS5uYW1lIH19Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl0aGlzLnNlbGVjdFBhcmVudE9yZ2FuaXphdGlvbnMgPSB0aGlzLnBhcmVudE9yZ2FuaXphdGlvbnMubGVuZ3RoIT0wID8gdGhpcy5wYXJlbnRPcmdhbml6YXRpb25zIDogdGhpcy5tYW51ZmFjdG9yaW5nT3JnYW5pemF0aW9uczsK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgogIHB1YmxpYyBkaXNwbGF5UGFyZW50T3JnQXV0b2NvbXBsZXRlRGF0YUZuKHZhbDogYW55KSB7CgogICAgaWYgKHR5cGVvZiB2YWwgPT0gJ29iamVjdCcpIHsKICAgICAgcmV0dXJuIHZhbCAmJiAodmFsLm5hbWUpID8gdmFsLm5hbWUgOiAiIjt9CiAgICBlbHNlIHtyZXR1cm4gdmFsO30KICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlVc2VyQ3JlYXRlQ29tcG9uZW50Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVXNlckNyZWF0ZUNvbXBvbmVudCB9IGZyb20gJy4vc3JjL2FwcC9zaGFyZWQvcG9wdXAvdXNlci1jcmVhdGUvdXNlci1jcmVhdGUuY29tcG9uZW50JzsK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
