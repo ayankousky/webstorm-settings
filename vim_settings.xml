@@ -237,11 +237,11 @@
         <mark key="." line="361" column="41" />
         <mark key="^" line="361" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/product/product-general-info/product-general-info.component.ts" timestamp="1575721160924">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="104" column="92" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/product/product-general-info/product-general-info.component.ts" timestamp="1575722061599">
+        <mark key="[" line="105" column="40" />
+        <mark key="]" line="106" column="35" />
+        <mark key="." line="106" column="35" />
+        <mark key="^" line="106" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/users.js" timestamp="1575159484419">
         <mark key="'" line="193" column="17" />
@@ -783,12 +783,6 @@
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1575288552974">
         <mark key="'" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" timestamp="1575649448188">
-        <mark key="'" line="230" column="28" />
-        <mark key="[" line="224" column="0" />
-        <mark key="]" line="224" column="0" />
-        <mark key="." line="224" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/action-popup/action-popup.component.html" timestamp="1572118678093">
         <mark key="[" line="4" column="93" />
         <mark key="]" line="4" column="137" />
@@ -1024,6 +1018,7 @@
         <mark key="." line="325" column="36" />
         <mark key="^" line="285" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/product/product-general-info/product-general-info.component.html" timestamp="1575721565532" />
     </filemarks>
     <jumps>
       <jump line="25" column="29" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/index.js" />
@@ -1128,8 +1123,8 @@
       <jump line="759" column="25" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -1144,7 +1139,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hardwareId</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
