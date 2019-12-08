@@ -81,6 +81,7 @@
         <mark key="]" line="6" column="37" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/clientPermissions.js" timestamp="1575812668277" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/firmwares.js" timestamp="1574633544968">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -115,10 +116,10 @@
         <mark key="^" line="605" column="106" />
         <mark key="." line="214" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/users/user-info/user-info.component.ts" timestamp="1575811952955">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="6" />
-        <mark key="." line="116" column="6" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/users/user-info/user-info.component.ts" timestamp="1575812010732">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Ts_tests/modules/media/dist/app.js" timestamp="1573678232799">
         <mark key="[" line="17" column="0" />
@@ -217,6 +218,12 @@
         <mark key="^" line="140" column="21" />
         <mark key="." line="139" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/services/user.service.ts" timestamp="1575812777703">
+        <mark key="[" line="72" column="27" />
+        <mark key="]" line="72" column="27" />
+        <mark key="." line="72" column="27" />
+        <mark key="^" line="72" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-metrics-feed/package.json" timestamp="1575528681364">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="56" />
@@ -239,7 +246,7 @@
         <mark key="." line="47" column="24" />
         <mark key="^" line="47" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/node_modules/ngx-permissions/service/permissions.service.d.ts" timestamp="1575811120273" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/node_modules/ngx-permissions/service/permissions.service.d.ts" timestamp="1575812348336" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/geolocation/index.js" timestamp="1575241982559">
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
@@ -267,7 +274,7 @@
         <mark key="." line="2479" column="0" />
         <mark key="^" line="223" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1575810426063">
+      <file name="/Dummy.txt" timestamp="1575812669035">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/devices/access.js" timestamp="1575761617458">
@@ -446,8 +453,8 @@
       <jump line="97" column="28" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>setInterval</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSAgY29uc29sZS5sb2cocGVybWlzaW9ucykK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -480,40 +487,40 @@
         <text encoding="base64">XDxwYXRjaFZhbHVlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0FkZCBzZWxmJykK</text>
+        <text encoding="base64">CSAgY29uc29sZS5sb2cocGVybWlzaW9ucykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAkK</text>
+        <text encoding="base64">ICAgIAljb25zb2xlLmxvZyh0aGlzLnBlcm1pc3Npb25zU2VydmljZS5nZXRQZXJtaXNzaW9ucygpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyh0aCkK</text>
+        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygna2VrZWVrZScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZWtla2VrJykK</text>
+        <text encoding="base64">ICAgIAkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyh0aCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocm9sZUlkKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZWtla2VrJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2trZWVrJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocm9sZUlkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2trZWVrJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnMScpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
