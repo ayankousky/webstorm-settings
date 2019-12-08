@@ -265,10 +265,10 @@
         <mark key="]" line="36" column="115" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" timestamp="1575767234782">
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="." line="174" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" timestamp="1575794337237">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/.gitmodules" timestamp="1575300386689">
         <mark key="[" line="29" column="74" />
@@ -424,7 +424,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSAgY29uc3QgZGIgPSByZXF1aXJlKCcuLi9kYi9kYicpOwo=</text>
+        <text encoding="base64">CSAgICAK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -460,27 +460,33 @@
         <text encoding="base64">CSAgY29uc3QgZGIgPSByZXF1aXJlKCcuLi9kYi9kYicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgCWQudG9KU09OKCkuaXNNZWRpY2FsCg==</text>
+        <text encoding="base64">CSAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgkJICAgIHsKCQkJICAgIG1vZGVsOiBkYi51c2VyLCBhczogJ3VzZXInLCBpbmNsdWRlOiBbCgkJCQkgICAgewoJCQkJCSAgICBtb2RlbDogZGIudXNlciwgYXM6ICdtZWRpY2FsUHJvdmlkZXInLCBpbmNsdWRlOiBbCgkJCQkJCSAgICB7bW9kZWw6IGRiLm9yZ2FuaXphdGlvbiwgYXM6ICdvcmdhbml6YXRpb24nfSwKCQkJCQkgICAgXSwKCQkJCSAgICB9LAoJCQkJICAgIHsgbW9kZWw6IGRiLmF1ZGlvUHJvZmlsZSwgYXM6ICdhdWRpb1Byb2ZpbGVzJyB9CgkJCSAgICBdLAoJCSAgICB9LA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CSAgCWQudG9KU09OKCkuaXNNZWRpY2FsCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CgkJCQkgICAgeyBtb2RlbDogZGIub3JnYW5pemF0aW9uLCBhczogJ2JyYW5kT3JnYW5pemF0aW9uJ30sCgkJCQkgICAgeyBtb2RlbDogZGIub3JnYW5pemF0aW9uLCBhczogJ2F2YWlsYWJsZUZvck9yZ2FuaXphdGlvbnMnLCBhdHRyaWJ1dGVzOiBbJ2lkJywgJ25hbWUnXX0sCgkJCQkgICAgeyBtb2RlbDogZGIub3JnYW5pemF0aW9uQnJhbmQsIGFzOiAnYnJhbmQnfSwKCQkJCSAgICB7IG1vZGVsOiBkYi5wcm9kdWN0RnVuY3Rpb24sIGFzOiAnZnVuY3Rpb25zJ30s</text>
+        <text encoding="base64">CgkJICAgIHsKCQkJICAgIG1vZGVsOiBkYi51c2VyLCBhczogJ3VzZXInLCBpbmNsdWRlOiBbCgkJCQkgICAgewoJCQkJCSAgICBtb2RlbDogZGIudXNlciwgYXM6ICdtZWRpY2FsUHJvdmlkZXInLCBpbmNsdWRlOiBbCgkJCQkJCSAgICB7bW9kZWw6IGRiLm9yZ2FuaXphdGlvbiwgYXM6ICdvcmdhbml6YXRpb24nfSwKCQkJCQkgICAgXSwKCQkJCSAgICB9LAoJCQkJICAgIHsgbW9kZWw6IGRiLmF1ZGlvUHJvZmlsZSwgYXM6ICdhdWRpb1Byb2ZpbGVzJyB9CgkJCSAgICBdLAoJCSAgICB9LA==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">CgkJCQkgICAgeyBtb2RlbDogZGIub3JnYW5pemF0aW9uLCBhczogJ2JyYW5kT3JnYW5pemF0aW9uJ30sCgkJCQkgICAgeyBtb2RlbDogZGIub3JnYW5pemF0aW9uLCBhczogJ2F2YWlsYWJsZUZvck9yZ2FuaXphdGlvbnMnLCBhdHRyaWJ1dGVzOiBbJ2lkJywgJ25hbWUnXX0sCgkJCQkgICAgeyBtb2RlbDogZGIub3JnYW5pemF0aW9uQnJhbmQsIGFzOiAnYnJhbmQnfSwKCQkJCSAgICB7IG1vZGVsOiBkYi5wcm9kdWN0RnVuY3Rpb24sIGFzOiAnZnVuY3Rpb25zJ30s</text>
+      </register>
+      <register name="5" type="4">
         <text>, include: [
 						    { model: db.firmwareFunction, as: 'functions' },
 						    { model: db.firmwareRevision, as: 'revisions' },
 					    ]</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CgkJCQkgICAge21vZGVsOiBkYi5oYXJkd2FyZSwgYXM6ICdoYXJkd2FyZSd9LA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="4">
         <text>,
 		    {model: db.audioProfile, as: 'audioProfile'},
 		    {
@@ -490,17 +496,11 @@
 			    ],
 		    }</text>
       </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CSAgCQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
