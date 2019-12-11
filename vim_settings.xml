@@ -141,6 +141,7 @@
         <mark key="]" line="16" column="56" />
         <mark key="." line="110" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1575961510551" />
       <file name="$USER_HOME$/Desktop/Ts_tests/modules/media/dist/app.js" timestamp="1573678232799">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -158,6 +159,9 @@
         <mark key="." line="54" column="6" />
         <mark key="^" line="54" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-notification/app.js" timestamp="1576046659073">
+        <mark key="[" line="41" column="21" />
+      </file>
       <file name="$USER_HOME$/Desktop/Ts_tests/modules/media/src/app.ts" timestamp="1573858383540">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -167,6 +171,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" timestamp="1576047527216">
+        <mark key="[" line="388" column="22" />
+        <mark key="]" line="388" column="23" />
+        <mark key="." line="388" column="23" />
+        <mark key="^" line="388" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/organization/organizations-list/organizations-list.component.html" timestamp="1575825663278">
         <mark key="[" line="7" column="59" />
@@ -222,10 +232,6 @@
         <mark key="]" line="29" column="74" />
         <mark key="." line="29" column="71" />
         <mark key="^" line="29" column="71" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/products.js" timestamp="1575827473308">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/controllers/devices.js" timestamp="1575795557058">
         <mark key="'" line="0" column="0" />
@@ -496,8 +502,8 @@
       <jump line="406" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -512,7 +518,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -533,37 +539,37 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyhhbGxvd2VkT3JnSWRzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgCgoJbmdPbkluaXQoKSB7CgkJdGhpcy5wb3B1cCQgPSB0aGlzLnBvcHVwU2VydmljZS5nZXRQb3B1cFN1YmplY3QoKTsKCgkJdGhpcy5wb3B1cFN1YiQgPSB0aGlzLnBvcHVwJC5zdWJzY3JpYmUoKGRhdGE6IElQb3B1cFN0YXRlKSA9PiB7CgkJCXRoaXMuYXV0aERhdGEgPSB0aGlzLmF1dGhTZXJ2aWNlLmdldEF1dGhEYXRhKCk7CgoJCQlpZiAoZGF0YS5wb3B1cFR5cGUgPT0gJ2NvbmZpcm1hdGlvbi1lbWFpbC1wb3B1cCcpIHsKCQkJCXRoaXMuY29uZmlybWF0aW9uRW1haWwgPSBkYXRhLm1lc3NhZ2UgfHwgJ3RvIHNwZWNpZmllZCBlbWFpbCBib3gnOwoJCQkJZGF0YS5zaG93ID8gdGhpcy5vcGVuQ29uZmlybWF0aW9uRW1haWxQb3B1cCgpIDogdGhpcy5jbG9zZVBvcHVwKCdlbWFpbC1jb25maXJtYXRpb24nKTsKCQkJfQoKCQkJaWYgKGRhdGEucG9wdXBUeXBlID09ICdlcnJvci1wb3B1cCcp</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cod3JpdGVVc2VyUm9sZU5hbWUpCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocm9sZUlkKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cod3JpdGVVc2VyUm9sZU5hbWUpCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocm9sZUlkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgLy8gLy8gY2hlY2sgaWYgd3JpdGVPcmcgaXMgaW4gY2hpbGQgb2Ygb25lIG9mIHRoZSBjb250YWN0IG9yZ2FuaXphdGlvbnMKICAvLyBjdXJyVXNlci5maXJzdENvbnRhY3RPcmdhbml6YXRpb25zID0gY3VyclVzZXIuZmlyc3RDb250YWN0T3JnYW5pemF0aW9ucyAgfHwgW107CiAgLy8gY3VyclVzZXIuc2Vjb25kQ29udGFjdE9yZ2FuaXphdGlvbnMgPSBjdXJyVXNlci5zZWNvbmRDb250YWN0T3JnYW5pemF0aW9ucyAgfHwgW107CiAgLy8gbGV0IGFsbENvbnRhY3RDaGlsZE9yZ3MgPSBhd2FpdCBkYlNlcnZpY2UuZ2V0QWxsT3JnQ2hpbGRyZW4oWy4uLmN1cnJVc2VyLmZpcnN0Q29udGFjdE9yZ2FuaXphdGlvbnMsIC4uLmN1cnJVc2VyLnNlY29uZENvbnRhY3RPcmdhbml6YXRpb25zXS5tYXAobyA9PiBvLmlkKSk7CiAgLy8gaWYoYWxsQ29udGFjdENoaWxkT3Jncy5tYXAobyA9PiBvLmlkKS5pbmNsdWRlcyh3cml0ZU9yZy5pZCkpewogIC8vICAgcmV0dXJuIHRydWU7CiAgLy8gfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
