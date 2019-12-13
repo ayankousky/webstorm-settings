@@ -295,6 +295,9 @@
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1576258913401">
+        <mark key="'" line="44" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1575284182642">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="34" />
@@ -337,6 +340,9 @@
         <mark key="]" line="292" column="0" />
         <mark key="." line="292" column="0" />
         <mark key="^" line="246" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/traffic/index.js" timestamp="1576258895729">
+        <mark key="'" line="200" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/services/db/collections/WhitelistRule.ts" timestamp="1574082892684">
         <mark key="[" line="0" column="30" />
@@ -400,8 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="499" column="40" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
-      <jump line="500" column="14" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="540" column="34" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="541" column="15" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="545" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
@@ -500,6 +504,8 @@
       <jump line="180" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" />
       <jump line="158" column="26" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/organizations.js" />
       <jump line="406" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" />
+      <jump line="200" column="26" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/traffic/index.js" />
+      <jump line="44" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -533,7 +539,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXRjaFZhbHVlXD4=</text>
+        <text>bidding</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhhbGxvd2VkT3JnSWRzKQo=</text>
@@ -576,18 +582,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXRjaFZhbHVlXD4=</last-search>
+      <last-search>bidding</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXRjaFZhbHVlXD4=</last-pattern>
+      <last-pattern>bidding</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>channelId</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>admi</entry>
-        <entry>404</entry>
         <entry>timing</entry>
         <entry>chr_xml</entry>
         <entry encoding="base64">XDx9XD4=</entry>
@@ -606,6 +610,8 @@
         <entry>console</entry>
         <entry>this.email</entry>
         <entry encoding="base64">XDxwYXRjaFZhbHVlXD4=</entry>
+        <entry>biddin</entry>
+        <entry>bidding</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
