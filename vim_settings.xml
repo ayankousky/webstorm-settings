@@ -29,6 +29,11 @@
         <mark key="." line="286" column="88" />
         <mark key="^" line="287" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/notifications/src/app.ts" timestamp="1576340556713">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-notification/package.json" timestamp="1575483913768">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="56" />
@@ -295,7 +300,7 @@
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1576258913401">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1576339687271">
         <mark key="'" line="44" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1575284182642">
@@ -508,8 +513,8 @@
       <jump line="44" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ3phbHVwYScpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -542,37 +547,37 @@
         <text>bidding</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhbGxvd2VkT3JnSWRzKQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3phbHVwYScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3phbHVwYScpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3phbHVwYScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3phbHVwYScpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgCgoJbmdPbkluaXQoKSB7CgkJdGhpcy5wb3B1cCQgPSB0aGlzLnBvcHVwU2VydmljZS5nZXRQb3B1cFN1YmplY3QoKTsKCgkJdGhpcy5wb3B1cFN1YiQgPSB0aGlzLnBvcHVwJC5zdWJzY3JpYmUoKGRhdGE6IElQb3B1cFN0YXRlKSA9PiB7CgkJCXRoaXMuYXV0aERhdGEgPSB0aGlzLmF1dGhTZXJ2aWNlLmdldEF1dGhEYXRhKCk7CgoJCQlpZiAoZGF0YS5wb3B1cFR5cGUgPT0gJ2NvbmZpcm1hdGlvbi1lbWFpbC1wb3B1cCcpIHsKCQkJCXRoaXMuY29uZmlybWF0aW9uRW1haWwgPSBkYXRhLm1lc3NhZ2UgfHwgJ3RvIHNwZWNpZmllZCBlbWFpbCBib3gnOwoJCQkJZGF0YS5zaG93ID8gdGhpcy5vcGVuQ29uZmlybWF0aW9uRW1haWxQb3B1cCgpIDogdGhpcy5jbG9zZVBvcHVwKCdlbWFpbC1jb25maXJtYXRpb24nKTsKCQkJfQoKCQkJaWYgKGRhdGEucG9wdXBUeXBlID09ICdlcnJvci1wb3B1cCcp</text>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ3phbHVwYScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3phbHVwYScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cod3JpdGVVc2VyUm9sZU5hbWUpCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3phbHVwYScpCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocm9sZUlkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
