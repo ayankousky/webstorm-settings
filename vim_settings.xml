@@ -65,7 +65,6 @@
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/users/users-list/users-list.component.ts" timestamp="1575825775029" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/organizationService.js" timestamp="1575766896108">
         <mark key="[" line="46" column="66" />
         <mark key="]" line="46" column="75" />
@@ -93,7 +92,6 @@
         <mark key="]" line="6" column="37" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/clientPermissions.js" timestamp="1575812668277" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/firmwares.js" timestamp="1574633544968">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -146,7 +144,6 @@
         <mark key="]" line="16" column="56" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1575961510551" />
       <file name="$USER_HOME$/Desktop/Ts_tests/modules/media/dist/app.js" timestamp="1573678232799">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -201,6 +198,12 @@
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/sharing.js" timestamp="1576480614299">
+        <mark key="[" line="139" column="58" />
+        <mark key="]" line="139" column="61" />
+        <mark key="^" line="139" column="61" />
+        <mark key="." line="139" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-tfl-client/src/service-bus/generateRequester.js" timestamp="1575287218693">
         <mark key="[" line="7" column="0" />
@@ -290,7 +293,6 @@
         <mark key="." line="47" column="24" />
         <mark key="^" line="47" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/node_modules/ngx-permissions/service/permissions.service.d.ts" timestamp="1575813419052" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/geolocation/index.js" timestamp="1575241982559">
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
@@ -321,6 +323,12 @@
         <mark key="." line="2479" column="0" />
         <mark key="^" line="223" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/controllers/account.js" timestamp="1576480757466">
+        <mark key="[" line="95" column="30" />
+        <mark key="]" line="95" column="43" />
+        <mark key="^" line="95" column="43" />
+        <mark key="." line="95" column="43" />
+      </file>
       <file name="/Dummy.txt" timestamp="1575930476523">
         <mark key="[" line="0" column="0" />
       </file>
@@ -341,7 +349,6 @@
         <mark key="]" line="2" column="85" />
         <mark key="." line="2" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/product/product-info/product-info.component.html" timestamp="1575824636351" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/userService.js" timestamp="1575795685595">
         <mark key="[" line="292" column="0" />
         <mark key="]" line="292" column="0" />
@@ -515,8 +522,8 @@
       <jump line="44" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnemFsdXBhJykK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -531,7 +538,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
