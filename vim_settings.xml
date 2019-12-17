@@ -405,10 +405,10 @@
         <mark key="]" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/.gitmodules" timestamp="1575300386689">
-        <mark key="[" line="29" column="74" />
-        <mark key="]" line="29" column="74" />
-        <mark key="." line="29" column="74" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/.gitmodules" timestamp="1576593844675">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/side-menu/side-menu/side-menu.component.html" timestamp="1575761067502">
         <mark key="[" line="46" column="51" />
@@ -520,8 +520,8 @@
       <jump line="72" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/incoming_stat.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">W3N1Ym1vZHVsZSAicgo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -557,15 +557,23 @@
         <text encoding="base64">ICAgICAgJ2gxJzogMCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">W3N1Ym1vZHVsZSAicgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>oot-package.json&quot;]
+	path = root-package.json
+	url = git@gitlab.com:wyldtech/nodedev/nodedev.bin/root-package.json.git</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>'d1': {
       'h1': 1,
       'h2': 100,
@@ -587,13 +595,16 @@
     }
   }</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgZ2VvZmVuY2VPYmplY3Q6IHsKICAgIG5hbWU6ICcnLAogICAgY29vcmRzOiAnJywKICAgIHNvbWVFeHRyYURhdGE6ICcnCiAgfSw=</text>
       </register>
-      <register name="5" type="2">
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>[
     // day one
     [0,1,2,3,4..23],
@@ -604,17 +615,8 @@
     [0,1,2,3,4..23],
   ]</text>
       </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY291bnQ6IAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
