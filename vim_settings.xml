@@ -144,11 +144,10 @@
         <mark key="]" line="16" column="56" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1576598996203">
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="24" />
-        <mark key="^" line="28" column="24" />
-        <mark key="." line="28" column="24" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1576599776786">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Ts_tests/modules/media/dist/app.js" timestamp="1573678232799">
         <mark key="[" line="17" column="0" />
@@ -178,11 +177,11 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1576517748589" />
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" timestamp="1576047527216">
-        <mark key="[" line="388" column="22" />
-        <mark key="]" line="388" column="23" />
-        <mark key="." line="388" column="23" />
-        <mark key="^" line="388" column="23" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" timestamp="1576599868018">
+        <mark key="[" line="419" column="8" />
+        <mark key="]" line="419" column="15" />
+        <mark key="." line="419" column="15" />
+        <mark key="^" line="419" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/organization/organizations-list/organizations-list.component.html" timestamp="1575825663278">
         <mark key="[" line="7" column="59" />
@@ -331,6 +330,11 @@
         <mark key="]" line="95" column="43" />
         <mark key="^" line="95" column="43" />
         <mark key="." line="95" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/index.js" timestamp="1576599799789">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1576482063864">
         <mark key="[" line="0" column="0" />
@@ -526,8 +530,8 @@
       <jump line="72" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/incoming_stat.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">W3N1Ym1vZHVsZSAiaXRsYWIuY29tOnd5bGR0ZWNoL25vZGVkZXYvbm9kZWRldi5iaW4vcm9vdC1wYWNrYWdlLmpzb24uZ2l0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>E</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -542,7 +546,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>E</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -560,63 +564,44 @@
         <text>bidding</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJ2gxJzogMCwK</text>
+        <text encoding="base64">ICAgICAgLSBhZGZhc2RmUEdfVVNFUk5BTUU9d3lsZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W3N1Ym1vZHVsZSAiaXRsYWIuY29tOnd5bGR0ZWNoL25vZGVkZXYvbm9kZWRldi5iaW4vcm9vdC1wYWNrYWdlLmpzb24uZ2l0Cg==</text>
+        <text encoding="base64">ICAgICAgLSBhZGZhc2RmUEdfVVNFUk5BTUU9d3lsZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLSBhZGZhc2RmUEdfVVNFUk5BTUU9d3lsZAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">W3N1Ym1vZHVsZSAiaXRsYWIuY29tOnd5bGR0ZWNoL25vZGVkZXYvbm9kZWRldi5iaW4vcm9vdC1wYWNrYWdlLmpzb24uZ2l0Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>root-package.json&quot;]
 	path = root-package.json
 	url = git@g</text>
       </register>
-      <register name="3" type="2">
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">W3N1Ym1vZHVsZSAicgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>oot-package.json&quot;]
 	path = root-package.json
 	url = git@gitlab.com:wyldtech/nodedev/nodedev.bin/root-package.json.git</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="4">
-        <text>'d1': {
-      'h1': 1,
-      'h2': 100,
-      // ...
-      'h24': 1000,
-    },
-    'd2': {
-      'h1': 1,
-      'h2': 100,
-      // ...
-      'h24': 1000,
-    },
-    // ...
-    'd7': {
-      'h1': 1,
-      'h2': 100,
-      // ...
-      'h24': 1000,
-    }
-  }</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgZ2VvZmVuY2VPYmplY3Q6IHsKICAgIG5hbWU6ICcnLAogICAgY29vcmRzOiAnJywKICAgIHNvbWVFeHRyYURhdGE6ICcnCiAgfSw=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
