@@ -144,11 +144,11 @@
         <mark key="]" line="16" column="56" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1576604647652">
-        <mark key="[" line="94" column="25" />
-        <mark key="]" line="94" column="29" />
-        <mark key="." line="94" column="29" />
-        <mark key="^" line="94" column="29" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1576606115938">
+        <mark key="[" line="107" column="25" />
+        <mark key="]" line="141" column="9" />
+        <mark key="." line="141" column="9" />
+        <mark key="^" line="141" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" timestamp="1576603371489">
         <mark key="[" line="28" column="0" />
@@ -540,8 +540,8 @@
       <jump line="72" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/incoming_stat.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -577,34 +577,34 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb25lKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb25lKCk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICBjb21tYW5kOiBiYXNoIC1jICJub2RlIGFwcC5qcyIK</text>
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiMgICAgdm9sdW1lczoKIyAgICAgIC0gLi93eWxkLWZ1c2lvbi1zZXJ2aWNlLW5vdGlmaWNhdGlvbjovdXNyL3NyYy9hcHAgI21ha2VzIGl0IHNvIGNoYW5nZXMgYXJlIGltbWVkaWF0ZQojICAgICAgLSAuL3d5bGQtZnVzaW9uLXNlcnZpY2Utbm90aWZpY2F0aW9uL3NyYzovdXNyL3NyYy9hcHAvc3JjCiMgICAgICAtIC91c3Ivc3JjL2FwcC9ub2RlX21vZHVsZXMKIyAgICAgIC0gL3Vzci9zcmMvYXBwL3BhY2thZ2UuanNvbgojICAgICAgLSAvdXNyL3NyYy9hcHAvcGFja2FnZS1sb2NrLmpzb24=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
