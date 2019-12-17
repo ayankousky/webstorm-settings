@@ -144,6 +144,17 @@
         <mark key="]" line="16" column="56" />
         <mark key="." line="110" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1576603838386">
+        <mark key="[" line="93" column="26" />
+        <mark key="]" line="93" column="26" />
+        <mark key="." line="93" column="26" />
+        <mark key="^" line="93" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" timestamp="1576603371489">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Ts_tests/modules/media/dist/app.js" timestamp="1573678232799">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -172,11 +183,10 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1576517748589" />
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" timestamp="1576601007769">
-        <mark key="[" line="419" column="11" />
-        <mark key="]" line="419" column="9" />
-        <mark key="." line="419" column="9" />
-        <mark key="^" line="419" column="9" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" timestamp="1576602777188">
+        <mark key="[" line="419" column="0" />
+        <mark key="]" line="419" column="0" />
+        <mark key="." line="419" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/organization/organizations-list/organizations-list.component.html" timestamp="1575825663278">
         <mark key="[" line="7" column="59" />
@@ -326,12 +336,12 @@
         <mark key="^" line="95" column="43" />
         <mark key="." line="95" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/index.js" timestamp="1576599799789">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/index.js" timestamp="1576603197823">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1576482063864">
+      <file name="/Dummy.txt" timestamp="1576601135515">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/users/user-info/user-info.component.html" timestamp="1575833210984">
@@ -381,6 +391,11 @@
         <mark key="[" line="158" column="0" />
         <mark key="]" line="158" column="0" />
         <mark key="." line="158" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.local.yml" timestamp="1576603230072">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/services/db/collections/RAEDomain.ts" timestamp="1574090199121">
         <mark key="[" line="36" column="0" />
@@ -525,8 +540,8 @@
       <jump line="72" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/incoming_stat.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcykK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -541,7 +556,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -559,44 +574,40 @@
         <text>bidding</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSBhZGZhc2RmUEdfVVNFUk5BTUU9d3lsZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBhZGZhc2RmUEdfVVNFUk5BTUU9d3lsZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICBkb25lKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBhZGZhc2RmUEdfVVNFUk5BTUU9d3lsZAo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">W3N1Ym1vZHVsZSAiaXRsYWIuY29tOnd5bGR0ZWNoL25vZGVkZXYvbm9kZWRldi5iaW4vcm9vdC1wYWNrYWdlLmpzb24uZ2l0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>root-package.json&quot;]
-	path = root-package.json
-	url = git@g</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">W3N1Ym1vZHVsZSAicgo=</text>
+        <text encoding="base64">IyAgICBjb21tYW5kOiBiYXNoIC1jICJub2RlIGFwcC5qcyIK</text>
       </register>
       <register name="8" type="4">
-        <text>oot-package.json&quot;]
-	path = root-package.json
-	url = git@gitlab.com:wyldtech/nodedev/nodedev.bin/root-package.json.git</text>
+        <text encoding="base64">CiMgICAgdm9sdW1lczoKIyAgICAgIC0gLi93eWxkLWZ1c2lvbi1zZXJ2aWNlLW5vdGlmaWNhdGlvbjovdXNyL3NyYy9hcHAgI21ha2VzIGl0IHNvIGNoYW5nZXMgYXJlIGltbWVkaWF0ZQojICAgICAgLSAuL3d5bGQtZnVzaW9uLXNlcnZpY2Utbm90aWZpY2F0aW9uL3NyYzovdXNyL3NyYy9hcHAvc3JjCiMgICAgICAtIC91c3Ivc3JjL2FwcC9ub2RlX21vZHVsZXMKIyAgICAgIC0gL3Vzci9zcmMvYXBwL3BhY2thZ2UuanNvbgojICAgICAgLSAvdXNyL3NyYy9hcHAvcGFja2FnZS1sb2NrLmpzb24=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
