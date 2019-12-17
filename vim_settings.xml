@@ -144,11 +144,11 @@
         <mark key="]" line="16" column="56" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1576603838386">
-        <mark key="[" line="93" column="26" />
-        <mark key="]" line="93" column="26" />
-        <mark key="." line="93" column="26" />
-        <mark key="^" line="93" column="26" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1576604647652">
+        <mark key="[" line="94" column="25" />
+        <mark key="]" line="94" column="29" />
+        <mark key="." line="94" column="29" />
+        <mark key="^" line="94" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" timestamp="1576603371489">
         <mark key="[" line="28" column="0" />
@@ -183,7 +183,7 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1576517748589" />
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" timestamp="1576602777188">
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" timestamp="1576603965883">
         <mark key="[" line="419" column="0" />
         <mark key="]" line="419" column="0" />
         <mark key="." line="419" column="0" />
@@ -540,8 +540,8 @@
       <jump line="72" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/incoming_stat.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcykK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -556,7 +556,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>1</text>
       </register>
       <register name="m" type="4">
         <keys>
