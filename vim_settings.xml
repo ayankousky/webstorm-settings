@@ -90,12 +90,12 @@
         <mark key="." line="1224" column="27" />
         <mark key="^" line="1224" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1576612868317">
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1576650192163">
         <mark key="'" line="138" column="24" />
-        <mark key="[" line="147" column="14" />
-        <mark key="]" line="147" column="14" />
-        <mark key="." line="147" column="14" />
-        <mark key="^" line="147" column="14" />
+        <mark key="[" line="98" column="49" />
+        <mark key="]" line="98" column="49" />
+        <mark key="." line="98" column="49" />
+        <mark key="^" line="98" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" timestamp="1576603371489">
         <mark key="[" line="28" column="0" />
@@ -370,8 +370,8 @@
       <jump line="31" column="27" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/models/geofenceHits.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhd2FpdCBtZXRyaWNzLmxvZ0dlb2ZlbmNlSGl0cyhyZXMucm93cykK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -404,7 +404,7 @@
         <text>0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAJCWNvbnNvbGUubG9nKCdwb29sIGVycm9yJykK</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBtZXRyaWNzLmxvZ0dlb2ZlbmNlSGl0cyhyZXMucm93cykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAJCQo=</text>
