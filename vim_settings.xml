@@ -59,12 +59,12 @@
         <mark key="." line="132" column="9" />
         <mark key="^" line="132" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/cache/redis/index.js" timestamp="1576852038496">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/cache/redis/index.js" timestamp="1576855280796">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="2" column="52" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="17" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/Ts_tests/modules/media/Dockerfile" timestamp="1573678911349">
         <mark key="[" line="3" column="6" />
@@ -152,11 +152,12 @@
         <mark key="^" line="139" column="61" />
         <mark key="." line="139" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" timestamp="1576854571198">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="118" column="26" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" timestamp="1576856691017">
+        <mark key="'" line="65" column="5" />
+        <mark key="[" line="67" column="25" />
+        <mark key="]" line="67" column="25" />
+        <mark key="." line="67" column="25" />
+        <mark key="^" line="67" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-tfl-client/src/service-bus/generateRequester.js" timestamp="1575287218693">
         <mark key="[" line="7" column="0" />
@@ -246,9 +247,6 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1576608650125">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/models/geofenceHits.js" timestamp="1576689488709">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="3" column="0" />
@@ -260,6 +258,12 @@
         <mark key="[" line="2" column="85" />
         <mark key="]" line="2" column="85" />
         <mark key="." line="2" column="85" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/helpers/common.js" timestamp="1576856564248">
+        <mark key="[" line="112" column="1" />
+        <mark key="]" line="112" column="1" />
+        <mark key="^" line="112" column="1" />
+        <mark key="." line="112" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/traffic/index.js" timestamp="1576847110705">
         <mark key="'" line="200" column="26" />
@@ -277,6 +281,12 @@
         <mark key="[" line="0" column="30" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/Desktop/B.blck.AAL.62h.1.00.mff" timestamp="1576857003580">
+        <mark key="[" line="90" column="4" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/findMulClicks.js" timestamp="1576854066290">
         <mark key="[" line="16" column="6" />
@@ -316,7 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="195" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="196" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="197" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
@@ -416,10 +425,11 @@
       <jump line="47" column="35" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" />
       <jump line="96" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/cache/redis/index.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/cache/redis/index.js" />
+      <jump line="64" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSAgICBjb25zb2xlLmxvZyhtZXJjaGFudCkK</text>
+        <text encoding="base64">CSAgICBjb25zb2xlLmxvZyhvZmZzZXQpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -434,17 +444,14 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>yadore</text>
+        <text encoding="base64">IG9mZmVyc0NvdW50</text>
       </register>
       <register name="m" type="4">
         <keys>
-          <key char="106" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
           <key char="102" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="61" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
@@ -452,40 +459,40 @@
         <text>media</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9mZmVyLnVybCkK</text>
+        <text encoding="base64">CSAgICBjb25zb2xlLmxvZyhvZmZzZXQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICBjb25zb2xlLmxvZyhtZXJjaGFudCkK</text>
+        <text encoding="base64">CQkJICByZXR1cm4gcmVzb2x2ZSgna2VrJykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnbWVyY2hhbnQnKQo=</text>
+        <text encoding="base64">ICAgICAgcmVkaXMuX3JlZGlzLmxwb3AodGhpcy5fZ2V0Q2FjaGVLZXkobWVyY2hhbnQpLCBmdW5jdGlvbiAoZXJyLCBvZmZlclVybCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcxMjMxMjMxMjMnKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CSAgY29uc29sZS5sb2coJzInKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">CSAgICBjb25zb2xlLmxvZygnMjIyJykK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CSAgY29uc29sZS5sb2coJ29mZmVyLnVybCcpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9mZmVyLnVybCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnMTExJykK</text>
+        <text encoding="base64">CSAgICBjb25zb2xlLmxvZyhtZXJjaGFudCkK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc0JykK</text>
+        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnbWVyY2hhbnQnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgY29uc29sZS5sb2coJzMnKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcxMjMxMjMxMjMnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgY29uc29sZS5sb2coJzInKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
