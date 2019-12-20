@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" timestamp="1574920104018">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" timestamp="1576847429464">
         <mark key="[" line="209" column="7" />
         <mark key="]" line="209" column="7" />
         <mark key="." line="209" column="7" />
@@ -53,6 +53,12 @@
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/domain/logic/whitelist/index.ts" timestamp="1576846916417">
+        <mark key="[" line="132" column="4" />
+        <mark key="]" line="132" column="9" />
+        <mark key="." line="132" column="9" />
+        <mark key="^" line="132" column="9" />
+      </file>
       <file name="$USER_HOME$/Desktop/Ts_tests/modules/media/Dockerfile" timestamp="1573678911349">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="6" />
@@ -68,6 +74,7 @@
         <mark key="]" line="6" column="37" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/middlewares/defineUserRegion.js" timestamp="1576846700392" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/firmwares.js" timestamp="1574633544968">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -110,7 +117,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1576517748589" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1576846218140">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" timestamp="1576603965883">
         <mark key="[" line="419" column="0" />
         <mark key="]" line="419" column="0" />
@@ -128,6 +139,12 @@
         <mark key="^" line="139" column="61" />
         <mark key="." line="139" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" timestamp="1576847693003">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="70" column="28" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-tfl-client/src/service-bus/generateRequester.js" timestamp="1575287218693">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -142,6 +159,9 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="83" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1576845708822">
+        <mark key="'" line="24" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/app.js" timestamp="1575829638387">
         <mark key="[" line="37" column="0" />
@@ -159,6 +179,12 @@
         <mark key="]" line="72" column="16" />
         <mark key="." line="72" column="16" />
         <mark key="^" line="72" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" timestamp="1576846641354">
+        <mark key="[" line="28" column="25" />
+        <mark key="]" line="28" column="28" />
+        <mark key="." line="28" column="28" />
+        <mark key="^" line="28" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-metrics-feed/package.json" timestamp="1575528681364">
         <mark key="[" line="33" column="0" />
@@ -180,13 +206,15 @@
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1576339687271">
-        <mark key="'" line="44" column="4" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1576846772385">
+        <mark key="'" line="189" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1575284182642">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1576845722544">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="248" column="36" />
+        <mark key="]" line="248" column="42" />
+        <mark key="." line="248" column="42" />
+        <mark key="^" line="248" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/Dockerfile" timestamp="1575732186794">
         <mark key="[" line="6" column="0" />
@@ -220,8 +248,17 @@
         <mark key="]" line="2" column="85" />
         <mark key="." line="2" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/traffic/index.js" timestamp="1576258895729">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/traffic/index.js" timestamp="1576847110705">
         <mark key="'" line="200" column="26" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1576846312483">
+        <mark key="[" line="46" column="28" />
+        <mark key="]" line="46" column="33" />
+        <mark key="." line="46" column="33" />
+        <mark key="^" line="46" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/services/db/collections/WhitelistRule.ts" timestamp="1574082892684">
         <mark key="[" line="0" column="30" />
@@ -248,8 +285,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/incoming_stat.js" timestamp="1576513053370" />
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/package.json" timestamp="1576772929338" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/http-server.js" timestamp="1572726479902">
         <mark key="[" line="19" column="4" />
         <mark key="]" line="19" column="4" />
@@ -262,11 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="551" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
-      <jump line="109" column="34" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
-      <jump line="110" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
-      <jump line="115" column="34" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
-      <jump line="116" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="123" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="178" column="34" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="179" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
@@ -362,10 +392,15 @@
       <jump line="20" column="87" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/models/geofenceMetrics.js" />
       <jump line="31" column="27" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/models/geofenceHits.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/models/geofenceHits.js" />
+      <jump line="24" column="21" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="137" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
+      <jump line="185" column="22" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
+      <jump line="189" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgICAvLyBjb25zb2xlLmxvZyhlcnIpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -380,7 +415,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>m</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -395,52 +430,52 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>0</text>
+        <text>media</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2FhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYScpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9mZmVyc0NvdW50KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgICAvLyBjb25zb2xlLmxvZyhlcnIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2VycicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG1lcmNoYW50KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobWlkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgICBjb25zb2xlLmxvZyhtZXJjaGFudHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAJCQo=</text>
+        <text encoding="base64">ICAgICAgICAJY29uc29sZS5sb2cobWVyY2hhbnQpCg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAkJCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnMScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKGZvdW5kRG9tYWluKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKGZvdW5kRG9tYWluKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>0</last-search>
+      <last-search>media</last-search>
       <last-offset />
-      <last-pattern>0</last-pattern>
+      <last-pattern>media</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>channelId</last-substitute>
       <last-dir>1</last-dir>
@@ -457,7 +492,6 @@
         <entry>admin-</entry>
         <entry>cached</entry>
         <entry>admin-p</entry>
-        <entry>media</entry>
         <entry>build</entry>
         <entry>depends</entry>
         <entry>logger</entry>
@@ -468,6 +502,7 @@
         <entry>biddin</entry>
         <entry>bidding</entry>
         <entry>0</entry>
+        <entry>media</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
