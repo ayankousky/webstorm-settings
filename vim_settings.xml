@@ -153,12 +153,11 @@
         <mark key="^" line="139" column="61" />
         <mark key="." line="139" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" timestamp="1576856691017">
-        <mark key="'" line="65" column="5" />
-        <mark key="[" line="67" column="25" />
-        <mark key="]" line="67" column="25" />
-        <mark key="." line="67" column="25" />
-        <mark key="^" line="67" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" timestamp="1576901827483">
+        <mark key="[" line="65" column="66" />
+        <mark key="]" line="65" column="71" />
+        <mark key="^" line="65" column="71" />
+        <mark key="." line="65" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-tfl-client/src/service-bus/generateRequester.js" timestamp="1575287218693">
         <mark key="[" line="7" column="0" />
@@ -290,11 +289,10 @@
         <mark key="^" line="94" column="0" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/findMulClicks.js" timestamp="1576854066290">
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="17" column="14" />
-        <mark key="^" line="17" column="14" />
-        <mark key="." line="17" column="14" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/findMulClicks.js" timestamp="1576901495671">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/layout-header/profile/profile.component.ts" timestamp="1575831685195">
         <mark key="[" line="55" column="0" />
@@ -430,8 +428,8 @@
       <jump line="64" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSAgICBjb25zb2xlLmxvZyhvZmZzZXQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>storeUrl</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -446,7 +444,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9mZmVyc0NvdW50</text>
+        <text>storeUrl</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -461,40 +459,40 @@
         <text>media</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSAgICBjb25zb2xlLmxvZyhvZmZzZXQpCg==</text>
+        <text encoding="base64">CSAgICBjb25zb2xlLmxvZyhgZnJvbV95YWRvcmU6JHtkYk9mZmVyLnN0b3JlX3VybH1gKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJICByZXR1cm4gcmVzb2x2ZSgna2VrJykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVkaXMuX3JlZGlzLmxwb3AodGhpcy5fZ2V0Q2FjaGVLZXkobWVyY2hhbnQpLCBmdW5jdGlvbiAoZXJyLCBvZmZlclVybCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAgICBjb25zb2xlLmxvZygnMjIyJykK</text>
+        <text encoding="base64">ICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAgY29uc29sZS5sb2coJ29mZmVyLnVybCcpCg==</text>
+        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnMTExJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9mZmVyLnVybCkK</text>
+        <text encoding="base64">CSAgICBjb25zb2xlLmxvZyhvZmZzZXQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgICBjb25zb2xlLmxvZyhtZXJjaGFudCkK</text>
+        <text encoding="base64">CSAgICBjb25zb2xlLmxvZyhgb2Zmc2V0OiR7c3RvcmVVcmx9YCk7Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAljb25zb2xlLmxvZygnbWVyY2hhbnQnKQo=</text>
+        <text encoding="base64">ICAgIAljb25zb2xlLmxvZyhvZmZlcnNDb3VudCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcxMjMxMjMxMjMnKQo=</text>
+        <text encoding="base64">CQkJICByZXR1cm4gcmVzb2x2ZSgna2VrJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAgY29uc29sZS5sb2coJzInKQo=</text>
+        <text encoding="base64">ICAgICAgcmVkaXMuX3JlZGlzLmxwb3AodGhpcy5fZ2V0Q2FjaGVLZXkobWVyY2hhbnQpLCBmdW5jdGlvbiAoZXJyLCBvZmZlclVybCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
