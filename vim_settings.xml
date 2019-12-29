@@ -100,18 +100,19 @@
         <mark key="[" line="14" column="37" />
         <mark key="]" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1577631554823">
-        <mark key="'" line="93" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1577634940182">
+        <mark key="'" line="44" column="0" />
         <mark key="j" line="21" column="22" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="102" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" timestamp="1577633142961">
-        <mark key="[" line="293" column="80" />
-        <mark key="]" line="293" column="80" />
-        <mark key="." line="293" column="80" />
-        <mark key="^" line="295" column="30" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" timestamp="1577634396915">
+        <mark key="[" line="283" column="80" />
+        <mark key="]" line="283" column="80" />
+        <mark key="." line="283" column="80" />
+        <mark key="^" line="293" column="6" />
       </file>
       <file name="$USER_HOME$/Desktop/Ts_tests/modules/media/dist/app.js" timestamp="1573678232799">
         <mark key="[" line="17" column="0" />
@@ -171,11 +172,12 @@
         <mark key="]" line="10" column="83" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/app.js" timestamp="1577632620871">
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/app.js" timestamp="1577634887444">
         <mark key="'" line="46" column="15" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="^" line="119" column="34" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/app.js" timestamp="1575829638387">
         <mark key="[" line="37" column="0" />
@@ -228,11 +230,11 @@
         <mark key="^" line="95" column="43" />
         <mark key="." line="95" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/index.js" timestamp="1577629168023">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="20" column="18" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/index.js" timestamp="1577635010625">
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="23" column="63" />
+        <mark key="." line="23" column="63" />
+        <mark key="^" line="23" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/RPS/index.js" timestamp="1577629497050" />
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/models/geofenceHits.js" timestamp="1577135275428">
@@ -338,7 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="198" column="7" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="199" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="206" column="40" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
@@ -438,10 +439,11 @@
       <jump line="64" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" />
       <jump line="81" column="0" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" />
       <jump line="46" column="15" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/app.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CgkJCQlycHNDbGllbnQub24oJ3N1YnNjcmliZScsIGZ1bmN0aW9uKCl7CgkJCQkJY29uc29sZS5sb2coJ2tla2VrZWVrJykKCQkJCX0p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkvLyB9KSk7Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -456,7 +458,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">KCkg</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -471,40 +473,40 @@
         <text>media</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCXBhc3N3b3JkOiBQQVNTV09SRAo=</text>
+        <text encoding="base64">CXJwc0NsaWVudCA9IGF3YWl0IHJwc0NsaWVudENyZWF0ZSgpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgkJCQlycHNDbGllbnQub24oJ3N1YnNjcmliZScsIGZ1bmN0aW9uKCl7CgkJCQkJY29uc29sZS5sb2coJ2tla2VrZWVrJykKCQkJCX0p</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQkvLyB9KSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKHJwc0NsaWVudC5wdWJsaXNoKQo=</text>
+        <text encoding="base64">CQkJCQkvLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkvLyBycHNDbGllbnQucHVibGlzaCgibWV0cmljcy5nZW9mZW5jZS5oaXRzIiwgSlNPTi5zdHJpbmdpZnkoewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcy5yb3dzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWxldCBycHNDbGllbnQgPSBhd2FpdCBtZXRyaWNzLmdldFJwc0NsaWVudCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2codHQpCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIHJwc0NsaWVudC5wdWJsaXNoKCJtZXRyaWNzLmtla2UiLCBKU09OLnN0cmluZ2lmeSh7a2VrOiAna2Vrcyd9KSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CglsZXQgdGZsQWxlcnRNZXRyaWNzID0gewoJCSJtZXRyaWN0eXBlIjogInRmbCIsCgkJInZhbHVlIjogMCwKCQkiZGF0YSI6IHsKCQkJImxpbmUiOiAiIiwKCQkJInN0YXR1c2Rlc2MiOiAiIiwKCQkJInRzIjogIiIKCQl9Cgl9Ow==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coIjExMTExMTExMTExMTEiKQo=</text>
+        <text encoding="base64">CXJwc0NsaWVudC5wdWJsaXNoKCJtZXRyaWNzLmtla2UiLCBKU09OLnN0cmluZ2lmeSh0ZmxBbGVydE1ldHJpY3MpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
