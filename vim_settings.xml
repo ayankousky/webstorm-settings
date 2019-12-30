@@ -102,13 +102,13 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1577693065021">
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1577707948891">
         <mark key="'" line="44" column="0" />
         <mark key="j" line="21" column="22" />
-        <mark key="[" line="102" column="42" />
-        <mark key="]" line="102" column="46" />
-        <mark key="." line="102" column="46" />
-        <mark key="^" line="102" column="46" />
+        <mark key="[" line="85" column="26" />
+        <mark key="]" line="86" column="22" />
+        <mark key="." line="86" column="22" />
+        <mark key="^" line="86" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" timestamp="1577634396915">
         <mark key="[" line="283" column="80" />
@@ -173,12 +173,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="83" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/app.js" timestamp="1577704221977">
-        <mark key="'" line="46" column="15" />
-        <mark key="[" line="132" column="38" />
-        <mark key="]" line="132" column="38" />
-        <mark key="." line="132" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/app.js" timestamp="1575829638387">
         <mark key="[" line="37" column="0" />
@@ -245,7 +239,7 @@
         <mark key="." line="24" column="109" />
         <mark key="^" line="24" column="109" />
       </file>
-      <file name="/Dummy.txt" timestamp="1577632933869">
+      <file name="/Dummy.txt" timestamp="1577704567678">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/.gitmodules" timestamp="1575527427012">
@@ -259,7 +253,7 @@
         <mark key="^" line="112" column="1" />
         <mark key="." line="112" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/loc01.yml" timestamp="1577694352926">
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/loc01.yml" timestamp="1577707933187">
         <mark key="'" line="22" column="158" />
         <mark key="[" line="22" column="161" />
         <mark key="]" line="22" column="161" />
@@ -448,8 +442,8 @@
       <jump line="22" column="158" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/loc01.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSJfaWQiOiAiNWUwOWI0OTQ2NWZmNWMwMjZlM2NhMjY1IiwK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -482,41 +476,143 @@
         <text encoding="base64">CQkJZ05hbWU6IGcubmFtZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQltZXNzYWdlID0gSlNPTi5zdHJpbmdpZnkoKQo=</text>
+        <text encoding="base64">CSJfaWQiOiAiNWUwOWI0OTQ2NWZmNWMwMjZlM2NhMjY1IiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJaDogaGl0cywK</text>
+        <text encoding="base64">wqDCoOKAnF9fduKAnSA6IDAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CWxldCBoaXRzID0gW107Cg==</text>
+      <register name="3" type="4">
+        <text>)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQloaXRzCg==</text>
+      <register name="4" type="4">
+        <text>NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(</text>
       </register>
-      <register name="5" type="4">
-        <text>.push({
-			gId: g.id,
-			gName: g.name,
-			count: 1,
-		})</text>
+      <register name="5" type="8">
+        <text>”)
+”)
+”)
+”)
+”)
+”)
+”)
+”)
+”)
+”)
+”)
+”)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCSJjb3VudCI6IG1zZy5jb3VudCwK</text>
+      <register name="6" type="8">
+        <text>&quot;)
+&quot;)
+&quot;)
+&quot;)
+&quot;)
+&quot;)
+&quot;)
+&quot;)
+&quot;)
+&quot;)
+&quot;)
+&quot;)</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCSJldmVudENvdW50IjogbXNnLmV2ZW50Q291bnQK</text>
+      <register name="7" type="4">
+        <text>&quot;)
+&quot;)
+&quot;)
+&quot;)
+&quot;)
+&quot;)
+&quot;)
+&quot;)
+&quot;)
+&quot;)
+&quot;)
+&quot;)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhtc2cpCg==</text>
+      <register name="8" type="4">
+        <text>NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“
+NumberDecimal(“</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CglhY2M6IHsKCQl0eXBlOiBOdW1iZXIsCgkJcmVxdWlyZWQ6IHRydWUsCgl9LA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCQltZXNzYWdlID0gSlNPTi5zdHJpbmdpZnkoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
