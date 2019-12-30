@@ -102,13 +102,10 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1577707948891">
-        <mark key="'" line="44" column="0" />
-        <mark key="j" line="21" column="22" />
-        <mark key="[" line="85" column="26" />
-        <mark key="]" line="86" column="22" />
-        <mark key="." line="86" column="22" />
-        <mark key="^" line="86" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1577708673099">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" timestamp="1577634396915">
         <mark key="[" line="283" column="80" />
@@ -443,7 +440,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSJfaWQiOiAiNWUwOWI0OTQ2NWZmNWMwMjZlM2NhMjY1IiwK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -458,7 +455,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -476,15 +473,24 @@
         <text encoding="base64">CQkJZ05hbWU6IGcubmFtZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJfaWQiOiAiNWUwOWI0OTQ2NWZmNWMwMjZlM2NhMjY1IiwK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>wyld-fusion-metrics-feed            |
+wyld-fusion-metrics-feed            |
+wyld-fusion-metrics-feed            |
+wyld-fusion-metrics-feed            |</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CSJfaWQiOiAiNWUwOWI0OTQ2NWZmNWMwMjZlM2NhMjY1IiwK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">wqDCoOKAnF9fduKAnSA6IDAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>)
 )
 )
@@ -512,7 +518,7 @@
 )
 )</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>NumberInt(
 NumberInt(
 NumberInt(
@@ -540,7 +546,10 @@ NumberInt(
 NumberInt(
 NumberInt(</text>
       </register>
-      <register name="5" type="8">
+      <register name="v" type="4">
+        <text>n^xj</text>
+      </register>
+      <register name="7" type="8">
         <text>”)
 ”)
 ”)
@@ -554,7 +563,7 @@ NumberInt(</text>
 ”)
 ”)</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text>&quot;)
 &quot;)
 &quot;)
@@ -568,10 +577,7 @@ NumberInt(</text>
 &quot;)
 &quot;)</text>
       </register>
-      <register name="v" type="4">
-        <text>n^xj</text>
-      </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>&quot;)
 &quot;)
 &quot;)
@@ -584,35 +590,6 @@ NumberInt(</text>
 &quot;)
 &quot;)
 &quot;)</text>
-      </register>
-      <register name="8" type="4">
-        <text>NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“
-NumberDecimal(“</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQltZXNzYWdlID0gSlNPTi5zdHJpbmdpZnkoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
