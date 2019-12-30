@@ -174,11 +174,11 @@
         <mark key="]" line="10" column="83" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/app.js" timestamp="1577694408258">
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/app.js" timestamp="1577704221977">
         <mark key="'" line="46" column="15" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
+        <mark key="[" line="132" column="38" />
+        <mark key="]" line="132" column="38" />
+        <mark key="." line="132" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/app.js" timestamp="1575829638387">
         <mark key="[" line="37" column="0" />
@@ -232,11 +232,10 @@
         <mark key="^" line="95" column="43" />
         <mark key="." line="95" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/index.js" timestamp="1577693070957">
-        <mark key="[" line="8" column="47" />
-        <mark key="]" line="8" column="51" />
-        <mark key="^" line="8" column="51" />
-        <mark key="." line="8" column="51" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/index.js" timestamp="1577704134725">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/RPS/index.js" timestamp="1577629497050" />
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/models/geofenceHits.js" timestamp="1577694507372">
@@ -450,7 +449,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -465,7 +464,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -480,40 +479,44 @@
         <text>totalAcc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQloaXRzVmFsdWVzW2RheUhvdXJdID0gaGl0c0NvdW50Owo=</text>
+        <text encoding="base64">CQkJZ05hbWU6IGcubmFtZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhtc2cpCg==</text>
+        <text encoding="base64">CQkJCQltZXNzYWdlID0gSlNPTi5zdHJpbmdpZnkoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CglhY2M6IHsKCQl0eXBlOiBOdW1iZXIsCgkJcmVxdWlyZWQ6IHRydWUsCgl9LA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJaDogaGl0cywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl2YWx1ZXNbZGF5SG91cl0gPSBoaXRzQ291bnQ7Cg==</text>
+        <text encoding="base64">CWxldCBoaXRzID0gW107Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXtnZW9mZW5jZUlkOiBnZW9mZW5jZUlkLCBuYW1lOiBnZW9mZW5jZU5hbWUsIGFjYzogYWNjLCB0czogZ2VvZmVuY2VEYXRlLCB2YWx1ZXM6IHZhbHVlc30sCg==</text>
+        <text encoding="base64">CQloaXRzCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhtc2cpCg==</text>
+      <register name="5" type="4">
+        <text>.push({
+			gId: g.id,
+			gName: g.name,
+			count: 1,
+		})</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhtZXNzYWdlKQo=</text>
+        <text encoding="base64">CQkJCQkJCSJjb3VudCI6IG1zZy5jb3VudCwK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBzZW5kOiAiTE9DIHtcInJlcXVlc3RcIjp7XCJkaXVpZFwiOlwie3sgZGl1aWQgfX1cIixcImNhcHR1cmVpZFwiOlwie3sgZGF0YSB9fVwiLFwibGF0XCI6XCI1MS41NTUzOTExMzUyNzQ3XCIsXCJsb25cIjpcIi0wLjEwNzU1NDA1MDQzMjk1NlwiLFwiYWNjXCI6XCI1MS41NTUzOTExMzUyNzQ3XCIgfX0iCg==</text>
+        <text encoding="base64">CQkJCQkJCSJldmVudENvdW50IjogbXNnLmV2ZW50Q291bnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShtc2cpKQo=</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhtc2cpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CglhY2M6IHsKCQl0eXBlOiBOdW1iZXIsCgkJcmVxdWlyZWQ6IHRydWUsCgl9LA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
