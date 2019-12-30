@@ -149,6 +149,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wyld-realtime-graph-demo/data.js" timestamp="1577719483319">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="31" />
+        <mark key="^" line="27" column="32" />
+        <mark key="." line="27" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" timestamp="1576902872419">
         <mark key="[" line="65" column="30" />
         <mark key="]" line="65" column="30" />
@@ -229,23 +235,25 @@
         <mark key="^" line="95" column="43" />
         <mark key="." line="95" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/index.js" timestamp="1577713136189">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/index.js" timestamp="1577719838625">
+        <mark key="[" line="50" column="74" />
+        <mark key="]" line="50" column="82" />
+        <mark key="." line="50" column="82" />
+        <mark key="^" line="50" column="82" />
       </file>
+      <file name="$USER_HOME$/Desktop/wyld-realtime-graph-demo/initial_data.js" timestamp="1577718772439" />
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/RPS/index.js" timestamp="1577711212120">
         <mark key="[" line="37" column="45" />
         <mark key="]" line="38" column="22" />
         <mark key="^" line="38" column="22" />
         <mark key="." line="38" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/models/geofenceHits.js" timestamp="1577715028178">
-        <mark key="'" line="74" column="101" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="^" line="118" column="16" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/models/geofenceHits.js" timestamp="1577719745019">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="^" line="132" column="10" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1577704567678">
         <mark key="[" line="0" column="0" />
@@ -348,8 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
-      <jump line="248" column="35" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="249" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="254" column="35" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="255" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
@@ -448,10 +454,12 @@
       <jump line="69" column="8" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/models/geofenceHits.js" />
       <jump line="71" column="101" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/models/geofenceHits.js" />
       <jump line="22" column="158" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/loc01.yml" />
+      <jump line="124" column="46" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/models/geofenceHits.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/models/geofenceHits.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGFsbCkK</text>
+      <register name="&quot;" type="4">
+        <text>{kek: 'keks'}</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -466,7 +474,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>{kek: 'keks'}</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -481,44 +489,131 @@
         <text>totalAcc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGFsbCkK</text>
+        <text encoding="base64">CTEyMzQuNCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGFsbCkK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdhbGwnKQo=</text>
+      <register name="2" type="8">
+        <text>geofenceData
+geofenceData
+geofenceData
+geofenceData
+geofenceData
+geofenceData</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWZvcihsZXQgZ2VvZmVuY2VEYXRhIG9mIGdlb2ZlbmNlcyl7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>// console.log('111111111111')
-	// console.log('111111111111')
-	// console.log('111111111111')
-	// console.log(toDate)
-	// console.log(fromDate)</text>
+        <text>)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CU51bWJlckludCgwKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="6" type="4">
+        <text>NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQlsZXQgbXNnCg==</text>
+      <register name="7" type="4">
+        <text>)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlycHNDbGllbnQuc3Vic2NyaWJlKCJtZXRyaWNzLmdlb2ZlbmNlLmxvYWRSZXEiKTsK</text>
+      <register name="8" type="8">
+        <text>NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(
+NumberInt(</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CU51bWJlckludCgwKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
