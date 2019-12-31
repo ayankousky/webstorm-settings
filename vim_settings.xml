@@ -53,6 +53,7 @@
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/Desktop/wyld-realtime-graph-demo/index.html" timestamp="1577778213294" />
       <file name="$USER_HOME$/Desktop/Ts_tests/modules/media/Dockerfile" timestamp="1573678911349">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="6" />
@@ -160,11 +161,11 @@
         <mark key="]" line="10" column="83" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/app.js" timestamp="1577725973932">
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="^" line="153" column="54" />
-        <mark key="." line="176" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/app.js" timestamp="1577779790031">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="^" line="131" column="30" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/app.js" timestamp="1575829638387">
         <mark key="[" line="37" column="0" />
@@ -206,7 +207,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/index.js" timestamp="1577777570852">
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/index.js" timestamp="1577778013947">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -410,7 +411,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhtZXNzYWdlKQo=</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -425,7 +426,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>{</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -440,40 +441,40 @@
         <text>totalAcc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhtZXRyaWNHZW9mZW5jZXMpCg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhtZXNzYWdlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhtZXNzYWdlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkvLyBjb25zb2xlLmxvZyhtZXRyaWNHZW9mZW5jZXMpCg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnbWVzc2FnZScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkvLyBjb25zb2xlLmxvZygnbWV0cmljR2VvZmVuY2VzJykK</text>
+        <text encoding="base64">CQkJCQkJLy8gY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkobXNnKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCQkJLy8gY29uc29sZS5sb2coJ09uIHJlY2VpdmVkYXRhJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWF3YWl0IFNjaGVtYS5nZXRHcmFwaERhdGEoKTsK</text>
+        <text encoding="base64">CQkJCQkJImdlb2ZlbmNlcyI6IG1zZy5nZW9mZW5jZXMsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyBycHNDbGllbnQuc3Vic2NyaWJlKCJtZXRyaWNzLmdlb2ZlbmNlLmxvYWRSZXMiKTsK</text>
+        <text encoding="base64">CQkJCQkJfQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyBycHNDbGllbnQuc3Vic2NyaWJlKCJtZXRyaWNzLmdlb2ZlbmNlLmluaXREYXRhIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJbWVzc2FnZSA9IHsKCQkJCQkJCSJtZXRyaWN0eXBlIjogInJ0Z2VvZ3JhcGgiLAo=</text>
+        <text encoding="base64">CQkJCQkvLyBjb25zb2xlLmxvZyhtZXRyaWNHZW9mZW5jZXMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJ09uIHJlY2VpdmVkYXRhJykK</text>
+        <text encoding="base64">CQkJCQkvLyBjb25zb2xlLmxvZygnbWV0cmljR2VvZmVuY2VzJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
