@@ -94,10 +94,11 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1577708673099">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1577776474991">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="103" column="29" />
+        <mark key="." line="103" column="29" />
+        <mark key="^" line="103" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" timestamp="1577634396915">
         <mark key="[" line="283" column="80" />
@@ -205,11 +206,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/index.js" timestamp="1577726297277">
-        <mark key="[" line="42" column="7" />
-        <mark key="]" line="42" column="17" />
-        <mark key="." line="42" column="17" />
-        <mark key="^" line="42" column="17" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/index.js" timestamp="1577776367963">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="7" column="24" />
       </file>
       <file name="$USER_HOME$/Desktop/wyld-realtime-graph-demo/initial_data.js" timestamp="1577718772439" />
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/RPS/index.js" timestamp="1577724403735">
@@ -223,7 +224,7 @@
         <mark key="^" line="108" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1577704567678">
+      <file name="/Dummy.txt" timestamp="1577776264742">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wyld-realtime-graph-demo/geofence.js" timestamp="1577724513596">
@@ -409,7 +410,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhtZXRyaWNHZW9mZW5jZXMpCg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -424,7 +425,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>console.log('On loaddata')</text>
+        <text>!</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -439,7 +440,7 @@
         <text>totalAcc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKHdzRGF0YSkK</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhtZXRyaWNHZW9mZW5jZXMpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCg==</text>
