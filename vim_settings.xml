@@ -94,11 +94,11 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1577776474991">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="103" column="29" />
-        <mark key="." line="103" column="29" />
-        <mark key="^" line="103" column="29" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1577777371997">
+        <mark key="[" line="106" column="56" />
+        <mark key="]" line="106" column="168" />
+        <mark key="." line="106" column="168" />
+        <mark key="^" line="106" column="168" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-tfl-client/app.js" timestamp="1577634396915">
         <mark key="[" line="283" column="80" />
@@ -206,11 +206,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/index.js" timestamp="1577776367963">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="24" />
-        <mark key="." line="7" column="24" />
-        <mark key="^" line="7" column="24" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/index.js" timestamp="1577777570852">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wyld-realtime-graph-demo/initial_data.js" timestamp="1577718772439" />
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/RPS/index.js" timestamp="1577724403735">
@@ -238,12 +238,12 @@
         <mark key="]" line="2" column="85" />
         <mark key="." line="2" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/loc01.yml" timestamp="1577723871165">
-        <mark key="'" line="22" column="158" />
-        <mark key="[" line="25" column="159" />
-        <mark key="]" line="25" column="160" />
-        <mark key="." line="25" column="160" />
-        <mark key="^" line="25" column="160" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/loc01.yml" timestamp="1577777462272">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="3" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/services/db/collections/WhitelistRule.ts" timestamp="1574082892684">
         <mark key="[" line="0" column="30" />
@@ -307,7 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="35" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="255" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="285" column="40" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="286" column="15" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
@@ -407,10 +406,11 @@
       <jump line="124" column="46" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/models/geofenceHits.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/models/geofenceHits.js" />
       <jump line="39" column="23" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/loc01.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhtZXRyaWNHZW9mZW5jZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -443,37 +443,37 @@
         <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhtZXRyaWNHZW9mZW5jZXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWF3YWl0IFNjaGVtYS5nZXRHcmFwaERhdGEoKTsK</text>
+        <text encoding="base64">CQkJCQkvLyBjb25zb2xlLmxvZyhtZXRyaWNHZW9mZW5jZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLyBycHNDbGllbnQuc3Vic2NyaWJlKCJtZXRyaWNzLmdlb2ZlbmNlLmxvYWRSZXMiKTsK</text>
+        <text encoding="base64">CQkJCQkvLyBjb25zb2xlLmxvZygnbWV0cmljR2VvZmVuY2VzJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyBycHNDbGllbnQuc3Vic2NyaWJlKCJtZXRyaWNzLmdlb2ZlbmNlLmluaXREYXRhIik7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJbWVzc2FnZSA9IHsKCQkJCQkJCSJtZXRyaWN0eXBlIjogInJ0Z2VvZ3JhcGgiLAo=</text>
+        <text encoding="base64">CWF3YWl0IFNjaGVtYS5nZXRHcmFwaERhdGEoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJ09uIHJlY2VpdmVkYXRhJykK</text>
+        <text encoding="base64">CQkvLyBycHNDbGllbnQuc3Vic2NyaWJlKCJtZXRyaWNzLmdlb2ZlbmNlLmxvYWRSZXMiKTsK</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgkJCQkJCXNldFRpbWVvdXQoZnVuY3Rpb24oKSB7</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkvLyBycHNDbGllbnQuc3Vic2NyaWJlKCJtZXRyaWNzLmdlb2ZlbmNlLmluaXREYXRhIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJbWVzc2FnZSA9IHsKCQkJCQkJCSJtZXRyaWN0eXBlIjogInJ0Z2VvZ3JhcGgiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJ09uIHJlY2VpdmVkYXRhJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
