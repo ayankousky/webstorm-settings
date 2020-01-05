@@ -95,11 +95,11 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/mongo/index.js" timestamp="1578241637760">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="14" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/mongo/index.js" timestamp="1578262934887">
+        <mark key="[" line="14" column="79" />
+        <mark key="]" line="14" column="88" />
+        <mark key="." line="14" column="88" />
+        <mark key="^" line="14" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1577777371997">
         <mark key="[" line="106" column="56" />
@@ -166,11 +166,11 @@
         <mark key="]" line="10" column="83" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/app.js" timestamp="1578241591353">
-        <mark key="[" line="335" column="11" />
-        <mark key="]" line="335" column="11" />
-        <mark key="^" line="335" column="11" />
-        <mark key="." line="335" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/app.js" timestamp="1578263190205">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="64" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/app.js" timestamp="1575829638387">
         <mark key="[" line="37" column="0" />
@@ -218,11 +218,11 @@
         <mark key="." line="53" column="23" />
         <mark key="^" line="56" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/RPS/index.js" timestamp="1578236043078">
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/RPS/index.js" timestamp="1578263220225">
         <mark key="'" line="26" column="17" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="43" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/models/geofenceHits.js" timestamp="1577781431041">
@@ -231,7 +231,7 @@
         <mark key="^" line="142" column="27" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1578237173838">
+      <file name="/Dummy.txt" timestamp="1578263144548">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wyld-realtime-graph-demo/geofence.js" timestamp="1577724513596">
@@ -252,7 +252,11 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/models/geofences.js" timestamp="1578237076215" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/models/geofences.js" timestamp="1578262751021">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/services/db/collections/WhitelistRule.ts" timestamp="1574082892684">
         <mark key="[" line="0" column="30" />
         <mark key="]" line="0" column="30" />
@@ -417,8 +421,8 @@
       <jump line="25" column="17" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/RPS/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -433,7 +437,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text encoding="base64">aW5qZWN0IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -448,7 +452,7 @@
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdnJykK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhlcnIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -457,33 +461,36 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyBjb25zb2xlLmxvZygnZXJyJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gbW9uZ29vc2UucHJvdG90eXBlLnd5bGQubG9nZ2VyID0ge307Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnMicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gbW9uZ29vc2UucHJvdG90eXBlLnd5bGQgPSB7fTsK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnMScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWxldCBsb2dnZXIgPSBsb2dnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gZnVuY3Rpb24gUlBTKCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMScpCg==</text>
+      <register name="7" type="4">
+        <text>geofenceSchema.statics.foo = function () {
+	GeofenceSchema.logger.log('123 statics', 'ERROR', 'kek')
+};
+geofenceSchema.methods.foo = function () {
+	GeofenceSchema.logger.log('123 methods', 'ERROR', 'kek')
+};</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>console
-console
-console</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
