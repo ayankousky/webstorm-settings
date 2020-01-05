@@ -95,6 +95,12 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/mongo/index.js" timestamp="1578236668678">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/app.js" timestamp="1577777371997">
         <mark key="[" line="106" column="56" />
         <mark key="]" line="106" column="168" />
@@ -159,7 +165,12 @@
         <mark key="]" line="10" column="83" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/app.js" timestamp="1578235505338" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/app.js" timestamp="1578237195249">
+        <mark key="[" line="334" column="15" />
+        <mark key="]" line="334" column="15" />
+        <mark key="^" line="333" column="15" />
+        <mark key="." line="334" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/app.js" timestamp="1575829638387">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -219,7 +230,7 @@
         <mark key="^" line="142" column="27" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1577776264742">
+      <file name="/Dummy.txt" timestamp="1578237173838">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wyld-realtime-graph-demo/geofence.js" timestamp="1577724513596">
@@ -240,6 +251,7 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="3" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/models/geofences.js" timestamp="1578237076215" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/services/db/collections/WhitelistRule.ts" timestamp="1574082892684">
         <mark key="[" line="0" column="30" />
         <mark key="]" line="0" column="30" />
@@ -405,7 +417,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>'</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -420,7 +432,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>'</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -435,7 +447,7 @@
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWNvbnN0IGxvZ2dlciA9IG9wdGlvbnMubG9nZ2VyIHx8IGNvbnNvbGU7Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdnJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CWxldCBsb2dnZXIgPSBsb2dnZXI7Cg==</text>
