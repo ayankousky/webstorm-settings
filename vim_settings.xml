@@ -53,7 +53,6 @@
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/wyld-realtime-graph-demo/index.html" timestamp="1577778213294" />
       <file name="$USER_HOME$/Desktop/Ts_tests/modules/media/Dockerfile" timestamp="1573678911349">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="6" />
@@ -74,10 +73,11 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/Redis/index.js" timestamp="1577721903007">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/Redis/index.js" timestamp="1578236046790">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/billiger.js" timestamp="1572644357665">
         <mark key="[" line="3" column="0" />
@@ -149,7 +149,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/figure.js" timestamp="1577427807844" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/package.json" timestamp="1574005309451">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="19" />
@@ -160,12 +159,7 @@
         <mark key="]" line="10" column="83" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/app.js" timestamp="1577784038537">
-        <mark key="[" line="148" column="32" />
-        <mark key="]" line="148" column="32" />
-        <mark key="^" line="148" column="32" />
-        <mark key="." line="148" column="32" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/app.js" timestamp="1578235505338" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/app.js" timestamp="1575829638387">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -212,11 +206,12 @@
         <mark key="." line="53" column="23" />
         <mark key="^" line="56" column="2" />
       </file>
-      <file name="$USER_HOME$/Desktop/wyld-realtime-graph-demo/initial_data.js" timestamp="1577718772439" />
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/RPS/index.js" timestamp="1577724403735">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/RPS/index.js" timestamp="1578236043078">
+        <mark key="'" line="26" column="17" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="43" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/models/geofenceHits.js" timestamp="1577781431041">
         <mark key="[" line="142" column="0" />
@@ -307,7 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="285" column="40" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="286" column="15" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="325" column="35" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
@@ -407,10 +401,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/models/geofenceHits.js" />
       <jump line="39" column="23" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/docker-compose.yml" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/loc01.yml" />
+      <jump line="25" column="17" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/RPS/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -425,7 +420,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -437,52 +432,54 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>totalAcc</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2cobWVzc2FnZSkK</text>
+        <text encoding="base64">CWNvbnN0IGxvZ2dlciA9IG9wdGlvbnMubG9nZ2VyIHx8IGNvbnNvbGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnbWV0cmljcy5nZW9mZW5jZS5ncmFwaERhdGEnKQo=</text>
+        <text encoding="base64">CWxldCBsb2dnZXIgPSBsb2dnZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhtZXNzYWdlKQo=</text>
+        <text encoding="base64">Ly8gZnVuY3Rpb24gUlBTKCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnbWVzc2FnZScpCg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMScpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBra2U9a2Vrcwo=</text>
+      <register name="5" type="8">
+        <text>console
+console
+console</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlsZXQgbG9nZ2VyID0gbG9nZ2VyOwo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coZ3JhcGhEYXRhKQo=</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ2tla2UnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJ2dyYXBoRGF0YScpCg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnMTExMTExMTExMTExMTExMTExMScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhkYXRhLmNvbG9yKTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>totalAcc</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>totalAcc</last-pattern>
+      <last-pattern>'</last-pattern>
       <last-replace encoding="base64">bGV0IA==</last-replace>
       <last-substitute>channelId</last-substitute>
       <last-dir>1</last-dir>
@@ -490,7 +487,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx9XD4=</entry>
         <entry>include</entry>
         <entry>console.l</entry>
         <entry>new</entry>
@@ -510,6 +506,7 @@
         <entry>0</entry>
         <entry>media</entry>
         <entry>totalAcc</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
