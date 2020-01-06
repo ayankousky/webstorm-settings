@@ -89,11 +89,11 @@
         <mark key="]" line="11" column="59" />
         <mark key="." line="11" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/CHANGELOG.md" timestamp="1577689863250">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="33" />
-        <mark key="." line="0" column="33" />
-        <mark key="^" line="0" column="33" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/CHANGELOG.md" timestamp="1578279291160">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/mongo/index.js" timestamp="1578262934887">
         <mark key="[" line="14" column="79" />
@@ -167,11 +167,11 @@
         <mark key="]" line="10" column="83" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/app.js" timestamp="1578263190205">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="64" column="57" />
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/app.js" timestamp="1578279155287">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="74" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/app.js" timestamp="1575829638387">
         <mark key="[" line="37" column="0" />
@@ -183,7 +183,7 @@
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/package.json" timestamp="1577689814964">
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/package.json" timestamp="1578279299468">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="20" />
@@ -213,7 +213,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/index.js" timestamp="1577784050922">
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/index.js" timestamp="1578279233630">
         <mark key="[" line="53" column="23" />
         <mark key="]" line="53" column="23" />
         <mark key="." line="53" column="23" />
@@ -422,8 +422,8 @@
       <jump line="25" column="17" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/RPS/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>send geofence hits updates</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -438,7 +438,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5qZWN0IA==</text>
+        <text>send geofence hits updates</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -453,45 +453,40 @@
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhlcnIpCg==</text>
+        <text encoding="base64">MC4wLjE3LSBzZW5kIGdlb2ZlbmNlIGhpdHMgdXBkYXRlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyBycHNQdWJDbGllbnQgPSBhd2FpdCBycHNDbGllbnRDcmVhdGUoe2xvZ2dlcjogbG9nZ2VyfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBjb25zb2xlLmxvZygnZXJyJykK</text>
+        <text encoding="base64">CQkvLyBycHNDbGllbnQgPSBhd2FpdCBycHNDbGllbnRDcmVhdGUoe2xvZ2dlcjogbG9nZ2VyfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnMicpCg==</text>
+        <text encoding="base64">CQlycHNDbGllbnQgPSBhd2FpdCBycHNDbGllbnRDcmVhdGUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnMScpCg==</text>
+        <text encoding="base64">CQlycHNDbGllbnQgPSBhd2FpdCBycHNDbGllbnRDcmVhdGUoe2xvZ2dlcjogbG9nZ2VyfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
-      <register name="7" type="4">
-        <text>geofenceSchema.statics.foo = function () {
-	GeofenceSchema.logger.log('123 statics', 'ERROR', 'kek')
-};
-geofenceSchema.methods.foo = function () {
-	GeofenceSchema.logger.log('123 methods', 'ERROR', 'kek')
-};</text>
+      <register name="7" type="2">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyBjb25zb2xlLmxvZygnZXJyJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
