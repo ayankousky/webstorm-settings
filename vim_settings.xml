@@ -79,6 +79,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/services/subscriptionManager/entities/subscription_providers/PRO_subscription.js" timestamp="1578412869001">
+        <mark key="[" line="1238" column="18" />
+        <mark key="]" line="1238" column="18" />
+        <mark key="." line="1238" column="18" />
+        <mark key="^" line="1238" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/billiger.js" timestamp="1572644357665">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -232,7 +238,7 @@
         <mark key="^" line="142" column="27" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1578263144548">
+      <file name="/Dummy.txt" timestamp="1578412756839">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wyld-realtime-graph-demo/geofence.js" timestamp="1577724513596">
@@ -423,7 +429,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>send geofence hits updates</text>
+        <text>_2_year</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -438,7 +444,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>send geofence hits updates</text>
+        <text>_2_year</text>
       </register>
       <register name="m" type="4">
         <keys>
