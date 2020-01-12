@@ -28,11 +28,17 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.html" timestamp="1578846833791">
-        <mark key="[" line="614" column="88" />
-        <mark key="]" line="614" column="88" />
-        <mark key="." line="614" column="88" />
-        <mark key="^" line="614" column="40" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.html" timestamp="1578853953318">
+        <mark key="[" line="605" column="40" />
+        <mark key="]" line="605" column="48" />
+        <mark key="." line="605" column="48" />
+        <mark key="^" line="605" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.scss" timestamp="1578851935910">
+        <mark key="[" line="893" column="30" />
+        <mark key="]" line="893" column="35" />
+        <mark key="^" line="893" column="35" />
+        <mark key="." line="893" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/tmp/gitlab-elinext/wyld-fusion-service-notification/package.json" timestamp="1575483913768">
         <mark key="[" line="27" column="0" />
@@ -107,12 +113,12 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" timestamp="1578849094019">
-        <mark key="'" line="644" column="13" />
-        <mark key="[" line="135" column="11" />
-        <mark key="]" line="135" column="12" />
-        <mark key="." line="135" column="12" />
-        <mark key="^" line="996" column="108" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" timestamp="1578854056344">
+        <mark key="'" line="696" column="51" />
+        <mark key="[" line="665" column="24" />
+        <mark key="]" line="665" column="44" />
+        <mark key="." line="665" column="44" />
+        <mark key="^" line="665" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/mongo/index.js" timestamp="1578262934887">
         <mark key="[" line="14" column="79" />
@@ -230,6 +236,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/services/firmware.service.ts" timestamp="1578853737372">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="67" />
+        <mark key="." line="75" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-service-geofence/src/metrics/index.js" timestamp="1578279233630">
         <mark key="[" line="53" column="23" />
         <mark key="]" line="53" column="23" />
@@ -249,7 +260,7 @@
         <mark key="^" line="142" column="27" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1578412756839">
+      <file name="/Dummy.txt" timestamp="1578851820058">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wyld-realtime-graph-demo/geofence.js" timestamp="1577724513596">
@@ -337,8 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="35" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
-      <jump line="326" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="338" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="339" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="340" column="4" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
@@ -437,10 +446,12 @@
       <jump line="25" column="17" filename="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-metrics-feed/src/RPS/index.js" />
       <jump line="224" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" />
       <jump line="639" column="13" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" />
+      <jump line="522" column="16" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" />
+      <jump line="696" column="51" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/popup/popup.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>addProduct</text>
       </register>
       <register name="l" type="4">
         <keys>
@@ -455,7 +466,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>addProduct</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -470,40 +481,40 @@
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAJeyB2YWw6IjEiLCB0ZXh0OiAiQ1NSNTEwMCJ9LAo=</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyh1cGxvYWRGaXJtd2FyZURhdGEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIiIsICJDU1I4NjcwIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBycHNQdWJDbGllbnQgPSBhd2FpdCBycHNDbGllbnRDcmVhdGUoe2xvZ2dlcjogbG9nZ2VyfSk7Cg==</text>
+        <text encoding="base64">ICAgIGZpcm13YXJlUG9zdERhdGEuYXBwZW5kKCdoYXJkd2FyZUlkJywgZmlybXdhcmVEYXRhLmhhcmR3YXJlSWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLyBycHNDbGllbnQgPSBhd2FpdCBycHNDbGllbnRDcmVhdGUoe2xvZ2dlcjogbG9nZ2VyfSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVwbG9hZEZpcm13YXJlRGF0YSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlycHNDbGllbnQgPSBhd2FpdCBycHNDbGllbnRDcmVhdGUoKTsK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygndXBsb2FkRmlybXdhcmVEYXRhJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlycHNDbGllbnQgPSBhd2FpdCBycHNDbGllbnRDcmVhdGUoe2xvZ2dlcjogbG9nZ2VyfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhhcmR3YXJlSWQgJiYgaGFyZHdhcmVJZC5pZCA/IGhhcmR3YXJlSWQuaWQgOiBudWxsKQo=</text>
       </register>
       <register name="v" type="4">
         <text>n^xj</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhhcmR3YXJlSWQgJiYgaGFyZHdhcmVJZC5pZCA/IGhhcmR3YXJlSWQuaWQgOiBudWxsKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhhcmR3YXJlSWQgJiYgaGFyZHdhcmVJZC5pZCA/IGhhcmR3YXJlSWQuaWQgOiBudWxsKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhhcmR3YXJlSWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
