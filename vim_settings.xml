@@ -11,6 +11,13 @@
         <mark key="]" line="43" column="19" />
         <mark key="." line="43" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1579812422514">
+        <mark key="'" line="36" column="41" />
+        <mark key="[" line="308" column="0" />
+        <mark key="]" line="308" column="0" />
+        <mark key="^" line="310" column="2" />
+        <mark key="." line="308" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1579807353684">
         <mark key="'" line="239" column="6" />
         <mark key="[" line="249" column="34" />
@@ -22,25 +29,29 @@
     <jumps>
       <jump line="239" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
       <jump line="99" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="36" column="41" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAiZXh0ZW5kcyI6IFsKICAgICAgInJlYWN0LWFwcCIsCiAgICAgICJwbHVnaW46cHJldHRpZXIvcmVjb21tZW5kZWQiCiAgICBd</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CiAgICAiZXh0ZW5kcyI6IFsKICAgICAgInJlYWN0LWFwcCIsCiAgICAgICJwbHVnaW46cHJldHRpZXIvcmVjb21tZW5kZWQiCiAgICBd</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>admin-pan</text>
+        <text>bidding</text>
       </register>
     </registers>
     <search>
-      <last-search>admin-pan</last-search>
+      <last-search>bidding</last-search>
       <last-offset />
-      <last-pattern>admin-pan</last-pattern>
+      <last-pattern>bidding</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -48,6 +59,7 @@
       <history-search>
         <entry>jobs</entry>
         <entry>admin-pan</entry>
+        <entry>bidding</entry>
       </history-search>
     </history>
     <shortcut-conflicts>
