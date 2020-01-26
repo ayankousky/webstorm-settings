@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/campaignBids/index.js" timestamp="1580056717252">
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="6" column="36" />
-        <mark key="^" line="6" column="36" />
-        <mark key="." line="6" column="36" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/campaignBids/index.js" timestamp="1580061951910">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="6" column="39" />
+        <mark key="^" line="6" column="39" />
+        <mark key="." line="6" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1579807535794">
         <mark key="'" line="99" column="0" />
@@ -34,11 +34,10 @@
         <mark key="." line="249" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/middlewares/defineUserRegion.js" timestamp="1580051231298" />
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_bids.js" timestamp="1580056244767">
-        <mark key="[" line="51" column="1" />
-        <mark key="]" line="51" column="1" />
-        <mark key="^" line="51" column="1" />
-        <mark key="." line="51" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_bids.js" timestamp="1580059931075">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -48,8 +47,8 @@
       <jump line="210" column="3" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -61,31 +60,31 @@
         <text encoding="base64">CQlzdWJpZFNraXBDYWNoZVtzdWJpZF0gPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2wK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAJY29uc29sZS5sb2cK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2wK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAJY29uc29sZS5sb2cK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">IGVsc2UgewoJCWRpc2FibGVkU3ViaWRzW3N1YmlkXSA9IGZhbHNlOwoJfQ==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQlkaXNhYmxlZFN1Ymlkc1tzdWJpZF0gPSBmYWxzZTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgCiAgaWYgKGRpc2FibGVkU3ViaWRzW3N1YmlkXSA9PT0gdW5kZWZpbmVkICYmIGRpc2FibGVkU3ViaWRzLnNvbWUocyA9PiBzLnN0YXJ0c1dpdGgoc3ViaWQpKSkgewogIAlkaXNhYmxlZFN1Ymlkc1tzdWJpZF0gPSBmYWxzZTsKICB9Ow==</text>
       </register>
     </registers>
     <search>
