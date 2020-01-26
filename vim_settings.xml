@@ -11,8 +11,14 @@
         <mark key="]" line="43" column="19" />
         <mark key="." line="43" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1580050967513" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1579847861363">
         <mark key="'" line="36" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_api_key.js" timestamp="1580054203830">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1579807353684">
         <mark key="'" line="239" column="6" />
@@ -21,6 +27,7 @@
         <mark key="^" line="249" column="40" />
         <mark key="." line="249" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/middlewares/defineUserRegion.js" timestamp="1580051231298" />
     </filemarks>
     <jumps>
       <jump line="239" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
@@ -29,7 +36,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAJY29uc29sZS5sb2cK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
         <text>subid</text>
@@ -41,132 +48,31 @@
         <text encoding="base64">CQlzdWJpZFNraXBDYWNoZVtzdWJpZF0gPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAJY29uc29sZS5sb2cK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2wK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGVsc2UgewoJCWRpc2FibGVkU3ViaWRzW3N1YmlkXSA9IGZhbHNlOwoJfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAJY29uc29sZS5sb2cK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlkaXNhYmxlZFN1Ymlkc1tzdWJpZF0gPSBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgCiAgaWYgKGRpc2FibGVkU3ViaWRzW3N1YmlkXSA9PT0gdW5kZWZpbmVkICYmIGRpc2FibGVkU3ViaWRzLnNvbWUocyA9PiBzLnN0YXJ0c1dpdGgoc3ViaWQpKSkgewogIAlkaXNhYmxlZFN1Ymlkc1tzdWJpZF0gPSBmYWxzZTsKICB9Ow==</text>
+        <text encoding="base64">IGVsc2UgewoJCWRpc2FibGVkU3ViaWRzW3N1YmlkXSA9IGZhbHNlOwoJfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlkaXNhYmxlZFN1Ymlkc1tzdWJpZF0gPSBmYWxzZTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgCiAgaWYgKGRpc2FibGVkU3ViaWRzW3N1YmlkXSA9PT0gdW5kZWZpbmVkICYmIGRpc2FibGVkU3ViaWRzLnNvbWUocyA9PiBzLnN0YXJ0c1dpdGgoc3ViaWQpKSkgewogIAlkaXNhYmxlZFN1Ymlkc1tzdWJpZF0gPSBmYWxzZTsKICB9Ow==</text>
       </register>
-      <register name="8" type="4">
-        <text>: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true
-: true</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
     </registers>
     <search>
