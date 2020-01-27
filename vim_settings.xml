@@ -17,6 +17,13 @@
         <mark key="]" line="43" column="19" />
         <mark key="." line="43" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1580101655852">
+        <mark key="'" line="146" column="36" />
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="266" column="0" />
+        <mark key="^" line="152" column="37" />
+        <mark key="." line="266" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1580050967513" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1580056230279">
         <mark key="'" line="210" column="3" />
@@ -45,10 +52,12 @@
       <jump line="99" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
       <jump line="36" column="41" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="210" column="3" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
+      <jump line="322" column="16" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
+      <jump line="146" column="36" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc2V0ICRjYWNoZV9rZXkgIiR1cmk/aXA9JGFyZ19pcCZkb21haW49JGFyZ19kb21haW4iOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -57,34 +66,35 @@
         <text>bidding</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlzdWJpZFNraXBDYWNoZVtzdWJpZF0gPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgc2V0ICRjYWNoZV9rZXkgIiR1cmk/aXA9JGFyZ19pcCZkb21haW49JGFyZ19kb21haW4mc3ViaWQ9JGFyZ19zdWJpZCI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpZiAodGhpcy5yZWdpb24gPT09IHJlZ2lvbiAmJiB0aGlzLnN1YmlkID09PSBudWxsICYmICkgewo=</text>
+        <text encoding="base64">ICAgICAgc2V0ICRjYWNoZV9rZXkgIiR1cmk/aXA9JGFyZ19pcCZkb21haW49JGFyZ19kb21haW4iOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="2" type="8">
+        <text>domain
+domain</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZiAodGhpcy5yZWdpb24gPT09IHJlZ2lvbiAmJiB0aGlzLnN1YmlkID09PSBudWxsICYmICkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2wK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAJY29uc29sZS5sb2cK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGVsc2UgewoJCWRpc2FibGVkU3ViaWRzW3N1YmlkXSA9IGZhbHNlOwoJfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zb2wK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAJY29uc29sZS5sb2cK</text>
       </register>
     </registers>
     <search>
