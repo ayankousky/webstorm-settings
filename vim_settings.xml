@@ -9,13 +9,11 @@
         <mark key="^" line="28" column="31" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1580105701262">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1579807535794">
         <mark key="'" line="99" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/client/package.json" timestamp="1579807780138">
-        <mark key="[" line="43" column="19" />
-        <mark key="]" line="43" column="19" />
-        <mark key="." line="43" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1580101655852">
         <mark key="'" line="146" column="36" />
@@ -25,13 +23,22 @@
         <mark key="." line="266" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1580050967513" />
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1580104304599">
-        <mark key="'" line="551" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_api_key.js" timestamp="1580055630011">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/client/package.json" timestamp="1579807780138">
+        <mark key="[" line="43" column="19" />
+        <mark key="]" line="43" column="19" />
+        <mark key="." line="43" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1580105527495">
+        <mark key="'" line="557" column="30" />
+        <mark key="[" line="367" column="5" />
+        <mark key="]" line="367" column="6" />
+        <mark key="^" line="367" column="6" />
+        <mark key="." line="367" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1579807353684">
         <mark key="'" line="239" column="6" />
@@ -39,6 +46,12 @@
         <mark key="]" line="249" column="34" />
         <mark key="^" line="249" column="40" />
         <mark key="." line="249" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/campaignBids/cache.js" timestamp="1580105711728">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="37" />
+        <mark key="^" line="16" column="36" />
+        <mark key="." line="16" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/middlewares/defineUserRegion.js" timestamp="1580051231298" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_bids.js" timestamp="1580059931075">
@@ -62,44 +75,44 @@
       <jump line="551" column="30" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>bidding</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2V0ICRjYWNoZV9rZXkgIiR1cmk/aXA9JGFyZ19pcCZkb21haW49JGFyZ19kb21haW4mc3ViaWQ9JGFyZ19zdWJpZCI7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXMuc2VuZFN0YXR1cygyMDQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZihjbGlja0JpZCA9PT0gMCkgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyAJLnNvcnQoKGEsIGIpID0+IG5ldyBSdWxlKGIpLmdldE1hdGNoKHJ1bGUpIC0gbmV3IFJ1bGUoYSkuZ2V0TWF0Y2gocnVsZSkpKQo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKGNsaWNrQmlkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLyAJLmZpbHRlcihyID0+IG5ldyBSdWxlKHIpLmdldE1hdGNoKHJ1bGUpID4gMCkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnY2xpY2tCaWQnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyBjb25zb2xlLmxvZyh0aGlzLmNhbXBhaWduLnJ1bGVzCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdrZWtla2UnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyBjb25zb2xlLmxvZygnX19fX19fX19fX19fX19fX19fX19fX18nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyh0aGlzLmNhbXBhaWduLnJ1bGVzKTsK</text>
+        <text encoding="base64">CQkvLyAJLnNvcnQoKGEsIGIpID0+IG5ldyBSdWxlKGIpLmdldE1hdGNoKHJ1bGUpIC0gbmV3IFJ1bGUoYSkuZ2V0TWF0Y2gocnVsZSkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyh0aGlzLmNhbXBhaWduLnJ1bGVzKTsK</text>
+        <text encoding="base64">CQkvLyAJLmZpbHRlcihyID0+IG5ldyBSdWxlKHIpLmdldE1hdGNoKHJ1bGUpID4gMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnX19fX19fX19fX19fX19fX19fX19fX18nKQo=</text>
+        <text encoding="base64">CQkvLyBjb25zb2xlLmxvZyh0aGlzLmNhbXBhaWduLnJ1bGVzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2V0ICRjYWNoZV9rZXkgIiR1cmk/aXA9JGFyZ19pcCZkb21haW49JGFyZ19kb21haW4iOwo=</text>
+        <text encoding="base64">CQkvLyBjb25zb2xlLmxvZygnX19fX19fX19fX19fX19fX19fX19fX18nKQo=</text>
       </register>
     </registers>
     <search>
