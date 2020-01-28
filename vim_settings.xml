@@ -18,6 +18,12 @@
       <file name="/Dummy.txt" timestamp="1580243281945">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yieldKit.js" timestamp="1580245438877">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="115" column="226" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1580101655852">
         <mark key="'" line="146" column="36" />
         <mark key="[" line="266" column="0" />
@@ -95,6 +101,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/yieldkit.csv" timestamp="1580245349937">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="476" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="239" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
@@ -123,8 +134,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>NaN,//</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFsnSU4nLCAnSlAnLCAnTVgnLCAnVFInLCAnU0UnLCAnU0cnLCAnSEsnLCAnR1InLCAnU0snLCAnU0MnLCAnSE4nLCAnU0EnXQo=</text>
       </register>
       <register name="-" type="4">
         <text>NaN,//</text>
@@ -136,31 +147,31 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyhkZWNvZGVkVXNlckFnZW50LmJyb3dzZXIudmVyc2lvbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGRlY29kZWRVc2VyQWdlbnQuYnJvd3Nlci52ZXJzaW9uKQo=</text>
+        <text encoding="base64">ICAgIFsnSU4nLCAnSlAnLCAnTVgnLCAnVFInLCAnU0UnLCAnU0cnLCAnSEsnLCAnR1InLCAnU0snLCAnU0MnLCAnSE4nLCAnU0EnXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZGVjb2RlZFVzZXJBZ2VudC5icm93c2VyLnZlcnNpb24nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhgJHttYWpvcn0uJHttaW5vcn0uJHtwYXRjaH1gKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">R2VvSVAyLUNvdW50cnkubW1kYgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">R2VvSVAyLUNvdW50cnkubW1kYgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3JjL3NlcnZpY2VzL2dlb2xvY2F0aW9uL0dlb0lQMi1Db3VudHJ5Lm1tZGIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3JjL3NlcnZpY2VzL2dlb2xvY2F0aW9uL0dlb0lQMi1Db3VudHJ5Lm1tZGIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKGRlY29kZWRVc2VyQWdlbnQuYnJvd3Nlci52ZXJzaW9uKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3JjL3NlcnZpY2VzL2dlb2xvY2F0aW9uL0dlb0lQMi1Db3VudHJ5Lm1tZGIK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZGVjb2RlZFVzZXJBZ2VudC5icm93c2VyLnZlcnNpb24nKQo=</text>
       </register>
     </registers>
     <search>
