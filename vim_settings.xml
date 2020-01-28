@@ -12,8 +12,8 @@
       <file name="/Dummy.txt" timestamp="1580105701262">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1579807535794">
-        <mark key="'" line="99" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1580190530249">
+        <mark key="'" line="49" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1580101655852">
         <mark key="'" line="146" column="36" />
@@ -22,7 +22,9 @@
         <mark key="^" line="152" column="37" />
         <mark key="." line="266" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1580050967513" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1580190034460">
+        <mark key="'" line="169" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_api_key.js" timestamp="1580055630011">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -33,19 +35,27 @@
         <mark key="]" line="43" column="19" />
         <mark key="." line="43" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1580105527495">
-        <mark key="'" line="557" column="30" />
-        <mark key="[" line="367" column="5" />
-        <mark key="]" line="367" column="6" />
-        <mark key="^" line="367" column="6" />
-        <mark key="." line="367" column="6" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/queue/index.js" timestamp="1580191014800">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1579807353684">
-        <mark key="'" line="239" column="6" />
-        <mark key="[" line="249" column="34" />
-        <mark key="]" line="249" column="34" />
-        <mark key="^" line="249" column="40" />
-        <mark key="." line="249" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1580190867882">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="26" column="1" />
+        <mark key="^" line="26" column="1" />
+        <mark key="." line="26" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1580105527495">
+        <mark key="'" line="188" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1580190091134">
+        <mark key="'" line="241" column="6" />
+        <mark key="[" line="43" column="22" />
+        <mark key="]" line="45" column="34" />
+        <mark key="^" line="45" column="34" />
+        <mark key="." line="45" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/campaignBids/cache.js" timestamp="1580105711728">
         <mark key="[" line="16" column="37" />
@@ -53,7 +63,6 @@
         <mark key="^" line="16" column="36" />
         <mark key="." line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/middlewares/defineUserRegion.js" timestamp="1580051231298" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_bids.js" timestamp="1580059931075">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -73,52 +82,65 @@
       <jump line="322" column="16" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
       <jump line="146" column="36" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
       <jump line="551" column="30" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
+      <jump line="39" column="31" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" />
+      <jump line="41" column="12" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" />
+      <jump line="43" column="12" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" />
+      <jump line="45" column="12" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" />
+      <jump line="132" column="24" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" />
+      <jump line="169" column="24" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" />
+      <jump line="51" column="63" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="57" column="40" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="58" column="18" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="59" column="18" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="8" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="47" column="3" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="49" column="26" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkgICAgY29uc29sZS5sb2codGhpcy5rZWspCg==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>bidding</text>
+        <text>admin-panel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXMuc2VuZFN0YXR1cygyMDQpOwo=</text>
+        <text encoding="base64">CQkgICAgY29uc29sZS5sb2codGhpcy5rZWspCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZihjbGlja0JpZCA9PT0gMCkgewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGNsaWNrQmlkKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnY2xpY2tCaWQnKQo=</text>
+        <text encoding="base64">ICBpZihjbGlja0JpZCA9PT0gMCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdrZWtla2UnKQo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKGNsaWNrQmlkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnY2xpY2tCaWQnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyAJLnNvcnQoKGEsIGIpID0+IG5ldyBSdWxlKGIpLmdldE1hdGNoKHJ1bGUpIC0gbmV3IFJ1bGUoYSkuZ2V0TWF0Y2gocnVsZSkpKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdrZWtla2UnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyAJLmZpbHRlcihyID0+IG5ldyBSdWxlKHIpLmdldE1hdGNoKHJ1bGUpID4gMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyBjb25zb2xlLmxvZyh0aGlzLmNhbXBhaWduLnJ1bGVzCg==</text>
+        <text encoding="base64">CQkvLyAJLnNvcnQoKGEsIGIpID0+IG5ldyBSdWxlKGIpLmdldE1hdGNoKHJ1bGUpIC0gbmV3IFJ1bGUoYSkuZ2V0TWF0Y2gocnVsZSkpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyBjb25zb2xlLmxvZygnX19fX19fX19fX19fX19fX19fX19fX18nKQo=</text>
+        <text encoding="base64">CQkvLyAJLmZpbHRlcihyID0+IG5ldyBSdWxlKHIpLmdldE1hdGNoKHJ1bGUpID4gMCkK</text>
       </register>
     </registers>
     <search>
-      <last-search>bidding</last-search>
+      <last-search>admin-panel</last-search>
       <last-offset />
-      <last-pattern>bidding</last-pattern>
+      <last-pattern>admin-panel</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -127,7 +149,11 @@
         <entry>jobs</entry>
         <entry>admin-pan</entry>
         <entry>bidding</entry>
+        <entry>admin-panel</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
