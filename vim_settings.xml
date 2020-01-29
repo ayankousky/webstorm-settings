@@ -18,7 +18,7 @@
       <file name="/Dummy.txt" timestamp="1580243281945">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yieldKit.js" timestamp="1580245438877">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yieldKit.js" timestamp="1580246061312">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="^" line="115" column="226" />
@@ -54,6 +54,12 @@
         <mark key="]" line="43" column="19" />
         <mark key="." line="43" column="19" />
       </file>
+      <file name="$USER_HOME$/Desktop/kek.js" timestamp="1580275171865">
+        <mark key="'" line="132" column="3" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/queue/index.js" timestamp="1580193790015">
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="12" />
@@ -65,12 +71,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1580243816147">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1580275204423">
         <mark key="'" line="188" column="30" />
-        <mark key="[" line="386" column="80" />
-        <mark key="]" line="386" column="81" />
-        <mark key="." line="386" column="81" />
-        <mark key="^" line="386" column="80" />
+        <mark key="[" line="363" column="0" />
+        <mark key="]" line="363" column="0" />
+        <mark key="^" line="377" column="80" />
+        <mark key="." line="363" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1580193915856">
         <mark key="'" line="156" column="43" />
@@ -132,53 +138,54 @@
       <jump line="112" column="1" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/helpers/common.js" />
       <jump line="108" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/.gitignore" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/.gitignore" />
+      <jump line="132" column="3" filename="$USER_HOME$/Desktop/kek.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFsnSU4nLCAnSlAnLCAnTVgnLCAnVFInLCAnU0UnLCAnU0cnLCAnSEsnLCAnR1InLCAnU0snLCAnU0MnLCAnSE4nLCAnU0EnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>NaN,//</text>
       </register>
       <register name="/" type="4">
-        <text>admin-panel</text>
+        <text encoding="base64">XDwwMDIxNjE1NTUzNV81MFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhkZWNvZGVkVXNlckFnZW50LmJyb3dzZXIudmVyc2lvbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFsnSU4nLCAnSlAnLCAnTVgnLCAnVFInLCAnU0UnLCAnU0cnLCAnSEsnLCAnR1InLCAnU0snLCAnU0MnLCAnSE4nLCAnU0EnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiMDAyMTYxODY1MTVfNjVEM0Y5QUEzRTkzNDFCRjgwNjhDNkQwQkMwREM5RTMiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiMDAyMTYxODY1MTVfNUQxNkM1Rjk3NEZGNDk1MzgzMDk5MjQ4MTlCN0NFRjMiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiMDAyMTYxODY1MTVfNEI0NDMzMEI4NjI2NEQzQjk3QUMzQjlFQ0UzQ0MxNDMiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiMDAyMTYxNTU1MzVfMzAxLTk4MDItMTAwMSIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiMDAyMTYxNTU1MzVfMzAwLTI2NzAiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGRlY29kZWRVc2VyQWdlbnQuYnJvd3Nlci52ZXJzaW9uKQo=</text>
+        <text encoding="base64">ICAiMDAyMTYxNTU1MzVfNTAtMjIwNCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnZGVjb2RlZFVzZXJBZ2VudC5icm93c2VyLnZlcnNpb24nKQo=</text>
+        <text encoding="base64">ICAgIFsnSU4nLCAnSlAnLCAnTVgnLCAnVFInLCAnU0UnLCAnU0cnLCAnSEsnLCAnR1InLCAnU0snLCAnU0MnLCAnSE4nLCAnU0EnXQo=</text>
       </register>
     </registers>
     <search>
-      <last-search>admin-panel</last-search>
+      <last-search encoding="base64">XDwwMDIxNjE1NTUzNV81MFw+</last-search>
       <last-offset />
-      <last-pattern>admin-panel</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDwwMDIxNjE1NTUzNV81MFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -187,6 +194,7 @@
         <entry>admin-pan</entry>
         <entry>bidding</entry>
         <entry>admin-panel</entry>
+        <entry encoding="base64">XDwwMDIxNjE1NTUzNV81MFw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
