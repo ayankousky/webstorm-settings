@@ -3,20 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/.dockerignore" timestamp="1580242783215">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="43" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/campaignBids/index.js" timestamp="1580103937746">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="28" column="31" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1580243281945">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yieldKit.js" timestamp="1580246061312">
         <mark key="[" line="116" column="0" />
@@ -30,17 +21,6 @@
         <mark key="]" line="266" column="0" />
         <mark key="^" line="152" column="37" />
         <mark key="." line="266" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/helpers/common.js" timestamp="1580243471968">
-        <mark key="'" line="112" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1580242485335">
-        <mark key="'" line="169" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_api_key.js" timestamp="1580055630011">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/.gitignore" timestamp="1580243068360">
         <mark key="'" line="1" column="0" />
@@ -64,16 +44,16 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/queue/index.js" timestamp="1580193790015">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="13" column="7" />
-        <mark key="." line="9" column="12" />
+      <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/app.ts" timestamp="1580554789458">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1580242929407">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/src/services/mongo/index.ts" timestamp="1580554704408">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1580275204423">
         <mark key="'" line="188" column="30" />
@@ -82,12 +62,12 @@
         <mark key="^" line="377" column="80" />
         <mark key="." line="363" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/src/domain/models/match.ts" timestamp="1580553771668">
-        <mark key="'" line="23" column="34" />
-        <mark key="[" line="23" column="51" />
-        <mark key="]" line="23" column="51" />
-        <mark key="." line="23" column="51" />
-        <mark key="^" line="23" column="51" />
+      <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/src/domain/models/match.ts" timestamp="1580553848111">
+        <mark key="'" line="24" column="34" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1580193915856">
         <mark key="'" line="156" column="43" />
@@ -102,16 +82,59 @@
         <mark key="^" line="16" column="36" />
         <mark key="." line="16" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_bids.js" timestamp="1580059931075">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/.dockerignore" timestamp="1580242783215">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="43" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1580243281945">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/helpers/common.js" timestamp="1580243471968">
+        <mark key="'" line="112" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1580242485335">
+        <mark key="'" line="169" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_api_key.js" timestamp="1580055630011">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/queue/index.js" timestamp="1580193790015">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="13" column="7" />
+        <mark key="." line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1580242929407">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/src/domain/models/index.ts" timestamp="1580554850604">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/Desktop/index.js" timestamp="1580194807585">
         <mark key="[" line="25" column="1" />
         <mark key="]" line="27" column="24" />
         <mark key="." line="27" column="24" />
         <mark key="^" line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_bids.js" timestamp="1580059931075">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/src/domain/index.ts" timestamp="1580554825493">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" timestamp="1580104293747">
         <mark key="[" line="11" column="0" />
@@ -153,11 +176,11 @@
       <jump line="23" column="34" filename="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/src/domain/models/match.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbW9uZ29vc2UiOiAiXjUuNy4wIiwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>NaN,//</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwMDIxNjE1NTUzNV81MFw+</text>
@@ -166,31 +189,31 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyhkZWNvZGVkVXNlckFnZW50LmJyb3dzZXIudmVyc2lvbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbW9uZ29vc2UiOiAiXjUuNy4wIiwK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXRlCg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl1bmlxdWU6IAo=</text>
+        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlLCB7U2NoZW1hfSBmcm9tICdtb25nb29zZSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvbW9uZ29vc2UiOiAiXjUuNy4wIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiMDAyMTYxODY1MTVfNjVEM0Y5QUEzRTkzNDFCRjgwNjhDNkQwQkMwREM5RTMiLAo=</text>
+        <text encoding="base64">CQl1bmlxdWU6IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiMDAyMTYxODY1MTVfNUQxNkM1Rjk3NEZGNDk1MzgzMDk5MjQ4MTlCN0NFRjMiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiMDAyMTYxODY1MTVfNEI0NDMzMEI4NjI2NEQzQjk3QUMzQjlFQ0UzQ0MxNDMiLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiMDAyMTYxNTU1MzVfMzAxLTk4MDItMTAwMSIsCg==</text>
+        <text encoding="base64">ICAiMDAyMTYxODY1MTVfNjVEM0Y5QUEzRTkzNDFCRjgwNjhDNkQwQkMwREM5RTMiLAo=</text>
       </register>
     </registers>
     <search>
