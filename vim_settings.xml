@@ -27,12 +27,12 @@
         <mark key="^" line="152" column="37" />
         <mark key="." line="266" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/src/domain/imports/index.ts" timestamp="1580586302780">
+      <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/src/domain/imports/index.ts" timestamp="1580587767789">
         <mark key="'" line="47" column="42" />
-        <mark key="[" line="26" column="6" />
-        <mark key="]" line="26" column="7" />
-        <mark key="." line="26" column="7" />
-        <mark key="^" line="26" column="5" />
+        <mark key="[" line="89" column="68" />
+        <mark key="]" line="89" column="68" />
+        <mark key="." line="89" column="68" />
+        <mark key="^" line="89" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/comprigo.js" timestamp="1580563134393" />
       <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/src/services/index.ts" timestamp="1580562222417">
@@ -76,12 +76,12 @@
         <mark key="^" line="377" column="80" />
         <mark key="." line="363" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/src/domain/models/match.ts" timestamp="1580581867161">
-        <mark key="'" line="74" column="34" />
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="^" line="5" column="15" />
+      <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/src/domain/models/match.ts" timestamp="1580587977208">
+        <mark key="'" line="84" column="34" />
+        <mark key="[" line="75" column="23" />
+        <mark key="]" line="75" column="24" />
+        <mark key="." line="75" column="24" />
+        <mark key="^" line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1580193915856">
         <mark key="'" line="156" column="43" />
@@ -206,17 +206,17 @@
       <jump line="47" column="42" filename="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/src/domain/imports/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">TWF0Y2hTY2hlbWEuaW5kZXgoe3RlYW0xSGVyb2VzOiAxfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwMDIxNjE1NTUzNV81MFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb25zb2xlLnRpbWUoJ1N0YXJ0JykK</text>
+        <text encoding="base64">TWF0Y2hTY2hlbWEuaW5kZXgoe3RlYW0xSGVyb2VzOiAxfSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CWNvbnNvbGUubG9nKG9sZGVzdE1hdGNoWzBdLm1JZCkK</text>
