@@ -184,10 +184,12 @@
         <mark key="^" line="63" column="42" />
         <mark key="." line="63" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" timestamp="1580563378795">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" timestamp="1581398217260">
+        <mark key="'" line="27" column="70" />
+        <mark key="[" line="82" column="86" />
+        <mark key="]" line="82" column="88" />
+        <mark key="." line="82" column="88" />
+        <mark key="^" line="82" column="88" />
       </file>
       <file name="$USER_HOME$/Desktop/index.html" timestamp="1580713736074">
         <mark key="[" line="3" column="17" />
@@ -233,16 +235,18 @@
       <jump line="1" column="13" filename="$USER_HOME$/Documents/Projects/beatbet/beatbet/test.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Desktop/campaign_bids 2.csv" />
       <jump line="405" column="0" filename="$USER_HOME$/Desktop/campaign_bids 2.csv" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" />
+      <jump line="27" column="70" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>3, 96, 76, 4, 128</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwwMDIxNjE1NTUzNV81MFw+</text>
+        <text>3600</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWxldCB0ZWFtMkhlcm9lcyA9IFs2LCA4NSwgMjIsIDk4LCA3XTsK</text>
@@ -276,10 +280,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwwMDIxNjE1NTUzNV81MFw+</last-search>
+      <last-search>3600</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwwMDIxNjE1NTUzNV81MFw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>3600</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -289,6 +293,7 @@
         <entry>bidding</entry>
         <entry>admin-panel</entry>
         <entry encoding="base64">XDwwMDIxNjE1NTUzNV81MFw+</entry>
+        <entry>3600</entry>
       </history-search>
       <history-cmd />
       <history-expr />
