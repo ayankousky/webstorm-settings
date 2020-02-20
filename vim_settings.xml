@@ -15,7 +15,7 @@
         <mark key="^" line="115" column="226" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1582059627574">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1582097308979">
         <mark key="'" line="146" column="36" />
         <mark key="[" line="200" column="0" />
         <mark key="]" line="200" column="0" />
@@ -221,7 +221,7 @@
         <mark key="^" line="16" column="36" />
         <mark key="." line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitlab-ci.yml" timestamp="1581921916886" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitlab-ci.yml" timestamp="1582091119720" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_client/src/app/shared/filters/users-filter/users-filter.component.html" timestamp="1581877882990">
         <mark key="[" line="13" column="48" />
         <mark key="]" line="13" column="48" />
@@ -254,12 +254,21 @@
         <mark key="." line="247" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/db/index.js" timestamp="1581886087243" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1582093729337">
+        <mark key="'" line="26" column="64" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/all_env.js" timestamp="1581889177420">
         <mark key="'" line="126" column="33" />
         <mark key="[" line="44" column="96" />
         <mark key="]" line="44" column="100" />
         <mark key="." line="44" column="100" />
         <mark key="^" line="44" column="100" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/index.js" timestamp="1582218513941">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="25" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="10" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" timestamp="1581889834927">
         <mark key="[" line="184" column="286" />
@@ -325,6 +334,8 @@
       <jump line="119" column="33" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/all_env.js" />
       <jump line="63" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/helpers.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
+      <jump line="26" column="64" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -334,7 +345,7 @@
         <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>bidding</text>
+        <text>yadore</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyBnZXQgYWxsIGFsbG93ZWQgcmVhZCBvcmdzCiAgaWYoKGF3YWl0IGhlbHBlcnMuZ2V0QWxsQWxsb3dlZFJlYWRPcmdJZHMoY3VyclVzZXIpKS5pbmNsdWRlcyhyZWFkT3JnLmlkKSl7Cg==</text>
@@ -368,9 +379,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bidding</last-search>
+      <last-search>yadore</last-search>
       <last-offset />
-      <last-pattern>bidding</last-pattern>
+      <last-pattern>yadore</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -382,6 +393,7 @@
         <entry encoding="base64">XDwwMDIxNjE1NTUzNV81MFw+</entry>
         <entry>3600</entry>
         <entry>bidding</entry>
+        <entry>yadore</entry>
       </history-search>
       <history-cmd />
       <history-expr />
