@@ -22,6 +22,11 @@
         <mark key="^" line="203" column="4" />
         <mark key="." line="200" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/request.js" timestamp="1583991690385">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/offers.js" timestamp="1582701761812">
         <mark key="[" line="160" column="39" />
         <mark key="]" line="160" column="49" />
@@ -84,6 +89,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1583991523705" />
       <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/tsconfig.json" timestamp="1580559960537">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="11" column="39" />
@@ -358,8 +364,8 @@
       <jump line="26" column="64" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>z</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
       </register>
       <register name="-" type="4">
         <text>z</text>
@@ -368,34 +374,34 @@
         <text>yadore</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBrZWxrb29SdWxlLmhvdXIgPSBbNywgMTQsIDIxXTsK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZigoYXdhaXQgaGVscGVycy5nZXRBbGxBbGxvd2VkUmVhZE9yZ0lkcyhjdXJyVXNlcikpLmluY2x1ZGVzKHJlYWRPcmcuaWQpKXsK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjdXJyT3JnID0gY3Vyck9yZyB8fCBhd2FpdCBkYlNlcnZpY2UuZ2V0T3JnYW5pemF0aW9uQnlJZChjdXJyT3JnSWQgfHwgY3VyclVzZXIub3JnYW5pemF0aW9uSWQpOwo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgLy8gY2hlY2sgaWYgdXNlciBmcm9tIHRoZSBvcmdhbml6YXRpb24gaGUgaXMgdHJ5aW5nIHRvIHJlYWQKICBpZihjdXJyT3JnICYmIGN1cnJPcmcuaWQgPT09IHJlYWRPcmcuaWQpIHsKICAgIHJldHVybiB0cnVlOwogIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZigoYXdhaXQgaGVscGVycy5nZXRBbGxBbGxvd2VkUmVhZE9yZ0lkcyhjdXJyVXNlcikpLmluY2x1ZGVzKHJlYWRPcmcuaWQpKXsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgogIC8vIGNoZWNrIGlmIHVzZXIgaXMgYSBjb250YWN0IHBlcnNvbiBvZiByZWFkT3JnCiAgY29uc29sZS5sb2coJzExMTExMTExMTExMScpCiAgY29uc29sZS5sb2cocmVhZE9yZy5pZCkKICBjb25zb2xlLmxvZyhbLi4uY3VyclVzZXIuZmlyc3RDb250YWN0T3JnYW5pemF0aW9ucywgLi4uY3VyclVzZXIuc2Vjb25kQ29udGFjdE9yZ2FuaXphdGlvbnNdLm1hcChvPT5vLmlkKSkKICBjb25zb2xlLmxvZyhhd2FpdCBoZWxwZXJzLmdldFVzZXJDb250YWN0QW5kQ2hpbGRyZW5PcmdJZHMoY3VyclVzZXIpKQogIGNvbnNvbGUubG9nKGF3YWl0IGhlbHBlcnMuZ2V0QWxsQWxsb3dlZFJlYWRPcmdJZHMoY3VyclVzZXIpKQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
