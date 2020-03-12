@@ -22,10 +22,10 @@
         <mark key="^" line="203" column="4" />
         <mark key="." line="200" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/request.js" timestamp="1583991690385">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/request.js" timestamp="1583992707597">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/offers.js" timestamp="1582701761812">
         <mark key="[" line="160" column="39" />
@@ -89,7 +89,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1583991523705" />
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1583992750576" />
       <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/tsconfig.json" timestamp="1580559960537">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="11" column="39" />
@@ -278,6 +278,12 @@
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1582093729337">
         <mark key="'" line="26" column="64" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/deploy.sh" timestamp="1583993728493">
+        <mark key="[" line="27" column="81" />
+        <mark key="]" line="27" column="82" />
+        <mark key="." line="27" column="82" />
+        <mark key="^" line="27" column="86" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/all_env.js" timestamp="1581889177420">
         <mark key="'" line="126" column="33" />
         <mark key="[" line="44" column="96" />
@@ -364,23 +370,23 @@
       <jump line="26" column="64" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC0tdGFyZ2V0PTEyLjEzLjA=</text>
       </register>
       <register name="-" type="4">
-        <text>z</text>
+        <text encoding="base64">IC0tdGFyZ2V0PTEyLjEzLjA=</text>
       </register>
       <register name="/" type="4">
         <text>yadore</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
+        <text encoding="base64">cm0gLXJmIG5vZGVfbW9kdWxlcy9zaGFycC8gJiYgbnBtIGluc3RhbGwgLS1hcmNoPXg2NCAtLXBsYXRmb3JtPWxpbnV4IC0tdGFyZ2V0PTguMTAuMCBzaGFycCAjIHNoYXJwIHNob3VsZCBiZSBidWlsdCB3aXRoIGxpbnV4IGxpYnJhcmllcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
@@ -392,16 +398,16 @@
         <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZigoYXdhaXQgaGVscGVycy5nZXRBbGxBbGxvd2VkUmVhZE9yZ0lkcyhjdXJyVXNlcikpLmluY2x1ZGVzKHJlYWRPcmcuaWQpKXsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
     </registers>
     <search>
