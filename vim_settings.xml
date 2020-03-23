@@ -264,7 +264,7 @@
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1584952923549">
+      <file name="/Dummy.txt" timestamp="1584954330896">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1581880042266">
@@ -287,11 +287,11 @@
         <mark key="." line="27" column="82" />
         <mark key="^" line="27" column="86" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/services/db/ClickStats.ts" timestamp="1584953007543">
-        <mark key="[" line="109" column="76" />
-        <mark key="]" line="109" column="82" />
-        <mark key="^" line="109" column="82" />
-        <mark key="." line="109" column="82" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/services/db/ClickStats.ts" timestamp="1584955647897">
+        <mark key="[" line="97" column="48" />
+        <mark key="]" line="97" column="48" />
+        <mark key="^" line="111" column="82" />
+        <mark key="." line="97" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/all_env.js" timestamp="1581889177420">
         <mark key="'" line="126" column="33" />
@@ -379,44 +379,44 @@
       <jump line="26" column="64" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, subid: 1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIGlmIHN1YmlkICdjb250YWlucycgJ3N0YXJ0IHdpdGgnICdlbmQgd2l0aCc=</text>
+        <text>, subid: 1</text>
       </register>
       <register name="/" type="4">
         <text>yadore</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IG5ldHdvcmtJZDogMSwgcmVnaW9uOiAxLCBjcmVhdGVkQXQ6IDEsIHN1YmlkOiAxIH0pOyAvLyBpZiBzdWJpZCAnY29udGFpbnMnICdzdGFydCB3aXRoJyAnZW5kIHdpdGgnCg==</text>
+        <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IHJlZ2lvbjogMSwgY3JlYXRlZEF0OiAxLCBzdWJpZDogMSB9KTsgLy8gaWYgc3ViaWQgJ2NvbnRhaW5zJyAnc3RhcnQgd2l0aCcgJ2VuZCB3aXRoJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IGNyZWF0ZWRBdDogMSwgbmV0d29ya0lkOiAxLCBtZXJjaGFudElkOiAxLCBzdWJpZDogMX0pOyAvLyBuZXcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IG5ldHdvcmtJZDogMSwgcmVnaW9uOiAxLCBjcmVhdGVkQXQ6IDEsIHN1YmlkOiAxIH0pOyAvLyBpZiBzdWJpZCAnY29udGFpbnMnICdzdGFydCB3aXRoJyAnZW5kIHdpdGgnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">OTAqODY0MDAqMTAwMAo=</text>
+        <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IG5ldHdvcmtJZDogMSwgcmVnaW9uOiAxLCBjcmVhdGVkQXQ6IDEsIHN1YmlkOiAxIH0pOyAvLyBpZiBzdWJpZCAnY29udGFpbnMnICdzdGFydCB3aXRoJyAnZW5kIHdpdGgnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">OTAqODY0MDAqMTAwMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IHJlZ2lvbjogMSB9KTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IHJlZ2lvbjogMSB9KTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gY2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IG1lcmNoYW50SWQ6IDEsIGNyZWF0ZWRBdDogMSB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gY2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IG5ldHdvcmtJZDogMSwgY3JlYXRlZEF0OiAxIH0pOwo=</text>
+        <text encoding="base64">Ly8gY2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IG1lcmNoYW50SWQ6IDEsIGNyZWF0ZWRBdDogMSB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gY2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IGNyZWF0ZWRBdDogMSB9KTsK</text>
+        <text encoding="base64">Ly8gY2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IG5ldHdvcmtJZDogMSwgY3JlYXRlZEF0OiAxIH0pOwo=</text>
       </register>
     </registers>
     <search>
