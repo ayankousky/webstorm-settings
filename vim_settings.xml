@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/click_stat.js" timestamp="1584947554553">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="^" line="176" column="64" />
+        <mark key="." line="177" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/campaignBids/index.js" timestamp="1580103937746">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -89,7 +95,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/serverless.yml" timestamp="1583992750576" />
       <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/tsconfig.json" timestamp="1580559960537">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="11" column="39" />
@@ -219,7 +224,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/white-label/src/infra/sequelize/models/index.ts" timestamp="1583871042245" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1582055927625">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="363" column="0" />
@@ -237,8 +241,6 @@
         <mark key="." line="76" column="20" />
         <mark key="^" line="76" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/white-label/src/core/domain/events/DomainEvents.ts" timestamp="1583871300381" />
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1584099050956" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/campaignBids/cache.js" timestamp="1580275963931">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="16" column="37" />
@@ -284,6 +286,12 @@
         <mark key="]" line="27" column="82" />
         <mark key="." line="27" column="82" />
         <mark key="^" line="27" column="86" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/services/db/ClickStats.ts" timestamp="1584948252422">
+        <mark key="[" line="107" column="79" />
+        <mark key="]" line="107" column="85" />
+        <mark key="^" line="107" column="85" />
+        <mark key="." line="107" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/all_env.js" timestamp="1581889177420">
         <mark key="'" line="126" column="33" />
@@ -371,44 +379,44 @@
       <jump line="26" column="64" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC0tdGFyZ2V0PTEyLjEzLjA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tdGFyZ2V0PTEyLjEzLjA=</text>
+        <text encoding="base64">LCBjcmVhdGVkQXQ6IDEg</text>
       </register>
       <register name="/" type="4">
         <text>yadore</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cm0gLXJmIG5vZGVfbW9kdWxlcy9zaGFycC8gJiYgbnBtIGluc3RhbGwgLS1hcmNoPXg2NCAtLXBsYXRmb3JtPWxpbnV4IC0tdGFyZ2V0PTguMTAuMCBzaGFycCAjIHNoYXJwIHNob3VsZCBiZSBidWlsdCB3aXRoIGxpbnV4IGxpYnJhcmllcwo=</text>
+        <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IG5ldHdvcmtJZDogMSwgbWVyY2hhbnRJZDogMSwgc3ViaWQ6IDEsIGNyZWF0ZWRBdDogMSB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IHJlZ2lvbjogMSB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCcxMTExMTExMTExMTExMTExMScpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gY2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IG1lcmNoYW50SWQ6IDEsIGNyZWF0ZWRBdDogMSB9KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gY2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IG5ldHdvcmtJZDogMSwgY3JlYXRlZEF0OiAxIH0pOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gY2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IGNyZWF0ZWRBdDogMSB9KTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gY2xpY2tfc3RhdHNTY2hlbWEuaW5kZXgoeyBzdWJpZDogMSwgY3JlYXRlZEF0OiAxIH0pOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gY2xpY2tfc3RhdHNTY2hlbWEuaW5kZXgoeyBjYW1wYWlnbjogMSwgY3JlYXRlZEF0OiAxIH0pOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Ly8gY2xpY2tfc3RhdHNTY2hlbWEuaW5kZXgoeyByZWdpb246IDEgfSk7Cg==</text>
       </register>
     </registers>
     <search>
