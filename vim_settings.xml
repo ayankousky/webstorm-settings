@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/click_stat.js" timestamp="1584952878372">
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="^" line="176" column="64" />
-        <mark key="." line="177" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/click_stat.js" timestamp="1585033870182">
+        <mark key="[" line="184" column="31" />
+        <mark key="]" line="185" column="30" />
+        <mark key="^" line="185" column="30" />
+        <mark key="." line="185" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/campaignBids/index.js" timestamp="1580103937746">
         <mark key="[" line="6" column="0" />
@@ -33,6 +33,7 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/campaigns.ts" timestamp="1585030474946" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/offers.js" timestamp="1582701761812">
         <mark key="[" line="160" column="39" />
         <mark key="]" line="160" column="49" />
@@ -171,6 +172,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="476" />
       </file>
+      <file name="$USER_HOME$/Desktop/aggr.js" timestamp="1585032605360">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/src/domain/imports/index.ts" timestamp="1580888964000">
         <mark key="'" line="52" column="42" />
         <mark key="[" line="133" column="33" />
@@ -231,9 +238,6 @@
         <mark key="^" line="377" column="80" />
         <mark key="." line="363" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1581885625933">
-        <mark key="'" line="101" column="40" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/src/domain/models/match.ts" timestamp="1580591740124">
         <mark key="'" line="85" column="34" />
         <mark key="[" line="76" column="19" />
@@ -264,7 +268,7 @@
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1584954330896">
+      <file name="/Dummy.txt" timestamp="1585032922496">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1581880042266">
@@ -277,9 +281,6 @@
         <mark key="]" line="247" column="0" />
         <mark key="^" line="243" column="33" />
         <mark key="." line="247" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1582093729337">
-        <mark key="'" line="26" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/deploy.sh" timestamp="1583993728493">
         <mark key="[" line="27" column="81" />
@@ -380,10 +381,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, subid: 1</text>
+        <text encoding="base64">ZGF0ZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>, subid: 1</text>
+        <text encoding="base64">ZGF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text>yadore</text>
@@ -391,32 +392,39 @@
       <register name="0" type="2">
         <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IHJlZ2lvbjogMSwgY3JlYXRlZEF0OiAxLCBzdWJpZDogMSB9KTsgLy8gaWYgc3ViaWQgJ2NvbnRhaW5zJyAnc3RhcnQgd2l0aCcgJ2VuZCB3aXRoJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IGNyZWF0ZWRBdDogMSwgbmV0d29ya0lkOiAxLCBtZXJjaGFudElkOiAxLCBzdWJpZDogMX0pOyAvLyBuZXcK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgbGV0IGRhdGUgPSB7CiAgICB5ZWFyOiBjdXJyRGF0ZS5nZXRGdWxsWWVhcigpLAogICAgbW9udGg6IGN1cnJEYXRlLmdldE1vbnRoKCkgKyAxLAogICAgZGF5OiBjdXJyRGF0ZS5nZXRVVENEYXRlKCksCiAgICBob3VyOiBjdXJyRGF0ZS5nZXRVVENIb3VycygpLAogICAgbWludXRlOiBjdXJyRGF0ZS5nZXRVVENNaW51dGVzKCkKICB9Ow==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1pbnV0ZTogbm93RGF0ZS5nZXRVVENNaW51dGVzKCkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IG5ldHdvcmtJZDogMSwgcmVnaW9uOiAxLCBjcmVhdGVkQXQ6IDEsIHN1YmlkOiAxIH0pOyAvLyBpZiBzdWJpZCAnY29udGFpbnMnICdzdGFydCB3aXRoJyAnZW5kIHdpdGgnCg==</text>
+      <register name="3" type="8">
+        <text>d.
+d.
+d.
+d.
+d.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">OTAqODY0MDAqMTAwMAo=</text>
+      <register name="4" type="8">
+        <text>console.log(
+console.log(
+console.log(
+console.log(</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IGNyZWF0ZWRBdDogMSwgbmV0d29ya0lkOiAxLCBtZXJjaGFudElkOiAxLCBzdWJpZDogMX0pOyAvLyBuZXcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IHJlZ2lvbjogMSB9KTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IG5ldHdvcmtJZDogMSwgcmVnaW9uOiAxLCBjcmVhdGVkQXQ6IDEsIHN1YmlkOiAxIH0pOyAvLyBpZiBzdWJpZCAnY29udGFpbnMnICdzdGFydCB3aXRoJyAnZW5kIHdpdGgnCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gY2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IG1lcmNoYW50SWQ6IDEsIGNyZWF0ZWRBdDogMSB9KTsK</text>
+        <text encoding="base64">OTAqODY0MDAqMTAwMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gY2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IG5ldHdvcmtJZDogMSwgY3JlYXRlZEF0OiAxIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
