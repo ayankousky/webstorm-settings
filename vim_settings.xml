@@ -21,13 +21,6 @@
         <mark key="^" line="115" column="226" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1582611187585">
-        <mark key="'" line="146" column="36" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="^" line="203" column="4" />
-        <mark key="." line="200" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/request.js" timestamp="1583992707597">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -68,6 +61,13 @@
         <mark key="^" line="10" column="61" />
         <mark key="." line="10" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/networks.ts" timestamp="1585120166902">
+        <mark key="'" line="108" column="2" />
+        <mark key="[" line="39" column="2" />
+        <mark key="]" line="79" column="2" />
+        <mark key="." line="79" column="2" />
+        <mark key="^" line="79" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_bids.js" timestamp="1580059931075">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -84,12 +84,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/helpers.js" timestamp="1581889462447">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="43" column="44" />
-        <mark key="]" line="43" column="50" />
-        <mark key="^" line="43" column="50" />
-        <mark key="." line="43" column="50" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1585118630292" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/domains.ts" timestamp="1585120059912">
+        <mark key="[" line="150" column="3" />
+        <mark key="]" line="150" column="2" />
+        <mark key="^" line="150" column="2" />
+        <mark key="." line="150" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_api_key.js" timestamp="1580055630011">
         <mark key="[" line="20" column="0" />
@@ -120,10 +120,10 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1580242929407">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1585119275575">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1581882884058">
         <mark key="[" line="269" column="0" />
@@ -154,7 +154,7 @@
         <mark key="." line="207" column="0" />
         <mark key="^" line="221" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" timestamp="1581398217260">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" timestamp="1585064942512">
         <mark key="'" line="27" column="70" />
         <mark key="[" line="82" column="86" />
         <mark key="]" line="82" column="88" />
@@ -178,21 +178,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/src/domain/imports/index.ts" timestamp="1580888964000">
-        <mark key="'" line="52" column="42" />
-        <mark key="[" line="133" column="33" />
-        <mark key="]" line="133" column="39" />
-        <mark key="." line="133" column="39" />
-        <mark key="^" line="133" column="39" />
-      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/ncampaigns.test.ts" timestamp="1585038260894" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/app.js" timestamp="1581890198318">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/app.js" timestamp="1582268471393">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/organizations.js" timestamp="1581889420799">
         <mark key="[" line="119" column="0" />
@@ -216,6 +206,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/helpers/pipeline.ts" timestamp="1585119749127">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="31" column="10" />
+        <mark key="^" line="31" column="10" />
+        <mark key="." line="31" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/client/package.json" timestamp="1579807780138">
         <mark key="[" line="43" column="19" />
         <mark key="]" line="43" column="19" />
@@ -230,20 +226,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1582055927625">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="363" column="0" />
-        <mark key="]" line="363" column="0" />
-        <mark key="^" line="377" column="80" />
-        <mark key="." line="363" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/src/domain/models/match.ts" timestamp="1580591740124">
-        <mark key="'" line="85" column="34" />
-        <mark key="[" line="76" column="19" />
-        <mark key="]" line="76" column="20" />
-        <mark key="." line="76" column="20" />
-        <mark key="^" line="76" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/campaignBids/cache.js" timestamp="1580275963931">
         <mark key="[" line="16" column="37" />
@@ -268,7 +250,7 @@
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1585032922496">
+      <file name="/Dummy.txt" timestamp="1585034284340">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1581880042266">
@@ -294,13 +276,6 @@
         <mark key="^" line="111" column="82" />
         <mark key="." line="97" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/all_env.js" timestamp="1581889177420">
-        <mark key="'" line="126" column="33" />
-        <mark key="[" line="44" column="96" />
-        <mark key="]" line="44" column="100" />
-        <mark key="." line="44" column="100" />
-        <mark key="^" line="44" column="100" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/index.js" timestamp="1582218513941">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="25" />
@@ -311,13 +286,6 @@
         <mark key="[" line="184" column="286" />
         <mark key="]" line="184" column="287" />
         <mark key="." line="184" column="287" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/test.js" timestamp="1580884009922">
-        <mark key="'" line="1" column="13" />
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/connexity.js" timestamp="1582692964438">
         <mark key="[" line="149" column="32" />
@@ -378,13 +346,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
       <jump line="26" column="64" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
+      <jump line="66" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/networks.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGF0ZSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0ZSA=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>yadore</text>
@@ -392,36 +361,76 @@
       <register name="0" type="2">
         <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IHJlZ2lvbjogMSwgY3JlYXRlZEF0OiAxLCBzdWJpZDogMSB9KTsgLy8gaWYgc3ViaWQgJ2NvbnRhaW5zJyAnc3RhcnQgd2l0aCcgJ2VuZCB3aXRoJwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="2" type="4">
+        <text>console.log(JSON.stringify([
+		buildMatch(filter),
+		{
+			$project: {
+				date: ph.setTimeRange(filter.time_range_type, filter.time_range),
+				networkId: true
+			}
+		},
+		{
+			$group: {
+				_id: {
+					networkId: '$networkId',
+					date: '$date'
+				},
+				date: { $first: '$date' },
+				networkId: { $first: '$networkId' },
+				clicks: { $sum: 1 }
+			}
+		},
+		{
+			$group: {
+				_id: { date: '$date' },
+				data: {
+					$push: {
+						name: '$networkId',
+						value: '$clicks'
+					}
+				}
+			}
+		},
+		{
+			$sort: ph.setSort(filter.time_range_type)
+		},
+		{
+			$project: {
+				date: ph.dateToID(filter.time_range_type),
+				_id: false,
+				data: true
+			}
+		}
+	]))</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CiAgbGV0IGRhdGUgPSB7CiAgICB5ZWFyOiBjdXJyRGF0ZS5nZXRGdWxsWWVhcigpLAogICAgbW9udGg6IGN1cnJEYXRlLmdldE1vbnRoKCkgKyAxLAogICAgZGF5OiBjdXJyRGF0ZS5nZXRVVENEYXRlKCksCiAgICBob3VyOiBjdXJyRGF0ZS5nZXRVVENIb3VycygpLAogICAgbWludXRlOiBjdXJyRGF0ZS5nZXRVVENNaW51dGVzKCkKICB9Ow==</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIG1pbnV0ZTogbm93RGF0ZS5nZXRVVENNaW51dGVzKCkK</text>
       </register>
-      <register name="3" type="8">
+      <register name="6" type="8">
         <text>d.
 d.
 d.
 d.
 d.</text>
       </register>
-      <register name="4" type="8">
+      <register name="7" type="8">
         <text>console.log(
 console.log(
 console.log(
 console.log(</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IGNyZWF0ZWRBdDogMSwgbmV0d29ya0lkOiAxLCBtZXJjaGFudElkOiAxLCBzdWJpZDogMX0pOyAvLyBuZXcK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IG5ldHdvcmtJZDogMSwgcmVnaW9uOiAxLCBjcmVhdGVkQXQ6IDEsIHN1YmlkOiAxIH0pOyAvLyBpZiBzdWJpZCAnY29udGFpbnMnICdzdGFydCB3aXRoJyAnZW5kIHdpdGgnCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">OTAqODY0MDAqMTAwMAo=</text>
+        <text encoding="base64">Y2xpY2tTdGF0c1NjaGVtYS5pbmRleCh7IGNyZWF0ZWRBdDogMSwgbmV0d29ya0lkOiAxLCBtZXJjaGFudElkOiAxLCBzdWJpZDogMX0pOyAvLyBuZXcK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
