@@ -2,12 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="docker" type="Dockerfile" />
-      <mapping pattern="access_log" type="PLAIN_TEXT" />
-      <mapping pattern="docker" type="PLAIN_TEXT" />
-      <mapping pattern="thier_mff" type="PLAIN_TEXT" />
       <mapping pattern="my_mff" type="PLAIN_TEXT" />
-      <mapping pattern="sadf" type="PLAIN_TEXT" />
       <mapping pattern="users_addCoulumn_roleId.sql" type="PLAIN_TEXT" />
+      <mapping pattern="docker" type="PLAIN_TEXT" />
+      <mapping pattern="access_log" type="PLAIN_TEXT" />
+      <mapping pattern="sadf" type="PLAIN_TEXT" />
+      <mapping pattern="thier_mff" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
