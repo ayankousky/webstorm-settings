@@ -10,6 +10,9 @@
         <mark key="^" line="293" column="3" />
         <mark key="." line="292" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1585554117276">
+        <mark key="'" line="120" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/request.js" timestamp="1583992707597">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -75,7 +78,6 @@
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/networks.ts" timestamp="1585130083820">
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/geolocation/index.js" timestamp="1585288760433" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/regions.ts" timestamp="1585130232675">
         <mark key="'" line="38" column="16" />
         <mark key="[" line="39" column="0" />
@@ -185,12 +187,12 @@
         <mark key="." line="566" column="11" />
         <mark key="^" line="566" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" timestamp="1585064942512">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" timestamp="1585554161654">
         <mark key="'" line="27" column="70" />
-        <mark key="[" line="82" column="86" />
-        <mark key="]" line="82" column="88" />
-        <mark key="." line="82" column="88" />
-        <mark key="^" line="82" column="88" />
+        <mark key="[" line="113" column="38" />
+        <mark key="]" line="113" column="38" />
+        <mark key="." line="113" column="38" />
+        <mark key="^" line="113" column="38" />
       </file>
       <file name="$USER_HOME$/Desktop/yieldkit.csv" timestamp="1580245349937">
         <mark key="[" line="0" column="0" />
@@ -270,19 +272,20 @@
       <jump line="219" column="14" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/s24.js" />
       <jump line="35" column="28" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/skimlinks.js" />
       <jump line="310" column="32" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/connexity.js" />
+      <jump line="120" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>offersCount</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>offersCount</text>
       </register>
       <register name="/" type="4">
         <text>importOff</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAsIHsgbG9nZ2VyIH0gPSByZXF1aXJlKCcuLi8uLi8uLi9zZXJ2aWNlcycpOwo=</text>
+        <text encoding="base64">CSAgICB1cmwgPSBhd2FpdCB0aGlzLmdldFJhbmRvbU9mZmVyKG9mZmVyc0NvdW50LCBvZmZlci5vaWQsIG9mZmVyLnJlZ2lvbiwgZGJPZmZlci5zdG9yZV91cmwpOwo=</text>
       </register>
       <register name="1" type="4">
         <text>');
