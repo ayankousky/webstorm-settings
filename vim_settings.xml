@@ -177,8 +177,6 @@
         <mark key="'" line="310" column="32" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="46" />
-        <mark key="." line="244" column="45" />
-        <mark key="^" line="243" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" timestamp="1585255172300">
         <mark key="'" line="566" column="6" />
@@ -187,12 +185,12 @@
         <mark key="." line="566" column="11" />
         <mark key="^" line="566" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" timestamp="1585554161654">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" timestamp="1585762401667">
         <mark key="'" line="27" column="70" />
-        <mark key="[" line="113" column="38" />
-        <mark key="]" line="113" column="38" />
-        <mark key="." line="113" column="38" />
-        <mark key="^" line="113" column="38" />
+        <mark key="[" line="73" column="18" />
+        <mark key="]" line="73" column="19" />
+        <mark key="." line="73" column="19" />
+        <mark key="^" line="73" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/yieldkit.csv" timestamp="1580245349937">
         <mark key="[" line="0" column="0" />
@@ -275,8 +273,8 @@
       <jump line="120" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>offersCount</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBodHRwczovL2FwaS55YWRvcmUuY29tL3YxL29mZmVyL3JhbmRvbT9tYXJrZXQ9ZGUmbWVyY2hhbnRJZD1jNWI1ZDBjZmY4YWY3ZGFlMzY0ZWY4M2VlMTAzMjdhNjQ0Y2Y2Mzc2YWI3YzUwNzBjM2U5MTVlODUwNTI5OTc3Cg==</text>
       </register>
       <register name="-" type="4">
         <text>offersCount</text>
@@ -287,11 +285,14 @@
       <register name="0" type="2">
         <text encoding="base64">CSAgICB1cmwgPSBhd2FpdCB0aGlzLmdldFJhbmRvbU9mZmVyKG9mZmVyc0NvdW50LCBvZmZlci5vaWQsIG9mZmVyLnJlZ2lvbiwgZGJPZmZlci5zdG9yZV91cmwpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBodHRwczovL2FwaS55YWRvcmUuY29tL3YxL29mZmVyL3JhbmRvbT9tYXJrZXQ9ZGUmbWVyY2hhbnRJZD1jNWI1ZDBjZmY4YWY3ZGFlMzY0ZWY4M2VlMTAzMjdhNjQ0Y2Y2Mzc2YWI3YzUwNzBjM2U5MTVlODUwNTI5OTc3Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>');
 ');</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>console.log(
 console.log(
 console.log(
@@ -300,17 +301,17 @@ console.log(
 console.log(
 console.log(
 console.log(</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGBEZWxldGVkIG1lcmNoYW50czogJHtzdGF0cy5kZWxldGVkTWVyY2hhbnRzQ291bnR9YCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGBEZWxldGVkIG1lcmNoYW50czogJHtzdGF0cy5kZWxldGVkTWVyY2hhbnRzQ291bnR9YCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBEZWxldGVkIGNvdXBvbnM6ICR7c3RhdHMuZGVsZXRlZENvdXBvbnNDb3VudH1gKTsKICAgIC8vIGNvbnNvbGUubG9nKGBEZWxldGVkIG1lcmNoYW50czogJHtzdGF0cy5kZWxldGVkTWVyY2hhbnRzQ291bnR9YCk7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>console.log(
 console.log(
 console.log(
@@ -318,10 +319,10 @@ console.log(
 console.log(
 console.log(</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>);
 );
 );
@@ -330,16 +331,6 @@ console.log(</text>
 );
 );
 );</text>
-      </register>
-      <register name="9" type="4">
-        <text>console.log(
-console.log(
-console.log(
-console.log(
-console.log(
-console.log(
-console.log(
-console.log(</text>
       </register>
     </registers>
     <search>
