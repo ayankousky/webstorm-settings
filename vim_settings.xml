@@ -81,9 +81,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/networks.ts" timestamp="1585130083820">
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/regions.ts" timestamp="1585130232675">
         <mark key="'" line="38" column="16" />
         <mark key="[" line="39" column="0" />
@@ -145,6 +142,13 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1585905019659">
+        <mark key="'" line="150" column="21" />
+        <mark key="[" line="50" column="26" />
+        <mark key="]" line="51" column="1" />
+        <mark key="." line="51" column="1" />
+        <mark key="^" line="51" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/s24.js" timestamp="1585255971358">
         <mark key="'" line="219" column="14" />
         <mark key="[" line="7" column="0" />
@@ -152,17 +156,16 @@
         <mark key="^" line="211" column="3" />
         <mark key="." line="218" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/skimlinks.js" timestamp="1585256145580">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/skimlinks.js" timestamp="1585904252254">
         <mark key="'" line="36" column="28" />
-        <mark key="[" line="150" column="51" />
-        <mark key="]" line="150" column="51" />
-        <mark key="." line="150" column="51" />
-        <mark key="^" line="144" column="3" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1585119275575">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1585904245923">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1581882884058">
         <mark key="[" line="269" column="0" />
@@ -277,13 +280,14 @@
       <jump line="35" column="28" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/skimlinks.js" />
       <jump line="310" column="32" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/connexity.js" />
       <jump line="120" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="149" column="21" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBodHRwczovL2FwaS55YWRvcmUuY29tL3YxL29mZmVyL3JhbmRvbT9tYXJrZXQ9ZGUmbWVyY2hhbnRJZD1jNWI1ZDBjZmY4YWY3ZGFlMzY0ZWY4M2VlMTAzMjdhNjQ0Y2Y2Mzc2YWI3YzUwNzBjM2U5MTVlODUwNTI5OTc3Cg==</text>
+      <register name="&quot;" type="4">
+        <text>manual</text>
       </register>
       <register name="-" type="4">
-        <text>offersCount</text>
+        <text>manual</text>
       </register>
       <register name="/" type="4">
         <text>importOff</text>
@@ -292,13 +296,19 @@
         <text encoding="base64">CSAgICB1cmwgPSBhd2FpdCB0aGlzLmdldFJhbmRvbU9mZmVyKG9mZmVyc0NvdW50LCBvZmZlci5vaWQsIG9mZmVyLnJlZ2lvbiwgZGJPZmZlci5zdG9yZV91cmwpOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAvLyBodHRwczovL2FwaS55YWRvcmUuY29tL3YxL29mZmVyL3JhbmRvbT9tYXJrZXQ9ZGUmbWVyY2hhbnRJZD1jNWI1ZDBjZmY4YWY3ZGFlMzY0ZWY4M2VlMTAzMjdhNjQ0Y2Y2Mzc2YWI3YzUwNzBjM2U5MTVlODUwNTI5OTc3Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>');
 ');</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>console.log(
 console.log(
 console.log(
@@ -307,36 +317,23 @@ console.log(
 console.log(
 console.log(
 console.log(</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGBEZWxldGVkIG1lcmNoYW50czogJHtzdGF0cy5kZWxldGVkTWVyY2hhbnRzQ291bnR9YCk7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGBEZWxldGVkIG1lcmNoYW50czogJHtzdGF0cy5kZWxldGVkTWVyY2hhbnRzQ291bnR9YCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBEZWxldGVkIGNvdXBvbnM6ICR7c3RhdHMuZGVsZXRlZENvdXBvbnNDb3VudH1gKTsKICAgIC8vIGNvbnNvbGUubG9nKGBEZWxldGVkIG1lcmNoYW50czogJHtzdGF0cy5kZWxldGVkTWVyY2hhbnRzQ291bnR9YCk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>console.log(
 console.log(
 console.log(
 console.log(
 console.log(
 console.log(</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>);
-);
-);
-);
-);
-);
-);
-);</text>
       </register>
     </registers>
     <search>
