@@ -39,6 +39,11 @@
         <mark key="]" line="80" column="62" />
         <mark key="." line="80" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/app.js" timestamp="1586264527161">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/offers.js" timestamp="1585138046555">
         <mark key="[" line="169" column="27" />
         <mark key="]" line="169" column="27" />
@@ -159,11 +164,12 @@
         <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/entries/networks/types/kelkoo.js" timestamp="1586247372663" />
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/entries/networks/types/yieldkit.js" timestamp="1586248569973">
-        <mark key="[" line="79" column="33" />
-        <mark key="]" line="79" column="34" />
-        <mark key="." line="79" column="34" />
-        <mark key="^" line="74" column="34" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/entries/networks/types/yieldkit.js" timestamp="1586264538653">
+        <mark key="'" line="68" column="10" />
+        <mark key="[" line="79" column="28" />
+        <mark key="]" line="79" column="32" />
+        <mark key="." line="79" column="32" />
+        <mark key="^" line="79" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/s24.js" timestamp="1585255971358">
         <mark key="'" line="219" column="14" />
@@ -293,13 +299,14 @@
       <jump line="310" column="32" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/connexity.js" />
       <jump line="120" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
       <jump line="149" column="21" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
+      <jump line="68" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/entries/networks/types/yieldkit.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>noclk</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>noclk</text>
       </register>
       <register name="/" type="4">
         <text>importOff</text>
@@ -308,39 +315,32 @@
         <text encoding="base64">ICAgIGNhbXBhaWduICAgOiBkYXRhLnN1YmlkID8gZGF0YS5zdWJpZC5zdWJzdHIoMCwgNSkgOiAnbm8gc3ViaWQnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgZnVuY3Rpb24gZ2V0Q2xpY2tEYXRlKGN1cnJEYXRlID0gbmV3IERhdGUoKSkgewogICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgeWVhcjogY3VyckRhdGUuZ2V0RnVsbFllYXIoKSwKICAgICAgICAgICAgbW9udGg6IGN1cnJEYXRlLmdldE1vbnRoKCkgKyAxLAogICAgICAgICAgICBkYXk6IGN1cnJEYXRlLmdldFVUQ0RhdGUoKSwKICAgICAgICAgICAgaG91cjogY3VyckRhdGUuZ2V0VVRDSG91cnMoKSwKICAgICAgICAgICAgbWludXRlOiBjdXJyRGF0ZS5nZXRVVENNaW51dGVzKCkKICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgZnVuY3Rpb24gZ2V0Q2xpY2tEYXRlKGN1cnJEYXRlID0gbmV3IERhdGUoKSkgewogICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgeWVhcjogY3VyckRhdGUuZ2V0RnVsbFllYXIoKSwKICAgICAgICAgICAgbW9udGg6IGN1cnJEYXRlLmdldE1vbnRoKCkgKyAxLAogICAgICAgICAgICBkYXk6IGN1cnJEYXRlLmdldFVUQ0RhdGUoKSwKICAgICAgICAgICAgaG91cjogY3VyckRhdGUuZ2V0VVRDSG91cnMoKSwKICAgICAgICAgICAgbWludXRlOiBjdXJyRGF0ZS5nZXRVVENNaW51dGVzKCkKICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLyBodHRwczovL2FwaS55YWRvcmUuY29tL3YxL29mZmVyL3JhbmRvbT9tYXJrZXQ9ZGUmbWVyY2hhbnRJZD1jNWI1ZDBjZmY4YWY3ZGFlMzY0ZWY4M2VlMTAzMjdhNjQ0Y2Y2Mzc2YWI3YzUwNzBjM2U5MTVlODUwNTI5OTc3Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>');
 ');</text>
-      </register>
-      <register name="8" type="4">
-        <text>console.log(
-console.log(
-console.log(
-console.log(
-console.log(
-console.log(
-console.log(
-console.log(</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
