@@ -134,6 +134,12 @@
       <file name="/Dummy.txt" timestamp="1586768334479">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/fail_stat.js" timestamp="1586778781576">
+        <mark key="[" line="103" column="35" />
+        <mark key="]" line="103" column="48" />
+        <mark key="." line="103" column="48" />
+        <mark key="^" line="103" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1581880042266">
         <mark key="[" line="152" column="0" />
         <mark key="]" line="152" column="0" />
@@ -339,11 +345,11 @@
       <jump line="457" column="116" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cmVjb3JkaW5nU2NoZW1hLmluZGV4KHtyZWNvcmRpbmdfaWQ6IDEsIHRzOiAtMX0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y3JlYXRlZEF0OiAxLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>importCPC</text>
+        <text encoding="base64">Y3JlYXRlZEF0OiAxLCA=</text>
       </register>
       <register name="/" type="4">
         <text>logger.log</text>
