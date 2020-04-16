@@ -195,12 +195,11 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" timestamp="1587027712622">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" timestamp="1587029321929">
         <mark key="'" line="3" column="6" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="^" line="173" column="42" />
-        <mark key="." line="173" column="0" />
+        <mark key="[" line="450" column="0" />
+        <mark key="]" line="450" column="0" />
+        <mark key="." line="450" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" timestamp="1585762401667">
         <mark key="'" line="27" column="70" />
@@ -318,8 +317,8 @@
       <jump line="175" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>x</text>
@@ -331,31 +330,31 @@
         <text encoding="base64">ICAgIGNvbnN0IHJlZ2lvbnMgPSB0aGlzLl9nZXRSZWdpb25zKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlZ2lvbnMgPSB0aGlzLl9nZXRSZWdpb25zKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlZ2lvbnMgPSB0aGlzLl9nZXRSZWdpb25zKCk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgInNjcmlwdHMiOiB7CiAgICAidGVzdCI6ICJlY2hvIFwiRXJyb3I6IG5vIHRlc3Qgc3BlY2lmaWVkXCIgJiYgZXhpdCAxIiwKICAgICJzdGFydCI6ICJucG0gaW5zdGFsbDsgZm9yZXZlciAtdyBzZXJ2ZXIuanMiCiAgfSw=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">CiAgInNjcmlwdHMiOiB7CiAgICAidGVzdCI6ICJlY2hvIFwiRXJyb3I6IG5vIHRlc3Qgc3BlY2lmaWVkXCIgJiYgZXhpdCAxIiwKICAgICJzdGFydCI6ICJucG0gaW5zdGFsbDsgZm9yZXZlciAtdyBzZXJ2ZXIuanMiCiAgfSw=</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">YWluIjogInNlcnZlci5qcyIsCiAgInNjcmlwdHMiOiB7CiAgICAidGVzdCI6ICJlY2hvIFwiRXJyb3I6IG5vIHRlc3Qgc3BlY2lmaWVkXCIgJiYgZXhpdCAxIiwKICAgICJzdGFydCI6ICJucG0gaW5zdGFsbDsgZm9yZXZlciAtdyBzZXJ2ZXIuanMiCiAgfSwK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlZ2lvbnMpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWdpb25zIGNvdXBvbnMnKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlZ2lvbnMpCg==</text>
       </register>
     </registers>
     <search>
