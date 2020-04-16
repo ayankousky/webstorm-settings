@@ -3,17 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" timestamp="1586950944708">
-        <mark key="'" line="151" column="13" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" timestamp="1587024904120">
+        <mark key="'" line="175" column="86" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yieldKit.js" timestamp="1586965590609">
-        <mark key="'" line="292" column="0" />
-        <mark key="[" line="292" column="0" />
-        <mark key="]" line="292" column="0" />
-        <mark key="." line="292" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1586947720988">
         <mark key="'" line="84" column="0" />
@@ -73,11 +67,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1586952278887">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1587027901468">
         <mark key="'" line="138" column="33" />
-        <mark key="[" line="68" column="40" />
-        <mark key="]" line="68" column="40" />
-        <mark key="." line="68" column="40" />
+        <mark key="[" line="68" column="52" />
+        <mark key="]" line="68" column="63" />
+        <mark key="." line="68" column="63" />
+        <mark key="^" line="68" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/zoom.js" timestamp="1585255891001">
         <mark key="'" line="181" column="17" />
@@ -108,6 +103,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/package.json" timestamp="1587027223478" />
       <file name="/Dummy.txt" timestamp="1586947709878">
         <mark key="[" line="0" column="0" />
       </file>
@@ -140,12 +136,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1586951840655">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1587027506391">
         <mark key="'" line="144" column="0" />
         <mark key="[" line="49" column="28" />
-        <mark key="]" line="49" column="35" />
-        <mark key="." line="49" column="35" />
-        <mark key="^" line="49" column="35" />
+        <mark key="]" line="49" column="33" />
+        <mark key="." line="49" column="33" />
+        <mark key="^" line="49" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/entries/networks/types/yieldkit.js" timestamp="1586264538653">
         <mark key="'" line="68" column="10" />
@@ -199,12 +195,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" timestamp="1585255172300">
-        <mark key="'" line="566" column="6" />
-        <mark key="[" line="566" column="5" />
-        <mark key="]" line="566" column="11" />
-        <mark key="." line="566" column="11" />
-        <mark key="^" line="566" column="11" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" timestamp="1587027712622">
+        <mark key="'" line="3" column="6" />
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="^" line="173" column="42" />
+        <mark key="." line="173" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" timestamp="1585762401667">
         <mark key="'" line="27" column="70" />
@@ -220,28 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="16" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
-      <jump line="146" column="36" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" />
-      <jump line="551" column="30" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
-      <jump line="39" column="31" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" />
-      <jump line="41" column="12" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" />
-      <jump line="43" column="12" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" />
-      <jump line="45" column="12" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" />
-      <jump line="132" column="24" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" />
-      <jump line="169" column="24" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" />
-      <jump line="51" column="63" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
-      <jump line="57" column="40" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
-      <jump line="58" column="18" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
-      <jump line="59" column="18" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
-      <jump line="8" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
-      <jump line="47" column="3" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
-      <jump line="49" column="26" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
-      <jump line="156" column="43" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
-      <jump line="112" column="1" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/helpers/common.js" />
-      <jump line="108" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/.gitignore" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/.gitignore" />
-      <jump line="132" column="3" filename="$USER_HOME$/Desktop/kek.js" />
-      <jump line="23" column="34" filename="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/src/domain/models/match.ts" />
       <jump line="47" column="42" filename="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/src/domain/imports/index.ts" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/Projects/beatbet/beatbet/test.js" />
       <jump line="1" column="13" filename="$USER_HOME$/Documents/Projects/beatbet/beatbet/test.js" />
@@ -317,55 +291,77 @@
       <jump line="457" column="116" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
       <jump line="84" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
       <jump line="138" column="33" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
-      <jump line="151" column="13" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
       <jump line="144" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
       <jump line="292" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yieldKit.js" />
+      <jump line="38" column="34" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="98" column="19" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="100" column="105" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="106" column="103" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="109" column="105" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="112" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="115" column="102" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="118" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="121" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="124" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="127" column="83" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="130" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="133" column="37" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="142" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="145" column="38" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="148" column="37" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="151" column="105" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="154" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="157" column="61" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="160" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="166" column="37" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="169" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="175" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>Yankousky@</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>'ie</text>
+        <text>kelkoo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlZ2lvbnMgPSB0aGlzLl9nZXRSZWdpb25zKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlZ2lvbnMgPSB0aGlzLl9nZXRSZWdpb25zKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgInNjcmlwdHMiOiB7CiAgICAidGVzdCI6ICJlY2hvIFwiRXJyb3I6IG5vIHRlc3Qgc3BlY2lmaWVkXCIgJiYgZXhpdCAxIiwKICAgICJzdGFydCI6ICJucG0gaW5zdGFsbDsgZm9yZXZlciAtdyBzZXJ2ZXIuanMiCiAgfSw=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">YWluIjogInNlcnZlci5qcyIsCiAgInNjcmlwdHMiOiB7CiAgICAidGVzdCI6ICJlY2hvIFwiRXJyb3I6IG5vIHRlc3Qgc3BlY2lmaWVkXCIgJiYgZXhpdCAxIiwKICAgICJzdGFydCI6ICJucG0gaW5zdGFsbDsgZm9yZXZlciAtdyBzZXJ2ZXIuanMiCiAgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIC8vICdOQicgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlZ2lvbnMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWdpb25zIGNvdXBvbnMnKQo=</text>
       </register>
     </registers>
     <search>
-      <last-search>'ie</last-search>
+      <last-search>kelkoo</last-search>
       <last-offset />
-      <last-pattern>'ie</last-pattern>
+      <last-pattern>kelkoo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -384,6 +380,7 @@
         <entry>logger.log</entry>
         <entry>media</entry>
         <entry>'ie</entry>
+        <entry>kelkoo</entry>
       </history-search>
       <history-cmd />
       <history-expr />
