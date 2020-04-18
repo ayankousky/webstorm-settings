@@ -38,11 +38,11 @@
         <mark key="]" line="58" column="28" />
         <mark key="." line="58" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/network.js" timestamp="1587163703478">
-        <mark key="[" line="787" column="137" />
-        <mark key="]" line="787" column="137" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/network.js" timestamp="1587212931599">
+        <mark key="[" line="787" column="18" />
+        <mark key="]" line="787" column="18" />
         <mark key="^" line="787" column="137" />
-        <mark key="." line="787" column="137" />
+        <mark key="." line="787" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/Dockerfile" timestamp="1581878307613">
         <mark key="[" line="4" column="0" />
@@ -324,11 +324,11 @@
       <jump line="175" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, 'BR', 'NL', 'FR', 'ES', 'IT', 'CH', 'CZ', 'US', 'PL', 'AT', 'SE', 'UK', 'DK', 'NO', 'FI', 'PT', 'GR', 'MX', 'NB', 'RU'</text>
       </register>
       <register name="-" type="4">
-        <text>rouad</text>
+        <text>, 'BR', 'NL', 'FR', 'ES', 'IT', 'CH', 'CZ', 'US', 'PL', 'AT', 'SE', 'UK', 'DK', 'NO', 'FI', 'PT', 'GR', 'MX', 'NB', 'RU'</text>
       </register>
       <register name="/" type="4">
         <text>kelkoo</text>
