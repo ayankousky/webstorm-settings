@@ -1,6 +1,411 @@
 <application>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" timestamp="1587132803370">
+        <mark key="'" line="175" column="86" />
+        <mark key="[" line="187" column="26" />
+        <mark key="]" line="187" column="31" />
+        <mark key="." line="187" column="31" />
+        <mark key="^" line="187" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1586947720988">
+        <mark key="'" line="84" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/request.js" timestamp="1583992707597">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/app.js" timestamp="1581890198318">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/app.js" timestamp="1586264527161">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/offers.js" timestamp="1585138046555">
+        <mark key="[" line="169" column="27" />
+        <mark key="]" line="169" column="27" />
+        <mark key="." line="169" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.ts" timestamp="1582787436187">
+        <mark key="[" line="58" column="28" />
+        <mark key="]" line="58" column="28" />
+        <mark key="." line="58" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/network.js" timestamp="1587212931599">
+        <mark key="[" line="787" column="18" />
+        <mark key="]" line="787" column="18" />
+        <mark key="^" line="787" column="137" />
+        <mark key="." line="787" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/Dockerfile" timestamp="1581878307613">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/beatbet-importer-dota/package.json" timestamp="1580553795174">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/client/package.json" timestamp="1579807780138">
+        <mark key="[" line="43" column="19" />
+        <mark key="]" line="43" column="19" />
+        <mark key="." line="43" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/app.js" timestamp="1581878023482">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/organizationService.js" timestamp="1581889599160">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/campaign_bids 2.csv" timestamp="1580930294848">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1587027901468">
+        <mark key="'" line="138" column="33" />
+        <mark key="[" line="68" column="52" />
+        <mark key="]" line="68" column="63" />
+        <mark key="." line="68" column="63" />
+        <mark key="^" line="68" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/zoom.js" timestamp="1585255891001">
+        <mark key="'" line="181" column="17" />
+        <mark key="[" line="187" column="64" />
+        <mark key="]" line="187" column="64" />
+        <mark key="." line="187" column="64" />
+        <mark key="^" line="187" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_bids.js" timestamp="1580059931075">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/docker-compose.yml" timestamp="1580556308905">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="14" />
+        <mark key="." line="13" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/networksTypes.ts" timestamp="1585130093645">
+        <mark key="'" line="65" column="5" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="56" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="84" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/middlewares/defineUserRegion.js" timestamp="1587133399733" />
+      <file name="$USER_HOME$/Desktop/campaign_bids.csv" timestamp="1580974419794">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587164684447">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/fail_stat.js" timestamp="1586854240472">
+        <mark key="[" line="103" column="35" />
+        <mark key="]" line="103" column="48" />
+        <mark key="." line="103" column="48" />
+        <mark key="^" line="103" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1581880042266">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/services/db/clickStats.js" timestamp="1586248630566">
+        <mark key="[" line="51" column="5" />
+        <mark key="]" line="51" column="5" />
+        <mark key="^" line="51" column="5" />
+        <mark key="." line="51" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/domains.ts" timestamp="1585130037152">
+        <mark key="'" line="145" column="22" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="62" />
+        <mark key="^" line="150" column="2" />
+        <mark key="." line="174" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_api_key.js" timestamp="1580055630011">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/traffic/index.js" timestamp="1587246305374">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="182" column="22" />
+        <mark key="]" line="183" column="16" />
+        <mark key="^" line="183" column="16" />
+        <mark key="." line="183" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" timestamp="1587218635285">
+        <mark key="'" line="91" column="25" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+        <mark key="^" line="100" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/entries/networks/types/yieldkit.js" timestamp="1586264538653">
+        <mark key="'" line="68" column="10" />
+        <mark key="[" line="79" column="28" />
+        <mark key="]" line="79" column="32" />
+        <mark key="." line="79" column="32" />
+        <mark key="^" line="79" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-endpoints/src/recording/models/recording-summary-schema.js" timestamp="1586768357985">
+        <mark key="k" line="22" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/s24.js" timestamp="1585255971358">
+        <mark key="'" line="219" column="14" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="53" />
+        <mark key="^" line="211" column="3" />
+        <mark key="." line="218" column="72" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yieldkit.js" timestamp="1587246321309">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitmodules" timestamp="1586963725444">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/app.js" timestamp="1586947426318">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/user.js" timestamp="1581882884058">
+        <mark key="[" line="269" column="0" />
+        <mark key="]" line="269" column="0" />
+        <mark key="." line="269" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/mocks.js" timestamp="1581889834927">
+        <mark key="[" line="184" column="286" />
+        <mark key="]" line="184" column="287" />
+        <mark key="." line="184" column="287" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1586336412286">
+        <mark key="'" line="457" column="116" />
+        <mark key="[" line="457" column="102" />
+        <mark key="]" line="457" column="116" />
+        <mark key="^" line="457" column="116" />
+        <mark key="." line="457" column="116" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Wyld/gitlab-elinext/wyld-fusion-endpoints/src/recording/models/recording-schema.js" timestamp="1586771028090">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="49" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" timestamp="1587219851708">
+        <mark key="'" line="3" column="6" />
+        <mark key="[" line="560" column="0" />
+        <mark key="]" line="560" column="0" />
+        <mark key="." line="560" column="0" />
+        <mark key="^" line="560" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" timestamp="1585762401667">
+        <mark key="'" line="27" column="70" />
+        <mark key="[" line="73" column="18" />
+        <mark key="]" line="73" column="19" />
+        <mark key="." line="73" column="19" />
+        <mark key="^" line="73" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desktop/yieldkit.csv" timestamp="1580245349937">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="476" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="1" column="13" filename="$USER_HOME$/Documents/Projects/beatbet/beatbet/test.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/campaign_bids 2.csv" />
+      <jump line="405" column="0" filename="$USER_HOME$/Desktop/campaign_bids 2.csv" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" />
+      <jump line="27" column="70" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" />
+      <jump line="101" column="40" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" />
+      <jump line="119" column="33" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/all_env.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/helpers.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
+      <jump line="26" column="64" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
+      <jump line="66" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/networks.ts" />
+      <jump line="82" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/campaigns.ts" />
+      <jump line="68" column="16" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/campaigns.ts" />
+      <jump line="289" column="18" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/domains.ts" />
+      <jump line="145" column="22" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/domains.ts" />
+      <jump line="21" column="21" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/endpoints.ts" />
+      <jump line="38" column="16" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/endpoints.ts" />
+      <jump line="65" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/networksTypes.ts" />
+      <jump line="56" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/regions.ts" />
+      <jump line="38" column="16" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/regions.ts" />
+      <jump line="24" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/endpoints.ts" />
+      <jump line="268" column="25" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/subids.ts" />
+      <jump line="222" column="22" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/subids.ts" />
+      <jump line="226" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="566" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
+      <jump line="193" column="75" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yieldKit.js" />
+      <jump line="45" column="36" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yieldKit.js" />
+      <jump line="449" column="14" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yieldKit.js" />
+      <jump line="30" column="13" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/zoom.js" />
+      <jump line="11" column="42" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/zoom.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yieldKit.js" />
+      <jump line="92" column="15" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
+      <jump line="181" column="17" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/zoom.js" />
+      <jump line="214" column="23" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/s24.js" />
+      <jump line="169" column="19" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/connexity.js" />
+      <jump line="219" column="14" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/s24.js" />
+      <jump line="35" column="28" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/skimlinks.js" />
+      <jump line="310" column="32" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/connexity.js" />
+      <jump line="120" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="149" column="21" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
+      <jump line="68" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/entries/networks/types/yieldkit.js" />
+      <jump line="240" column="54" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="414" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="415" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="462" column="42" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="519" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="520" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="521" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="522" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="523" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="524" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="555" column="122" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="568" column="106" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="589" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="590" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="614" column="117" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="644" column="11" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="676" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="677" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="678" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="679" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="680" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="681" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="682" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="48" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="60" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="71" column="9" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="230" column="113" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="421" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="457" column="116" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" />
+      <jump line="84" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" />
+      <jump line="138" column="33" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
+      <jump line="144" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
+      <jump line="292" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yieldKit.js" />
+      <jump line="38" column="34" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="98" column="19" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="100" column="105" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="106" column="103" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="109" column="105" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="112" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="115" column="102" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="118" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="121" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="124" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="127" column="83" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="130" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="133" column="37" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="142" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="145" column="38" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="148" column="37" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="151" column="105" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="154" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="157" column="61" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="160" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="166" column="37" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="169" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="175" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
+      <jump line="91" column="25" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/traffic/index.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>'</text>
+      </register>
+      <register name="/" type="4">
+        <text>kelkoo</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHJlZ2lvbnMgPSB0aGlzLl9nZXRSZWdpb25zKCk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmZWVkc1RvU2tpcAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>)
+        return;</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmZWVkcykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fJykK</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>kelkoo</last-search>
+      <last-offset />
+      <last-pattern>kelkoo</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>jobs</entry>
+        <entry>admin-pan</entry>
+        <entry>admin-panel</entry>
+        <entry encoding="base64">XDwwMDIxNjE1NTUzNV81MFw+</entry>
+        <entry>3600</entry>
+        <entry>bidding</entry>
+        <entry>yadore</entry>
+        <entry>buildRedi</entry>
+        <entry>importOff</entry>
+        <entry>console.log</entry>
+        <entry>logger.log</entry>
+        <entry>media</entry>
+        <entry>'ie</entry>
+        <entry>kelkoo</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
@@ -41,19 +446,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed J</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed K</text>
-      </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
       <key-repeat enabled="false" />
     </editor>
-    <notifications>
-      <idea-join enabled="true" />
-      <idea-put enabled="false" />
-    </notifications>
   </component>
 </application>
