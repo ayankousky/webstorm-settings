@@ -33,6 +33,13 @@
         <mark key="]" line="169" column="27" />
         <mark key="." line="169" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" timestamp="1587619646252">
+        <mark key="'" line="115" column="71" />
+        <mark key="[" line="37" column="71" />
+        <mark key="]" line="37" column="71" />
+        <mark key="^" line="37" column="71" />
+        <mark key="." line="37" column="71" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.ts" timestamp="1582787436187">
         <mark key="[" line="58" column="28" />
         <mark key="]" line="58" column="28" />
@@ -44,6 +51,7 @@
         <mark key="^" line="787" column="137" />
         <mark key="." line="787" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/server.js" timestamp="1587618920888" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/Dockerfile" timestamp="1581878307613">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -195,10 +203,10 @@
         <mark key="]" line="184" column="287" />
         <mark key="." line="184" column="287" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1586336412286">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/billiger.js" timestamp="1587619406523">
         <mark key="'" line="457" column="116" />
-        <mark key="[" line="457" column="102" />
-        <mark key="]" line="457" column="116" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="45" />
         <mark key="^" line="457" column="116" />
         <mark key="." line="457" column="116" />
       </file>
@@ -229,14 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="13" filename="$USER_HOME$/Documents/Projects/beatbet/beatbet/test.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Desktop/campaign_bids 2.csv" />
-      <jump line="405" column="0" filename="$USER_HOME$/Desktop/campaign_bids 2.csv" />
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" />
-      <jump line="27" column="70" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/yadore.js" />
-      <jump line="101" column="40" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" />
-      <jump line="119" column="33" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/all_env.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/helpers.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
       <jump line="26" column="64" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
@@ -329,53 +329,61 @@
       <jump line="175" column="86" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" />
       <jump line="91" column="25" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/traffic/index.js" />
+      <jump line="114" column="16" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
+      <jump line="2" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
+      <jump line="35" column="16" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
+      <jump line="155" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
+      <jump line="3" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
+      <jump line="37" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
+      <jump line="115" column="71" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>err</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>err</text>
       </register>
       <register name="/" type="4">
-        <text>kelkoo</text>
+        <text>err</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlZ2lvbnMgPSB0aGlzLl9nZXRSZWdpb25zKCk7Cg==</text>
+        <text encoding="base64">ICAsIHsgbG9nZ2VyIH0gPSByZXF1aXJlKCcuLi8uLi8uLi9zZXJ2aWNlcycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmZWVkc1RvU2tpcAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>)
         return;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmZWVkcykK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmZWVkcykK</text>
       </register>
     </registers>
     <search>
-      <last-search>kelkoo</last-search>
+      <last-search>err</last-search>
       <last-offset />
-      <last-pattern>kelkoo</last-pattern>
+      <last-pattern>err</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -395,6 +403,9 @@
         <entry>media</entry>
         <entry>'ie</entry>
         <entry>kelkoo</entry>
+        <entry>rp.</entry>
+        <entry>logger</entry>
+        <entry>err</entry>
       </history-search>
       <history-cmd />
       <history-expr />
