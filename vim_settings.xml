@@ -51,7 +51,6 @@
         <mark key="^" line="787" column="137" />
         <mark key="." line="787" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/server.js" timestamp="1587618920888" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/Dockerfile" timestamp="1581878307613">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -118,7 +117,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587164684447">
+      <file name="/Dummy.txt" timestamp="1587640619071">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/fail_stat.js" timestamp="1586854240472">
@@ -216,8 +215,8 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" timestamp="1587450664403">
-        <mark key="'" line="3" column="6" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" timestamp="1587640074324">
+        <mark key="'" line="538" column="12" />
         <mark key="[" line="481" column="0" />
         <mark key="]" line="481" column="0" />
         <mark key="." line="481" column="0" />
@@ -237,15 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
-      <jump line="26" column="64" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/app.js" />
-      <jump line="66" column="2" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/networks.ts" />
-      <jump line="82" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/campaigns.ts" />
-      <jump line="68" column="16" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/campaigns.ts" />
-      <jump line="289" column="18" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/domains.ts" />
-      <jump line="145" column="22" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/domains.ts" />
-      <jump line="21" column="21" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/endpoints.ts" />
       <jump line="38" column="16" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/endpoints.ts" />
       <jump line="65" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/networksTypes.ts" />
       <jump line="56" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/regions.ts" />
@@ -337,6 +327,15 @@
       <jump line="3" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
       <jump line="37" column="8" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
       <jump line="115" column="71" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yadore.js" />
+      <jump line="475" column="6" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
+      <jump line="481" column="31" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
+      <jump line="485" column="97" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
+      <jump line="486" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
+      <jump line="492" column="26" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
+      <jump line="493" column="12" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
+      <jump line="507" column="97" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
+      <jump line="508" column="10" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
+      <jump line="538" column="12" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -346,7 +345,7 @@
         <text>err</text>
       </register>
       <register name="/" type="4">
-        <text>err</text>
+        <text>return</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAsIHsgbG9nZ2VyIH0gPSByZXF1aXJlKCcuLi8uLi8uLi9zZXJ2aWNlcycpCg==</text>
@@ -381,9 +380,9 @@
       </register>
     </registers>
     <search>
-      <last-search>err</last-search>
+      <last-search>return</last-search>
       <last-offset />
-      <last-pattern>err</last-pattern>
+      <last-pattern>return</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -406,6 +405,7 @@
         <entry>rp.</entry>
         <entry>logger</entry>
         <entry>err</entry>
+        <entry>return</entry>
       </history-search>
       <history-cmd />
       <history-expr />
