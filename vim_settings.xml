@@ -81,6 +81,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" timestamp="1587792924832" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1587027901468">
         <mark key="'" line="138" column="33" />
         <mark key="[" line="68" column="52" />
@@ -136,6 +137,18 @@
         <mark key="]" line="51" column="5" />
         <mark key="^" line="51" column="5" />
         <mark key="." line="51" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/errors_handling.ts" timestamp="1587793696533">
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="7" column="52" />
+        <mark key="." line="7" column="52" />
+        <mark key="^" line="7" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/app.ts" timestamp="1587793885380">
+        <mark key="'" line="6" column="27" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/domains.ts" timestamp="1585130037152">
         <mark key="'" line="145" column="22" />
@@ -238,54 +251,54 @@
     <jumps>
       <jump line="554" column="17" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
       <jump line="519" column="14" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
+      <jump line="5" column="27" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/app.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>err</text>
+        <text encoding="base64">CnNldEludGVydmFsKCgpPT57CiAgdGhyb3cgbmV3IEVycm9yKCdrZWsnKQp9LCA1MDAwKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>err</text>
+        <text>Timeout</text>
       </register>
       <register name="/" type="4">
-        <text>logger(</text>
+        <text encoding="base64">XDxub2RlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAsIHsgbG9nZ2VyIH0gPSByZXF1aXJlKCcuLi8uLi8uLi9zZXJ2aWNlcycpCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dlciAgICAgICAgZnJvbSAic2VydmljZXMvbG9nZ2VyIjsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CnNldEludGVydmFsKCgpPT57CiAgdGhyb3cgbmV3IEVycm9yKCdrZWsnKQp9LCA1MDAwKQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBwcm9jZXNzLmV4aXQoMSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcm9jZXNzLmV4aXQoMSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmZWVkc1RvU2tpcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>)
-        return;</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmZWVkcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>logger(</last-search>
+      <last-search encoding="base64">XDxub2RlXD4=</last-search>
       <last-offset />
-      <last-pattern>logger(</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxub2RlXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -309,6 +322,7 @@
         <entry>err</entry>
         <entry>return</entry>
         <entry>logger(</entry>
+        <entry encoding="base64">XDxub2RlXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
