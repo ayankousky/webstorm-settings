@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" timestamp="1588519564877">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" timestamp="1588522663163">
         <mark key="'" line="177" column="86" />
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="." line="206" column="0" />
-        <mark key="^" line="206" column="3" />
+        <mark key="[" line="129" column="49" />
+        <mark key="]" line="129" column="49" />
+        <mark key="." line="129" column="49" />
+        <mark key="^" line="246" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/request.js" timestamp="1583992707597">
         <mark key="[" line="38" column="0" />
@@ -72,6 +72,12 @@
         <mark key="]" line="154" column="62" />
         <mark key="^" line="150" column="2" />
         <mark key="." line="174" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/billiger.js" timestamp="1588522563717">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/campaign_api_key.js" timestamp="1580055630011">
         <mark key="[" line="20" column="0" />
@@ -205,7 +211,7 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="84" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588516791785">
+      <file name="/Dummy.txt" timestamp="1588519848928">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1581880042266">
@@ -276,44 +282,44 @@
       <jump line="418" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJvY2Vzcy5lbnYueWFkb3JlSWQsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">cHJvY2Vzcy5lbnYueWFkb3JlSWQsIA==</text>
       </register>
       <register name="/" type="4">
         <text>console.timeLog('tes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudGltZUVuZCgnZ2V0IG9mZmVyJykK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvZmZlcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cob2ZmZXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvZmZlcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWVFbmQoInRlc3Q3Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvZmZlcikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWUoInRlc3Q3Iik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudGltZSgnZXh0ZW5kT2ZmZXInKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWVFbmQoInRlc3QxIik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudGltZUVuZCgnZXh0ZW5kT2ZmZXInKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWUoInRlc3QxIik7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV0d29ya0VudGl0eSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWVFbmQoInRlc3QzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS50aW1lKCdnZXRSYW5kb21Gcm9tTmV0d29yaycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWUoInRlc3QzIik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
     </registers>
     <search>
