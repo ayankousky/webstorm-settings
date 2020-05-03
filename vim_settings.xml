@@ -185,12 +185,12 @@
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1588527231244">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1588527945154">
         <mark key="'" line="557" column="5" />
-        <mark key="[" line="534" column="76" />
-        <mark key="]" line="534" column="85" />
-        <mark key="^" line="534" column="85" />
-        <mark key="." line="534" column="85" />
+        <mark key="[" line="588" column="40" />
+        <mark key="]" line="588" column="41" />
+        <mark key="^" line="590" column="2" />
+        <mark key="." line="588" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1587027901468">
         <mark key="'" line="138" column="33" />
@@ -316,8 +316,8 @@
       <jump line="557" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>offer.regions</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBsZXQgc3RhcnQgPSBuZXcgRGF0ZSgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>offer.regions</text>
@@ -326,7 +326,7 @@
         <text>console.time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLnRpbWUoInRlc3Q2Iik7Cg==</text>
+        <text encoding="base64">ICBsZXQgc3RhcnQgPSBuZXcgRGF0ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmICgpCg==</text>
