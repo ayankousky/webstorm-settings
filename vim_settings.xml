@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" timestamp="1587132803370">
-        <mark key="'" line="175" column="86" />
-        <mark key="[" line="187" column="26" />
-        <mark key="]" line="187" column="31" />
-        <mark key="." line="187" column="31" />
-        <mark key="^" line="187" column="31" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/index.js" timestamp="1588508405987">
+        <mark key="'" line="176" column="86" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="6" />
+        <mark key="." line="245" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.yml" timestamp="1586947720988">
         <mark key="'" line="84" column="0" />
@@ -90,12 +89,10 @@
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1588504277317">
-        <mark key="'" line="417" column="0" />
-        <mark key="[" line="571" column="18" />
-        <mark key="]" line="571" column="22" />
-        <mark key="." line="571" column="22" />
-        <mark key="^" line="571" column="22" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1588508358056">
+        <mark key="]" line="513" column="0" />
+        <mark key="^" line="513" column="0" />
+        <mark key="." line="513" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1587027901468">
         <mark key="'" line="138" column="33" />
@@ -128,6 +125,7 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="84" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/middlewares/defineUserRegion.js" timestamp="1588507391623" />
       <file name="$USER_HOME$/Desktop/campaign_bids.csv" timestamp="1580974419794">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -157,6 +155,7 @@
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/helpers/common.js" timestamp="1588147491660">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1588506521492" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/domains.ts" timestamp="1585130037152">
         <mark key="'" line="145" column="22" />
         <mark key="[" line="154" column="0" />
@@ -202,6 +201,11 @@
         <mark key="]" line="7" column="53" />
         <mark key="^" line="211" column="3" />
         <mark key="." line="218" column="72" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/rae_domains.js" timestamp="1588508262776">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitmodules" timestamp="1586963725444">
         <mark key="[" line="2" column="15" />
@@ -265,44 +269,44 @@
       <jump line="418" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>8.9.1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcxMjMxMjMxMjMxMjMxJykK</text>
       </register>
       <register name="-" type="4">
-        <text>8.9.1</text>
+        <text>dflaksdfjlaksdfjaskldfj</text>
       </register>
       <register name="/" type="4">
         <text>console.timeLog('tes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWUoInRlc3QiKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoaGhoaGhoaGhoaGhoJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWVFbmQoKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcxMjMxMjMxMjMxMjMxJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygna2VrZWVrZWsnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWVFbmQoInRlc3QiKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnMTExMTExMTExMTExJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnMjIyMjIyMjIyMjIyJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWUoInRlc3QiKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnMzMzMzMzMzMzMzMzJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWUoInRlc3QiKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnNDQ0NDQ0NDQ0NDQ0JykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWUoInRlc3QiKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnNTU1NTU1NTU1NTU1JykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWVMb2coJ3Rlc3QnKTsK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUudGltZSgidGVzdDEiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWVMb2coJ3Rlc3QnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsbGxsbGxsbGxsbGxsJykK</text>
       </register>
     </registers>
     <search>
