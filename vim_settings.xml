@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1589273964429">
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="^" line="178" column="1" />
+        <mark key="." line="188" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/VulcanVision/gaia/lib/helpers/request.js" timestamp="1583992707597">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -59,7 +65,12 @@
         <mark key="." line="18" column="33" />
         <mark key="^" line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1589271139855" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1589274822522">
+        <mark key="[" line="50" column="3" />
+        <mark key="]" line="60" column="2" />
+        <mark key="^" line="60" column="2" />
+        <mark key="." line="60" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/pipelines/domains.ts" timestamp="1585130037152">
         <mark key="'" line="145" column="22" />
         <mark key="[" line="154" column="0" />
@@ -179,8 +190,8 @@
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1587027901468">
-        <mark key="'" line="138" column="33" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1589274678035">
+        <mark key="'" line="96" column="28" />
         <mark key="[" line="68" column="52" />
         <mark key="]" line="68" column="63" />
         <mark key="." line="68" column="63" />
@@ -241,11 +252,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/Dockerfile" timestamp="1589273566121">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/Dockerfile" timestamp="1589274749178">
+        <mark key="[" line="35" column="12" />
+        <mark key="]" line="35" column="43" />
+        <mark key="^" line="35" column="43" />
+        <mark key="." line="35" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitmodules" timestamp="1586963725444">
         <mark key="[" line="2" column="15" />
@@ -307,13 +318,14 @@
       <jump line="521" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="533" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="557" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
+      <jump line="96" column="28" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y3VybCA=</text>
+        <text>1234567890</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y3VybCA=</text>
+        <text>1234567890</text>
       </register>
       <register name="/" type="4">
         <text>console.time</text>
@@ -322,31 +334,31 @@
         <text encoding="base64">UlVOIGFwdCBpbnN0YWxsIGN1cmwgLXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWVFbmQoImdldEF2YWlsYWJsZU9mZmVyIik7Cg==</text>
+        <text encoding="base64">RVhQT1NFIDgwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWUoImdldEF2YWlsYWJsZU9mZmVyIik7Cg==</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLnRpbWVFbmQoImdldEF2YWlsYWJsZU9mZmVyIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLnRpbWUoImdldEF2YWlsYWJsZU9mZmVyIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRiT2ZmZXIpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWVFbmQoInRlc3Q1Iik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWUoInRlc3Q2Iik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRiT2ZmZXIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cob2ZmZXIpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLnRpbWVFbmQoInRlc3Q1Iik7Cg==</text>
       </register>
     </registers>
     <search>
