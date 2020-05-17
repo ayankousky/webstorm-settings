@@ -65,7 +65,7 @@
         <mark key="." line="18" column="33" />
         <mark key="^" line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1589274822522">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.dev.nginx" timestamp="1589726999362">
         <mark key="[" line="50" column="3" />
         <mark key="]" line="60" column="2" />
         <mark key="^" line="60" column="2" />
@@ -190,6 +190,12 @@
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1589727167447">
+        <mark key="[" line="679" column="40" />
+        <mark key="]" line="680" column="1" />
+        <mark key="^" line="680" column="1" />
+        <mark key="." line="680" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1589274678035">
         <mark key="'" line="96" column="28" />
         <mark key="[" line="68" column="52" />
@@ -268,13 +274,6 @@
         <mark key="]" line="184" column="287" />
         <mark key="." line="184" column="287" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" timestamp="1587743772513">
-        <mark key="'" line="519" column="14" />
-        <mark key="[" line="519" column="20" />
-        <mark key="]" line="519" column="23" />
-        <mark key="." line="519" column="23" />
-        <mark key="^" line="519" column="23" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="554" column="17" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
@@ -321,8 +320,8 @@
       <jump line="96" column="28" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1234567890</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>1234567890</text>
@@ -334,31 +333,31 @@
         <text encoding="base64">UlVOIGFwdCBpbnN0YWxsIGN1cmwgLXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">RVhQT1NFIDgwCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWVFbmQoImdldEF2YWlsYWJsZU9mZmVyIik7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWUoImdldEF2YWlsYWJsZU9mZmVyIik7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">RVhQT1NFIDgwCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLnRpbWVFbmQoImdldEF2YWlsYWJsZU9mZmVyIik7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLnRpbWUoImdldEF2YWlsYWJsZU9mZmVyIik7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRiT2ZmZXIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWVFbmQoInRlc3Q1Iik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRiT2ZmZXIpCg==</text>
       </register>
     </registers>
     <search>
