@@ -88,7 +88,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.9.2/core-modules/crypto.js" timestamp="1589729174351">
+      <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.9.2/core-modules/crypto.js" timestamp="1589729473125">
         <mark key="[" line="406" column="45" />
         <mark key="]" line="407" column="0" />
         <mark key="^" line="407" column="0" />
@@ -192,11 +192,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1589728050756">
-        <mark key="[" line="688" column="14" />
-        <mark key="]" line="688" column="25" />
-        <mark key="." line="688" column="25" />
-        <mark key="^" line="688" column="25" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1589730738225">
+        <mark key="'" line="716" column="21" />
+        <mark key="[" line="715" column="13" />
+        <mark key="]" line="715" column="20" />
+        <mark key="." line="715" column="20" />
+        <mark key="^" line="715" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1589274678035">
         <mark key="'" line="96" column="28" />
@@ -276,13 +277,13 @@
         <mark key="]" line="184" column="287" />
         <mark key="." line="184" column="287" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/api/v2/settings.js" timestamp="1589727763076" />
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/v2/crypting/index.js" timestamp="1589729210360">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/api/v2/settings.js" timestamp="1589730627587" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/v2/crypting/index.js" timestamp="1589730381545">
         <mark key="'" line="61" column="21" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="^" line="111" column="0" />
-        <mark key="." line="111" column="0" />
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="32" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="14" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -329,46 +330,47 @@
       <jump line="557" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="96" column="28" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
       <jump line="61" column="21" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/v2/crypting/index.js" />
+      <jump line="716" column="21" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>`</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY29uc3RhbnRzLlJTQV9QS0NTMV9PQUVQX1BBRERJTkcpCg==</text>
+        <text encoding="base64">Y29uc3QgUFVCTElDX0tFWSA9IGAtLS0tLUJFR0lOIFBVQkxJQyBLRVktLS0tLQo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">Ci0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLQ==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">Y29uc3QgY3QgPSByZXEucXVlcnkuY3Q7CiAgY29uc3QgZGVjcnlwdGVkUXVlcnkgPSBDcnlwdC5kZWNyeXB0KGRlY29kZVVSSUNvbXBvbmVudChjdCkpOwogIGxldCBpcEFkZHJlc3MgPSBkZWNyeXB0ZWRRdWVyeS5pcCwKICAgIHN0cmluZ0RvbWFpbiA9IGRlY3J5cHRlZFF1ZXJ5LmRvbWFpbiwKICAgIHN1YmlkID0gZGVjcnlwdGVkUXVlcnkuc3ViaWQsCiAgICB1c2VyQWdlbnQgPSBkZWNyeXB0ZWRRdWVyeS51YTsKICBjb25zb2xlLmxvZyhpcEFkZHJlc3MpCiAgY29uc29sZS5sb2coaXBBZGRyZXNzKQogIGlmICghaXBBZGRyZXNzIHx8ICFzdHJpbmdEb21haW4gfHwgIXN1YmlkKSB7CiAgICByZXR1cm4gcmVzLnN0YXR1cyg0MDApLnNlbmQoJ21pc3NpbmcgcmVxdWlyZWQgZmllbGRzJykKICB9CiAgdHJ5IHsKICAgIGNvbnN0IGNsaWNrID0gYXdhaXQgdHJhZmZpYy5yZWdpc3RlckNsaWNrKAogICAgICBpcEFkZHJlc3MsCiAgICAgIHN0cmluZ0RvbWFpbiwKICAgICAgc3ViaWQsCiAgICAgIHVzZXJBZ2VudCwKICAgICAgImVfbWFpbiIKICAgICk7CiAgICByZXMuc2VuZCh7CiAgICAgIGNsaWNrVXJsOiBgJHtwcm9jZXNzLmVudi5OT0RFX0VOViA9PT0gImRldiIgPyA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RVhQT1NFIDgwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">RVhQT1NFIDgwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWVFbmQoImdldEF2YWlsYWJsZU9mZmVyIik7Cg==</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWUoImdldEF2YWlsYWJsZU9mZmVyIik7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLnRpbWVFbmQoImdldEF2YWlsYWJsZU9mZmVyIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLnRpbWUoImdldEF2YWlsYWJsZU9mZmVyIik7Cg==</text>
       </register>
     </registers>
     <search>
