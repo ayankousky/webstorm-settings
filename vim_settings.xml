@@ -186,15 +186,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/server.js" timestamp="1587794719251">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1589727167447">
-        <mark key="[" line="679" column="40" />
-        <mark key="]" line="680" column="1" />
-        <mark key="^" line="680" column="1" />
-        <mark key="." line="680" column="1" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" timestamp="1589728050756">
+        <mark key="[" line="688" column="14" />
+        <mark key="]" line="688" column="25" />
+        <mark key="." line="688" column="25" />
+        <mark key="^" line="688" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1589274678035">
         <mark key="'" line="96" column="28" />
@@ -215,7 +211,7 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="84" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588975853497">
+      <file name="/Dummy.txt" timestamp="1589727688520">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1581880042266">
@@ -274,6 +270,10 @@
         <mark key="]" line="184" column="287" />
         <mark key="." line="184" column="287" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/api/v2/settings.js" timestamp="1589727763076" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/v2/crypting/index.js" timestamp="1589727661694">
+        <mark key="'" line="61" column="21" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="554" column="17" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
@@ -318,58 +318,58 @@
       <jump line="533" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="557" column="5" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/controllers/traffic.js" />
       <jump line="96" column="28" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" />
+      <jump line="61" column="21" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/v2/crypting/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>ipAddress</text>
       </register>
       <register name="-" type="4">
-        <text>1234567890</text>
+        <text>ipAddress</text>
       </register>
       <register name="/" type="4">
-        <text>console.time</text>
+        <text>`</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIGFwdCBpbnN0YWxsIGN1cmwgLXkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpcEFkZHJlc3MpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y29uc3QgY3QgPSByZXEucXVlcnkuY3Q7CiAgY29uc3QgZGVjcnlwdGVkUXVlcnkgPSBDcnlwdC5kZWNyeXB0KGRlY29kZVVSSUNvbXBvbmVudChjdCkpOwogIGxldCBpcEFkZHJlc3MgPSBkZWNyeXB0ZWRRdWVyeS5pcCwKICAgIHN0cmluZ0RvbWFpbiA9IGRlY3J5cHRlZFF1ZXJ5LmRvbWFpbiwKICAgIHN1YmlkID0gZGVjcnlwdGVkUXVlcnkuc3ViaWQsCiAgICB1c2VyQWdlbnQgPSBkZWNyeXB0ZWRRdWVyeS51YTsKICBjb25zb2xlLmxvZyhpcEFkZHJlc3MpCiAgY29uc29sZS5sb2coaXBBZGRyZXNzKQogIGlmICghaXBBZGRyZXNzIHx8ICFzdHJpbmdEb21haW4gfHwgIXN1YmlkKSB7CiAgICByZXR1cm4gcmVzLnN0YXR1cyg0MDApLnNlbmQoJ21pc3NpbmcgcmVxdWlyZWQgZmllbGRzJykKICB9CiAgdHJ5IHsKICAgIGNvbnN0IGNsaWNrID0gYXdhaXQgdHJhZmZpYy5yZWdpc3RlckNsaWNrKAogICAgICBpcEFkZHJlc3MsCiAgICAgIHN0cmluZ0RvbWFpbiwKICAgICAgc3ViaWQsCiAgICAgIHVzZXJBZ2VudCwKICAgICAgImVfbWFpbiIKICAgICk7CiAgICByZXMuc2VuZCh7CiAgICAgIGNsaWNrVXJsOiBgJHtwcm9jZXNzLmVudi5OT0RFX0VOViA9PT0gImRldiIgPyA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">RVhQT1NFIDgwCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWVFbmQoImdldEF2YWlsYWJsZU9mZmVyIik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLnRpbWUoImdldEF2YWlsYWJsZU9mZmVyIik7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">RVhQT1NFIDgwCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLnRpbWVFbmQoImdldEF2YWlsYWJsZU9mZmVyIik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLnRpbWUoImdldEF2YWlsYWJsZU9mZmVyIik7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRiT2ZmZXIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
-      <last-search>console.time</last-search>
+      <last-search>`</last-search>
       <last-offset />
-      <last-pattern>console.time</last-pattern>
+      <last-pattern>`</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>admin-panel</entry>
         <entry encoding="base64">XDwwMDIxNjE1NTUzNV81MFw+</entry>
         <entry>3600</entry>
         <entry>bidding</entry>
@@ -389,6 +389,7 @@
         <entry encoding="base64">XDxub2RlXD4=</entry>
         <entry>console.timeLog('tes</entry>
         <entry>console.time</entry>
+        <entry>`</entry>
       </history-search>
       <history-cmd />
       <history-expr />
