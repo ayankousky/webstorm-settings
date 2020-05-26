@@ -42,12 +42,12 @@
         <mark key="^" line="791" column="137" />
         <mark key="." line="791" column="137" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/domain/logic/whitelist/index.ts" timestamp="1590468326105">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/domain/logic/whitelist/index.ts" timestamp="1590472706718">
         <mark key="'" line="114" column="14" />
-        <mark key="[" line="28" column="84" />
-        <mark key="]" line="29" column="1" />
-        <mark key="^" line="29" column="1" />
-        <mark key="." line="29" column="1" />
+        <mark key="[" line="35" column="31" />
+        <mark key="]" line="35" column="33" />
+        <mark key="^" line="35" column="33" />
+        <mark key="." line="35" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/src/services/organizationService.js" timestamp="1581889599160">
         <mark key="[" line="11" column="0" />
@@ -193,6 +193,7 @@
         <mark key="^" line="37" column="71" />
         <mark key="." line="37" column="71" />
       </file>
+      <file name="$USER_HOME$/Desktop/Blocked domains for 09999 from local DE list - Tabellenblatt1 (1).csv" timestamp="1590469929127" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/Dockerfile" timestamp="1581878307613">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -358,13 +359,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'poppen.de', 'booking.com', 'comdirect.de', 'idealo.de', 'microsoft.com',
-  'disneyplus.com', 'vodafone.de', 'linkedin.com', 'dkb.de', 'alternate.de',
-  'sky.de', 't-online.de', 'conrad.de', 'roblox.com', 'joyn.de', 'thalia.de',
-  'commerzbank.de', 'wargaming.net', 'deichmann.com'</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
