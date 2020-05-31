@@ -37,7 +37,7 @@
         <mark key="." line="92" column="44" />
         <mark key="^" line="92" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/zoom.js" timestamp="1590561363385">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/zoom.js" timestamp="1590926971984">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -204,7 +204,6 @@
         <mark key="^" line="37" column="71" />
         <mark key="." line="37" column="71" />
       </file>
-      <file name="$USER_HOME$/Desktop/Blocked domains for 09999 from local DE list - Tabellenblatt1 (1).csv" timestamp="1590469929127" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/Dockerfile" timestamp="1581878307613">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -215,7 +214,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/entities/reports/helpers/pipeline.ts" timestamp="1590335984029" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/client/package.json" timestamp="1579807780138">
         <mark key="[" line="43" column="19" />
         <mark key="]" line="43" column="19" />
@@ -244,6 +242,7 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/Zoom Relatorio lead_tracker  KaladMedia  Data  2020-05-22 2.csv" timestamp="1590936898307" />
       <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/docker-compose.yml" timestamp="1580556308905">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="14" />
@@ -256,7 +255,13 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="84" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590467238305">
+      <file name="$USER_HOME$/Desktop/Zoom Relatorio lead_tracker  KaladMedia  Data  2020-05-25" timestamp="1590939414028">
+        <mark key="'" line="6" column="46" />
+        <mark key="[" line="7393" column="0" />
+        <mark key="]" line="7393" column="0" />
+        <mark key="." line="7393" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590927572226">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1581880042266">
@@ -372,13 +377,14 @@
       <jump line="25" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/crypting/index.js" />
       <jump line="21" column="3" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/domain/logic/whitelist/index.ts" />
       <jump line="114" column="14" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/domain/logic/whitelist/index.ts" />
+      <jump line="6" column="46" filename="$USER_HOME$/Desktop/Zoom Relatorio lead_tracker  KaladMedia  Data  2020-05-25" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvZmZlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text encoding="base64">JnV0bV9jb250ZW50PUNhcnR1Y2hvK0Jyb3RoZXIrNzlZ</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -400,31 +406,32 @@
         <text encoding="base64">ICAgICAgICBuZXR3b3Jrc09yZGVyID0gW3Byb2Nlc3MuZW52LmFkZ29hbElkXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvZmZlcikK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXR3b3JrSWQpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXh0ZW5kJykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2cocmVzdWx0KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gbGV0IHJlc3VsdCA9IGF3YWl0IG5ldHdvcmtFbnRpdHkuZXh0ZW5kT2ZmZXIoKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coJ2V4dGVuZCcpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpc0FmZmlsaWF0ZScpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">aHR0cHM6Ly93d3cuem9vbS5jb20uYnIvbGVhZD9vaWQ9NTc4MjIwOTYmc29ydG9yZGVyPS0xJmluZGV4PSZzZWFyY2h0ZXJtPSZwYWdlc2l6ZT0mY2hhbm5lbD0xMiZ1dG1fbWVkaXVtPXBhcmNlaXJvcyZ1dG1fdGVybT1UZWNsYWRvJnV0bV9jYW1wYWlnbj1BbWF6b24mdXRtX2NvbnRlbnQ9VGVjbGFkbytNdWx0aWxhc2VyK00mZnM9MjAyMDAzMDkxNjEwOGY3NDM1MTgmdXRtX21lZGl1bT1wYXJjZWlyb3Mmb2c9MTkyNTEmdXRtX3NvdXJjZT1rYWxhZG1lZGlhJnN1YmlkPTAwMDY0Mjg0NDk2MjUtNzhiMi00MjFjLTk1NmQtMWM2NTM2OGU2ODU4Cmh0dHBzOi8vd3d3Lnpvb20uY29tLmJyL2xlYWQ/b2lkPTU3ODIyOTUzJnNvcnRvcmRlcj0tMSZpbmRleD0mc2VhcmNodGVybT0mcGFnZXNpemU9JmNoYW5uZWw9MTImdXRtX21lZGl1bT1wYXJjZWlyb3MmdXRtX3Rlcm09Q2FydHVjaG8rZStUb25lciZ1dG1fY2FtcGFpZ249QW1hem9uJnV0bV9jb250ZW50PUNhcnR1Y2hvK0Jyb3RoZXIrNzlZJmZzPTIwMjAwMzA5MTYxMDhmNzQzNTE4JnV0bV9tZWRpdW09cGFyY2Vpcm9zJm9nPTE5MjUxJnV0bV9zb3VyY2U9a2FsYWRtZWRpYSZzdWJpZD0wMDA2NDI4NDQ5NjI1LTc4YjItNDIxYy05NTZkLTFjNjUzNjhlNjg1OA==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">c29ydG9yZGVyPS0xJmluZGV4PSZzZWFyY2h0ZXJtPSZwYWdlc2l6ZT0mY2hhbm5lbD0xMiZ1dG1fbWVkaXVtPXBhcmNlaXJvcyZ1dG1fdGVybT0Kc29ydG9yZGVyPS0xJmluZGV4PSZzZWFyY2h0ZXJtPSZwYWdlc2l6ZT0mY2hhbm5lbD0xMiZ1dG1fbWVkaXVtPXBhcmNlaXJvcyZ1dG1fdGVybT0=</text>
+      </register>
+      <register name="7" type="4">
+        <text>https://www.zoom.com.br/lead?oid=
+https://www.zoom.com.br/lead?oid=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvZmZlcikK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVybCkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXR3b3JrSWQpCg==</text>
       </register>
     </registers>
     <search>
