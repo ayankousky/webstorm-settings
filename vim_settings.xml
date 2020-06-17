@@ -9,7 +9,6 @@
         <mark key="^" line="118" column="229" />
         <mark key="." line="252" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/domain/logic/merchantOffers/index.ts" timestamp="1592253015039" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1589273964429">
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="0" />
@@ -72,7 +71,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/middlewares/defineUserRegion.js" timestamp="1592250811028" />
       <file name="$USER_HOME$/Desktop/campaign_bids.csv" timestamp="1580974419794">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -132,11 +130,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="476" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/coupon.js" timestamp="1588516780350">
-        <mark key="[" line="80" column="44" />
-        <mark key="]" line="80" column="45" />
-        <mark key="^" line="80" column="45" />
-        <mark key="." line="80" column="45" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/coupon.js" timestamp="1592419021980">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="128" column="5" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/package.json" timestamp="1590432646443">
         <mark key="[" line="31" column="0" />
@@ -153,7 +152,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/services/db/collections/MerchantsRegions.ts" timestamp="1592247348404" />
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/portal_api/Dockerfile" timestamp="1581878307613">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -188,7 +186,6 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitlab-ci.yml" timestamp="1592248047890" />
       <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/docker-compose.yml" timestamp="1580556308905">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="14" />
@@ -291,10 +288,11 @@
       <jump line="21" column="3" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/domain/logic/whitelist/index.ts" />
       <jump line="114" column="14" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/domain/logic/whitelist/index.ts" />
       <jump line="6" column="46" filename="$USER_HOME$/Desktop/Zoom Relatorio lead_tracker  KaladMedia  Data  2020-05-25" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/coupon.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JnV0bV9jb250ZW50PUNhcnR1Y2hvK0Jyb3RoZXIrNzlZ</text>
@@ -319,7 +317,7 @@
         <text encoding="base64">ICAgICAgICBuZXR3b3Jrc09yZGVyID0gW3Byb2Nlc3MuZW52LmFkZ29hbElkXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -330,21 +328,21 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aHR0cHM6Ly93d3cuem9vbS5jb20uYnIvbGVhZD9vaWQ9NTc4MjIwOTYmc29ydG9yZGVyPS0xJmluZGV4PSZzZWFyY2h0ZXJtPSZwYWdlc2l6ZT0mY2hhbm5lbD0xMiZ1dG1fbWVkaXVtPXBhcmNlaXJvcyZ1dG1fdGVybT1UZWNsYWRvJnV0bV9jYW1wYWlnbj1BbWF6b24mdXRtX2NvbnRlbnQ9VGVjbGFkbytNdWx0aWxhc2VyK00mZnM9MjAyMDAzMDkxNjEwOGY3NDM1MTgmdXRtX21lZGl1bT1wYXJjZWlyb3Mmb2c9MTkyNTEmdXRtX3NvdXJjZT1rYWxhZG1lZGlhJnN1YmlkPTAwMDY0Mjg0NDk2MjUtNzhiMi00MjFjLTk1NmQtMWM2NTM2OGU2ODU4Cmh0dHBzOi8vd3d3Lnpvb20uY29tLmJyL2xlYWQ/b2lkPTU3ODIyOTUzJnNvcnRvcmRlcj0tMSZpbmRleD0mc2VhcmNodGVybT0mcGFnZXNpemU9JmNoYW5uZWw9MTImdXRtX21lZGl1bT1wYXJjZWlyb3MmdXRtX3Rlcm09Q2FydHVjaG8rZStUb25lciZ1dG1fY2FtcGFpZ249QW1hem9uJnV0bV9jb250ZW50PUNhcnR1Y2hvK0Jyb3RoZXIrNzlZJmZzPTIwMjAwMzA5MTYxMDhmNzQzNTE4JnV0bV9tZWRpdW09cGFyY2Vpcm9zJm9nPTE5MjUxJnV0bV9zb3VyY2U9a2FsYWRtZWRpYSZzdWJpZD0wMDA2NDI4NDQ5NjI1LTc4YjItNDIxYy05NTZkLTFjNjUzNjhlNjg1OA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">c29ydG9yZGVyPS0xJmluZGV4PSZzZWFyY2h0ZXJtPSZwYWdlc2l6ZT0mY2hhbm5lbD0xMiZ1dG1fbWVkaXVtPXBhcmNlaXJvcyZ1dG1fdGVybT0Kc29ydG9yZGVyPS0xJmluZGV4PSZzZWFyY2h0ZXJtPSZwYWdlc2l6ZT0mY2hhbm5lbD0xMiZ1dG1fbWVkaXVtPXBhcmNlaXJvcyZ1dG1fdGVybT0=</text>
+        <text encoding="base64">aHR0cHM6Ly93d3cuem9vbS5jb20uYnIvbGVhZD9vaWQ9NTc4MjIwOTYmc29ydG9yZGVyPS0xJmluZGV4PSZzZWFyY2h0ZXJtPSZwYWdlc2l6ZT0mY2hhbm5lbD0xMiZ1dG1fbWVkaXVtPXBhcmNlaXJvcyZ1dG1fdGVybT1UZWNsYWRvJnV0bV9jYW1wYWlnbj1BbWF6b24mdXRtX2NvbnRlbnQ9VGVjbGFkbytNdWx0aWxhc2VyK00mZnM9MjAyMDAzMDkxNjEwOGY3NDM1MTgmdXRtX21lZGl1bT1wYXJjZWlyb3Mmb2c9MTkyNTEmdXRtX3NvdXJjZT1rYWxhZG1lZGlhJnN1YmlkPTAwMDY0Mjg0NDk2MjUtNzhiMi00MjFjLTk1NmQtMWM2NTM2OGU2ODU4Cmh0dHBzOi8vd3d3Lnpvb20uY29tLmJyL2xlYWQ/b2lkPTU3ODIyOTUzJnNvcnRvcmRlcj0tMSZpbmRleD0mc2VhcmNodGVybT0mcGFnZXNpemU9JmNoYW5uZWw9MTImdXRtX21lZGl1bT1wYXJjZWlyb3MmdXRtX3Rlcm09Q2FydHVjaG8rZStUb25lciZ1dG1fY2FtcGFpZ249QW1hem9uJnV0bV9jb250ZW50PUNhcnR1Y2hvK0Jyb3RoZXIrNzlZJmZzPTIwMjAwMzA5MTYxMDhmNzQzNTE4JnV0bV9tZWRpdW09cGFyY2Vpcm9zJm9nPTE5MjUxJnV0bV9zb3VyY2U9a2FsYWRtZWRpYSZzdWJpZD0wMDA2NDI4NDQ5NjI1LTc4YjItNDIxYy05NTZkLTFjNjUzNjhlNjg1OA==</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">c29ydG9yZGVyPS0xJmluZGV4PSZzZWFyY2h0ZXJtPSZwYWdlc2l6ZT0mY2hhbm5lbD0xMiZ1dG1fbWVkaXVtPXBhcmNlaXJvcyZ1dG1fdGVybT0Kc29ydG9yZGVyPS0xJmluZGV4PSZzZWFyY2h0ZXJtPSZwYWdlc2l6ZT0mY2hhbm5lbD0xMiZ1dG1fbWVkaXVtPXBhcmNlaXJvcyZ1dG1fdGVybT0=</text>
+      </register>
+      <register name="8" type="4">
         <text>https://www.zoom.com.br/lead?oid=
 https://www.zoom.com.br/lead?oid=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvZmZlcikK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXR3b3JrSWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvZmZlcikK</text>
       </register>
     </registers>
     <search>
