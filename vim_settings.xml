@@ -9,6 +9,11 @@
         <mark key="^" line="118" column="229" />
         <mark key="." line="252" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/src/services/db/index.ts" timestamp="1594276248473">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="17" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1589273964429">
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="0" />
@@ -30,6 +35,12 @@
         <mark key="]" line="219" column="27" />
         <mark key="^" line="219" column="27" />
         <mark key="." line="219" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/revenue-manager/src/services/db/index.js" timestamp="1594276256060">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/offers.js" timestamp="1592250415616">
         <mark key="[" line="92" column="43" />
@@ -58,7 +69,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/domain/logic/geoDbImportJob.ts" timestamp="1592860350864" />
       <file name="$USER_HOME$/Documents/Projects/SmartPay/fspay-smartpay-services/src/integration/smartpay/ConfigurationService.ts" timestamp="1591618683552">
         <mark key="." line="51" column="52" />
       </file>
@@ -187,7 +197,6 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitlab-ci.yml" timestamp="1592521599667" />
       <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/docker-compose.yml" timestamp="1580556308905">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="14" />
@@ -230,6 +239,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/index.js" timestamp="1594276162689">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitmodules" timestamp="1586963725444">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="15" />
@@ -239,6 +253,10 @@
         <mark key="[" line="184" column="286" />
         <mark key="]" line="184" column="287" />
         <mark key="." line="184" column="287" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/index.js" timestamp="1594276197889">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -293,11 +311,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/coupon.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JnV0bV9jb250ZW50PUNhcnR1Y2hvK0Jyb3RoZXIrNzlZ</text>
+        <text>0</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -316,7 +334,7 @@
         <text>`</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXR3b3Jrc09yZGVyID0gW3Byb2Nlc3MuZW52LmFkZ29hbElkXTsK</text>
+        <text encoding="base64">ICAgIHBvb2xTaXplOiAxMDAsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
