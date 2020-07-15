@@ -114,6 +114,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/permissions_checker/permission_entities/helpers.js" timestamp="1594801623949" />
       <file name="$USER_HOME$/Desktop/Blocked domains for 09999 from local DE list - Tabellenblatt1.csv" timestamp="1590468276529">
         <mark key="[" line="0" column="640" />
         <mark key="]" line="0" column="640" />
@@ -231,10 +232,10 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/device.ts" timestamp="1594791601366" />
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1594799629247">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.js" timestamp="1594801645212">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1590557343473">
         <mark key="'" line="167" column="28" />
@@ -247,12 +248,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" timestamp="1594800141545">
-        <mark key="'" line="2549" column="57" />
-        <mark key="[" line="345" column="41" />
-        <mark key="]" line="345" column="43" />
-        <mark key="." line="345" column="43" />
-        <mark key="^" line="345" column="43" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" timestamp="1594801982503">
+        <mark key="'" line="188" column="14" />
+        <mark key="[" line="348" column="0" />
+        <mark key="]" line="348" column="0" />
+        <mark key="." line="348" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/docker-compose.yml" timestamp="1580556308905">
         <mark key="[" line="13" column="13" />
@@ -265,7 +265,7 @@
         <mark key="]" line="7393" column="0" />
         <mark key="." line="7393" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594797167750">
+      <file name="/Dummy.txt" timestamp="1594800369649">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1594800051107">
@@ -287,6 +287,7 @@
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/access_manager/src/services/db/index.js" timestamp="1594800728703" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/adgoal.js" timestamp="1590561375736">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -383,13 +384,14 @@
       <jump line="118" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/all_env.js" />
       <jump line="1662" column="28" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
       <jump line="2549" column="57" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
+      <jump line="188" column="14" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/test/integration/poartal_api/permissions/roles/regAdmin.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>200</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>200</text>
+        <text>403</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -405,31 +407,31 @@
         <text encoding="base64">aW1wb3J0IHsgZGIgfSBmcm9tICcuL2RiL2RiJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChhIDwgYikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIGVjaG8gJ2tlaycK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChhIDwgYikK</text>
       </register>
     </registers>
     <search>
