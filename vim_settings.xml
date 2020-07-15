@@ -229,27 +229,42 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/api_definition/swagger.yml" timestamp="1594757887365">
-        <mark key="'" line="673" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/campaign_bids 2.csv" timestamp="1580930294848">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/device.ts" timestamp="1594791601366" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/docker-compose.dev.yml" timestamp="1590557343473">
+        <mark key="'" line="167" column="28" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/Dockerfile" timestamp="1594798689519">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/docker-compose.yml" timestamp="1580556308905">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="14" />
         <mark key="." line="13" column="14" />
       </file>
+      <file name="$USER_HOME$/Desktop/Zoom Relatorio lead_tracker  KaladMedia  Data  2020-05-25" timestamp="1590939414028">
+        <mark key="'" line="6" column="46" />
+        <mark key="[" line="7393" column="0" />
+        <mark key="]" line="7393" column="0" />
+        <mark key="." line="7393" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1594797167750">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1581880042266">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1594798805335">
+        <mark key="'" line="251" column="0" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/jobs/src/errors_handling.ts" timestamp="1587794723929">
         <mark key="[" line="12" column="0" />
@@ -258,11 +273,23 @@
         <mark key="^" line="3" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/admin-panel/package.json" timestamp="1594760159478" />
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/traffic/index.js" timestamp="1589781451874">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/adgoal.js" timestamp="1590561375736">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="^" line="68" column="3" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/all_env.js" timestamp="1594798852299">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/rae_domains.js" timestamp="1588508262776">
         <mark key="[" line="26" column="0" />
@@ -342,10 +369,14 @@
       <jump line="673" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/api_definition/swagger.yml" />
       <jump line="27" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/db.ts" />
       <jump line="38" column="9" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/server.ts" />
+      <jump line="22" column="45" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" />
+      <jump line="251" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" />
+      <jump line="79" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/all_env.js" />
+      <jump line="118" column="0" filename="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/db/init/all_env.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEucXVlcnkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>cosnole</text>
@@ -364,31 +395,31 @@
         <text encoding="base64">aW1wb3J0IHsgZGIgfSBmcm9tICcuL2RiL2RiJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEucXVlcnkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAudGhlbigoKSA9PnsKICAgICAgcmV0dXJuIGluaXREQigpCiAgICB9KQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW5pdERCKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChhIDwgYikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gaW5pdERCKCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgYXdhaXQgaW5pdEF1ZGlvUHJvZmlsZShzZXF1ZWxpemUpOwogIGF3YWl0IGluaXRDb3VudGVyKHNlcXVlbGl6ZSk7CiAgYXdhaXQgaW5pdERldmljZShzZXF1ZWxpemUpOwogIGF3YWl0IGluaXREZXZpY2VMaWNlbnNlKHNlcXVlbGl6ZSk7CiAgYXdhaXQgaW5pdEZpcm13YXJlKHNlcXVlbGl6ZSk7CiAgYXdhaXQgaW5pdEZpcm13YXJlRnVuY3Rpb24oc2VxdWVsaXplKTsKICBhd2FpdCBpbml0RmlybXdhcmVMb2coc2VxdWVsaXplKTsKICBhd2FpdCBpbml0RmlybXdhcmVSZXZpc2lvbihzZXF1ZWxpemUpOwogIGF3YWl0IGluaXRIYXJkd2FyZShzZXF1ZWxpemUpOwogIGF3YWl0IGluaXRNZWRpY2FsSXRlbShzZXF1ZWxpemUpOwogIGF3YWl0IGluaXRPcmdhbml6YXRpb24oc2VxdWVsaXplKTsKICBhd2FpdCBpbml0T3JnYW5pemF0aW9uQXZhaWxhYmxlUHJvZHVjdChzZXF1ZWxpemUsIFNlcXVlbGl6ZSk7CiAgYXdhaXQgaW5pdE9yZ2FuaXphdGlvbkJyYW5kKHNlcXVlbGl6ZSk7CiAgYXdhaXQgaW5pdE9yZ2FuaXphdGlvbkludml0ZShzZXF1ZWxpemUpOwogIGF3YWl0IGluaXRQcm9kdWN0KHNlcXVlbGl6ZSk7CiAgYXdhaXQgaW5pdFByb2R1Y3RGdW5jdGlvbihzZXF1ZWxpemUsIFNlcXVlbGl6ZSk7CiAgYXdhaXQgaW5pdFJvbGUoc2VxdWVsaXplKTsKICBhd2FpdCBpbml0Um9sZVBlcm1pc3Npb24oc2VxdWVsaXplLCBTZXF1ZWxpemUpOwogIGF3YWl0IGluaXRTZXR0aW5ncyhzZXF1ZWxpemUsIFNlcXVlbGl6ZSk7CiAgYXdhaXQgaW5pdFRva2VuKHNlcXVlbGl6ZSk7CiAgYXdhaXQgaW5pdFVzZXIoc2VxdWVsaXplKTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">UlVOIGVjaG8gJ2tlaycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEucXVlcnkpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAudGhlbigoKSA9PnsKICAgICAgcmV0dXJuIGluaXREQigpCiAgICB9KQ==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgZGIgPSB7CiAgICBTZXF1ZWxpemU6IFNlcXVlbGl6ZSwKICAgIHNlcXVlbGl6ZTogc2VxdWVsaXplLAoKICAgIGF1ZGlvUHJvZmlsZTogaW5pdEF1ZGlvUHJvZmlsZShzZXF1ZWxpemUpLAogICAgY291bnRlcjogaW5pdENvdW50ZXIoc2VxdWVsaXplKSwKICAgIGRldmljZTogaW5pdERldmljZShzZXF1ZWxpemUpLAogICAgZGV2aWNlTGljZW5zZTogaW5pdERldmljZUxpY2Vuc2Uoc2VxdWVsaXplKSwKICAgIGZpcm13YXJlOiBpbml0RmlybXdhcmUoc2VxdWVsaXplKSwKICAgIGZpcm13YXJlRnVuY3Rpb246IGluaXRGaXJtd2FyZUZ1bmN0aW9uKHNlcXVlbGl6ZSksCiAgICBmaXJtd2FyZUxvZzogaW5pdEZpcm13YXJlTG9nKHNlcXVlbGl6ZSksCiAgICBmaXJtd2FyZVJldmlzaW9uOiBpbml0RmlybXdhcmVSZXZpc2lvbihzZXF1ZWxpemUpLAogICAgaGFyZHdhcmU6IGluaXRIYXJkd2FyZShzZXF1ZWxpemUpLAogICAgbWVkaWNhbEl0ZW06IGluaXRNZWRpY2FsSXRlbShzZXF1ZWxpemUpLAogICAgb3JnYW5pemF0aW9uOiBpbml0T3JnYW5pemF0aW9uKHNlcXVlbGl6ZSksCiAgICBvcmdhbml6YXRpb25zQXZhaWxhYmxlUHJvZHVjdDogaW5pdE9yZ2FuaXphdGlvbkF2YWlsYWJsZVByb2R1Y3Qoc2VxdWVsaXplLCBTZXF1ZWxpemUpLAogICAgb3JnYW5pemF0aW9uQnJhbmQ6IGluaXRPcmdhbml6YXRpb25CcmFuZChzZXF1ZWxpemUpLAogICAgb3JnYW5pemF0aW9uSW52aXRlIDogaW5pdE9yZ2FuaXphdGlvbkludml0ZShzZXF1ZWxpemUpLAogICAgcHJvZHVjdDogaW5pdFByb2R1Y3Qoc2VxdWVsaXplKSwKICAgIHByb2R1Y3RGdW5jdGlvbjogaW5pdFByb2R1Y3RGdW5jdGlvbihzZXF1ZWxpemUsIFNlcXVlbGl6ZSksCiAgICByb2xlOiBpbml0Um9sZShzZXF1ZWxpemUpLAogICAgcm9sZVBlcm1pc3Npb246IGluaXRSb2xlUGVybWlzc2lvbihzZXF1ZWxpemUsIFNlcXVlbGl6ZSksCiAgICBzZXR0aW5nczogaW5pdFNldHRpbmdzKHNlcXVlbGl6ZSwgU2VxdWVsaXplKSwKICAgIHRva2VuOiBpbml0VG9rZW4oc2VxdWVsaXplKSwKICAgIHVzZXI6IGluaXRVc2VyKHNlcXVlbGl6ZSksCiAgfTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW5pdERCKCk7Cg==</text>
       </register>
     </registers>
     <search>
