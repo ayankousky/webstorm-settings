@@ -111,6 +111,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/credentials.csv" timestamp="1594932628127">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Blocked domains for 09999 from local DE list - Tabellenblatt1.csv" timestamp="1590468276529">
         <mark key="[" line="0" column="640" />
         <mark key="]" line="0" column="640" />
@@ -244,6 +250,7 @@
         <mark key="]" line="348" column="0" />
         <mark key="." line="348" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitlab-ci.yml" timestamp="1594843045332" />
       <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/docker-compose.yml" timestamp="1580556308905">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="14" />
@@ -255,7 +262,7 @@
         <mark key="]" line="7393" column="0" />
         <mark key="." line="7393" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594842859763">
+      <file name="/Dummy.txt" timestamp="1594843927670">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1594800051107">
@@ -375,10 +382,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>recipient@example.com</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>recipient@example.com</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -393,23 +400,24 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgZGIgfSBmcm9tICcuL2RiL2RiJzsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpdAo=</text>
+      <register name="1" type="8">
+        <text>sender@example.com
+sender@example.com</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -418,7 +426,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChhIDwgYikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
