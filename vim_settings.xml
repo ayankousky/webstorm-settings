@@ -111,17 +111,17 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/credentials.csv" timestamp="1594932628127">
+      <file name="$USER_HOME$/Desktop/credentials.csv" timestamp="1595312489612">
         <mark key="[" line="0" column="40" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/fail_stat.js" timestamp="1594967956119">
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/fail_stat.js" timestamp="1595359000418">
         <mark key="'" line="31" column="22" />
         <mark key="[" line="102" column="66" />
-        <mark key="]" line="102" column="66" />
-        <mark key="." line="102" column="66" />
+        <mark key="]" line="102" column="67" />
+        <mark key="." line="102" column="67" />
         <mark key="^" line="102" column="66" />
       </file>
       <file name="$USER_HOME$/Desktop/Blocked domains for 09999 from local DE list - Tabellenblatt1.csv" timestamp="1590468276529">
@@ -257,7 +257,6 @@
         <mark key="]" line="348" column="0" />
         <mark key="." line="348" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/.gitlab-ci.yml" timestamp="1594843045332" />
       <file name="$USER_HOME$/Documents/Projects/beatbet/beatbet/docker-compose.yml" timestamp="1580556308905">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="14" />
@@ -328,6 +327,7 @@
         <mark key="]" line="184" column="287" />
         <mark key="." line="184" column="287" />
       </file>
+      <file name="$USER_HOME$/Desktop/kalad_docs.md" timestamp="1595358981116" />
     </filemarks>
     <jumps>
       <jump line="554" column="17" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
@@ -395,11 +395,12 @@
       <jump line="31" column="22" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/fail_stat.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="8">
+        <text>gitlab.nakarta.com
+gitlab.nakarta.com</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>recipient@example.com</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -415,29 +416,31 @@
         <text encoding="base64">aW1wb3J0IHsgZGIgfSBmcm9tICcuL2RiL2RiJzsK</text>
       </register>
       <register name="1" type="8">
+        <text>gitlab.nakarta.com
+gitlab.nakarta.com</text>
+      </register>
+      <register name="2" type="8">
         <text>sender@example.com
 sender@example.com</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpdAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text>sender@example.com
+sender@example.com</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
