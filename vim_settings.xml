@@ -14,6 +14,7 @@
         <mark key="]" line="17" column="18" />
         <mark key="." line="17" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/yieldKit.js" timestamp="1595484982774" />
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/server/conf.prod.nginx" timestamp="1589273964429">
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="0" />
@@ -90,6 +91,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/services/db/merchant.js" timestamp="1595485340062">
+        <mark key="[" line="89" column="30" />
+        <mark key="]" line="89" column="30" />
+        <mark key="^" line="89" column="40" />
+        <mark key="." line="89" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/mobile_api/src/controllers/v0/devices.js" timestamp="1594798347056">
         <mark key="[" line="173" column="0" />
@@ -274,7 +281,7 @@
         <mark key="]" line="7393" column="0" />
         <mark key="." line="7393" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594967696041">
+      <file name="/Dummy.txt" timestamp="1595484838850">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/PYOUR/PYOURproject/modules/main_db_worker/src/models/organization.js" timestamp="1594800051107">
@@ -294,6 +301,12 @@
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/README.md" timestamp="1595442598087">
+        <mark key="[" line="47" column="104" />
+        <mark key="]" line="47" column="9" />
+        <mark key="^" line="47" column="9" />
+        <mark key="." line="47" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/entities/networkManager/adgoal.js" timestamp="1590561375736">
         <mark key="[" line="29" column="0" />
@@ -333,7 +346,6 @@
         <mark key="]" line="184" column="287" />
         <mark key="." line="184" column="287" />
       </file>
-      <file name="$USER_HOME$/Desktop/kalad_docs.md" timestamp="1595358981116" />
     </filemarks>
     <jumps>
       <jump line="554" column="17" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/offers-importer/src/entites/networks/types/kelkoo.js" />
@@ -401,12 +413,11 @@
       <jump line="31" column="22" filename="$USER_HOME$/Documents/Projects/Kalad/project/base/modules/media/src/services/db/fail_stat.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>gitlab.nakarta.com
-gitlab.nakarta.com</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>recipient@example.com</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
