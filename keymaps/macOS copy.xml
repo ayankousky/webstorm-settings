@@ -3,6 +3,9 @@
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="meta f4" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
