@@ -1,5 +1,8 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
   <action id="EditorAddCaretPerSelectedLine" />
+  <action id="EditorToggleShowWhitespaces">
+    <keyboard-shortcut first-keystroke="ctrl meta w" />
+  </action>
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
