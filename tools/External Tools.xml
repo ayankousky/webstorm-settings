@@ -1,0 +1,14 @@
+<toolSet name="External Tools">
+  <tool name="Flake8" description="flake 8 pycharm settings" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.pyenv/shims/flake8" />
+      <option name="PARAMETERS" value="--max-complexity 10 $FileDir$/$FileName$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/Projects/WeMeet/api" />
+    </exec>
+    <filter>
+      <option name="NAME" value="No name" />
+      <option name="DESCRIPTION" />
+      <option name="REGEXP" value="$FILE_PATH$:$LINE$" />
+    </filter>
+  </tool>
+</toolSet>
