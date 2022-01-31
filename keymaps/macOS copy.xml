@@ -3,6 +3,9 @@
   <action id="EditorToggleShowWhitespaces">
     <keyboard-shortcut first-keystroke="ctrl meta w" />
   </action>
+  <action id="LightEditOpenFileInProject">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
