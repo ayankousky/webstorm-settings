@@ -11,16 +11,28 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+  </action>
   <action id="ContextHelp" />
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStart" />
   <action id="EditorCodeBlockStartWithSelection" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl add" />
+  </action>
   <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileChooser.GotoHome">
     <keyboard-shortcut first-keystroke="ctrl h" />
